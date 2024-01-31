@@ -19,6 +19,7 @@ This is an Nx mono repo, so you'll find a few things throughout. The main parts 
 1. Server - The API for Paldex
 2. Web - The frontend for Paldex
 3. Data Provider - A tool to transform unpacked Palworlds data to JSON.
+4. Who knows! Maybe it's ai?! Spooky!
 
 ### [Server](/server/README.md)
 
