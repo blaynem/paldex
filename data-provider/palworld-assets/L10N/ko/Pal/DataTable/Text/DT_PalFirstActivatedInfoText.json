@@ -1,0 +1,1231 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PalFirstActivatedInfoText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "PAL_FIRST_SPAWN_DESC_Alpaca": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Alpaca_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Wool|/>을(를) 떨어뜨리기도 한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Wool|/>을(를) 떨어뜨리기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_AmaterasuWolf": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_AmaterasuWolf_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중에는 추위나 더위의 영향을 받지 않는다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중에는 추위나 더위의 영향을 받지 않는다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Anubis": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Anubis_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/>을(를) 부여한다.\r\n전투 중에 가끔씩 고속 스텝으로 공격을 회피한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/>을(를) 부여한다.\r\n전투 중에 가끔씩 고속 스텝으로 공격을 회피한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BadCatgirl": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BadCatgirl_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Baphomet": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Baphomet_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Baphomet_SwallowKite|/>(으)로 공격한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Baphomet_SwallowKite|/>(으)로 공격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Baphomet_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Baphomet_Dark_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Baphomet_SwallowKite|/>(으)로 공격한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Baphomet_SwallowKite|/>(으)로 공격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Bastet": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Bastet_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n지면에서 <itemName id=|Money|/>을(를) 파내기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n지면에서 <itemName id=|Money|/>을(를) 파내기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Bastet_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Bastet_Ice_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n지면에서 <itemName id=|Money|/>을(를) 파내기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n지면에서 <itemName id=|Money|/>을(를) 파내기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BeardedDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BeardedDragon_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BerryGoat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BerryGoat_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n등에서 <itemName id=|Berries|/>을(를) 떨어뜨리기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n등에서 <itemName id=|Berries|/>을(를) 떨어뜨리기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BirdDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BirdDragon_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 적의 약점 부위를 공격할 시\r\n주는 피해량이 증가한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 적의 약점 부위를 공격할 시\r\n주는 피해량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BirdDragon_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BirdDragon_Ice_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 적의 약점 부위를 공격할 시\r\n주는 피해량이 증가한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 적의 약점 부위를 공격할 시\r\n주는 피해량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackCentaur": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackCentaur_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackFurDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackFurDragon_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackGriffon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackGriffon_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackMetalDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackMetalDragon_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 광석에 주는 피해량이 증가한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 광석에 주는 피해량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlueberryFairy": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlueberryFairy_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlueDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlueDragon_TextData",
+          "SourceString": "등에 타고 물 위를 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Water|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 물 위를 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Water|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BluePlatypus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BluePlatypus_TextData",
+          "SourceString": "발동하면 <characterName id=|BluePlatypus|/>이(가) 적을 향해\r\n보디 서핑을 하며 달려든다.",
+          "LocalizedString": "발동하면 <characterName id=|BluePlatypus|/>이(가) 적을 향해\r\n보디 서핑을 하며 달려든다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Boar": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Boar_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 바위 파괴 효율이 향상된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 바위 파괴 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BrownRabbit": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BrownRabbit_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CaptainPenguin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CaptainPenguin_TextData",
+          "SourceString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Carbunclo": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Carbunclo_TextData",
+          "SourceString": "발동하면 플레이어의 머리 위에 올라\r\n공격에 맞춰 기관단총으로 추격한다.",
+          "LocalizedString": "발동하면 플레이어의 머리 위에 올라\r\n공격에 맞춰 기관단총으로 추격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CatBat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CatBat_TextData",
+          "SourceString": "발동하면 초음파로 가까이 있는\r\n팰의 위치를 탐지할 수 있다.",
+          "LocalizedString": "발동하면 초음파로 가까이 있는\r\n팰의 위치를 탐지할 수 있다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CatMage": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CatMage_TextData",
+          "SourceString": "함께 싸우는 동안\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CatVampire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CatVampire_TextData",
+          "SourceString": "함께 싸우는 동안 피해를 주면 그 일부를\r\n흡수하여 <uiCommon id=|COMMON_STATUS_HP|/>를 회복하는 생명 흡수 효과를\r\n플레이어와 <characterName id=|CatVampire|/>에게 부여한다.",
+          "LocalizedString": "함께 싸우는 동안 피해를 주면 그 일부를\r\n흡수하여 <uiCommon id=|COMMON_STATUS_HP|/>를 회복하는 생명 흡수 효과를\r\n플레이어와 <characterName id=|CatVampire|/>에게 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ChickenPal": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ChickenPal_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n가끔씩 <itemName id=|Egg|/>을(를) 낳기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n가끔씩 <itemName id=|Egg|/>을(를) 낳기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ColorfulBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ColorfulBird_TextData",
+          "SourceString": "발동하면 폭발하는 알을 낳는 발사기로\r\n변하여 플레이어에게 장착된다.",
+          "LocalizedString": "발동하면 폭발하는 알을 낳는 발사기로\r\n변하여 플레이어에게 장착된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CowPal": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CowPal_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n가끔씩 <itemName id=|Milk|/>을(를) 생산하기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n가끔씩 <itemName id=|Milk|/>을(를) 생산하기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CuteButterfly": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CuteButterfly_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n<activeSkillName id=|PoisonFog|/>(으)로 공격한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n<activeSkillName id=|PoisonFog|/>(으)로 공격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CuteFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CuteFox_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n지면에서 아이템을 파내기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n지면에서 아이템을 파내기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CuteMole": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CuteMole_TextData",
+          "SourceString": "발동하면 미세한 진동을 발신해\r\n가까이 있는 광석의 위치를 탐지할 수 있다.",
+          "LocalizedString": "발동하면 미세한 진동을 발신해\r\n가까이 있는 광석의 위치를 탐지할 수 있다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DarkCrow": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DarkCrow_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_DarkCrow_TelePoke|/>(으)로 공격한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_DarkCrow_TelePoke|/>(으)로 공격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DarkMutant": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DarkMutant_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DarkScorpion": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DarkScorpion_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어의 방어력이 증가하고\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어의 방어력이 증가하고\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Deer": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Deer_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해지며\r\n나무 파괴 효율이 향상된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해지며\r\n나무 파괴 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Deer_Ground": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Deer_Ground_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해지며\r\n나무 파괴 효율이 향상된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해지며\r\n나무 파괴 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DreamDemon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DreamDemon_TextData",
+          "SourceString": "보유하고 있는 동안 플레이어 가까이에 출현한다.\r\n플레이어의 공격에 맞춰 마탄으로 추격한다.",
+          "LocalizedString": "보유하고 있는 동안 플레이어 가까이에 출현한다.\r\n플레이어의 공격에 맞춰 마탄으로 추격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DrillGame": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DrillGame_TextData",
+          "SourceString": "발동하면 <activeSkillName id=|Unique_DrillGame_ShellAttack|/> 상태가 된다.\r\n회전하면서 플레이어를 따라와\r\n광석을 효율적으로 파괴한다.",
+          "LocalizedString": "발동하면 <activeSkillName id=|Unique_DrillGame_ShellAttack|/> 상태가 된다.\r\n회전하면서 플레이어를 따라와\r\n광석을 효율적으로 파괴한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Eagle": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Eagle_TextData",
+          "SourceString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공 중 오른손이 비므로 사격이 가능해진다.",
+          "LocalizedString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공 중 오른손이 비므로 사격이 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ElecCat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ElecCat_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ElecLion": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ElecLion_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ElecPanda": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ElecPanda_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 미니건 연사가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 미니건 연사가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FairyDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FairyDragon_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FairyDragon_Water": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FairyDragon_Water_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FeatherOstrich": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FeatherOstrich_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FengyunDeeper": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FengyunDeeper_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FireKirin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FireKirin_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FireKirin_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FireKirin_Dark_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlameBuffalo": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlameBuffalo_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중에는 따뜻하여 추위를 느끼지 않게 된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중에는 따뜻하여 추위를 느끼지 않게 된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerDinosaur": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_Electric": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_Electric_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerDoll": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerDoll_TextData",
+          "SourceString": "발동하면 꽃의 치유력으로\r\n플레이어의 HP를 회복한다.",
+          "LocalizedString": "발동하면 꽃의 치유력으로\r\n플레이어의 HP를 회복한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerRabbit": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerRabbit_TextData",
+          "SourceString": "보유하고 있는 동안 플레이어 가까이에 출현한다.\r\n자동으로 가까이 있는 아이템을 주우러 간다.",
+          "LocalizedString": "보유하고 있는 동안 플레이어 가까이에 출현한다.\r\n자동으로 가까이 있는 아이템을 주우러 간다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlyingManta": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlyingManta_TextData",
+          "SourceString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공 중 빠른 속도로 장시간 이동이 가능해진다.",
+          "LocalizedString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공 중 빠른 속도로 장시간 이동이 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FoxMage": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FoxMage_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>을(를) 부여한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Ganesha": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Ganesha_TextData",
+          "SourceString": "발동하면 상처에 잘 듣는 신비한 물을 뿜어\r\n플레이어의 HP를 회복한다.",
+          "LocalizedString": "발동하면 상처에 잘 듣는 신비한 물을 뿜어\r\n플레이어의 HP를 회복한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Garm": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Garm_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중의 이동 속도가 조금 빠른 것이 특징이다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중의 이동 속도가 조금 빠른 것이 특징이다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GhostBeast": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GhostBeast_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GoldenHorse": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GoldenHorse_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Gorilla": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Gorilla_TextData",
+          "SourceString": "발동하면 야생의 힘을 해방해 일정 시간 <characterName id=|Gorilla|/>의\r\n공격력이 증가한다.",
+          "LocalizedString": "발동하면 야생의 힘을 해방해 일정 시간 <characterName id=|Gorilla|/>의\r\n공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassMammoth": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassMammoth_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 나무와 광석 파괴 효율이 향상된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 나무와 광석 파괴 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassMammoth_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassMammoth_Ice_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 나무와 광석 파괴 효율이 향상된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 나무와 광석 파괴 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassPanda": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassPanda_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 수류탄 발사기 연사가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 수류탄 발사기 연사가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassPanda_Electric": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassPanda_Electric_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 수류탄 발사기 연사가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 수류탄 발사기 연사가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassRabbitMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassRabbitMan_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어의 이동 속도가 증가하며\r\n플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/>을(를) 부여한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어의 이동 속도가 증가하며\r\n플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GuardianDog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GuardianDog_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_HadesBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_HadesBird_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_HawkBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_HawkBird_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Hedgehog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Hedgehog_TextData",
+          "SourceString": "발동하면 <characterName id=|Hedgehog|/>을(를) 손에 장착하며\r\n적에게 던져 착탄할 시 번개 폭발을 일으킨다.",
+          "LocalizedString": "발동하면 <characterName id=|Hedgehog|/>을(를) 손에 장착하며\r\n적에게 던져 착탄할 시 번개 폭발을 일으킨다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Hedgehog_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Hedgehog_Ice_TextData",
+          "SourceString": "발동하면 <characterName id=|Hedgehog_Ice|/>을(를) 손에 장착하며\r\n적에게 던져 착탄할 시 얼음 폭발을 일으킨다.",
+          "LocalizedString": "발동하면 <characterName id=|Hedgehog_Ice|/>을(를) 손에 장착하며\r\n적에게 던져 착탄할 시 얼음 폭발을 일으킨다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_HerculesBeetle": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_HerculesBeetle_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어의 방어력이 증가하며\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 피해를 경감한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어의 방어력이 증가하며\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 피해를 경감한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Horus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Horus_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceDeer": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceDeer_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중에는 시원하여 더위를 느끼지 않게 된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중에는 시원하여 더위를 느끼지 않게 된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceFox_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceHorse": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceHorse_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격이 <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/>(으)로 변화하고\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격이 <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/>(으)로 변화하고\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceHorse_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceHorse_Dark_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격이 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>(으)로 변화하고\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격이 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>(으)로 변화하고\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_JetDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_JetDragon_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 미사일 발사기 연사가 가능해진다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 미사일 발사기 연사가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kelpie": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kelpie_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kelpie_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kelpie_Fire_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_KingAlpaca": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_KingAlpaca_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|KingAlpaca|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|KingAlpaca|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_KingAlpaca_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_KingAlpaca_Ice_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|KingAlpaca_Ice|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|KingAlpaca_Ice|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_KingBahamut": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_KingBahamut_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kirin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kirin_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kitsunebi": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kitsunebi_TextData",
+          "SourceString": "발동하면 화염방사기로 변하여\r\n플레이어에게 장착된다.",
+          "LocalizedString": "발동하면 화염방사기로 변하여\r\n플레이어에게 장착된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LazyDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LazyDragon_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 미사일 발사기 연사가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 미사일 발사기 연사가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LazyDragon_Electric": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LazyDragon_Electric_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 미사일 발사기 연사가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 미사일 발사기 연사가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LilyQueen": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LilyQueen_TextData",
+          "SourceString": "발동하면 여왕의 치유력으로\r\n플레이어의 HP를 대폭 회복한다.",
+          "LocalizedString": "발동하면 여왕의 치유력으로\r\n플레이어의 HP를 대폭 회복한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LilyQueen_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LilyQueen_Dark_TextData",
+          "SourceString": "발동하면 여왕의 치유력으로\r\n플레이어의 HP를 대폭 회복한다.",
+          "LocalizedString": "발동하면 여왕의 치유력으로\r\n플레이어의 HP를 대폭 회복한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LittleBriarRose": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LittleBriarRose_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LizardMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LizardMan_TextData",
+          "SourceString": "발동하면 6번째 감각을 활용해\r\n가까이 있는 던전의 위치를 탐지할 수 있다.",
+          "LocalizedString": "발동하면 6번째 감각을 활용해\r\n가까이 있는 던전의 위치를 탐지할 수 있다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LizardMan_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LizardMan_Fire_TextData",
+          "SourceString": "발동하면 6번째 감각을 활용해\r\n가까이 있는 던전의 위치를 탐지할 수 있다.",
+          "LocalizedString": "발동하면 6번째 감각을 활용해\r\n가까이 있는 던전의 위치를 탐지할 수 있다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Manticore": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Manticore_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Manticore_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Manticore_Dark_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Monkey": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Monkey_TextData",
+          "SourceString": "발동하면 일정 시간 <characterName id=|Monkey|/>이(가) 근처 적에게\r\n돌격 소총을 난사한다.",
+          "LocalizedString": "발동하면 일정 시간 <characterName id=|Monkey|/>이(가) 근처 적에게\r\n돌격 소총을 난사한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_MopBaby": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_MopBaby_TextData",
+          "SourceString": "보유하고 있는 동안 <characterName id=|MopKing|/>의 스테이터스가 상승한다.",
+          "LocalizedString": "보유하고 있는 동안 <characterName id=|MopKing|/>의 스테이터스가 상승한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_MopKing": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_MopKing_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n함께 싸우는 동안 보유하고 있는 <characterName id=|MopBaby|/>의\r\n개체수가 많을수록 스테이터스가 상승한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n함께 싸우는 동안 보유하고 있는 <characterName id=|MopBaby|/>의\r\n개체수가 많을수록 스테이터스가 상승한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Mutant": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Mutant_TextData",
+          "SourceString": "보유하고 있는 동안 <characterName id=|Mutant|/>의 반중력에 의해\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <characterName id=|Mutant|/>의 반중력에 의해\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NaughtyCat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NaughtyCat_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NegativeKoala": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NegativeKoala_TextData",
+          "SourceString": "발동하면 <characterName id=|NegativeKoala|/>이(가) 자양강장제를\r\n대량 섭취하여 일정 시간 <characterName id=|NegativeKoala|/>의 이동 속도가\r\n크게 증가한다.",
+          "LocalizedString": "발동하면 <characterName id=|NegativeKoala|/>이(가) 자양강장제를\r\n대량 섭취하여 일정 시간 <characterName id=|NegativeKoala|/>의 이동 속도가\r\n크게 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NegativeOctopus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NegativeOctopus_TextData",
+          "SourceString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공 중 오랜 시간 두둥실 하늘을 떠다닌다.",
+          "LocalizedString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공 중 오랜 시간 두둥실 하늘을 떠다닌다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NightFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NightFox_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어의 공격에\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Penguin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Penguin_TextData",
+          "SourceString": "발동하면 <itemName id=|Launcher_Default|/>을(를) 장착하여\r\n<characterName id=|Penguin|/>을(를) 탄환 삼아 발사한다.\r\n착탄하여 폭발하면 <characterName id=|Penguin|/>이(가) 빈사 상태가 된다.",
+          "LocalizedString": "발동하면 <itemName id=|Launcher_Default|/>을(를) 장착하여\r\n<characterName id=|Penguin|/>을(를) 탄환 삼아 발사한다.\r\n착탄하여 폭발하면 <characterName id=|Penguin|/>이(가) 빈사 상태가 된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PinkCat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PinkCat_TextData",
+          "SourceString": "보유하고 있는 동안 <characterName id=|PinkCat|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <characterName id=|PinkCat|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PinkLizard": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PinkLizard_TextData",
+          "SourceString": "함께 싸우는 동안 피해를 주면 그 일부를\r\n흡수하여 <uiCommon id=|COMMON_STATUS_HP|/>를 회복하는 생명 흡수 효과를\r\n플레이어와 <characterName id=|PinkLizard|/>에게 부여한다.",
+          "LocalizedString": "함께 싸우는 동안 피해를 주면 그 일부를\r\n흡수하여 <uiCommon id=|COMMON_STATUS_HP|/>를 회복하는 생명 흡수 효과를\r\n플레이어와 <characterName id=|PinkLizard|/>에게 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PinkRabbit": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PinkRabbit_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰의 공격력이 증가한다.\r\n거점에 있는 동안 <mapObjectName id=|WeaponFactory_Dirty_01|/>에서 일할 때\r\n작업 효율이 향상된다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰의 공격력이 증가한다.\r\n거점에 있는 동안 <mapObjectName id=|WeaponFactory_Dirty_01|/>에서 일할 때\r\n작업 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PlantSlime": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PlantSlime_TextData",
+          "SourceString": "보유하고 있는 동안 플레이어가 벌목할 때\r\n피해량이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 플레이어가 벌목할 때\r\n피해량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_QueenBee": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_QueenBee_TextData",
+          "SourceString": "함께 싸우는 동안 보유하고 있는 <characterName id=|SoldierBee|/>의\r\n개체수가 많을수록 스테이터스가 상승한다.",
+          "LocalizedString": "함께 싸우는 동안 보유하고 있는 <characterName id=|SoldierBee|/>의\r\n개체수가 많을수록 스테이터스가 상승한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RaijinDaughter": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RaijinDaughter_TextData",
+          "SourceString": "보유하고 있는 동안 플레이어 가까이에 출현한다.\r\n플레이어의 공격에 맞춰 낙뢰로 추격한다.",
+          "LocalizedString": "보유하고 있는 동안 플레이어 가까이에 출현한다.\r\n플레이어의 공격에 맞춰 낙뢰로 추격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RedArmorBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RedArmorBird_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RobinHood": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RobinHood_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어가\r\n약점 부위에 주는 피해량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어가\r\n약점 부위에 주는 피해량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RobinHood_Ground": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RobinHood_Ground_TextData",
+          "SourceString": "함께 싸우는 동안 플레이어가\r\n약점 부위에 주는 피해량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안 플레이어가\r\n약점 부위에 주는 피해량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Ronin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Ronin_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Ronin_Iai|/>(으)로 공격한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Ronin_Iai|/>(으)로 공격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SaintCentaur": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SaintCentaur_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 3단 점프가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 3단 점프가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SakuraSaurus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SakuraSaurus_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|SakuraSaurus|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|SakuraSaurus|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SakuraSaurus_Water": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SakuraSaurus_Water_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|SakuraSaurus_Water|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|SakuraSaurus_Water|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ScorpionMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ScorpionMan_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Serpent": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Serpent_TextData",
+          "SourceString": "등에 타고 물 위를 이동할 수 있다.\r\n탑승 중 수상 이동으로 인한 기력 소비를\r\n무효화한다.",
+          "LocalizedString": "등에 타고 물 위를 이동할 수 있다.\r\n탑승 중 수상 이동으로 인한 기력 소비를\r\n무효화한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Serpent_Ground": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Serpent_Ground_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.",
+          "LocalizedString": "등에 타고 이동할 수 있다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SkyDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SkyDragon_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있으며\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있으며\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SharkKid": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SharkKid_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|WaterGun|/>(으)로 공격한다.\r\n보유하고 있는 동안 플레이어의 공격력이 증가한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|WaterGun|/>(으)로 공격한다.\r\n보유하고 있는 동안 플레이어의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SharkKid_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SharkKid_Fire_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|FireSeed|/>(으)로 공격한다.\r\n보유하고 있는 동안 플레이어의 공격력이 증가한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|FireSeed|/>(으)로 공격한다.\r\n보유하고 있는 동안 플레이어의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SifuDog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SifuDog_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SheepBall": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SheepBall_TextData",
+          "SourceString": "발동하면 방패로 변하여 플레이어에게 장착된다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Wool|/>을(를) 떨어뜨리기도 한다.",
+          "LocalizedString": "발동하면 방패로 변하여 플레이어에게 장착된다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Wool|/>을(를) 떨어뜨리기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SoldierBee": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SoldierBee_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Honey|/>을(를) 떨어뜨리기도 한다.\r\n보유하고 있는 동안 <characterName id=|QueenBee|/>의 스테이터스가 상승한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Honey|/>을(를) 떨어뜨리기도 한다.\r\n보유하고 있는 동안 <characterName id=|QueenBee|/>의 스테이터스가 상승한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Suzaku": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Suzaku_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있으며\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있으며\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Suzaku_Water": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Suzaku_Water_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있으며\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있으며\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SweetsSheep": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SweetsSheep_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면,\r\n<itemName id=|Sweet|/>을(를) 떨어뜨리기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면,\r\n<itemName id=|Sweet|/>을(를) 떨어뜨리기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_TentacleTurtle": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_TentacleTurtle_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ThunderBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ThunderBird_TextData",
+          "SourceString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 하늘을 날 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ThunderDog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ThunderDog_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해진다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 2단 점프가 가능해진다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ThunderDragonMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ThunderDragonMan_TextData",
+          "SourceString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Umihebi": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Umihebi_TextData",
+          "SourceString": "등에 타고 물 위를 이동할 수 있다.\r\n탑승 중 수상 이동으로 인한 기력 소비를 무효화한다.",
+          "LocalizedString": "등에 타고 물 위를 이동할 수 있다.\r\n탑승 중 수상 이동으로 인한 기력 소비를 무효화한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Umihebi_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Umihebi_Fire_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 공격이 강화된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 공격이 강화된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_VioletFairy": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_VioletFairy_TextData",
+          "SourceString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_VolcanicMonster": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_VolcanicMonster_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 광석 파괴 효율이 향상된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 광석 파괴 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_VolcanicMonster_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_VolcanicMonster_Ice_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 광석 파괴 효율이 향상된다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 광석 파괴 효율이 향상된다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WeaselDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WeaselDragon_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/>을(를) 부여한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n탑승 중 플레이어의 공격에 <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/>을(를) 부여한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Werewolf": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Werewolf_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Werewolf_Scratch|/>(으)로 공격한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|Unique_Werewolf_Scratch|/>(으)로 공격한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WhiteMoth": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WhiteMoth_TextData",
+          "SourceString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|IcicleThrow|/>(으)로 공격한다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Cloth2|/>을 만들기도 한다.",
+          "LocalizedString": "발동하면 목표로 삼은 적을 향해\r\n높은 위력의 <activeSkillName id=|IcicleThrow|/>(으)로 공격한다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Cloth2|/>을 만들기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WhiteTiger": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WhiteTiger_TextData",
+          "SourceString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다.",
+          "LocalizedString": "함께 싸우는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> 팰을 쓰러뜨렸을 때\r\n드롭 아이템 획득량이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WindChimes": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WindChimes_TextData",
+          "SourceString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공할 시 플레이어를 하늘 높이 띄워 올린다.",
+          "LocalizedString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공할 시 플레이어를 하늘 높이 띄워 올린다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WindChimes_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WindChimes_Ice_TextData",
+          "SourceString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공할 시 플레이어를 하늘 높이 띄워 올린다.",
+          "LocalizedString": "보유하고 있는 동안 글라이더 대신 불러낼 수 있다.\r\n활공할 시 플레이어를 하늘 높이 띄워 올린다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WingGolem": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WingGolem_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WizardOwl": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WizardOwl_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Yeti": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Yeti_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|Yeti|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|Yeti|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Yeti_Grass": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Yeti_Grass_TextData",
+          "SourceString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|Yeti_Grass|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다.",
+          "LocalizedString": "등에 타고 이동할 수 있다.\r\n보유하고 있는 동안 <characterName id=|Yeti_Grass|/>이(가) 짐을 대신 짊어져\r\n플레이어의 소지 중량 제한이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WoolFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WoolFox_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰의 공격력이 증가한다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Wool|/>을(를) 떨어뜨리기도 한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> 팰의 공격력이 증가한다.\r\n<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|Wool|/>을(를) 떨어뜨리기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LazyCatfish": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LazyCatfish_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LavaGirl": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LavaGirl_TextData",
+          "SourceString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|FireOrgan|/>을(를) 만들기도 한다.",
+          "LocalizedString": "<mapObjectName id=|MonsterFarm|/>에 배치하면\r\n<itemName id=|FireOrgan|/>을(를) 만들기도 한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlameBambi": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlameBambi_TextData",
+          "SourceString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰의 공격력이 증가한다.",
+          "LocalizedString": "보유하고 있는 동안 <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> 팰의 공격력이 증가한다."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Human": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Human_TextData",
+          "SourceString": "인간은 팰이 아니므로 파트너 스킬을 배울 수 없다.",
+          "LocalizedString": "인간은 팰이 아니므로 파트너 스킬을 배울 수 없다."
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_StatusEffectFood",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalStatusEffectFoodDataRow'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "JamBun": {
+        "effectTime": 0,
+        "EffectType1": "EPalFoodStatusEffectType::None",
+        "EffectValue1": 0,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "Salad": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 30,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "Omelet": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Attack",
+        "EffectValue1": 10,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "FriedVegetables": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Attack",
+        "EffectValue1": 10,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "HotDog": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue1": 30,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "Pancake": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue1": 25,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "MarinatedMushrooms": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Defense",
+        "EffectValue1": 10,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "MushroomSoup": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue1": 25,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "Carbonara": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Defense",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "BLT": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Attack",
+        "EffectValue1": 15,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "Hamburger": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue1": 30,
+        "EffectType2": "EPalFoodStatusEffectType::Attack",
+        "EffectValue2": 10
+      },
+      "CheeseBurger": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue1": 30,
+        "EffectType2": "EPalFoodStatusEffectType::Defense",
+        "EffectValue2": 10
+      },
+      "Pizza": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 30,
+        "EffectType2": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue2": 25
+      },
+      "MeatSauce": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::Attack",
+        "EffectValue2": 10
+      },
+      "MushroomStew": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 10,
+        "EffectType2": "EPalFoodStatusEffectType::Attack",
+        "EffectValue2": 10
+      },
+      "Opium": {
+        "effectTime": 10,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 200,
+        "EffectType2": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue2": -25000
+      },
+      "Narcotic": {
+        "effectTime": 10,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 400,
+        "EffectType2": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue2": -50000
+      },
+      "ChickenSaute": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 30,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "GrilledSheepHerbs": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Defense",
+        "EffectValue1": 10,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "GenghisKhan": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue2": 30
+      },
+      "Eaglestew": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "BaconEggs": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Attack",
+        "EffectValue1": 10,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "StewedIceDeer": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue1": 25,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "FriedChicken": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 30,
+        "EffectType2": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue2": 25
+      },
+      "HotDog_2": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Defense",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "DeerLocoMoco": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Attack",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "DeerStew": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Defense",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::None",
+        "EffectValue2": 0
+      },
+      "Hamburger_2": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 50,
+        "EffectType2": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue2": 25
+      },
+      "Cheeseburger_2": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Attack",
+        "EffectValue1": 20,
+        "EffectType2": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue2": 50
+      },
+      "FriedKelpie": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::Defense",
+        "EffectValue1": 10,
+        "EffectType2": "EPalFoodStatusEffectType::SANResist",
+        "EffectValue2": 50
+      },
+      "Chowder": {
+        "effectTime": 600,
+        "EffectType1": "EPalFoodStatusEffectType::WorkSpeed",
+        "EffectValue1": 50,
+        "EffectType2": "EPalFoodStatusEffectType::HungerResist",
+        "EffectValue2": 25
+      }
+    }
+  }
+]

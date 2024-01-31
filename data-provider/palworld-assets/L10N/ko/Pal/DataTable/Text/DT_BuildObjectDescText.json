@@ -1,0 +1,2239 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BuildObjectDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "BUILDOBJECT_DESC_BlastFurnace": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace_TextData",
+          "SourceString": "<itemName id=|CopperIngot|/>을(를) 제련할 수 있다.\r\n품질이 썩 좋지 않고 속도가 느리다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "<itemName id=|CopperIngot|/>을(를) 제련할 수 있다.\r\n품질이 썩 좋지 않고 속도가 느리다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace2_TextData",
+          "SourceString": "<itemName id=|IronIngot|/>을(를) 제련할 수 있다.\r\n품질은 좀 나아졌지만 속도는 여전히 꽤 느리다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "<itemName id=|IronIngot|/>을(를) 제련할 수 있다.\r\n품질은 좀 나아졌지만 속도는 여전히 꽤 느리다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace3": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace3_TextData",
+          "SourceString": "<itemName id=|StealIngot|/>을(를) 제련할 수 있다.\r\n전기가 필요하지만 상당히 빠르게 제련할 수 있다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "<itemName id=|StealIngot|/>을(를) 제련할 수 있다.\r\n전기가 필요하지만 상당히 빠르게 제련할 수 있다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace4": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace4_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace5": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace5_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_CampFire": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CampFire_TextData",
+          "SourceString": "식재료를 조리할 때 필요한 시설.\r\n간단한 재료를 익히는 정도만 가능하다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "식재료를 조리할 때 필요한 시설.\r\n간단한 재료를 익히는 정도만 가능하다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_CharacterRankUp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CharacterRankUp_TextData",
+          "SourceString": "팰의 랭크를 올려주는 시설.\r\n추출한 팰의 정수를 농축해 같은 종의 팰에게\r\n주입하면 육체의 한계를 넘어설 수 있다.",
+          "LocalizedString": "팰의 랭크를 올려주는 시설.\r\n추출한 팰의 정수를 농축해 같은 종의 팰에게\r\n주입하면 육체의 한계를 넘어설 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_CookingStove": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CookingStove_TextData",
+          "SourceString": "식재료를 조리할 때 필요한 시설.\r\n냄비를 활용한 덕분에 조리의 폭이 넓어졌다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "식재료를 조리할 때 필요한 시설.\r\n냄비를 활용한 덕분에 조리의 폭이 넓어졌다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseGatlingGun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseGatlingGun_TextData",
+          "SourceString": "적에게서 거점을 방어할 때 쓰는 방어 시설.\r\n고화력의 개틀링 기관총이 불을 뿜는다.\r\n팰을 배치해 전투에 대비하자.",
+          "LocalizedString": "적에게서 거점을 방어할 때 쓰는 방어 시설.\r\n고화력의 개틀링 기관총이 불을 뿜는다.\r\n팰을 배치해 전투에 대비하자."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMachinegun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMachinegun_TextData",
+          "SourceString": "팰을 배치해 전투에 대비하는 방어 시설.\r\n사용하려면 <itemName id=|RifleBullet|/>이(가) 필요하다.\r\n상자에 탄을 넣어두면 배치된 팰이 자동으로 탄을 장전한다.",
+          "LocalizedString": "팰을 배치해 전투에 대비하는 방어 시설.\r\n사용하려면 <itemName id=|RifleBullet|/>이(가) 필요하다.\r\n상자에 탄을 넣어두면 배치된 팰이 자동으로 탄을 장전한다."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMinigun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMinigun_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMissile": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMissile_TextData",
+          "SourceString": "팰을 배치해 전투에 대비하는 방어 시설.\r\n사용하려면 <itemName id=|ExplosiveBullet|/>이(가) 필요하다.\r\n상자에 탄을 넣어두면 배치된 팰이 자동으로 탄을 장전한다.",
+          "LocalizedString": "팰을 배치해 전투에 대비하는 방어 시설.\r\n사용하려면 <itemName id=|ExplosiveBullet|/>이(가) 필요하다.\r\n상자에 탄을 넣어두면 배치된 팰이 자동으로 탄을 장전한다."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseBowGun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseBowGun_TextData",
+          "SourceString": "팰을 배치해 전투에 대비하는 방어 시설.\r\n사용하려면 <itemName id=|Arrow|/>이(가) 필요하다.\r\n상자에 탄을 넣어두면 배치된 팰이 자동으로 탄을 장전한다.",
+          "LocalizedString": "팰을 배치해 전투에 대비하는 방어 시설.\r\n사용하려면 <itemName id=|Arrow|/>이(가) 필요하다.\r\n상자에 탄을 넣어두면 배치된 팰이 자동으로 탄을 장전한다."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWait": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWait_TextData",
+          "SourceString": "적에게서 거점을 방어할 때 쓰는 방어 시설.\r\n팰을 배치하면 다른 작업 대신\r\n망을 보며 전투를 준비한다.",
+          "LocalizedString": "적에게서 거점을 방어할 때 쓰는 방어 시설.\r\n팰을 배치하면 다른 작업 대신\r\n망을 보며 전투를 준비한다."
+        }
+      },
+      "BUILDOBJECT_DESC_DisplayCharacter": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DisplayCharacter_TextData",
+          "SourceString": "포획한 팰을 감상하는 박스.\r\n안에 든 팰은 전투도 작업도 불가능하지만\r\n대신 배가 고플 일도 없다.",
+          "LocalizedString": "포획한 팰을 감상하는 박스.\r\n안에 든 팰은 전투도 작업도 불가능하지만\r\n대신 배가 고플 일도 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator_TextData",
+          "SourceString": "번개 팰이 만들어 낸 전기를 저장하는 시설.\r\n이게 없으면 전력 시설이 작동하지 않는다.",
+          "LocalizedString": "번개 팰이 만들어 낸 전기를 저장하는 시설.\r\n이게 없으면 전력 시설이 작동하지 않는다."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator_Slave": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator_Slave_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator3": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator3_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricKitchen": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricKitchen_TextData",
+          "SourceString": "식재료를 조리할 때 필요한 시설.\r\n전기가 필요하지만 많은 양의 식재료를 빠르게 조리할 수 있다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "식재료를 조리할 때 필요한 시설.\r\n전기가 필요하지만 많은 양의 식재료를 빠르게 조리할 수 있다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Comfortable_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Comfortable_01_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Comfortable_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Comfortable_02_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_01_TextData",
+          "SourceString": "아이템 및 방어구를 제작하는 데 필요한 <mapObjectName id=|Factory_Hard_01|/>.\r\n아직 작업장이 협소해 빠른 제작은 불가능하다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "아이템 및 방어구를 제작하는 데 필요한 <mapObjectName id=|Factory_Hard_01|/>.\r\n아직 작업장이 협소해 빠른 제작은 불가능하다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_02_TextData",
+          "SourceString": "아이템 및 방어구를 제작하는 데 필요한 <mapObjectName id=|Factory_Hard_01|/>.\r\n분업 덕분에 꽤 속도를 낼 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "아이템 및 방어구를 제작하는 데 필요한 <mapObjectName id=|Factory_Hard_01|/>.\r\n분업 덕분에 꽤 속도를 낼 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_03_TextData",
+          "SourceString": "아이템 및 방어구를 제작하는 데 필요한 <mapObjectName id=|Factory_Hard_01|/>.\r\n작업 세분화를 통해 빠른 제작이 가능해졌다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "아이템 및 방어구를 제작하는 데 필요한 <mapObjectName id=|Factory_Hard_01|/>.\r\n작업 세분화를 통해 빠른 제작이 가능해졌다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlock_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade01_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade02_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade03_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_wheet": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_wheet_TextData",
+          "SourceString": "<itemName id=|Wheat|/>을(를) 기를 수 있는 농원.\r\n수확까지 걸리는 시간은 평균.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다.",
+          "LocalizedString": "<itemName id=|Wheat|/>을(를) 기를 수 있는 농원.\r\n수확까지 걸리는 시간은 평균.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_tomato": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_tomato_TextData",
+          "SourceString": "<itemName id=|Tomato|/>을(를) 기를 수 있는 농원.\r\n수확까지 시간이 좀 걸리지만 요리의 폭이 넓어진다.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다.",
+          "LocalizedString": "<itemName id=|Tomato|/>을(를) 기를 수 있는 농원.\r\n수확까지 시간이 좀 걸리지만 요리의 폭이 넓어진다.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Lettuce": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Lettuce_TextData",
+          "SourceString": "<itemName id=|Lettuce|/>을(를) 기를 수 있는 농원.\r\n수확까지 시간이 좀 걸리지만 요리의 폭이 넓어진다.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다.",
+          "LocalizedString": "<itemName id=|Lettuce|/>을(를) 기를 수 있는 농원.\r\n수확까지 시간이 좀 걸리지만 요리의 폭이 넓어진다.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Berries": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Berries_TextData",
+          "SourceString": "<itemName id=|Berries|/>을(를) 기를 수 있는 농원.\r\n금방 수확할 수 있지만 먹어도 그다지 배가 차지 않는다.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다.",
+          "LocalizedString": "<itemName id=|Berries|/>을(를) 기를 수 있는 농원.\r\n금방 수확할 수 있지만 먹어도 그다지 배가 차지 않는다.\r\n파종 및 관개, 수확 작업에 여러 마리의 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_FastTravelPoint": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FastTravelPoint_TextData",
+          "SourceString": "<characterName id=|ChickenPal|/>을(를) 흉내 낸 비석.\r\n세우면 첫 여행을 떠날 수 있다.",
+          "LocalizedString": "<characterName id=|ChickenPal|/>을(를) 흉내 낸 비석.\r\n세우면 첫 여행을 떠날 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Floor": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Floor_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_Stone_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Floor_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_Wood_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_HighTechKitchen": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_HighTechKitchen_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_TextData",
+          "SourceString": "아이템을 수납할 수 있다.\r\n나무로 만들어서 약하다.\r\n귀중품을 넣기엔 좀 불안하다.",
+          "LocalizedString": "아이템을 수납할 수 있다.\r\n나무로 만들어서 약하다.\r\n귀중품을 넣기엔 좀 불안하다."
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_02_TextData",
+          "SourceString": "아이템을 수납할 수 있다.\r\n금속으로 보강해 좀 더 튼튼하다.\r\n커진 만큼 수납 용량도 늘어났다.",
+          "LocalizedString": "아이템을 수납할 수 있다.\r\n금속으로 보강해 좀 더 튼튼하다.\r\n커진 만큼 수납 용량도 늘어났다."
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_03_TextData",
+          "SourceString": "아이템을 수납할 수 있다.\r\n강철로 만들어 무척 튼튼하다.\r\n안전한 거대 창고로 사용하자.",
+          "LocalizedString": "아이템을 수납할 수 있다.\r\n강철로 만들어 무척 튼튼하다.\r\n안전한 거대 창고로 사용하자."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_02_TextData",
+          "SourceString": "팰용 짚 침대.\r\n팰이 다쳤거나 밤에 잘 때 사용한다.\r\n딱딱하지만 없는 것보다는 낫다.",
+          "LocalizedString": "팰용 짚 침대.\r\n팰이 다쳤거나 밤에 잘 때 사용한다.\r\n딱딱하지만 없는 것보다는 낫다."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_03_TextData",
+          "SourceString": "팰이 푹 잠들 수 있는 푹신푹신한 전용 침대.\r\n팰이 다쳤거나 밤에 잘 때 사용한다.\r\n푹신푹신하니 팰도 좋아하겠지.",
+          "LocalizedString": "팰이 푹 잠들 수 있는 푹신푹신한 전용 침대.\r\n팰이 다쳤거나 밤에 잘 때 사용한다.\r\n푹신푹신하니 팰도 좋아하겠지."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_04": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_04_TextData",
+          "SourceString": "팰이 푹 잠들 수 있는 커다란 전용 침대.\r\n팰이 다쳤거나 밤에 잘 때 사용한다.\r\n덩치 큰 팰도 편안히 잘 수 있을 것이다.",
+          "LocalizedString": "팰이 푹 잠들 수 있는 커다란 전용 침대.\r\n팰이 다쳤거나 밤에 잘 때 사용한다.\r\n덩치 큰 팰도 편안히 잘 수 있을 것이다."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_01_TextData",
+          "SourceString": "아픈 팰을 치료할 약을 만드는 설비.\r\n아직은 간단한 약밖에 못 만든다.\r\n작업은 제약이 가능한 팰에게 맡기자.",
+          "LocalizedString": "아픈 팰을 치료할 약을 만드는 설비.\r\n아직은 간단한 약밖에 못 만든다.\r\n작업은 제약이 가능한 팰에게 맡기자."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_02_TextData",
+          "SourceString": "아픈 팰을 치료할 약을 만드는 설비.\r\n전기가 필요하지만 상위 약품도 만들 수 있다.\r\n작업은 제약이 가능한 팰에게 맡기자.",
+          "LocalizedString": "아픈 팰을 치료할 약을 만드는 설비.\r\n전기가 필요하지만 상위 약품도 만들 수 있다.\r\n작업은 제약이 가능한 팰에게 맡기자."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_03_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_PalFoodBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalFoodBox_TextData",
+          "SourceString": "팰의 먹이를 넣어두는 보관함.\r\n배가 고픈 팰이 여기서 먹이를 먹는다.\r\n먹이가 떨어지지 않게 관리하자.",
+          "LocalizedString": "팰의 먹이를 넣어두는 보관함.\r\n배가 고픈 팰이 여기서 먹이를 먹는다.\r\n먹이가 떨어지지 않게 관리하자."
+        }
+      },
+      "BUILDOBJECT_DESC_PalStorage": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalStorage_TextData",
+          "SourceString": "포획한 팰을 보관하는 시설.\r\n이 시설을 중심으로 한 범위가 거점이 된다.\r\n팰과 함께 나만의 거점을 만들어 보자.",
+          "LocalizedString": "포획한 팰을 보관하는 시설.\r\n이 시설을 중심으로 한 범위가 거점이 된다.\r\n팰과 함께 나만의 거점을 만들어 보자."
+        }
+      },
+      "BUILDOBJECT_DESC_PalBoxV2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalBoxV2_TextData",
+          "SourceString": "포획한 팰을 보관해두는 시설.\r\n박스 내 팰은 천천히 HP를 회복한다.\r\n이 시설을 중심으로 한 범위가 거점이 된다.",
+          "LocalizedString": "포획한 팰을 보관해두는 시설.\r\n박스 내 팰은 천천히 HP를 회복한다.\r\n이 시설을 중심으로 한 범위가 거점이 된다."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_02_TextData",
+          "SourceString": "인간용 너덜너덜한 침대.\r\n다쳤거나 밤에 잘 때 사용한다.\r\n위에 지붕이 없으면 불안해서 잠들 수가 없다.",
+          "LocalizedString": "인간용 너덜너덜한 침대.\r\n다쳤거나 밤에 잘 때 사용한다.\r\n위에 지붕이 없으면 불안해서 잠들 수가 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_03_TextData",
+          "SourceString": "인간이 푹 잠들 수 있는 푹신푹신한 전용 침대.\r\n다쳤거나 밤에 잘 때 사용한다.\r\n위에 지붕이 없으면 불안해서 잠들 수가 없다.",
+          "LocalizedString": "인간이 푹 잠들 수 있는 푹신푹신한 전용 침대.\r\n다쳤거나 밤에 잘 때 사용한다.\r\n위에 지붕이 없으면 불안해서 잠들 수가 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ShippingItemBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ShippingItemBox_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_01_TextData",
+          "SourceString": "팰 포획용 스피어 제작 공장.\r\n아직 작업장이 협소해 스피어를 빠르게 생산하기는 힘들다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "팰 포획용 스피어 제작 공장.\r\n아직 작업장이 협소해 스피어를 빠르게 생산하기는 힘들다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_02_TextData",
+          "SourceString": "팰 포획용 스피어 제작 공장.\r\n분업 덕분에 꽤 속도를 낼 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "팰 포획용 스피어 제작 공장.\r\n분업 덕분에 꽤 속도를 낼 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_03_TextData",
+          "SourceString": "팰 포획용 스피어 제작 공장.\r\n작업 세분화를 통해 빠른 스피어 제작이 가능해졌다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "팰 포획용 스피어 제작 공장.\r\n작업 세분화를 통해 빠른 스피어 제작이 가능해졌다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_01_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_02_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_03_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_StationDeforest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StationDeforest_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stonehouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stonehouse1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_StonePit": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StonePit_TextData",
+          "SourceString": "<itemName id=|Stone|/>을(를) 생산하는 시설.\r\n<itemName id=|Stone|/>을(를) 파내는 작업은 고되므로 체력이 필요하다.\r\n채굴에 자신 있는 팰에게 맡기자.",
+          "LocalizedString": "<itemName id=|Stone|/>을(를) 생산하는 시설.\r\n<itemName id=|Stone|/>을(를) 파내는 작업은 고되므로 체력이 필요하다.\r\n채굴에 자신 있는 팰에게 맡기자."
+        }
+      },
+      "BUILDOBJECT_DESC_CopperMine": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CopperMine_TextData",
+          "SourceString": "<itemName id=|CopperOre|/>을(를) 생산하는 시설.\r\n<itemName id=|CopperOre|/>을(를) 파내는 작업은 무척 고되므로 체력이 필요하다.\r\n채굴에 자신 있는 팰에게 맡기자.",
+          "LocalizedString": "<itemName id=|CopperOre|/>을(를) 생산하는 시설.\r\n<itemName id=|CopperOre|/>을(를) 파내는 작업은 무척 고되므로 체력이 필요하다.\r\n채굴에 자신 있는 팰에게 맡기자."
+        }
+      },
+      "BUILDOBJECT_DESC_SteelMine": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SteelMine_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Strawhouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Strawhouse1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_Stone_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_Wood_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_DUMMY": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DUMMY_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_01_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_02_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_03_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponChest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponChest_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_01_TextData",
+          "SourceString": "무기나 탄약을 생산하는 공장.\r\n아직 작업장이 협소해 상위 무기 제작은 힘들다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "무기나 탄약을 생산하는 공장.\r\n아직 작업장이 협소해 상위 무기 제작은 힘들다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_02_TextData",
+          "SourceString": "무기나 탄약을 생산하는 공장.\r\n분업 덕분에 꽤 많은 무기를 생산할 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "무기나 탄약을 생산하는 공장.\r\n분업 덕분에 꽤 많은 무기를 생산할 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_03_TextData",
+          "SourceString": "무기나 탄약을 생산하는 공장.\r\n작업 세분화를 통해 상위 무기를 빠르게 생산할 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "무기나 탄약을 생산하는 공장.\r\n작업 세분화를 통해 상위 무기를 빠르게 생산할 수 있게 됐다.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactry": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactry_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Well": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Well_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Woodhouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Woodhouse1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_TextData",
+          "SourceString": "간단한 아이템을 제작하는 <mapObjectName id=|WorkBench|/>.\r\n수작업이 가능한 팰이 필요하다.",
+          "LocalizedString": "간단한 아이템을 제작하는 <mapObjectName id=|WorkBench|/>.\r\n수작업이 가능한 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_RecoverOtomo": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_RecoverOtomo_TextData",
+          "SourceString": "팰의 HP를 회복시켜주는 장치.\r\n팰지움의 힘으로 스피어 내부를 채워 편안하게 해준다.",
+          "LocalizedString": "팰의 HP를 회복시켜주는 장치.\r\n팰지움의 힘으로 스피어 내부를 채워 편안하게 해준다."
+        }
+      },
+      "BUILDOBJECT_DESC_HatchingPalEgg": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_HatchingPalEgg_TextData",
+          "SourceString": "팰의 알 을(를) 부화시키는 장치.\r\n팰의 알 을(를) 놓아두면 시간이 걸리지만 자동으로 부화한다.",
+          "LocalizedString": "팰의 알 을(를) 부화시키는 장치.\r\n팰의 알 을(를) 놓아두면 시간이 걸리지만 자동으로 부화한다."
+        }
+      },
+      "BUILDOBJECT_DESC_StationDeforest2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StationDeforest2_TextData",
+          "SourceString": "<itemName id=|Wood|/>을(를) 생산하는 시설.\r\n나무를 자르는 작업은 고되므로 체력이 필요하다.\r\n벌목에 자신 있는 팰에게 맡기자.",
+          "LocalizedString": "<itemName id=|Wood|/>을(를) 생산하는 시설.\r\n나무를 자르는 작업은 고되므로 체력이 필요하다.\r\n벌목에 자신 있는 팰에게 맡기자."
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench_SkillUnlock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_SkillUnlock_TextData",
+          "SourceString": "팰이 쓸 도구를 만드는 <mapObjectName id=|WorkBench|/>.\r\n안장을 만들어 팰 위에 얹거나\r\n총을 만들어 팰에게 쥐여 주자.",
+          "LocalizedString": "팰이 쓸 도구를 만드는 <mapObjectName id=|WorkBench|/>.\r\n안장을 만들어 팰 위에 얹거나\r\n총을 만들어 팰에게 쥐여 주자."
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench_SkillCard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_SkillCard_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Foundation_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Roof_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stairs": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stairs_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_foundation_TextData",
+          "SourceString": "위에 벽이나 시설을 지을 수 있는 토대.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "위에 벽이나 시설을 지을 수 있는 토대.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_wall_TextData",
+          "SourceString": "토대 위에 짓는 침입자 방지용 벽.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "토대 위에 짓는 침입자 방지용 벽.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_roof_TextData",
+          "SourceString": "벽 위에 짓는 비바람 방지용 지붕.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "벽 위에 짓는 비바람 방지용 지붕.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_stair_TextData",
+          "SourceString": "토대나 지붕 밑에 배치해 오르내리는 계단.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "토대나 지붕 밑에 배치해 오르내리는 계단.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_DoorWall_TextData",
+          "SourceString": "토대 위에 짓는 입구용 문.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "토대 위에 짓는 입구용 문.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_foundation_TextData",
+          "SourceString": "위에 벽이나 시설을 지을 수 있는 토대.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "위에 벽이나 시설을 지을 수 있는 토대.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_wall_TextData",
+          "SourceString": "토대 위에 지어 침입자를 막는 벽.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "토대 위에 지어 침입자를 막는 벽.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_roof_TextData",
+          "SourceString": "벽 위에 지어 비바람을 막는 지붕.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "벽 위에 지어 비바람을 막는 지붕.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_stair_TextData",
+          "SourceString": "토대나 지붕 밑에 배치해 오르내리는 계단.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "토대나 지붕 밑에 배치해 오르내리는 계단.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_foundation_TextData",
+          "SourceString": "위에 벽이나 시설을 지을 수 있는 토대.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "위에 벽이나 시설을 지을 수 있는 토대.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_wall_TextData",
+          "SourceString": "토대 위에 지어 침입자를 막는 벽.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "토대 위에 지어 침입자를 막는 벽.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_roof_TextData",
+          "SourceString": "벽 위에 지어 비바람을 막는 지붕.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "벽 위에 지어 비바람을 막는 지붕.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_stair_TextData",
+          "SourceString": "토대나 지붕 밑에 배치해 오르내리는 계단.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "토대나 지붕 밑에 배치해 오르내리는 계단.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Heater": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Heater_TextData",
+          "SourceString": "온풍을 내보내 거점의 온도를 높여주는 장치.\r\n그렇게까지 따뜻하진 않아도 어느 정도의 추위는 견디게 해준다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "온풍을 내보내 거점의 온도를 높여주는 장치.\r\n그렇게까지 따뜻하진 않아도 어느 정도의 추위는 견디게 해준다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricHeater": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricHeater_TextData",
+          "SourceString": "온풍을 내보내 거점의 온도를 높여주는 장치.\r\n전기를 사용하여 온도를 높일 수 있게 됐다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "온풍을 내보내 거점의 온도를 높여주는 장치.\r\n전기를 사용하여 온도를 높일 수 있게 됐다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Cooler": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Cooler_TextData",
+          "SourceString": "냉풍을 내보내 거점의 온도를 낮춰주는 장치.\r\n그렇게까지 시원하진 않아도 어느 정도의 더위는 견디게 해준다.\r\n얼음 팰이 냉각해줘야 한다.",
+          "LocalizedString": "냉풍을 내보내 거점의 온도를 낮춰주는 장치.\r\n그렇게까지 시원하진 않아도 어느 정도의 더위는 견디게 해준다.\r\n얼음 팰이 냉각해줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricCooler": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricCooler_TextData",
+          "SourceString": "냉풍을 내보내 거점의 온도를 낮춰주는 장치.\r\n전기를 사용하여 온도를 낮출 수 있게 됐다.\r\n얼음 팰이 냉각해줘야 한다.",
+          "LocalizedString": "냉풍을 내보내 거점의 온도를 낮춰주는 장치.\r\n전기를 사용하여 온도를 낮출 수 있게 됐다.\r\n얼음 팰이 냉각해줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Torch": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Torch_TextData",
+          "SourceString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_WallTorch": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WallTorch_TextData",
+          "SourceString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n벽에 설치할 수 있다.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n벽에 설치할 수 있다.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Lamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Lamp_TextData",
+          "SourceString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n전기가 필요하지만 더 넓은 범위를 밝힐 수 있다.",
+          "LocalizedString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n전기가 필요하지만 더 넓은 범위를 밝힐 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_CeilingLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CeilingLamp_TextData",
+          "SourceString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n천장에 설치할 수 있다.\r\n전기가 필요하지만 더 넓은 범위를 밝힐 수 있다.",
+          "LocalizedString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n천장에 설치할 수 있다.\r\n전기가 필요하지만 더 넓은 범위를 밝힐 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_LargeLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_LargeLamp_TextData",
+          "SourceString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n전기가 더 필요하지만 훨씬 넓은 범위를 밝힐 수 있다.",
+          "LocalizedString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n전기가 더 필요하지만 훨씬 넓은 범위를 밝힐 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_LargeCeilingLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_LargeCeilingLamp_TextData",
+          "SourceString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n천장에 설치할 수 있다.\r\n전기가 더 필요하지만 훨씬 넓은 범위를 밝힐 수 있다.",
+          "LocalizedString": "어두운 밤에도 거점을 밝혀주는 광원.\r\n천장에 설치할 수 있다.\r\n전기가 더 필요하지만 훨씬 넓은 범위를 밝힐 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_BuildableGoddessStatue": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BuildableGoddessStatue_TextData",
+          "SourceString": "팰파고스섬의 전승에 기록된 석상.\r\n<itemName id=|Relic|/>을(를) 바치면\r\n신비한 힘을 선사한다.",
+          "LocalizedString": "팰파고스섬의 전승에 기록된 석상.\r\n<itemName id=|Relic|/>을(를) 바치면\r\n신비한 힘을 선사한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Spa": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Spa_TextData",
+          "SourceString": "지친 거점 팰이 쉬러 가는 시설.\r\n일하면서 쌓인 피로를 풀고 SAN 수치를 회복한다.",
+          "LocalizedString": "지친 거점 팰이 쉬러 가는 시설.\r\n일하면서 쌓인 피로를 풀고 SAN 수치를 회복한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Spa2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Spa2_TextData",
+          "SourceString": "지친 거점 팰이 쉬러 가는 시설.\r\n더 쾌적해진 덕분에 SAN 수치도 많이 회복할 수 있다.",
+          "LocalizedString": "지친 거점 팰이 쉬러 가는 시설.\r\n더 쾌적해진 덕분에 SAN 수치도 많이 회복할 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_TextData",
+          "SourceString": "외적의 침입을 막는 용도의 거대한 방벽.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "외적의 침입을 막는 용도의 거대한 방벽.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Crusher": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Crusher_TextData",
+          "SourceString": "<itemName id=|Stone|/> 혹은 <itemName id=|Wood|/>을(를) 분쇄하여\r\n다른 소재로 변환할 수 있는 시설.\r\n물레방아를 돌리는 |관개| 적성의 팰이 필요하다.",
+          "LocalizedString": "<itemName id=|Stone|/> 혹은 <itemName id=|Wood|/>을(를) 분쇄하여\r\n다른 소재로 변환할 수 있는 시설.\r\n물레방아를 돌리는 |관개| 적성의 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_WoodCrusher": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WoodCrusher_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FlourMill": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FlourMill_TextData",
+          "SourceString": "<itemName id=|Wheat|/>을(를) 빻아 <itemName id=|Flour|/>을(를)\r\n생산할 수 있는 시설.\r\n물레방아를 돌리는 |관개| 적성의 팰이 필요하다.",
+          "LocalizedString": "<itemName id=|Wheat|/>을(를) 빻아 <itemName id=|Flour|/>을(를)\r\n생산할 수 있는 시설.\r\n물레방아를 돌리는 |관개| 적성의 팰이 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_LegHold": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_LegHold_TextData",
+          "SourceString": "위로 걸어가는 팰의 발을 묶는 덫.\r\n걸린 팰은 스피어에 잡힐 확률이 상승한다.\r\n작은 팰에게만 유효하다.",
+          "LocalizedString": "위로 걸어가는 팰의 발을 묶는 덫.\r\n걸린 팰은 스피어에 잡힐 확률이 상승한다.\r\n작은 팰에게만 유효하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_LegHold_Big": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_LegHold_Big_TextData",
+          "SourceString": "대형 팰의 움직임을 봉쇄하는 대형 덫.\r\n걸린 팰은 스피어에 잡힐 확률이 상승한다.\r\n대형 팰에게만 유효하므로 작은 팰은 잡을 수 없다.",
+          "LocalizedString": "대형 팰의 움직임을 봉쇄하는 대형 덫.\r\n걸린 팰은 스피어에 잡힐 확률이 상승한다.\r\n대형 팰에게만 유효하므로 작은 팰은 잡을 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MovingPanel": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MovingPanel_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineElecShock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineElecShock_TextData",
+          "SourceString": "밟은 팰을 감전시키는 덫.\r\n감전된 팰은 스피어에 잡힐 확률이 상승한다.",
+          "LocalizedString": "밟은 팰을 감전시키는 덫.\r\n감전된 팰은 스피어에 잡힐 확률이 상승한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineFreeze": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineFreeze_TextData",
+          "SourceString": "밟은 팰을 빙결시키는 덫.\r\n빙결된 팰은 스피어에 잡힐 확률이 상승한다.",
+          "LocalizedString": "밟은 팰을 빙결시키는 덫.\r\n빙결된 팰은 스피어에 잡힐 확률이 상승한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineAttack": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineAttack_TextData",
+          "SourceString": "밟은 팰을 폭파하는 덫.\r\n넓은 범위에 피해를 준다.",
+          "LocalizedString": "밟은 팰을 폭파하는 덫.\r\n넓은 범위에 피해를 준다."
+        }
+      },
+      "BUILDOBJECT_DESC_BreedFarm": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BreedFarm_TextData",
+          "SourceString": "암수 팰 한 쌍(♂♀)을 배치하면\r\n알을 낳게 할 수 있다.\r\n알을 낳게 하려면 시설에 <itemName id=|Cake|/>을(를) 넣어둬야 한다.",
+          "LocalizedString": "암수 팰 한 쌍(♂♀)을 배치하면\r\n알을 낳게 할 수 있다.\r\n알을 낳게 하려면 시설에 <itemName id=|Cake|/>을(를) 넣어둬야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_ToolBoxV1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToolBoxV1_TextData",
+          "SourceString": "거점에 배치하면\r\n수작업의 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n수작업의 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_ToolBoxV2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToolBoxV2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_BaseCampWorkHard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BaseCampWorkHard_TextData",
+          "SourceString": "거점 내 팰의 작업 방침을 지시할 수 있다.\r\n과로시키지 않게 주의하자.",
+          "LocalizedString": "거점 내 팰의 작업 방침을 지시할 수 있다.\r\n과로시키지 않게 주의하자."
+        }
+      },
+      "BUILDOBJECT_DESC_OlympicCauldron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_OlympicCauldron_TextData",
+          "SourceString": "거점에 배치하면\r\n불 피우기 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n불 피우기 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Fountain": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Fountain_TextData",
+          "SourceString": "거점에 배치하면\r\n관개 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n관개 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Silo": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Silo_TextData",
+          "SourceString": "거점에 배치하면\r\n파종 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n파종 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_TransmissionTower": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TransmissionTower_TextData",
+          "SourceString": "거점에 배치하면\r\n발전 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n발전 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_FlowerBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FlowerBed_TextData",
+          "SourceString": "거점에 배치하면\r\n채집 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n채집 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stump": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stump_TextData",
+          "SourceString": "거점에 배치하면\r\n벌목 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n벌목 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_MiningTool": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MiningTool_TextData",
+          "SourceString": "거점에 배치하면\r\n채굴 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n채굴 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Cauldron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Cauldron_TextData",
+          "SourceString": "거점에 배치하면\r\n제약 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n제약 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Snowman": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Snowman_TextData",
+          "SourceString": "거점에 배치하면\r\n냉각 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다.",
+          "LocalizedString": "거점에 배치하면\r\n냉각 작업 속도가 상승한다.\r\n2개 이상 배치해도 효과는 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_DoorWall_TextData",
+          "SourceString": "토대 위에 지어 입구 역할을 하는 문.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "토대 위에 지어 입구 역할을 하는 문.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_DoorWall_TextData",
+          "SourceString": "토대 위에 지어 입구 역할을 하는 문.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "토대 위에 지어 입구 역할을 하는 문.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_CoolerBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CoolerBox_TextData",
+          "SourceString": "작은 식료품 보관창고.\r\n얼음 팰을 배치하면\r\n보관한 식료품의 부패를 늦출 수 있다.",
+          "LocalizedString": "작은 식료품 보관창고.\r\n얼음 팰을 배치하면\r\n보관한 식료품의 부패를 늦출 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Refrigerator": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Refrigerator_TextData",
+          "SourceString": "대용량 식료품 보관창고.\r\n얼음 팰을 배치하면\r\n보관한 식료품의 부패를 늦출 수 있다.",
+          "LocalizedString": "대용량 식료품 보관창고.\r\n얼음 팰을 배치하면\r\n보관한 식료품의 부패를 늦출 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_MonsterFarm": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MonsterFarm_TextData",
+          "SourceString": "양이나 닭 등의 팰을 방목하는 목장.\r\n특수한 파트너 스킬을 가진 팰을\r\n배치하면 아이템을 생산한다.",
+          "LocalizedString": "양이나 닭 등의 팰을 방목하는 목장.\r\n특수한 파트너 스킬을 가진 팰을\r\n배치하면 아이템을 생산한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_Gate_TextData",
+          "SourceString": "덩치가 큰 팰도 드나들 수 있는 문.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "덩치가 큰 팰도 드나들 수 있는 문.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_Gate_TextData",
+          "SourceString": "덩치가 큰 팰도 드나들 수 있는 문.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "덩치가 큰 팰도 드나들 수 있는 문.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_Gate_TextData",
+          "SourceString": "덩치가 큰 팰도 드나들 수 있는 문.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "덩치가 큰 팰도 드나들 수 있는 문.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_Noose": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_Noose_TextData",
+          "SourceString": "통과한 팰을 붙잡는 덫.\r\n걸린 팰은 스피어에 잡힐 확률이 상승한다.\r\n작은 팰에게만 유효하다.",
+          "LocalizedString": "통과한 팰을 붙잡는 덫.\r\n걸린 팰은 스피어에 잡힐 확률이 상승한다.\r\n작은 팰에게만 유효하다."
+        }
+      },
+      "BUILDOBJECT_DESC_RepairBench": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_RepairBench_TextData",
+          "SourceString": "파손된 도구를 수리하는 작업대.\r\n소재를 소모하여 수리할 수 있다.",
+          "LocalizedString": "파손된 도구를 수리하는 작업대.\r\n소재를 소모하여 수리할 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_DamagedScarecrow": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DamagedScarecrow_TextData",
+          "SourceString": "<characterName id=|Penguin|/>을(를) 본뜬 훈련용 허수아비.\r\n좁은 곳에는 둘 수 없다.",
+          "LocalizedString": "<characterName id=|Penguin|/>을(를) 본뜬 훈련용 허수아비.\r\n좁은 곳에는 둘 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Signboard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Signboard_TextData",
+          "SourceString": "문자를 쓸 수 있는 간판.\r\n기록이나 커뮤니케이션용으로 사용하자.",
+          "LocalizedString": "문자를 쓸 수 있는 간판.\r\n기록이나 커뮤니케이션용으로 사용하자."
+        }
+      },
+      "BUILDOBJECT_DESC_BaseCampBattleDirector": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BaseCampBattleDirector_TextData",
+          "SourceString": "거점 내 팰을 경계 상태로 전환하는 종.\r\n외적 대비 태세와 작업 전념 태세를\r\n원하는 때에 변경할 수 있다.",
+          "LocalizedString": "거점 내 팰을 경계 상태로 전환하는 종.\r\n외적 대비 태세와 작업 전념 태세를\r\n원하는 때에 변경할 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_Wood_TextData",
+          "SourceString": "외적의 침입을 막는 용도의 거대한 방벽.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "외적의 침입을 막는 용도의 거대한 방벽.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall_Metal": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_Metal_TextData",
+          "SourceString": "외적의 침입을 막는 용도의 거대한 방벽.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "외적의 침입을 막는 용도의 거대한 방벽.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare_Wood_TextData",
+          "SourceString": "장식용 사각 탁자.\r\n",
+          "LocalizedString": "장식용 사각 탁자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular_Wood_TextData",
+          "SourceString": "장식용 원탁.\r\n",
+          "LocalizedString": "장식용 원탁.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Bench_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Bench_Wood_TextData",
+          "SourceString": "장식용 나무 벤치.\r\n",
+          "LocalizedString": "장식용 나무 벤치.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool_Wood_TextData",
+          "SourceString": "장식용 등받이 없는 나무 의자.\r\n",
+          "LocalizedString": "장식용 등받이 없는 나무 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Decal_PalSticker_PinkCat": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Decal_PalSticker_PinkCat_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool_High_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool_High_Wood_TextData",
+          "SourceString": "장식용 등받이 없는 높은 나무 의자.\r\n",
+          "LocalizedString": "장식용 등받이 없는 높은 나무 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel_Wood_TextData",
+          "SourceString": "아이템을 수납할 수 있는 나무통.",
+          "LocalizedString": "아이템을 수납할 수 있는 나무통."
+        }
+      },
+      "BUILDOBJECT_DESC_Box_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box_Wood_TextData",
+          "SourceString": "아이템을 수납할 수 있는 나무 상자.",
+          "LocalizedString": "아이템을 수납할 수 있는 나무 상자."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Wood_TextData",
+          "SourceString": "아이템을 수납할 수 있는 나무 선반.",
+          "LocalizedString": "아이템을 수납할 수 있는 나무 선반."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Cask_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Cask_Wood_TextData",
+          "SourceString": "아이템을 수납할 수 있는 나무통 선반.",
+          "LocalizedString": "아이템을 수납할 수 있는 나무통 선반."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Hang01_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Hang01_Wood_TextData",
+          "SourceString": "아이템을 수납할 수 있는 나무 선반.\r\n벽에 설치할 수 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 나무 선반.\r\n벽에 설치할 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Hang02_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Hang02_Wood_TextData",
+          "SourceString": "장식용 나무 선반.\r\n벽에 설치할 수 있다.",
+          "LocalizedString": "장식용 나무 선반.\r\n벽에 설치할 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Counter_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Counter_Wood_TextData",
+          "SourceString": "장식용 나무 카운터.\r\n",
+          "LocalizedString": "장식용 나무 카운터.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug_Wood_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy01_TextData",
+          "SourceString": "장식용 대형 담쟁이덩굴.\r\n벽에 설치할 수 있다.\r\n",
+          "LocalizedString": "장식용 대형 담쟁이덩굴.\r\n벽에 설치할 수 있다.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy02_TextData",
+          "SourceString": "장식용 소형 담쟁이덩굴.\r\n벽에 설치할 수 있다.\r\n",
+          "LocalizedString": "장식용 소형 담쟁이덩굴.\r\n벽에 설치할 수 있다.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy03_TextData",
+          "SourceString": "장식용 가로형 담쟁이덩굴.\r\n벽에 설치할 수 있다.\r\n",
+          "LocalizedString": "장식용 가로형 담쟁이덩굴.\r\n벽에 설치할 수 있다.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Wood_TextData",
+          "SourceString": "장식용 나무 의자.\r\n",
+          "LocalizedString": "장식용 나무 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel01_Iron_TextData",
+          "SourceString": "장식용 빨간색 드럼통.\r\n",
+          "LocalizedString": "장식용 빨간색 드럼통.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel02_Iron_TextData",
+          "SourceString": "장식용 파란색 드럼통.\r\n",
+          "LocalizedString": "장식용 파란색 드럼통.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel03_Iron_TextData",
+          "SourceString": "장식용 녹색 드럼통.\r\n",
+          "LocalizedString": "장식용 녹색 드럼통.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Box01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box01_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 소형 컨테이너.",
+          "LocalizedString": "아이템을 수납할 수 있는 소형 컨테이너."
+        }
+      },
+      "BUILDOBJECT_DESC_Box02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box02_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 천 내장재 컨테이너.",
+          "LocalizedString": "아이템을 수납할 수 있는 천 내장재 컨테이너."
+        }
+      },
+      "BUILDOBJECT_DESC_CableCoil01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CableCoil01_Iron_TextData",
+          "SourceString": "장식용 케이블 드럼.\r\n",
+          "LocalizedString": "장식용 케이블 드럼.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Iron_TextData",
+          "SourceString": "장식용 가죽 의자.\r\n",
+          "LocalizedString": "장식용 가죽 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair02_Iron_TextData",
+          "SourceString": "장식용 철제 의자.\r\n",
+          "LocalizedString": "장식용 철제 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Clock01_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Clock01_Wall_Iron_TextData",
+          "SourceString": "장식용 벽걸이 시계.\r\n망가져서 시간은 확인할 수 없다.",
+          "LocalizedString": "장식용 벽걸이 시계.\r\n망가져서 시간은 확인할 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Container01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Container01_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 대형 컨테이너.\r\n고대에 영광을 누렸던 문명의 유품을 본뜬 디자인.",
+          "LocalizedString": "아이템을 수납할 수 있는 대형 컨테이너.\r\n고대에 영광을 누렸던 문명의 유품을 본뜬 디자인."
+        }
+      },
+      "BUILDOBJECT_DESC_GarbageBag_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_GarbageBag_Iron_TextData",
+          "SourceString": "장식용 쓰레기봉투.\r\n",
+          "LocalizedString": "장식용 쓰레기봉투.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_GoalSoccer_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_GoalSoccer_Iron_TextData",
+          "SourceString": "장식용 축구 골대.\r\n<characterName id=|SheepBall|/>을(를) 넣어도 점수는 얻지 못한다.",
+          "LocalizedString": "장식용 축구 골대.\r\n<characterName id=|SheepBall|/>을(를) 넣어도 점수는 얻지 못한다."
+        }
+      },
+      "BUILDOBJECT_DESC_MachineGame01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MachineGame01_Iron_TextData",
+          "SourceString": "장식용 인형뽑기.\r\n망가져서 사용할 수 없다.",
+          "LocalizedString": "장식용 인형뽑기.\r\n망가져서 사용할 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_MachineVending01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MachineVending01_Iron_TextData",
+          "SourceString": "장식용 콜라 자판기.\r\n아이템은 구입할 수 없다.",
+          "LocalizedString": "장식용 콜라 자판기.\r\n아이템은 구입할 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_PipeClay01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PipeClay01_Iron_TextData",
+          "SourceString": "장식용 토관.\r\n",
+          "LocalizedString": "장식용 토관.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 강철 선반.",
+          "LocalizedString": "아이템을 수납할 수 있는 강철 선반."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf02_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 강철 가로형 선반.",
+          "LocalizedString": "아이템을 수납할 수 있는 강철 가로형 선반."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf03_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 주황색 보관함.\r\n팰의 스티커가 붙어 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 주황색 보관함.\r\n팰의 스티커가 붙어 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf04_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 보관함.\r\n팰의 스티커가 붙어 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 보관함.\r\n팰의 스티커가 붙어 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_SignExit_Ceiling_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SignExit_Ceiling_Iron_TextData",
+          "SourceString": "장식용 비상구 표식.\r\n천장에 부착할 수 있다.\r\n",
+          "LocalizedString": "장식용 비상구 표식.\r\n천장에 부착할 수 있다.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_SignExit_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SignExit_Wall_Iron_TextData",
+          "SourceString": "장식용 비상구 표식.\r\n벽에 부착할 수 있다.\r\n",
+          "LocalizedString": "장식용 비상구 표식.\r\n벽에 부착할 수 있다.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa01_Iron_TextData",
+          "SourceString": "장식용 1인용 가죽 소파.\r\n",
+          "LocalizedString": "장식용 1인용 가죽 소파.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa02_Iron_TextData",
+          "SourceString": "장식용 2인용 가죽 소파.\r\n",
+          "LocalizedString": "장식용 2인용 가죽 소파.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool01_Iron_TextData",
+          "SourceString": "장식용 등받이 없는 강철 의자.\r\n",
+          "LocalizedString": "장식용 등받이 없는 강철 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular01_Iron_TextData",
+          "SourceString": "장식용 강철 원탁.\r\n",
+          "LocalizedString": "장식용 강철 원탁.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSide01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSide01_Iron_TextData",
+          "SourceString": "장식용 경질 목재 보조 탁자.\r\n",
+          "LocalizedString": "장식용 경질 목재 보조 탁자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare01_Iron_TextData",
+          "SourceString": "장식용 경질 목재 탁자.\r\n",
+          "LocalizedString": "장식용 경질 목재 탁자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare02_Iron_TextData",
+          "SourceString": "장식용 경질 목재 낮은 탁자.\r\n",
+          "LocalizedString": "장식용 경질 목재 낮은 탁자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Tire01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Tire01_Iron_TextData",
+          "SourceString": "장식용 타이어.\r\n",
+          "LocalizedString": "장식용 타이어.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade01_Iron_TextData",
+          "SourceString": "장식용 바리케이드.\r\n",
+          "LocalizedString": "장식용 바리케이드.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade02_Iron_TextData",
+          "SourceString": "장식용 주황색 바리케이드.\r\n",
+          "LocalizedString": "장식용 주황색 바리케이드.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade03_Iron_TextData",
+          "SourceString": "장식용 빨간색 강철 바리케이드.\r\n",
+          "LocalizedString": "장식용 빨간색 강철 바리케이드.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade04_Iron_TextData",
+          "SourceString": "장식용 하얀색 강철 바리케이드.\r\n",
+          "LocalizedString": "장식용 하얀색 강철 바리케이드.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade05_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade05_Iron_TextData",
+          "SourceString": "장식용 강철 울타리.\r\n",
+          "LocalizedString": "장식용 강철 울타리.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone01_Iron_TextData",
+          "SourceString": "장식용 삼각콘.\r\n",
+          "LocalizedString": "장식용 삼각콘.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone02_Iron_TextData",
+          "SourceString": "장식용 두툼한 삼각콘.\r\n",
+          "LocalizedString": "장식용 두툼한 삼각콘.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone03_Iron_TextData",
+          "SourceString": "장식용 가느다란 삼각콘.\r\n",
+          "LocalizedString": "장식용 가느다란 삼각콘.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficLight01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficLight01_Iron_TextData",
+          "SourceString": "장식용 신호기.\r\n",
+          "LocalizedString": "장식용 신호기.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_BathTub_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BathTub_Stone_TextData",
+          "SourceString": "장식용 앤티크 욕조.\r\n",
+          "LocalizedString": "장식용 앤티크 욕조.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Box01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box01_Stone_TextData",
+          "SourceString": "장식용 앤티크 그물형 상자.\r\n",
+          "LocalizedString": "장식용 앤티크 그물형 상자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Stone_TextData",
+          "SourceString": "장식용 앤티크 나무 의자.\r\n",
+          "LocalizedString": "장식용 앤티크 나무 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair02_Stone_TextData",
+          "SourceString": "장식용 앤티크 나무 녹색 의자.\r\n",
+          "LocalizedString": "장식용 앤티크 나무 녹색 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Clock01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Clock01_Stone_TextData",
+          "SourceString": "장식용 앤티크 괘종시계.\r\n망가져서 시간은 확인할 수 없다.",
+          "LocalizedString": "장식용 앤티크 괘종시계.\r\n망가져서 시간은 확인할 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Curtain01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Curtain01_Wall_Stone_TextData",
+          "SourceString": "장식용 앤티크 커튼.\r\n벽에 설치할 수 있다.\r\n",
+          "LocalizedString": "장식용 앤티크 커튼.\r\n벽에 설치할 수 있다.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Desk01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Desk01_Stone_TextData",
+          "SourceString": "장식용 앤티크 책상.\r\n",
+          "LocalizedString": "장식용 앤티크 책상.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Globe01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Globe01_Stone_TextData",
+          "SourceString": "장식용 앤티크 구체 지리 모형.\r\n",
+          "LocalizedString": "장식용 앤티크 구체 지리 모형.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror01_Stone_TextData",
+          "SourceString": "장식용 앤티크 타원형 거울.\r\n",
+          "LocalizedString": "장식용 앤티크 타원형 거울.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror02_Stone_TextData",
+          "SourceString": "장식용 앤티크 거울.\r\n",
+          "LocalizedString": "장식용 앤티크 거울.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror01_Wall_Stone_TextData",
+          "SourceString": "장식용 앤티크 벽거울.\r\n벽에 설치할 수 있다.\r\n",
+          "LocalizedString": "장식용 앤티크 벽거울.\r\n벽에 설치할 수 있다.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Partition_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Partition_Stone_TextData",
+          "SourceString": "장식용 앤티크 파티션.\r\n",
+          "LocalizedString": "장식용 앤티크 파티션.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Piano01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Piano01_Stone_TextData",
+          "SourceString": "장식용 그랜드 피아노.\r\n연주는 할 수 없다.",
+          "LocalizedString": "장식용 그랜드 피아노.\r\n연주는 할 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Piano02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Piano02_Stone_TextData",
+          "SourceString": "장식용 업라이트 피아노.\r\n연주는 할 수 없다.",
+          "LocalizedString": "장식용 업라이트 피아노.\r\n연주는 할 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_Rug01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug01_Stone_TextData",
+          "SourceString": "장식용 앤티크 카펫.\r\n",
+          "LocalizedString": "장식용 앤티크 카펫.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug02_Stone_TextData",
+          "SourceString": "장식용 앤티크 빨간색 카펫.\r\n",
+          "LocalizedString": "장식용 앤티크 빨간색 카펫.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug03_Stone_TextData",
+          "SourceString": "장식용 앤티크 녹색 카펫.\r\n",
+          "LocalizedString": "장식용 앤티크 녹색 카펫.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug04_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug04_Stone_TextData",
+          "SourceString": "장식용 앤티크 기다란 사각 카펫.\r\n",
+          "LocalizedString": "장식용 앤티크 기다란 사각 카펫.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 책꽂이.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 책꽂이."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf02_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 옷장.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 옷장."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf03_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 상자.\r\n팰의 사진으로 장식되어 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 상자.\r\n팰의 사진으로 장식되어 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf04_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf04_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 보조 상자.\r\n팰의 사진으로 장식되어 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 보조 상자.\r\n팰의 사진으로 장식되어 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf05_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf05_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 캐비닛.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 캐비닛."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf06_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf06_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 가로형 캐비닛.\r\n팰의 사진으로 장식되어 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 가로형 캐비닛.\r\n팰의 사진으로 장식되어 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf07_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf07_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 대형 캐비닛.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 대형 캐비닛."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Wall_Stone_TextData",
+          "SourceString": "아이템을 수납할 수 있는 앤티크 캐비닛.\r\n벽에 설치할 수 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 앤티크 캐비닛.\r\n벽에 설치할 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa01_Stone_TextData",
+          "SourceString": "장식용 앤티크 1인용 소파.\r\n",
+          "LocalizedString": "장식용 앤티크 1인용 소파.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa02_Stone_TextData",
+          "SourceString": "장식용 앤티크 2인용 소파.\r\n",
+          "LocalizedString": "장식용 앤티크 2인용 소파.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa03_Stone_TextData",
+          "SourceString": "장식용 앤티크 등받이 없는 소파.\r\n",
+          "LocalizedString": "장식용 앤티크 등받이 없는 소파.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool01_Stone_TextData",
+          "SourceString": "장식용 앤티크 등받이 없는 의자.\r\n",
+          "LocalizedString": "장식용 앤티크 등받이 없는 의자.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stove01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stove01_Stone_TextData",
+          "SourceString": "장식용 앤티크 난로.\r\n",
+          "LocalizedString": "장식용 앤티크 난로.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular01_Stone_TextData",
+          "SourceString": "장식용 앤티크 원탁.\r\n",
+          "LocalizedString": "장식용 앤티크 원탁.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableDresser01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableDresser01_Stone_TextData",
+          "SourceString": "장식용 앤티크 드레서.\r\n",
+          "LocalizedString": "장식용 앤티크 드레서.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSink01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSink01_Stone_TextData",
+          "SourceString": "장식용 앤티크 세면대.\r\n",
+          "LocalizedString": "장식용 앤티크 세면대.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Toilet01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Toilet01_Stone_TextData",
+          "SourceString": "장식용 앤티크 화장실.\r\n여기서 일은 볼 수 없다.",
+          "LocalizedString": "장식용 앤티크 화장실.\r\n여기서 일은 볼 수 없다."
+        }
+      },
+      "BUILDOBJECT_DESC_ToiletHolder01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToiletHolder01_Stone_TextData",
+          "SourceString": "장식용 앤티크 화장실 휴지 걸이.\r\n",
+          "LocalizedString": "장식용 앤티크 화장실 휴지 걸이.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TowlRack01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TowlRack01_Stone_TextData",
+          "SourceString": "장식용 앤티크 수건걸이.\r\n",
+          "LocalizedString": "장식용 앤티크 수건걸이.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant01_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant01_Plant_TextData",
+          "SourceString": "장식용 관엽식물.\r\n",
+          "LocalizedString": "장식용 관엽식물.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant02_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant02_Plant_TextData",
+          "SourceString": "장식용 의자 받침 관엽식물.",
+          "LocalizedString": "장식용 의자 받침 관엽식물."
+        }
+      },
+      "BUILDOBJECT_DESC_Plant03_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant03_Plant_TextData",
+          "SourceString": "장식용 탁상 관엽식물.\r\n",
+          "LocalizedString": "장식용 탁상 관엽식물.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant04_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant04_Plant_TextData",
+          "SourceString": "장식용 화분용 관엽식물.\r\n",
+          "LocalizedString": "장식용 화분용 관엽식물.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FloorLamp01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FloorLamp01_TextData",
+          "SourceString": "광원이 되는 앤티크 갈색 일반 램프.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 앤티크 갈색 일반 램프.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FloorLamp02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FloorLamp02_TextData",
+          "SourceString": "광원이 되는 앤티크 빨간색 일반 램프.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 앤티크 빨간색 일반 램프.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole01_TextData",
+          "SourceString": "광원이 되는 평범한 가로등.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 평범한 가로등.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole02_TextData",
+          "SourceString": "광원이 되는 양 갈래 가로등.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 양 갈래 가로등.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole03_TextData",
+          "SourceString": "광원이 되는 레트로 가로등.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 레트로 가로등.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole04": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole04_TextData",
+          "SourceString": "광원이 되는 세련된 가로등.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 세련된 가로등.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FirePlace01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FirePlace01_TextData",
+          "SourceString": "광원이 되는 벽돌 난로.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "광원이 되는 벽돌 난로.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FirePlace02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FirePlace02_TextData",
+          "SourceString": "광원이 되는 난로.\r\n화염 팰이 불을 붙여줘야 한다.",
+          "LocalizedString": "광원이 되는 난로.\r\n화염 팰이 불을 붙여줘야 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_CandleSticks_Top": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_CandleSticks_Top_TextData",
+          "SourceString": "광원이 되는 샹들리에.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 샹들리에.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_CandleSticks_Wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_CandleSticks_Wall_TextData",
+          "SourceString": "광원이 되는 벽걸이 램프.\r\n불을 켜려면 전기가 필요하다.",
+          "LocalizedString": "광원이 되는 벽걸이 램프.\r\n불을 켜려면 전기가 필요하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Television01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Television01_Iron_TextData",
+          "SourceString": "장식용 오래된 티비.\r\n고대 문명의 유물로 지금은 펭키 무리의\r\n영상이 나올 뿐이다.",
+          "LocalizedString": "장식용 오래된 티비.\r\n고대 문명의 유물로 지금은 펭키 무리의\r\n영상이 나올 뿐이다."
+        }
+      },
+      "BUILDOBJECT_DESC_Desk01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Desk01_Iron_TextData",
+          "SourceString": "장식용 강철 책상.\r\n",
+          "LocalizedString": "장식용 강철 책상.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Wall_Iron_TextData",
+          "SourceString": "아이템을 수납할 수 있는 강철 벽걸이 선반.\r\n벽에 설치할 수 있다.",
+          "LocalizedString": "아이템을 수납할 수 있는 강철 벽걸이 선반.\r\n벽에 설치할 수 있다."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign01_Iron_TextData",
+          "SourceString": "장식용 팰 통행금지용 도로 표식.\r\n고대에 사용했으나 지금은 흔적만 간신히 남았다.",
+          "LocalizedString": "장식용 팰 통행금지용 도로 표식.\r\n고대에 사용했으나 지금은 흔적만 간신히 남았다."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign02_Iron_TextData",
+          "SourceString": "장식용 일시 정지 도로 표식.\r\n고대에 사용했으나 지금은 흔적만 간신히 남았다.",
+          "LocalizedString": "장식용 일시 정지 도로 표식.\r\n고대에 사용했으나 지금은 흔적만 간신히 남았다."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign03_Iron_TextData",
+          "SourceString": "장식용 신령사슴 주의 표식.\r\n고대 문명에서는 신령사슴과 팰의\r\n추돌 사고가 끊이지 않았다고 한다.",
+          "LocalizedString": "장식용 신령사슴 주의 표식.\r\n고대 문명에서는 신령사슴과 팰의\r\n추돌 사고가 끊이지 않았다고 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign04_Iron_TextData",
+          "SourceString": "장식용 그린모스 주의 표식.\r\n고대 문명에서는 그린 모스의 분노를 산 자가\r\n사망하는 사고가 빈번했다고 한다.",
+          "LocalizedString": "장식용 그린모스 주의 표식.\r\n고대 문명에서는 그린 모스의 분노를 산 자가\r\n사망하는 사고가 빈번했다고 한다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_WindowWall_TextData",
+          "SourceString": "토대 위에 짓는 창문이 딸린 침입자 방지용 벽.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "토대 위에 짓는 창문이 딸린 침입자 방지용 벽.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_WindowWall_TextData",
+          "SourceString": "토대 위에 짓는 창문이 딸린 침입자 방지용 벽.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "토대 위에 짓는 창문이 딸린 침입자 방지용 벽.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_WindowWall_TextData",
+          "SourceString": "토대 위에 짓는 창문이 딸린 침입자 방지용 벽.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "토대 위에 짓는 창문이 딸린 침입자 방지용 벽.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_TriangleWall_TextData",
+          "SourceString": "토대 위에 짓는 삼각 벽.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "토대 위에 짓는 삼각 벽.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_TriangleWall_TextData",
+          "SourceString": "토대 위에 짓는 삼각 벽.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "토대 위에 짓는 삼각 벽.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_TriangleWall_TextData",
+          "SourceString": "토대 위에 짓는 삼각 벽.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "토대 위에 짓는 삼각 벽.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_SlantedRoof_TextData",
+          "SourceString": "벽 위에 짓는 비바람 방지용 경사 지붕.\r\n나무로 만들어서 약하다.",
+          "LocalizedString": "벽 위에 짓는 비바람 방지용 경사 지붕.\r\n나무로 만들어서 약하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_SlantedRoof_TextData",
+          "SourceString": "벽 위에 지어 비바람을 막는 경사 지붕.\r\n돌로 만들어서 나름대로 튼튼하다.",
+          "LocalizedString": "벽 위에 지어 비바람을 막는 경사 지붕.\r\n돌로 만들어서 나름대로 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_SlantedRoof_TextData",
+          "SourceString": "벽 위에 지어 비바람을 막는 경사 지붕.\r\n금속으로 만들어서 매우 튼튼하다.",
+          "LocalizedString": "벽 위에 지어 비바람을 막는 경사 지붕.\r\n금속으로 만들어서 매우 튼튼하다."
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Pal": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Pal_TextData",
+          "SourceString": "아담하고 귀여운 장식용 의자.",
+          "LocalizedString": "아담하고 귀여운 장식용 의자."
+        }
+      }
+    }
+  }
+]

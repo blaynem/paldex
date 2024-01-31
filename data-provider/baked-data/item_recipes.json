@@ -1,0 +1,6899 @@
+{
+  "PalSphere": {
+    "dev_name": "PalSphere",
+    "description": "Captures Pals when thrown. This basic model is only effective on low level Pals.",
+    "name": "Pal Sphere",
+    "creates_amount": 1,
+    "work_required": 300,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Mega": {
+    "dev_name": "PalSphere_Mega",
+    "description": "Captures Pals when thrown. Improved capabilities let it catch a wider range of Pals.\r\nRequires Sphere Workbench to craft.",
+    "name": "Mega Sphere",
+    "creates_amount": 1,
+    "work_required": 1500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 1
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 5
+      }
+    ]
+  },
+  "PalSphere_Giga": {
+    "dev_name": "PalSphere_Giga",
+    "description": "Captures Pals when thrown. Can capture moderately powerful Pals.\r\nRequires Sphere Workbench to craft.",
+    "name": "Giga Sphere",
+    "creates_amount": 1,
+    "work_required": 4500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 2
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 2
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 7
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 7
+      }
+    ]
+  },
+  "PalSphere_Tera": {
+    "dev_name": "PalSphere_Tera",
+    "description": "Enhanced capabilities allow it to capture even more powerful Pals. Requires Sphere Assembly Line to craft.",
+    "name": "Hyper Sphere",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 3
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Cement",
+        "amount": 2
+      }
+    ]
+  },
+  "PalSphere_Master": {
+    "dev_name": "PalSphere_Master",
+    "description": "Captures Pals when thrown. Not many Pals can escape its highly efficient design.\r\nRequires Sphere Assembly Line II to craft.",
+    "name": "Ultra Sphere",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 5
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 2
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Cement",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Legend": {
+    "dev_name": "PalSphere_Legend",
+    "description": "Captures Pals when thrown. Very few Pals can escape its perfected design.\r\nRequires Sphere Assembly Line II to craft.",
+    "name": "Legendary Sphere",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      },
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Cement",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat": {
+    "dev_name": "Bat",
+    "description": "Can beat a small Pal to a pulp if need be.",
+    "name": "Wooden Club",
+    "creates_amount": 1,
+    "work_required": 750,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat2": {
+    "dev_name": "Bat2",
+    "description": "Baseball bat for close-range combat. Might be tough to get a home run with a Pal.",
+    "name": "Bat",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      }
+    ]
+  },
+  "Torch": {
+    "dev_name": "Torch",
+    "description": "Place it at a base to light the surrounding area.",
+    "name": "Mounted Torch",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 2
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 2
+      }
+    ]
+  },
+  "MeatCutterKnife": {
+    "dev_name": "MeatCutterKnife",
+    "description": "Knife for butchering summoned Pals. When equipped, the Pet command becomes Butcher.\r\nButchered Pals will not return.",
+    "name": "Meat Cleaver",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_00": {
+    "dev_name": "Pickaxe_Tier_00",
+    "description": "Mines stone and ore efficiently.",
+    "name": "Stone Pickaxe",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_01": {
+    "dev_name": "Pickaxe_Tier_01",
+    "description": "Mines stone and ore more efficiently. Requires High Quality Workbench to craft.",
+    "name": "Metal Pickaxe",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_02": {
+    "dev_name": "Pickaxe_Tier_02",
+    "description": "Mines stone and ore even more efficiently. Requires Production Assembly Line to craft.",
+    "name": "Refined Metal Pickaxe",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 10
+      }
+    ]
+  },
+  "Axe_Tier_00": {
+    "dev_name": "Axe_Tier_00",
+    "description": "Harvests wood efficiently.",
+    "name": "Stone Axe",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_01": {
+    "dev_name": "Axe_Tier_01",
+    "description": "Harvests wood more efficiently. Requires High Quality Workbench to craft.",
+    "name": "Metal Axe",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_02": {
+    "dev_name": "Axe_Tier_02",
+    "description": "Harvests wood even more efficiently. Requires Production Assembly Line to craft.",
+    "name": "Refined Metal Axe",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear": {
+    "dev_name": "Spear",
+    "description": "Spear useful for close-range combat. Its length allows the user to stand further away when attacking.",
+    "name": "Stone Spear",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 18
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 6
+      }
+    ]
+  },
+  "Spear_2": {
+    "dev_name": "Spear_2",
+    "description": "Spear useful for close-range combat. Made of metal and has increased attack power.\r\nRequires High Quality Workbench to craft.",
+    "name": "Metal Spear",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 27
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_3": {
+    "dev_name": "Spear_3",
+    "description": "Spear useful for close-range combat. Made of high-quality metal, it has increased attack power.\r\nRequires Production Assembly Line to craft.",
+    "name": "Refined Metal Spear",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 36
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 18
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_ForestBoss": {
+    "dev_name": "Spear_ForestBoss",
+    "description": "The spear cherished by Lily. Punishes those who neglect their Pals.",
+    "name": "Lily's Spear",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 20
+      }
+    ]
+  },
+  "ElecBaton": {
+    "dev_name": "ElecBaton",
+    "description": "Close range weapon that sends out an electric jolt upon contact. Pals are easier to capture when electrocuted.\r\nRequires High Quality Workbench to craft.",
+    "name": "Stun Baton",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Electric Organ",
+        "amount": 20
+      }
+    ]
+  },
+  "Sword": {
+    "dev_name": "Sword",
+    "description": "Useful for close-range combat. Mightier than a pen, for sure.\r\nRequires Weapon Workbench to craft.",
+    "name": "Sword",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 20
+      }
+    ]
+  },
+  "WeakerBow": {
+    "dev_name": "WeakerBow",
+    "description": "Primitive long range weapon. Requires Primitive Workbench to craft.",
+    "name": "Old Bow",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 15
+      }
+    ]
+  },
+  "WeakerBow_2": {
+    "dev_name": "WeakerBow_2",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_2",
+      "name": "Old Bow Schematic 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 60
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 1
+      }
+    ]
+  },
+  "WeakerBow_3": {
+    "dev_name": "WeakerBow_3",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 16000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_3",
+      "name": "Old Bow Schematic 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 90
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 2
+      }
+    ]
+  },
+  "WeakerBow_4": {
+    "dev_name": "WeakerBow_4",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_4",
+      "name": "Old Bow Schematic 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 135
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 22
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 4
+      }
+    ]
+  },
+  "WeakerBow_5": {
+    "dev_name": "WeakerBow_5",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 64000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_5",
+      "name": "Old Bow Schematic 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 202
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 33
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 10
+      }
+    ]
+  },
+  "Bow_Fire": {
+    "dev_name": "Bow_Fire",
+    "description": "Burns Pals with fire arrows, making them easier to capture. Requires Fire Arrow.",
+    "name": "Fire Bow",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Poison": {
+    "dev_name": "Bow_Poison",
+    "description": "Frightening bow that poisons its target. Poisoned Pals are easier to capture.\r\nRequires Poison Arrow.",
+    "name": "Poison Bow",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Venom Gland",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Triple": {
+    "dev_name": "Bow_Triple",
+    "description": "Bow that fires three arrows simultaneously. Only consumes one arrow per shot.",
+    "name": "Three Shot Bow",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 12
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      }
+    ]
+  },
+  "BowGun": {
+    "dev_name": "BowGun",
+    "description": "Fires an Arrow effortlessly. Takes time to load, but fires powerful shots.\r\nRequires High Quality Workbench to craft.",
+    "name": "Crossbow",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Nail",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_2": {
+    "dev_name": "BowGun_2",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_2",
+      "name": "Crossbow Schematic 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 100
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 80
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Nail",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 2
+      }
+    ]
+  },
+  "BowGun_3": {
+    "dev_name": "BowGun_3",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_3",
+      "name": "Crossbow Schematic 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 150
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 120
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Nail",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 4
+      }
+    ]
+  },
+  "BowGun_4": {
+    "dev_name": "BowGun_4",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_4",
+      "name": "Crossbow Schematic 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 225
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 180
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 45
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Nail",
+        "amount": 22
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 6
+      }
+    ]
+  },
+  "BowGun_5": {
+    "dev_name": "BowGun_5",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_5",
+      "name": "Crossbow Schematic 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 337
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 270
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 67
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Nail",
+        "amount": 33
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 12
+      }
+    ]
+  },
+  "BowGun_Fire": {
+    "dev_name": "BowGun_Fire",
+    "description": "Powerful long range weapon that deals Fire damage. Requires Fire Arrow.\r\nRequires Weapon Workbench to craft.",
+    "name": "Fire Arrow Crossbow",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Nail",
+        "amount": 5
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_Poison": {
+    "dev_name": "BowGun_Poison",
+    "description": "Powerful long range weapon that poisons its target. Requires Poison Arrow to fire.\r\nRequires Weapon Workbench to craft.",
+    "name": "Poison Arrow Crossbow",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Nail",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Venom Gland",
+        "amount": 5
+      }
+    ]
+  },
+  "Musket": {
+    "dev_name": "Musket",
+    "description": "Simple, old fashioned gun. Takes a long time to load. Needs Coarse Ammo to fire.\r\nRequires Weapon Workbench to craft.",
+    "name": "Musket",
+    "creates_amount": 1,
+    "work_required": 35000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 25
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 30
+      }
+    ]
+  },
+  "MakeshiftHandgun": {
+    "dev_name": "MakeshiftHandgun",
+    "description": "Single shot handgun created from spare parts. Requires Coarse Ammo to fire.\r\nCrafted at Weapon Workbench.",
+    "name": "Makeshift Handgun",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 35
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      }
+    ]
+  },
+  "HandGun_Default": {
+    "dev_name": "HandGun_Default",
+    "description": "Standard handgun. Easy to use. Requires Handgun Ammo to fire.\r\nCrafted at Weapon Workbench.",
+    "name": "Handgun",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 15
+      }
+    ]
+  },
+  "HandGun_Default_2": {
+    "dev_name": "HandGun_Default_2",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_2",
+      "name": "Handgun Schematic 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 3
+      }
+    ]
+  },
+  "HandGun_Default_3": {
+    "dev_name": "HandGun_Default_3",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_3",
+      "name": "Handgun Schematic 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 5
+      }
+    ]
+  },
+  "HandGun_Default_4": {
+    "dev_name": "HandGun_Default_4",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_4",
+      "name": "Handgun Schematic 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 7
+      }
+    ]
+  },
+  "HandGun_Default_5": {
+    "dev_name": "HandGun_Default_5",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_5",
+      "name": "Handgun Schematic 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 14
+      }
+    ]
+  },
+  "SingleShotRifle": {
+    "dev_name": "SingleShotRifle",
+    "description": "Takes time to load. Requires Rifle Ammo to fire.\r\nCrafted at Production Assembly Line II.",
+    "name": "Single-shot Rifle",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 5
+      }
+    ]
+  },
+  "DoubleBarrelShotgun": {
+    "dev_name": "DoubleBarrelShotgun",
+    "description": "Wreaks havoc at close range. Can fire twice before reloading. Requires Shotgun Shells to fire.\r\nCrafted at Production Assembly Line II.",
+    "name": "Double-barreled Shotgun",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 7
+      }
+    ]
+  },
+  "AssaultRifle_Default1": {
+    "dev_name": "AssaultRifle_Default1",
+    "description": "Mows down enemies with overwhelming force. Requires Rifle Ammo to fire.\r\nCrafted at Production Assembly Line II.",
+    "name": "Assault Rifle",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 40
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 10
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 30
+      }
+    ]
+  },
+  "AssaultRifle_Default2": {
+    "dev_name": "AssaultRifle_Default2",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default2",
+      "name": "Assault Rifle Schematic 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 80
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 5
+      }
+    ]
+  },
+  "AssaultRifle_Default3": {
+    "dev_name": "AssaultRifle_Default3",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default3",
+      "name": "Assault Rifle Schematic 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 90
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 10
+      }
+    ]
+  },
+  "AssaultRifle_Default4": {
+    "dev_name": "AssaultRifle_Default4",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default4",
+      "name": "Assault Rifle Schematic 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 180
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 45
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 135
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 20
+      }
+    ]
+  },
+  "AssaultRifle_Default5": {
+    "dev_name": "AssaultRifle_Default5",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 3200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default5",
+      "name": "Assault Rifle Schematic 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 270
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 67
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 202
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 30
+      }
+    ]
+  },
+  "PumpActionShotgun": {
+    "dev_name": "PumpActionShotgun",
+    "description": "Modern shotgun that can fire repeatedly. Requires Shotgun Shells to fire.\r\nCrafted at Production Assembly Line II.",
+    "name": "Pump-action Shotgun",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 40
+      }
+    ]
+  },
+  "PumpActionShotgun_2": {
+    "dev_name": "PumpActionShotgun_2",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_2",
+      "name": "Pump-Action Shotgun Schematic 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 60
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 40
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 5
+      }
+    ]
+  },
+  "PumpActionShotgun_3": {
+    "dev_name": "PumpActionShotgun_3",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 960000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_3",
+      "name": "Pump-Action Shotgun Schematic 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 90
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 120
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 10
+      }
+    ]
+  },
+  "PumpActionShotgun_4": {
+    "dev_name": "PumpActionShotgun_4",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 1920000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_4",
+      "name": "Pump-Action Shotgun Schematic 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 135
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 180
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 20
+      }
+    ]
+  },
+  "PumpActionShotgun_5": {
+    "dev_name": "PumpActionShotgun_5",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 3840000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_5",
+      "name": "Pump-Action Shotgun Schematic 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 202
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 270
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default": {
+    "dev_name": "Launcher_Default",
+    "description": "Launches powerful long range rockets. Requires Rocket Ammo to fire.\r\nRequires Weapon Assembly Line II to craft.",
+    "name": "Rocket Launcher",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 75
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 50
+      }
+    ]
+  },
+  "Launcher_Default_2": {
+    "dev_name": "Launcher_Default_2",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 1200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_2",
+      "name": "Rocket Launcher Schematic 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 150
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 10
+      }
+    ]
+  },
+  "Launcher_Default_3": {
+    "dev_name": "Launcher_Default_3",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 2400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_3",
+      "name": "Rocket Launcher Schematic 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 225
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 20
+      }
+    ]
+  },
+  "Launcher_Default_4": {
+    "dev_name": "Launcher_Default_4",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 4800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_4",
+      "name": "Rocket Launcher Schematic 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 337
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default_5": {
+    "dev_name": "Launcher_Default_5",
+    "description": "en Text",
+    "name": "en Text",
+    "creates_amount": 1,
+    "work_required": 9600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_5",
+      "name": "Rocket Launcher Schematic 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 505
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 202
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 40
+      }
+    ]
+  },
+  "HomingSphereLauncher": {
+    "dev_name": "HomingSphereLauncher",
+    "description": "Fires Pal Spheres that automatically home in on Pals. Requires Weapon Assembly Line II to craft.",
+    "name": "Homing Sphere Launcher",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 200
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 20
+      }
+    ]
+  },
+  "SphereLauncher": {
+    "dev_name": "SphereLauncher",
+    "description": "Innovative launcher that fires many Spheres simultaneously. Can easily capture a herd of Pals.\r\nRequires Production Assembly Line II to craft.",
+    "name": "Scatter Sphere Launcher",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 10
+      }
+    ]
+  },
+  "SphereLauncher_Once": {
+    "dev_name": "SphereLauncher_Once",
+    "description": "Can capture distant Pals. Requires Production Assembly Line II to craft.",
+    "name": "Single-shot Sphere Launcher",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 5
+      }
+    ]
+  },
+  "DecalGun_1": {
+    "dev_name": "DecalGun_1",
+    "description": "Strange gun that paints a picture of Cattiva where it is fired. Have some fun and paint the walls or ceilings!",
+    "name": "Decal Gun 1",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_2": {
+    "dev_name": "DecalGun_2",
+    "description": "Strange gun that paints a picture of Lamball where it is fired. Have some fun and paint the walls or ceilings!",
+    "name": "Decal Gun 2",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_3": {
+    "dev_name": "DecalGun_3",
+    "description": "Strange gun that paints a picture of Melpaca where it is fired. Have some fun and paint the walls or ceilings!",
+    "name": "Decal Gun 3",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_4": {
+    "dev_name": "DecalGun_4",
+    "description": "Strange gun that paints a picture of Anubis where it is fired. Have some fun and paint the walls or ceilings!",
+    "name": "Decal Gun 4",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_5": {
+    "dev_name": "DecalGun_5",
+    "description": "Strange gun that paints a picture of Relaxaurus where it is fired. Have some fun and paint the walls or ceilings!",
+    "name": "Decal Gun 5",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 3
+      }
+    ]
+  },
+  "GrapplingGun_1": {
+    "dev_name": "GrapplingGun_1",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. It allows for easy movement between places with varying elevation.",
+    "name": "Grappling Gun",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 1
+      }
+    ]
+  },
+  "GrapplingGun_2": {
+    "dev_name": "GrapplingGun_2",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. Since it's upgraded, it now has greater range.",
+    "name": "Mega Grappling Gun",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 4
+      }
+    ]
+  },
+  "GrapplingGun_3": {
+    "dev_name": "GrapplingGun_3",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. Using data from prototype versions, its capabilities have been further increased.",
+    "name": "Giga Grappling Gun",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 8
+      }
+    ]
+  },
+  "GrapplingGun_4": {
+    "dev_name": "GrapplingGun_4",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. As a result of research, it has achieved overwhelming mobility.",
+    "name": "Hyper Grappling Gun",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 15
+      }
+    ]
+  },
+  "FragGrenade": {
+    "dev_name": "FragGrenade",
+    "description": "A Frag Grenade useful for mid-range combat. It detonates on impact when thrown, dealing damage to enemies.",
+    "name": "Frag Grenade",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Gunpowder",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Fire": {
+    "dev_name": "FragGrenade_Fire",
+    "description": "Useful for mid-range combat. It detonates on impact when thrown, dealing damage and setting the surrounding environment on fire.",
+    "name": "Incendiary Grenade",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Elec": {
+    "dev_name": "FragGrenade_Elec",
+    "description": "Useful for mid-range combat. It detonates on impact when thrown, dealing damage and electrifying the surrounding environment.",
+    "name": "Shock Grenade",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Electric Organ",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Ice": {
+    "dev_name": "FragGrenade_Ice",
+    "description": "Useful for mid-range combat. It detonates on impact when thrown, dealing damage and freezing the surrounding environment.",
+    "name": "Ice Grenade",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 1
+      }
+    ]
+  },
+  "ClothArmor": {
+    "dev_name": "ClothArmor",
+    "description": "Clothes made from Cloth. Protects against the cold of night.",
+    "name": "Cloth Outfit",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorHeat": {
+    "dev_name": "ClothArmorHeat",
+    "description": "A Cloth Outfit produced in hot regions. Can withstand some heat.",
+    "name": "Tropical Outfit",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorCold": {
+    "dev_name": "ClothArmorCold",
+    "description": "A Cloth Outfit produced in cold regions. Can withstand freezing cold temperatures.",
+    "name": "Tundra Outfit",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 2
+      }
+    ]
+  },
+  "FurArmor": {
+    "dev_name": "FurArmor",
+    "description": "Armor made from Leather. Provides better warmth and protection than Cloth Outfit.\r\nRequires High Quality Workbench to craft.",
+    "name": "Pelt Armor",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      }
+    ]
+  },
+  "FurArmorHeat": {
+    "dev_name": "FurArmorHeat",
+    "description": "Pelt Armor produced in hot climates. Helps to fend off the heat.\r\nRequires High Quality Workbench to craft.",
+    "name": "Heat Resistant Pelt Armor",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 4
+      }
+    ]
+  },
+  "FurArmorCold": {
+    "dev_name": "FurArmorCold",
+    "description": "Pelt Armor produced in cold climates. Protects against freezing temperatures.\r\nRequires High Quality Workbench to craft.",
+    "name": "Cold Resistant Pelt Armor",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 15
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 4
+      }
+    ]
+  },
+  "CopperArmor": {
+    "dev_name": "CopperArmor",
+    "description": "Armor made of metal. Somewhat heavy, but provides good defense.\r\nRequires High Quality Workbench to craft.",
+    "name": "Metal Armor",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperArmorHeat": {
+    "dev_name": "CopperArmorHeat",
+    "description": "Improved Metal Armor. Boasts high heat resistance.\r\nRequires High Quality Workbench to craft.",
+    "name": "Heat Resistant Metal Armor",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 8
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 8
+      }
+    ]
+  },
+  "CopperArmorCold": {
+    "dev_name": "CopperArmorCold",
+    "description": "Improved Metal Armor. Useful for surviving in cold climates.\r\nRequires High Quality Workbench to craft.",
+    "name": "Cold Resistant Metal Armor",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 8
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 8
+      }
+    ]
+  },
+  "IronArmor": {
+    "dev_name": "IronArmor",
+    "description": "Armor made from high quality metal. Quite heavy, but provides excellent defense.\r\nRequires Production Assembly Line to craft.",
+    "name": "Refined Metal Armor",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 15
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  "IronArmorHeat": {
+    "dev_name": "IronArmorHeat",
+    "description": "Improved Refined Metal Armor. Boasts high heat resistance.\r\nRequires Production Assembly Line to craft.",
+    "name": "Heat Resistant Refined Metal Armor",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 12
+      }
+    ]
+  },
+  "IronArmorCold": {
+    "dev_name": "IronArmorCold",
+    "description": "Improved Refined Metal Armor. Useful for surviving in cold climates.\r\nRequires Production Assembly Line to craft.",
+    "name": "Cold Resistant Refined Metal Armor",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 12
+      }
+    ]
+  },
+  "StealArmor": {
+    "dev_name": "StealArmor",
+    "description": "Armor fully utilizing the latest technology. Boasts overwhelming defense.\r\nRequires Production Assembly Line II to craft.",
+    "name": "Pal Metal Armor",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 4
+      }
+    ]
+  },
+  "StealArmorHeat": {
+    "dev_name": "StealArmorHeat",
+    "description": "Improved Pal Metal Armor. Boasts high heat resistance.\r\nRequires Production Assembly Line II to craft.",
+    "name": "Heat Resistant Pal Metal Armor",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 6
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 16
+      }
+    ]
+  },
+  "StealArmorCold": {
+    "dev_name": "StealArmorCold",
+    "description": "Improved Pal Metal Armor. Useful for surviving in cold climates.\r\nRequires Production Assembly Line II to craft.",
+    "name": "Cold Resistant Pal Metal Armor",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 16
+      }
+    ]
+  },
+  "FurHelmet": {
+    "dev_name": "FurHelmet",
+    "description": "Beautiful feathered headband. Somehow protects its wearer from lethal head injuries.\r\nRequires Production Assembly Line to craft.",
+    "name": "Feathered Hair Band",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperHelmet": {
+    "dev_name": "CopperHelmet",
+    "description": "Helm made of metal. Provides reliable skull protection.\r\nRequires High Quality Workbench to craft.",
+    "name": "Metal Helm",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "IronHelmet": {
+    "dev_name": "IronHelmet",
+    "description": "Helm made from high quality metal. Its sheen gives the wearer a greater sense of confidence.\r\nRequires Production Assembly Line to craft.",
+    "name": "Refined Metal Helm",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      }
+    ]
+  },
+  "StealHelmet": {
+    "dev_name": "StealHelmet",
+    "description": "Helmet fully utilizing the latest technology. Ensures a good field of view and boasts the very best defense.\r\nRequires Production Assembly Line II to craft.",
+    "name": "Pal Metal Helm",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "Arrow": {
+    "dev_name": "Arrow",
+    "description": "Used with Old Bow. Requires Primitive Workbench to craft.",
+    "name": "Arrow",
+    "creates_amount": 3,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 1
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Fire": {
+    "dev_name": "Arrow_Fire",
+    "description": "Used with Fire Bow. Requires Primitive Workbench to craft.",
+    "name": "Fire Arrow",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Poison": {
+    "dev_name": "Arrow_Poison",
+    "description": "Used with Poison Bow. Requires Primitive Workbench to craft.",
+    "name": "Poison Arrow",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 3
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Venom Gland",
+        "amount": 1
+      }
+    ]
+  },
+  "RoughBullet": {
+    "dev_name": "RoughBullet",
+    "description": "Ammo for Musket, Makeshift Handgun and other similar weapons. Requires Weapon Workbench to craft.",
+    "name": "Coarse Ammo",
+    "creates_amount": 10,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Gunpowder",
+        "amount": 1
+      }
+    ]
+  },
+  "HandgunBullet": {
+    "dev_name": "HandgunBullet",
+    "description": "Ammo used with Handgun and other similar weapons. Requires Weapon Workbench to craft.",
+    "name": "Handgun Ammo",
+    "creates_amount": 5,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Gunpowder",
+        "amount": 1
+      }
+    ]
+  },
+  "RifleBullet": {
+    "dev_name": "RifleBullet",
+    "description": "Ammo used with Single-shot Rifle and other similar weapons.",
+    "name": "Rifle Ammo",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Gunpowder",
+        "amount": 2
+      }
+    ]
+  },
+  "ShotgunBullet": {
+    "dev_name": "ShotgunBullet",
+    "description": "Ammo used with Double-barreled Shotgun and other similar weapons.",
+    "name": "Shotgun Shells",
+    "creates_amount": 5,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Gunpowder",
+        "amount": 3
+      }
+    ]
+  },
+  "AssaultRifleBullet": {
+    "dev_name": "AssaultRifleBullet",
+    "description": "Ammo for Assault Rifle and other similar weapons. Requires Production Assembly Line II to craft.",
+    "name": "Assault Rifle Ammo",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Gunpowder",
+        "amount": 2
+      }
+    ]
+  },
+  "ExplosiveBullet": {
+    "dev_name": "ExplosiveBullet",
+    "description": "Ammo used with Rocket Launcher and other similar weapons. Requires Weapon Assembly Line II to craft.",
+    "name": "Rocket Ammo",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Pal Metal Ingot",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Gunpowder",
+        "amount": 5
+      }
+    ]
+  },
+  "InkBullet": {
+    "dev_name": "InkBullet",
+    "description": "Ammo for a Decal Gun. Uses ink to paint a picture of a Pal.",
+    "name": "Decal Ink",
+    "creates_amount": 10,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 1
+      }
+    ]
+  },
+  "Shield_01": {
+    "dev_name": "Shield_01",
+    "description": "Strange shield made with Paldium technology. Repairs itself when not taking damage.",
+    "name": "Common Shield",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      }
+    ]
+  },
+  "Shield_02": {
+    "dev_name": "Shield_02",
+    "description": "Strange shield made with Paldium technology. Improved prototype with higher defense.\r\nCan be made at High Quality Workbench.",
+    "name": "Mega Shield",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      }
+    ]
+  },
+  "Shield_03": {
+    "dev_name": "Shield_03",
+    "description": "Strange shield made with Paldium technology. Improved version with even higher defense.\r\nCan be made at Production Assembly Line.",
+    "name": "Giga Shield",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 50
+      }
+    ]
+  },
+  "Shield_04": {
+    "dev_name": "Shield_04",
+    "description": "Strange shield made with Paldium technology. Perfected after many trials.\r\nCan be made at Production Assembly Line II.",
+    "name": "Hyper Shield",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 100
+      }
+    ]
+  },
+  "Glider_Old": {
+    "dev_name": "Glider_Old",
+    "description": "Glider for soaring through the air. Cheaply made and not so fast.",
+    "name": "Normal Parachute",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  "Glider_Good": {
+    "dev_name": "Glider_Good",
+    "description": "Glider for soaring through the air. Although it's a mass produced model, it performs decently.\r\nCan be made at High Quality Workbench.",
+    "name": "Mega Glider",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 20
+      }
+    ]
+  },
+  "Glider_Super": {
+    "dev_name": "Glider_Super",
+    "description": "A glider for soaring through the air. With its capabilities improved, it can soar at high speeds.",
+    "name": "Giga Glider",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 100
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "High Quality Cloth",
+        "amount": 10
+      }
+    ]
+  },
+  "Lantern": {
+    "dev_name": "Lantern",
+    "description": "A lantern that can be attached to the hip. It lights up automatically at night.\r\nJust one is enough to find your way in the dark.",
+    "name": "Hip Lantern",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Ancient Civilization Parts",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier1": {
+    "dev_name": "AutoMealPouch_Tier1",
+    "description": "Unlocks a food slot in your inventory. Players and Pals automatically consume food when hungry.",
+    "name": "Small Feed Bag",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 3
+      }
+    ]
+  },
+  "AutoMealPouch_Tier2": {
+    "dev_name": "AutoMealPouch_Tier2",
+    "description": "A decently sized pouch for holding food. Unlocks 2 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "name": "Average Feed Bag",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier3": {
+    "dev_name": "AutoMealPouch_Tier3",
+    "description": "A large pouch for holding food. Unlocks 3 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "name": "Large Feed Bag",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 50
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      }
+    ]
+  },
+  "AutoMealPouch_Tier4": {
+    "dev_name": "AutoMealPouch_Tier4",
+    "description": "An extremely large pouch for holding food. Unlocks 4 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "name": "Huge Feed Bag",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 90
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 35
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier5": {
+    "dev_name": "AutoMealPouch_Tier5",
+    "description": "An extraordinarily large sack for storing food. Unlocks 5 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "name": "Giant Feed Bag",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 200
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Carbon Fiber",
+        "amount": 20
+      }
+    ]
+  },
+  "Cloth": {
+    "dev_name": "Cloth",
+    "description": "Cloth woven from Wool. Required to create armor.",
+    "name": "Cloth",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "Wool",
+        "amount": 2
+      }
+    ]
+  },
+  "Cloth2": {
+    "dev_name": "Cloth2",
+    "description": "Woven from large amounts of Wool. Required to create high quality armor.\r\nCan be made at High Quality Workbench.",
+    "name": "High Quality Cloth",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "Wool",
+        "amount": 10
+      }
+    ]
+  },
+  "Gunpowder2": {
+    "dev_name": "Gunpowder2",
+    "description": "Gunpowder used to fire ammunition. Required to make bullets.\r\nCan be made at High Quality Workbench.",
+    "name": "Gunpowder",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Charcoal",
+        "name": "Charcoal",
+        "amount": 2
+      },
+      {
+        "dev_name": "Sulfur",
+        "name": "Sulfur",
+        "amount": 1
+      }
+    ]
+  },
+  "Charcoal": {
+    "dev_name": "Charcoal",
+    "description": "Charcoal made from burning Wood. It can be combined with Sulfur to create Gunpowder.",
+    "name": "Charcoal",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 2
+      }
+    ]
+  },
+  "MachineParts": {
+    "dev_name": "MachineParts",
+    "description": "Necessary for building various facilities. Can be made with a Primitive Workbench.",
+    "name": "Nail",
+    "creates_amount": 2,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 1
+      }
+    ]
+  },
+  "MachineParts2": {
+    "dev_name": "MachineParts2",
+    "description": "Circuit Board required to create precision equipment. Can be made at High Quality Workbench.",
+    "name": "Circuit Board",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Quartz",
+        "name": "Pure Quartz",
+        "amount": 4
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 2
+      }
+    ]
+  },
+  "Polymer": {
+    "dev_name": "Polymer",
+    "description": "Made from refined oil. Required for producing various advanced items such as rifles.",
+    "name": "Polymer",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 2
+      }
+    ]
+  },
+  "Cement": {
+    "dev_name": "Cement",
+    "description": "Cement used for creating structures and more. Can be produced in a High Quality Workbench.",
+    "name": "Cement",
+    "creates_amount": 10,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 1
+      }
+    ]
+  },
+  "CarbonFiber": {
+    "dev_name": "CarbonFiber",
+    "description": "A lightweight yet sturdy material. Used to create armor among other equipment.",
+    "name": "Carbon Fiber",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Coal",
+        "name": "Coal",
+        "amount": 2
+      }
+    ]
+  },
+  "RepairKit": {
+    "dev_name": "RepairKit",
+    "description": "Used for repairing destroyed structures. Use on destroyed structures.",
+    "name": "Repair Kit",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperIngot": {
+    "dev_name": "CopperIngot",
+    "description": "A material required to create metal weapons and armor. Refined from Ore using a furnace.",
+    "name": "Ingot",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Ore",
+        "amount": 2
+      }
+    ]
+  },
+  "IronIngot": {
+    "dev_name": "IronIngot",
+    "description": "A material required to create high quality metal weapons and armor. Refined from Ore and Coal using a furnace.",
+    "name": "Refined Ingot",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Ore",
+        "amount": 2
+      },
+      {
+        "dev_name": "Coal",
+        "name": "Coal",
+        "amount": 2
+      }
+    ]
+  },
+  "StealIngot": {
+    "dev_name": "StealIngot",
+    "description": "Material required to create weapons and armor using Pal Metal. Made stronger by creating an alloy from metal and Paldium.",
+    "name": "Pal Metal Ingot",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Ore",
+        "amount": 4
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 2
+      }
+    ]
+  },
+  "Herbs": {
+    "dev_name": "Herbs",
+    "description": "Low Grade Medical Supplies good for colds and sprains. They don't heal HP when eaten, however.",
+    "name": "Low Grade Medical Supplies",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 2
+      }
+    ]
+  },
+  "Medicines": {
+    "dev_name": "Medicines",
+    "description": "Strange Medical Supplies that are effective at treating Ulcer and Fracture. they do not heal Health.",
+    "name": "Medical Supplies",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 1
+      }
+    ]
+  },
+  "LuxuryMedicines": {
+    "dev_name": "LuxuryMedicines",
+    "description": "High Grade Medical Supplies that are effective at treating Weakened and Depressed. they do not heal Health.",
+    "name": "High Grade Medical Supplies",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 2
+      }
+    ]
+  },
+  "MindControlDrug": {
+    "dev_name": "MindControlDrug",
+    "description": "Mind Control Meds that are extremely effective in controlling dissidents. they do not heal Health.",
+    "name": "Mind Control Meds",
+    "creates_amount": 1,
+    "work_required": 1000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 10
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 3
+      }
+    ]
+  },
+  "Opium": {
+    "dev_name": "Opium",
+    "description": "Juice that improves mood when consumed. Drinking it greatly increases work speed for a period of time,\r\nbut lowers SAN.",
+    "name": "Suspicious Juice",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Beautiful Flower",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 1
+      }
+    ]
+  },
+  "Narcotic": {
+    "dev_name": "Narcotic",
+    "description": "Juice that greatly improves mood when consumed. Drinking it significantly increases work speed for a period of time,\r\nbut significantly lowers SAN.",
+    "name": "Strange Juice",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Beautiful Flower",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 2
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 2
+      }
+    ]
+  },
+  "StatusPointResetSan": {
+    "dev_name": "StatusPointResetSan",
+    "description": "A potion that allows the player to reset status points when consumed. It has no effect if consumed by Pal.",
+    "name": "Memory Wiping Medicine",
+    "creates_amount": 1,
+    "work_required": 3000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Beautiful Flower",
+        "amount": 99
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Bone",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 50
+      }
+    ]
+  },
+  "Fiber": {
+    "dev_name": "Fiber",
+    "description": "Fiber collected from trees. A material used when creating bows, etc.",
+    "name": "Fiber",
+    "creates_amount": 2,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 1
+      }
+    ]
+  },
+  "Pal_crystal_S": {
+    "dev_name": "Pal_crystal_S",
+    "description": "Crystallized energy from the World Tree. Capable of creating supernatural items and structures.",
+    "name": "Paldium Fragment",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 5
+      }
+    ]
+  },
+  "BerrySeeds": {
+    "dev_name": "BerrySeeds",
+    "description": "Seeds that produce Red Berries. Necessary for starting a farm.\r\nCan be obtained when picking Red Berries.",
+    "name": "Berry Seeds",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      }
+    ]
+  },
+  "TomatoSeeds": {
+    "dev_name": "TomatoSeeds",
+    "description": "Seeds that produce Tomato. Necessary for starting a farm.\r\nCan be purchased from a merchant.",
+    "name": "Tomato Seeds",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "Tomato",
+        "amount": 2
+      }
+    ]
+  },
+  "LettuceSeeds": {
+    "dev_name": "LettuceSeeds",
+    "description": "Seeds that produce Lettuce. Necessary for starting a farm.\r\nCan be purchased from a merchant.",
+    "name": "Lettuce Seeds",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "Lettuce",
+        "amount": 2
+      }
+    ]
+  },
+  "WheatSeeds": {
+    "dev_name": "WheatSeeds",
+    "description": "Seeds that produce Wheat. Necessary for starting a farm.\r\nCan be purchased from a merchant.",
+    "name": "Wheat Seeds",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "Wheat",
+        "amount": 2
+      }
+    ]
+  },
+  "Flour": {
+    "dev_name": "Flour",
+    "description": "Flour made from grinding Wheat. It can be used as an ingredient for Bread.",
+    "name": "Flour",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "Wheat",
+        "amount": 3
+      }
+    ]
+  },
+  "Baked_Berries": {
+    "dev_name": "Baked_Berries",
+    "description": "Cooking enhances their nutritional value, and surprisingly, they are quite filling.",
+    "name": "Baked Berries",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMushroom": {
+    "dev_name": "BakedMushroom",
+    "description": "Cooking this mushroom enhances its nutritional value. Curiously, it's also quite filling.",
+    "name": "Baked Mushroom",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Mushroom",
+        "amount": 1
+      }
+    ]
+  },
+  "Pan": {
+    "dev_name": "Pan",
+    "description": "Bread made from baked Flour. A tasty staple food.",
+    "name": "Bread",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      }
+    ]
+  },
+  "FriedEggs": {
+    "dev_name": "FriedEggs",
+    "description": "An Egg now fried and even more delicious. Great for keeping hunger away.",
+    "name": "Fried Egg",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 1
+      }
+    ]
+  },
+  "HotMilk": {
+    "dev_name": "HotMilk",
+    "description": "Even more delicious when warmed up. Great for keeping hunger away.",
+    "name": "Hot Milk",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 1
+      }
+    ]
+  },
+  "JamBun": {
+    "dev_name": "JamBun",
+    "description": "A dish where jam is spread on the Bread. When consumed, it temporarily provides Defense +10%.",
+    "name": "Jam-filled Bun",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      }
+    ]
+  },
+  "Pancake": {
+    "dev_name": "Pancake",
+    "description": "A dish baked by mixing Flour and Milk. It progressively decreases the rate at which one's sanity decreases when eaten.",
+    "name": "Pancake",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 1
+      }
+    ]
+  },
+  "Salad": {
+    "dev_name": "Salad",
+    "description": "A Salad made by mixing Lettuce and Tomato. When consumed, it temporarily grants Attack +15%, Defense -5%.",
+    "name": "Salad",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "Lettuce",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Tomato",
+        "amount": 2
+      }
+    ]
+  },
+  "Omelet": {
+    "dev_name": "Omelet",
+    "description": "A dish where Egg is fried and ketchup is added. Eating it results in a temporary Attack -5%, Defense+15%.",
+    "name": "Omelet",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "Tomato",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 2
+      }
+    ]
+  },
+  "MarinatedMushrooms": {
+    "dev_name": "MarinatedMushrooms",
+    "description": "A dish made by marinating Mushroom in a marinade. Eating it temporarily increases work speed.",
+    "name": "Marinated Mushrooms",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Mushroom",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      }
+    ]
+  },
+  "MushroomSoup": {
+    "dev_name": "MushroomSoup",
+    "description": "Cream soup made of Mushroom. When eaten, it raises the work speed and improves the stomach fullness for a certain time.",
+    "name": "Mushroom Soup",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Mushroom",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 2
+      }
+    ]
+  },
+  "Pizza": {
+    "dev_name": "Pizza",
+    "description": "A dish made by piling Red Berries, Tomato and cheese on Bread. Eating it improves Defense by +15% temporarily.",
+    "name": "Pizza",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Tomato",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 2
+      }
+    ]
+  },
+  "Carbonara": {
+    "dev_name": "Carbonara",
+    "description": "A dish mixing pasta with Egg and Milk. Eating it makes it harder for sanity to decrease and improves Defense by +10% for a certain amount of time.",
+    "name": "Carbonara",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 2
+      }
+    ]
+  },
+  "Cake": {
+    "dev_name": "Cake",
+    "description": "A dish that is eaten during celebrations. It is essential when Pals lay eggs at the breeding farm.",
+    "name": "Cake",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 5
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 8
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 7
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 8
+      },
+      {
+        "dev_name": "Honey",
+        "name": "Honey",
+        "amount": 2
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog": {
+    "dev_name": "SkillUnlock_Hedgehog",
+    "description": "The Jolthog's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Jolthog's Gloves",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Electric Organ",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog_Ice": {
+    "dev_name": "SkillUnlock_Hedgehog_Ice",
+    "description": "Rubber gloves for handling Jolthog Cryst. Activate its Partner Skill, and Jolthog Cryst\r\nwill throw ice grenades.",
+    "name": "Jolthog Cryst's Gloves",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 6
+      }
+    ]
+  },
+  "SkillUnlock_Kitsunebi": {
+    "dev_name": "SkillUnlock_Kitsunebi",
+    "description": "The Foxparks's Harness becomes craftable at the Pal Gear Workbench.",
+    "name": "Foxparks's Harness",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Alpaca": {
+    "dev_name": "SkillUnlock_Alpaca",
+    "description": "The Melpaca Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Melpaca Saddle",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Wool",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_MopKing": {
+    "dev_name": "SkillUnlock_MopKing",
+    "description": "The Sweepa Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Sweepa Saddle",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 8
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Boar": {
+    "dev_name": "SkillUnlock_Boar",
+    "description": "The Rushoar Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Rushoar Saddle",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_FlyingManta": {
+    "dev_name": "SkillUnlock_FlyingManta",
+    "description": "The Celaray's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Celaray's Gloves",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Carbunclo": {
+    "dev_name": "SkillUnlock_Carbunclo",
+    "description": "The Lifmunk's Submachine Gun becomes craftable at the Pal Gear Workbench.",
+    "name": "Lifmunk's Submachine Gun",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Garm": {
+    "dev_name": "SkillUnlock_Garm",
+    "description": "The Direhowl's Saddled Harness becomes craftable at the Pal Gear Workbench.",
+    "name": "Direhowl's Saddled Harness",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Monkey": {
+    "dev_name": "SkillUnlock_Monkey",
+    "description": "The Tanzee's Assault Rifle becomes craftable at the Pal Gear Workbench.",
+    "name": "Tanzee's Assault Rifle",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent": {
+    "dev_name": "SkillUnlock_Serpent",
+    "description": "The Surfent Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Surfent Saddle",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent_Ground": {
+    "dev_name": "SkillUnlock_Serpent_Ground",
+    "description": "Saddle for safely riding Surfent Terra.",
+    "name": "Aquadon Terra Saddle",
+    "creates_amount": 1,
+    "work_required": 9600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 6
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_Deer": {
+    "dev_name": "SkillUnlock_Deer",
+    "description": "The Eikthyrdeer Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Eikthyrdeer Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_Deer_Ground": {
+    "dev_name": "SkillUnlock_Deer_Ground",
+    "description": "The Hangyu's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Eikthyrdeer Terra Saddle",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 6
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 12
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 18
+      }
+    ]
+  },
+  "SkillUnlock_NaughtyCat": {
+    "dev_name": "SkillUnlock_NaughtyCat",
+    "description": "The Grintale Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Grintale Saddle",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Kirin": {
+    "dev_name": "SkillUnlock_Kirin",
+    "description": "The Univolt Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Univolt Saddle",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Electric Organ",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_NegativeOctopus": {
+    "dev_name": "SkillUnlock_NegativeOctopus",
+    "description": "The Killamari's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Killamari's Gloves",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Venom Gland",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_ColorfulBird": {
+    "dev_name": "SkillUnlock_ColorfulBird",
+    "description": "The Tocotoco's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Tocotoco's Gloves",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_HawkBird": {
+    "dev_name": "SkillUnlock_HawkBird",
+    "description": "The Nitewing Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Nitewing Saddle",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlameBuffalo": {
+    "dev_name": "SkillUnlock_FlameBuffalo",
+    "description": "The Arsox Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Arsox Saddle",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_FlowerRabbit": {
+    "dev_name": "SkillUnlock_FlowerRabbit",
+    "description": "The Flopie's Necklace becomes craftable at the Pal Gear Workbench.",
+    "name": "Flopie's Necklace",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_DrillGame": {
+    "dev_name": "SkillUnlock_DrillGame",
+    "description": "The Digtoise's Headband becomes craftable at the Pal Gear Workbench.",
+    "name": "Digtoise's Headband",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Penguin": {
+    "dev_name": "SkillUnlock_Penguin",
+    "description": "The Pengullet's Rocket Launcher becomes craftable at the Pal Gear Workbench.",
+    "name": "Pengullet's Rocket Launcher",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Stone",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur": {
+    "dev_name": "SkillUnlock_FlowerDinosaur",
+    "description": "The Dinossom Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Dinossom Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur_Electric": {
+    "dev_name": "SkillUnlock_FlowerDinosaur_Electric",
+    "description": "Saddle for safely riding Dinossom Lux.",
+    "name": "Dinossom Lux Saddle",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_DreamDemon": {
+    "dev_name": "SkillUnlock_DreamDemon",
+    "description": "The Daedream's Necklace becomes craftable at the Pal Gear Workbench.",
+    "name": "Daedream's Necklace",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus": {
+    "dev_name": "SkillUnlock_SakuraSaurus",
+    "description": "The Broncherry Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Broncherry Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus_Water": {
+    "dev_name": "SkillUnlock_SakuraSaurus_Water",
+    "description": "Saddle for safely riding Broncherry Aqua.",
+    "name": "Water Broncherry Saddle",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon": {
+    "dev_name": "SkillUnlock_BirdDragon",
+    "description": "The Vanwyrm Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Vanwyrm Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon_Ice": {
+    "dev_name": "SkillUnlock_BirdDragon_Ice",
+    "description": "Saddle for safely riding Vanwyrm Cryst.",
+    "name": "Vanwyrm Cryst Saddle",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_WeaselDragon": {
+    "dev_name": "SkillUnlock_WeaselDragon",
+    "description": "The Chillet Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Chillet Saddle",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes": {
+    "dev_name": "SkillUnlock_WindChimes",
+    "description": "The Hangyu's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Hangyu's Gloves",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 5
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes_Ice": {
+    "dev_name": "SkillUnlock_WindChimes_Ice",
+    "description": "Gloves for gently holding on to Hangyu Cryst's arms. If Hangyu Cryst is in your team, it can be used as a glider.",
+    "name": "Hangyu Cryst's Glove",
+    "creates_amount": 1,
+    "work_required": 12000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 6
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca": {
+    "dev_name": "SkillUnlock_KingAlpaca",
+    "description": "The Kingpaca Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Kingpaca Saddle",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Wool",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca_Ice": {
+    "dev_name": "SkillUnlock_KingAlpaca_Ice",
+    "description": "Saddle for safely riding Ice Kingpaca.",
+    "name": "Ice Kingpaca Saddle",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 18
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Wool",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon": {
+    "dev_name": "SkillUnlock_FairyDragon",
+    "description": "The Elphidran Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Elphidran Saddle",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon_Water": {
+    "dev_name": "SkillUnlock_FairyDragon_Water",
+    "description": "Saddle for safely riding Elphidran Aqua.",
+    "name": "Water Elphidran Saddle",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_RaijinDaughter": {
+    "dev_name": "SkillUnlock_RaijinDaughter",
+    "description": "The Dazzi's Necklace becomes craftable at the Pal Gear Workbench.",
+    "name": "Dazzi's Necklace",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Eagle": {
+    "dev_name": "SkillUnlock_Eagle",
+    "description": "The Galeclaw's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Galeclaw's Gloves",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GhostBeast": {
+    "dev_name": "SkillUnlock_GhostBeast",
+    "description": "The Maraith Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Maraith Saddle",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 25
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda": {
+    "dev_name": "SkillUnlock_GrassPanda",
+    "description": "The Mossanda's Grenade Launcher becomes craftable at the Pal Gear Workbench.",
+    "name": "Mossanda's Grenade Launcher",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda_Electric": {
+    "dev_name": "SkillUnlock_GrassPanda_Electric",
+    "description": "Makes Mossanda Lux fire a grenade launcher when ridden.",
+    "name": "Mossanda Lux's Grenade Launcher",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster": {
+    "dev_name": "SkillUnlock_VolcanicMonster",
+    "description": "The Reptyro Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Reptyro Saddle",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster_Ice": {
+    "dev_name": "SkillUnlock_VolcanicMonster_Ice",
+    "description": "Saddle for safely riding Ice Reptyro.",
+    "name": "Ice Reptyro Saddle",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin": {
+    "dev_name": "SkillUnlock_FireKirin",
+    "description": "The Pyrin Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Pyrin Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin_Dark": {
+    "dev_name": "SkillUnlock_FireKirin_Dark",
+    "description": "Saddle for safely riding Pyrin Noct.",
+    "name": "Dark Pyrin Saddle",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 36
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth": {
+    "dev_name": "SkillUnlock_GrassMammoth",
+    "description": "The Mammorest Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Mammorest Saddle",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 70
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 60
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth_Ice": {
+    "dev_name": "SkillUnlock_GrassMammoth_Ice",
+    "description": "Saddle for safely riding Mammorest Cryst.",
+    "name": "Mammorest Cryst Saddle",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 60
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 84
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 12
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Wood",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 72
+      }
+    ]
+  },
+  "SkillUnlock_BlueDragon": {
+    "dev_name": "SkillUnlock_BlueDragon",
+    "description": "The Azurobe Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Azurobe Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi": {
+    "dev_name": "SkillUnlock_Umihebi",
+    "description": "The Jormuntide Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Jormuntide Saddle",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi_Fire": {
+    "dev_name": "SkillUnlock_Umihebi_Fire",
+    "description": "The Hangyu's Gloves becomes craftable at the Pal Gear Workbench.",
+    "name": "Jormuntide Ignis Saddle",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 60
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_AmaterasuWolf": {
+    "dev_name": "SkillUnlock_AmaterasuWolf",
+    "description": "The Kitsun Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Kitsun Saddle",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_ThunderDog": {
+    "dev_name": "SkillUnlock_ThunderDog",
+    "description": "The Rayhound Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Rayhound Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Electric Organ",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Manticore": {
+    "dev_name": "SkillUnlock_Manticore",
+    "description": "The Blazehowl Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Blazehowl Saddle",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 50
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_Manticore_Dark": {
+    "dev_name": "SkillUnlock_Manticore_Dark",
+    "description": "Saddle for safely riding Blazehowl Noct.",
+    "name": "Dark Kingferno Saddle",
+    "creates_amount": 1,
+    "work_required": 36000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 36
+      }
+    ]
+  },
+  "SkillUnlock_IceDeer": {
+    "dev_name": "SkillUnlock_IceDeer",
+    "description": "The Reindrix Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Reindrix Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 25
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Horn",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_ThunderBird": {
+    "dev_name": "SkillUnlock_ThunderBird",
+    "description": "The Beakon Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Beakon Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Electric Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_RedArmorBird": {
+    "dev_name": "SkillUnlock_RedArmorBird",
+    "description": "The Ragnahawk Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Ragnahawk Saddle",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Horus": {
+    "dev_name": "SkillUnlock_Horus",
+    "description": "The Faleris Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Faleris Saddle",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_SkyDragon": {
+    "dev_name": "SkillUnlock_SkyDragon",
+    "description": "The Quivern Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Quivern Saddle",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_HadesBird": {
+    "dev_name": "SkillUnlock_HadesBird",
+    "description": "The Helzephyr Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Helzephyr Saddle",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Electric Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_FengyunDeeper": {
+    "dev_name": "SkillUnlock_FengyunDeeper",
+    "description": "The Fenglope Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Fenglope Saddle",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Cloth",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku": {
+    "dev_name": "SkillUnlock_Suzaku",
+    "description": "The Suzaku Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Suzaku Saddle",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Flame Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku_Water": {
+    "dev_name": "SkillUnlock_Suzaku_Water",
+    "description": "Saddle for safely riding Suzaku Aqua.",
+    "name": "Water Suzaku Saddle",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 24
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Pal Fluids",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_KingBahamut": {
+    "dev_name": "SkillUnlock_KingBahamut",
+    "description": "The Blazamut Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Blazamut Saddle",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti": {
+    "dev_name": "SkillUnlock_Yeti",
+    "description": "The Wumpo Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Wumpo Saddle",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti_Grass": {
+    "dev_name": "SkillUnlock_Yeti_Grass",
+    "description": "Saddle for safely riding Wumpo Botan.",
+    "name": "Wumpo Botan Saddle",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 36
+      },
+      {
+        "dev_name": "Poppy",
+        "name": "Beautiful Flower",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fiber",
+        "amount": 60
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_ElecPanda": {
+    "dev_name": "SkillUnlock_ElecPanda",
+    "description": "The Grizzbolt's Minigun becomes craftable at the Pal Gear Workbench.",
+    "name": "Grizzbolt's Minigun",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_BlackGriffon": {
+    "dev_name": "SkillUnlock_BlackGriffon",
+    "description": "The Shadowbeak Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Shadowbeak Saddle",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 40
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Venom Gland",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 45
+      }
+    ]
+  },
+  "SkillUnlock_BlackMetalDragon": {
+    "dev_name": "SkillUnlock_BlackMetalDragon",
+    "description": "The Astegon Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Astegon Saddle",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 55
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon": {
+    "dev_name": "SkillUnlock_LazyDragon",
+    "description": "The Relaxaurus's Missile Launcher becomes craftable at the Pal Gear Workbench.",
+    "name": "Relaxaurus's Missile Launcher",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 35
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon_Electric": {
+    "dev_name": "SkillUnlock_LazyDragon_Electric",
+    "description": "Makes Relaxaurus Lux fire a missile launcher when ridden.",
+    "name": "Relaxaurus Lux's Missile Launcher",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polymer",
+        "amount": 42
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 102
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse": {
+    "dev_name": "SkillUnlock_IceHorse",
+    "description": "The Frostallion Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Frostallion Saddle",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 200
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Ice Organ",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse_Dark": {
+    "dev_name": "SkillUnlock_IceHorse_Dark",
+    "description": "Saddle for safely riding Frostallion Noct.",
+    "name": "Frostallion Noct Saddle",
+    "creates_amount": 1,
+    "work_required": 180000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 120
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 240
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Venom Gland",
+        "amount": 60
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 90
+      }
+    ]
+  },
+  "SkillUnlock_SaintCentaur": {
+    "dev_name": "SkillUnlock_SaintCentaur",
+    "description": "The Paladius Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Paladius Saddle",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_BlackCentaur": {
+    "dev_name": "SkillUnlock_BlackCentaur",
+    "description": "The Necromus Saddle becomes craftable at the Pal Gear Workbench.",
+    "name": "Necromus Saddle",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Ingot",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_JetDragon": {
+    "dev_name": "SkillUnlock_JetDragon",
+    "description": "The Jetragon's Missile Launcher becomes craftable at the Pal Gear Workbench.",
+    "name": "Jetragon's Missile Launcher",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Leather",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Refined Ingot",
+        "amount": 200
+      },
+      {
+        "dev_name": "MachineParts2",
+        "name": "Circuit Board",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Paldium Fragment",
+        "amount": 140
+      }
+    ]
+  },
+  "BakedMeat_ChickenPal": {
+    "dev_name": "BakedMeat_ChickenPal",
+    "description": "Chicken skewer slow-grilled over a charcoal fire. Light and refreshing on the tongue.",
+    "name": "Grilled Chikipi",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Chikipi Poultry",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SheepBall": {
+    "dev_name": "BakedMeat_SheepBall",
+    "description": "Spiced and roasted mutton. Deeply complex with unique flavors.",
+    "name": "Lamball Kebab",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Lamball Mutton",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Kelpie": {
+    "dev_name": "BakedMeat_Kelpie",
+    "description": "Fresh fish grilled over a charcoal fire. Plump and juicy.",
+    "name": "Grilled Kelpsea",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "Raw Kelpsea",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Eagle": {
+    "dev_name": "BakedMeat_Eagle",
+    "description": "Grilled meat full of vitality for flying high in the skies.",
+    "name": "Grilled Galeclaw",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "Galeclaw Poultry",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Boar": {
+    "dev_name": "BakedMeat_Boar",
+    "description": "Boar grilled over a hearty flame. Crispy on the outside, juicy on the inside.\r\nPerfect as an extravagant main dish for a big party.",
+    "name": "Roast Rushoar",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Rushoar Pork",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_LazyCatfish": {
+    "dev_name": "BakedMeat_LazyCatfish",
+    "description": "Grilled fish slathered with a secret sauce. Soothes both mind and body.\r\nPerfect for tired Pal Tamers.",
+    "name": "Broiled Dumud",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "Raw Dumud",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Deer": {
+    "dev_name": "BakedMeat_Deer",
+    "description": "Carefully roasted venison with delicate flavor notes accented by the aromas of the deep forest.\r\nElegant taste for an elegant lifestyle.",
+    "name": "Roast Eikthyrdeer",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Eikthyrdeer Venison",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_IceDeer": {
+    "dev_name": "BakedMeat_IceDeer",
+    "description": "When taken from a flame, Reindrix meat rapidly drops in temperature. This allows it to retain freshness for long periods of time,\r\nmaking it a perfect emergency ration.",
+    "name": "Roast Reindrix",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "Reindrix Venison",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_BerryGoat": {
+    "dev_name": "BakedMeat_BerryGoat",
+    "description": "Mild roast filled with the natural aromas of herbs and berries embedded in the meat.\r\nGives a pleasant sense of warmth when eaten outdoors.",
+    "name": "Herb Roasted Caprity",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_BerryGoat",
+        "name": "Caprity Meat",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_CowPal": {
+    "dev_name": "BakedMeat_CowPal",
+    "description": "Thick, well-done steak. Strong flavors give those who eat it an energy boost.",
+    "name": "Mozzarina Steak",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Mozzarina Meat",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SakuraSaurus": {
+    "dev_name": "BakedMeat_SakuraSaurus",
+    "description": "Grilled meat brimming with the flavor of the king of the wilds. Juices from the compressed meat flow from the bone,\r\nmaking it surprisingly tender despite the initial toughness.",
+    "name": "Broncherry Rib Roast",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SakuraSaurus",
+        "name": "Broncherry Meat",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_GrassMammoth": {
+    "dev_name": "BakedMeat_GrassMammoth",
+    "description": "Boasts a rich and dignified flavor. Memories of glaciers and deep forests come rushing back with every bite.",
+    "name": "Mammorest Steak",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_GrassMammoth",
+        "name": "Mammorest Meat",
+        "amount": 1
+      }
+    ]
+  },
+  "ChickenSaute": {
+    "dev_name": "ChickenSaute",
+    "description": "Plump poultry sautéed in butter. Accented with fresh lemons.\r\nEat to slightly increase work speed for a period of time.",
+    "name": "Chikipi Sauté",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Chikipi Poultry",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      }
+    ]
+  },
+  "GrilledSheepHerbs": {
+    "dev_name": "GrilledSheepHerbs",
+    "description": "Indulges in an abundance of fresh berries to create a tantalizing aroma that accentuates the unique flavor of mutton.\r\nEat to increase Defense by +10% for a period of time.",
+    "name": "Herb Roasted Lamball",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Lamball Mutton",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      }
+    ]
+  },
+  "GenghisKhan": {
+    "dev_name": "GenghisKhan",
+    "description": "Marinated mutton slow cooked over a grill. Eat to slightly increase work speed\r\nand make SAN decrease slightly slower for a period of time.",
+    "name": "Grilled Lamball",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Lamball Mutton",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lettuce",
+        "amount": 2
+      }
+    ]
+  },
+  "Eaglestew": {
+    "dev_name": "Eaglestew",
+    "description": "Slow-cooked dish that exudes a burst of rich, wild flavors. Eat to make SAN decrease slightly slower for a period of time.",
+    "name": "Stewed Galeclaw",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "Galeclaw Poultry",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      }
+    ]
+  },
+  "BaconEggs": {
+    "dev_name": "BaconEggs",
+    "description": "The smoky essence of bacon intertwines flawlessly with the gentle texture of eggs, creating a sublime harmony of flavors.\r\nEat to increase Attack by +10% for a period of time.",
+    "name": "Rushoar Bacon 'n' Eggs",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Rushoar Pork",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 2
+      }
+    ]
+  },
+  "StewedIceDeer": {
+    "dev_name": "StewedIceDeer",
+    "description": "Stewed vegetables and venison reared in a frigid environment. The meat's soft texture melts away to reveal a delicate sweetness.\r\nEat to stay full slightly longer for a period of time.",
+    "name": "Reindrix Stew",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "Reindrix Venison",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Tomato",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedChicken": {
+    "dev_name": "FriedChicken",
+    "description": "Magnificently juicy poultry. Eat to increase work speed\r\nand make SAN decrease slower for a period of time.",
+    "name": "Fried Chikipi",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Chikipi Poultry",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 1
+      }
+    ]
+  },
+  "HotDog_2": {
+    "dev_name": "HotDog_2",
+    "description": "Thick sausage wedged between warm buns. The crisply seared meat and spicy flavors are to die for.\r\nEat to increase Defense by +20% for a period of time.",
+    "name": "Rushoar Hot Dog",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Rushoar Pork",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lettuce",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerLocoMoco": {
+    "dev_name": "DeerLocoMoco",
+    "description": "Thick hamburger steak accented with a creamy fried egg. This sublime combination brings pure joy to the mouths of those who eat it.\r\nEat to increase Attack by +20% for a period of time.",
+    "name": "Eikthyrdeer Loco Moco",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Eikthyrdeer Venison",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Red Berries",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerStew": {
+    "dev_name": "DeerStew",
+    "description": "A tender, melt-in-your-mouth venison stew crafted with love. The intertwining flavors of vegetables and meat create a harmonious blend that brings out a comforting richness.\r\nEat to increase Defense by +20% for a period of time.",
+    "name": "Eikthyrdeer Stew",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Eikthyrdeer Venison",
+        "amount": 2
+      },
+      {
+        "dev_name": "Mushroom",
+        "name": "Mushroom",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 2
+      }
+    ]
+  },
+  "Hamburger_2": {
+    "dev_name": "Hamburger_2",
+    "description": "The rich flavor of beef melds with the sweetness of the buns in perfect harmony in this masterpiece. Eat to increase work speed\r\nand make SAN decrease slightly slower for a period of time.",
+    "name": "Mozzarina Hamburger",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Mozzarina Meat",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lettuce",
+        "amount": 2
+      }
+    ]
+  },
+  "Cheeseburger_2": {
+    "dev_name": "Cheeseburger_2",
+    "description": "Now with cheese, this dish has reached the highest level of fine cuisine. Eat to increase Attack by +20%\r\nand stay full longer for a period of time.",
+    "name": "Mozzarina Cheeseburger",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Mozzarina Meat",
+        "amount": 2
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Tomato",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Milk",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedKelpie": {
+    "dev_name": "FriedKelpie",
+    "description": "Crunchy fried batter perfectly accentuates the Kelpsea's plumpness. Eat to increase Defense by +10%\r\nand make SAN decrease slower for a period of time.",
+    "name": "Fried Kelpsea",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "Raw Kelpsea",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Egg",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "High Quality Pal Oil",
+        "amount": 1
+      }
+    ]
+  },
+  "Chowder": {
+    "dev_name": "Chowder",
+    "description": "Dumud lavishly covered in a thick, creamy soup. Eat to increase work speed\r\nand stay full slightly longer for a period of time.",
+    "name": "Dumud Chowder",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "Raw Dumud",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lettuce",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Tomato",
+        "amount": 2
+      }
+    ]
+  }
+}

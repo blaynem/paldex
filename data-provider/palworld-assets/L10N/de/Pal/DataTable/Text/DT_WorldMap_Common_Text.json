@@ -1,0 +1,479 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_WorldMap_Common_Text",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "REGION_Grass_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_TextData",
+          "SourceString": "Windstieghügel",
+          "LocalizedString": "Windstieghügel"
+        }
+      },
+      "REGION_Grass_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_2_TextData",
+          "SourceString": "Bambusklamm",
+          "LocalizedString": "Bambusklamm"
+        }
+      },
+      "REGION_Forest_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_1_TextData",
+          "SourceString": "Mondsichelstrand",
+          "LocalizedString": "Mondsichelstrand"
+        }
+      },
+      "REGION_Forest_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_2_TextData",
+          "SourceString": "Grünbach",
+          "LocalizedString": "Grünbach"
+        }
+      },
+      "REGION_Volcano_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_1_TextData",
+          "SourceString": "Obsidiankrater",
+          "LocalizedString": "Obsidiankrater"
+        }
+      },
+      "REGION_Desert_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_1_TextData",
+          "SourceString": "Durstdünen",
+          "LocalizedString": "Durstdünen"
+        }
+      },
+      "REGION_Frost_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_1_TextData",
+          "SourceString": "Geisterzinne",
+          "LocalizedString": "Geisterzinne"
+        }
+      },
+      "REGION_Frost_small": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_small_TextData",
+          "SourceString": "Eisgrat",
+          "LocalizedString": "Eisgrat"
+        }
+      },
+      "REGION_Desert_Small": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_Small_TextData",
+          "SourceString": "Dämmersande",
+          "LocalizedString": "Dämmersande"
+        }
+      },
+      "REGION_Grass_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_Boss_TextData",
+          "SourceString": "Turm des Rayne-Syndikats",
+          "LocalizedString": "Turm des Rayne-Syndikats"
+        }
+      },
+      "REGION_Forest_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_Boss_TextData",
+          "SourceString": "Turm der Liga der Palfreunde",
+          "LocalizedString": "Turm der Liga der Palfreunde"
+        }
+      },
+      "REGION_Desert_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_Boss_TextData",
+          "SourceString": "Turm der Miliz",
+          "LocalizedString": "Turm der Miliz"
+        }
+      },
+      "REGION_Volcano_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_Boss_TextData",
+          "SourceString": "Turm der Bruderschaft der ewigen Lohe",
+          "LocalizedString": "Turm der Bruderschaft der ewigen Lohe"
+        }
+      },
+      "REGION_Frost_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_Boss_TextData",
+          "SourceString": "Turm des Instituts für Genforschung",
+          "LocalizedString": "Turm des Instituts für Genforschung"
+        }
+      },
+      "REGION_TEST_CHICKEN": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_TEST_CHICKEN_TextData",
+          "SourceString": "de_Text",
+          "LocalizedString": "de_Text"
+        }
+      },
+      "REGION_Grass_1_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_Church_TextData",
+          "SourceString": "Verlassene Kirche",
+          "LocalizedString": "Verlassene Kirche"
+        }
+      },
+      "REGION_Grass_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_Village_TextData",
+          "SourceString": "Kleines Dorf",
+          "LocalizedString": "Kleines Dorf"
+        }
+      },
+      "REGION_Desert_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_1_Village_TextData",
+          "SourceString": "Wüstenstadt",
+          "LocalizedString": "Wüstenstadt"
+        }
+      },
+      "REGION_Volcano_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_1_Village_TextData",
+          "SourceString": "Abgelegenes Fischerdorf",
+          "LocalizedString": "Abgelegenes Fischerdorf"
+        }
+      },
+      "REGION_Preserve1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve1_TextData",
+          "SourceString": "1. Naturschutzgebiet",
+          "LocalizedString": "1. Naturschutzgebiet"
+        }
+      },
+      "REGION_Preserve2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve2_TextData",
+          "SourceString": "2. Naturschutzgebiet",
+          "LocalizedString": "2. Naturschutzgebiet"
+        }
+      },
+      "REGION_Preserve3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve3_TextData",
+          "SourceString": "3. Naturschutzgebiet",
+          "LocalizedString": "3. Naturschutzgebiet"
+        }
+      },
+      "REGION_Statue1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue1_TextData",
+          "SourceString": "de_Text",
+          "LocalizedString": "de_Text"
+        }
+      },
+      "REGION_Statue2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue2_TextData",
+          "SourceString": "de_Text",
+          "LocalizedString": "de_Text"
+        }
+      },
+      "REGION_Statue3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue3_TextData",
+          "SourceString": "de_Text",
+          "LocalizedString": "de_Text"
+        }
+      },
+      "REGION_Forest_Ruin": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_Ruin_TextData",
+          "SourceString": "Alter Ritualplatz",
+          "LocalizedString": "Alter Ritualplatz"
+        }
+      },
+      "REGION_FixedDungeon_grass_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_1_TextData",
+          "SourceString": "Sphäre des Eisvogels",
+          "LocalizedString": "Sphäre des Eisvogels"
+        }
+      },
+      "REGION_FixedDungeon_grass_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_2_TextData",
+          "SourceString": "Sphäre des Schwertmeisters",
+          "LocalizedString": "Sphäre des Schwertmeisters"
+        }
+      },
+      "REGION_FixedDungeon_grass_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_3_TextData",
+          "SourceString": "Sphäre der Drachenschwingen",
+          "LocalizedString": "Sphäre der Drachenschwingen"
+        }
+      },
+      "REGION_FixedDungeon_grass_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_4_TextData",
+          "SourceString": "Sphäre des Donnerdrachen",
+          "LocalizedString": "Sphäre des Donnerdrachen"
+        }
+      },
+      "REGION_FixedDungeon_grass_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_5_TextData",
+          "SourceString": "Sphäre der finsteren Nacht",
+          "LocalizedString": "Sphäre der finsteren Nacht"
+        }
+      },
+      "REGION_FixedDungeon_grass_6": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_6_TextData",
+          "SourceString": "Sphäre der Kühnheit",
+          "LocalizedString": "Sphäre der Kühnheit"
+        }
+      },
+      "REGION_FixedDungeon_grass_7": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_7_TextData",
+          "SourceString": "Sphäre der Mysterien",
+          "LocalizedString": "Sphäre der Mysterien"
+        }
+      },
+      "REGION_FixedDungeon_forest_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_1_TextData",
+          "SourceString": "Sphäre der Kühnheit",
+          "LocalizedString": "Sphäre der Kühnheit"
+        }
+      },
+      "REGION_FixedDungeon_forest_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_2_TextData",
+          "SourceString": "Sphäre der Totenseelen",
+          "LocalizedString": "Sphäre der Totenseelen"
+        }
+      },
+      "REGION_FixedDungeon_forest_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_3_TextData",
+          "SourceString": "Sphäre der Schnellfüßigkeit",
+          "LocalizedString": "Sphäre der Schnellfüßigkeit"
+        }
+      },
+      "REGION_FixedDungeon_forest_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_4_TextData",
+          "SourceString": "Sphäre des Wächters",
+          "LocalizedString": "Sphäre des Wächters"
+        }
+      },
+      "REGION_FixedDungeon_forest_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_5_TextData",
+          "SourceString": "Sphäre des reinen Weiß",
+          "LocalizedString": "Sphäre des reinen Weiß"
+        }
+      },
+      "REGION_UndergroundCave_grass01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass01_TextData",
+          "SourceString": "Verlassene Minen",
+          "LocalizedString": "Verlassene Minen"
+        }
+      },
+      "REGION_UndergroundCave_grass02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass02_TextData",
+          "SourceString": "Seichtwasser-Minen",
+          "LocalizedString": "Seichtwasser-Minen"
+        }
+      },
+      "REGION_UndergroundCave_grass03": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass03_TextData",
+          "SourceString": "Minen hinter dem Wasserfall",
+          "LocalizedString": "Minen hinter dem Wasserfall"
+        }
+      },
+      "REGION_UndergroundCave_grass04": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass04_TextData",
+          "SourceString": "Meeresbucht-Minen",
+          "LocalizedString": "Meeresbucht-Minen"
+        }
+      },
+      "REGION_UndergroundCave_forest01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_forest01_TextData",
+          "SourceString": "Minen der Gläubigen",
+          "LocalizedString": "Minen der Gläubigen"
+        }
+      },
+      "REGION_UndergroundCave_dessert01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert01_TextData",
+          "SourceString": "Dürstende Minen",
+          "LocalizedString": "Dürstende Minen"
+        }
+      },
+      "REGION_UndergroundCave_dessert02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert02_TextData",
+          "SourceString": "Geheime Minen",
+          "LocalizedString": "Geheime Minen"
+        }
+      },
+      "REGION_UndergroundCave_dessert03": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert03_TextData",
+          "SourceString": "Abgelegene Minen",
+          "LocalizedString": "Abgelegene Minen"
+        }
+      },
+      "REGION_UndergroundCave_volcano01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_volcano01_TextData",
+          "SourceString": "Glutheiße Minen",
+          "LocalizedString": "Glutheiße Minen"
+        }
+      },
+      "REGION_UndergroundCave_volcano02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_volcano02_TextData",
+          "SourceString": "Verfallene Minen",
+          "LocalizedString": "Verfallene Minen"
+        }
+      },
+      "REGION_UndergroundCave_snow01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_snow01_TextData",
+          "SourceString": "Eisberg-Minen",
+          "LocalizedString": "Eisberg-Minen"
+        }
+      },
+      "REGION_UndergroundCave_snow02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_snow02_TextData",
+          "SourceString": "Vergessene Minen",
+          "LocalizedString": "Vergessene Minen"
+        }
+      },
+      "REGION_PvP_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_1_TextData",
+          "SourceString": "Windhauchinseln",
+          "LocalizedString": "Windhauchinseln"
+        }
+      },
+      "REGION_PvP_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_2_TextData",
+          "SourceString": "Vergessene Insel",
+          "LocalizedString": "Vergessene Insel"
+        }
+      },
+      "REGION_PvP_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_3_TextData",
+          "SourceString": "Eiswindinsel",
+          "LocalizedString": "Eiswindinsel"
+        }
+      },
+      "REGION_PvP_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_4_TextData",
+          "SourceString": "Östliche Wildnisinsel",
+          "LocalizedString": "Östliche Wildnisinsel"
+        }
+      },
+      "REGION_PvP_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_5_TextData",
+          "SourceString": "Moorinsel",
+          "LocalizedString": "Moorinsel"
+        }
+      },
+      "REGION_PvP_1_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_1_Church_TextData",
+          "SourceString": "Windhauchinseln – Kirche",
+          "LocalizedString": "Windhauchinseln – Kirche"
+        }
+      },
+      "REGION_PvP_2_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_2_Church_TextData",
+          "SourceString": "Vergessene Insel – Kirchenruine",
+          "LocalizedString": "Vergessene Insel – Kirchenruine"
+        }
+      },
+      "REGION_PvP_3_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_3_Church_TextData",
+          "SourceString": "Moorinsel – Kirchenruine",
+          "LocalizedString": "Moorinsel – Kirchenruine"
+        }
+      }
+    }
+  }
+]

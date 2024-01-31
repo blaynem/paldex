@@ -1,0 +1,279 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TutorialMessage_Text",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "TUTORIAL_SP_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_SP_1_TextData",
+          "SourceString": "按下<keyGuideIcon id=|Interact_1|/>鍵撿起道具",
+          "LocalizedString": "按下<keyGuideIcon id=|Interact_1|/>鍵撿起道具"
+        }
+      },
+      "TUTORIAL_ITEM_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_1_TextData",
+          "SourceString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>鍵開啟建築選單",
+          "LocalizedString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>鍵開啟建築選單"
+        }
+      },
+      "TUTORIAL_ITEM_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_2_TextData",
+          "SourceString": "按下<keyGuideIcon id=|ThrowObject|/>鍵投擲帕魯球來捕捉帕魯吧，\r\n削弱帕魯的體力後會更容易捕捉",
+          "LocalizedString": "按下<keyGuideIcon id=|ThrowObject|/>鍵投擲帕魯球來捕捉帕魯吧，\r\n削弱帕魯的體力後會更容易捕捉"
+        }
+      },
+      "TUTORIAL_ITEM_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_3_TextData",
+          "SourceString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>開啟建築選單，\r\n製作帕魯終端並建造據點",
+          "LocalizedString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>開啟建築選單，\r\n製作帕魯終端並建造據點"
+        }
+      },
+      "TUTORIAL_ITEM_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_4_TextData",
+          "SourceString": "開啟物品欄使用「技能果實」吧，\r\n這樣就能讓帕魯學會技能了",
+          "LocalizedString": "開啟物品欄使用「技能果實」吧，\r\n這樣就能讓帕魯學會技能了"
+        }
+      },
+      "TUTORIAL_ITEM_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_5_TextData",
+          "SourceString": "收集<itemName id=|Relic|/>並將它獻給<MapObjectName id=|BuildableGoddessStatue|/>，\r\n就能強化玩家捕捉帕魯的能力",
+          "LocalizedString": "收集<itemName id=|Relic|/>並將它獻給<MapObjectName id=|BuildableGoddessStatue|/>，\r\n就能強化玩家捕捉帕魯的能力"
+        }
+      },
+      "TUTORIAL_ITEM_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_6_TextData",
+          "SourceString": "跳躍途中按下<keyGuideIcon id=|Jump|/>鍵即可滑翔",
+          "LocalizedString": "跳躍途中按下<keyGuideIcon id=|Jump|/>鍵即可滑翔"
+        }
+      },
+      "TUTORIAL_ITEM_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_7_TextData",
+          "SourceString": "建造<MapObjectName id=|HatchingPalEgg|/>後，\r\n即可孵化帕魯蛋",
+          "LocalizedString": "建造<MapObjectName id=|HatchingPalEgg|/>後，\r\n即可孵化帕魯蛋"
+        }
+      },
+      "TUTORIAL_RESPAWN_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_1_TextData",
+          "SourceString": "建造帕魯終端後，\r\n便能在設置地點復活",
+          "LocalizedString": "建造帕魯終端後，\r\n便能在設置地點復活"
+        }
+      },
+      "TUTORIAL_RESPAWN_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_2_TextData",
+          "SourceString": "帕魯和道具還留在被打倒的地方，\r\n在被其他人搶走前趕快去拿回來吧",
+          "LocalizedString": "帕魯和道具還留在被打倒的地方，\r\n在被其他人搶走前趕快去拿回來吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_1_TextData",
+          "SourceString": "使用科技點，\r\n即可解鎖新的道具或設施",
+          "LocalizedString": "使用科技點，\r\n即可解鎖新的道具或設施"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_2_TextData",
+          "SourceString": "按下<keyGuideIcon id=|OpenCharacterMenu|/>鍵開啟物品欄後，\r\n使用屬性點即可強化玩家的能力",
+          "LocalizedString": "按下<keyGuideIcon id=|OpenCharacterMenu|/>鍵開啟物品欄後，\r\n使用屬性點即可強化玩家的能力"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_3_TextData",
+          "SourceString": "肚子餓時各項數值會有所下降，\r\n開啟物品欄使用道具即可食用餐點",
+          "LocalizedString": "肚子餓時各項數值會有所下降，\r\n開啟物品欄使用道具即可食用餐點"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_4_TextData",
+          "SourceString": "帕魯肚子餓時各項數值會有所下降，\r\n開啟物品欄使用道具，餵帕魯一些飼料吧",
+          "LocalizedString": "帕魯肚子餓時各項數值會有所下降，\r\n開啟物品欄使用道具，餵帕魯一些飼料吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_5_TextData",
+          "SourceString": "SAN値降低會導致帕魯偷懶或生病，\r\n請給牠們美味的餐點，或建造溫泉來幫助牠們回復SAN値吧",
+          "LocalizedString": "SAN値降低會導致帕魯偷懶或生病，\r\n請給牠們美味的餐點，或建造溫泉來幫助牠們回復SAN値吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_6_TextData",
+          "SourceString": "帕魯生病了，\r\n用製藥工作臺製作藥品來治療牠吧",
+          "LocalizedString": "帕魯生病了，\r\n用製藥工作臺製作藥品來治療牠吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_7_TextData",
+          "SourceString": "持續工作會讓帕魯的SAN値降低並導致牠偷懶，\r\n建造溫泉等設施，讓牠早點回到工作狀態吧",
+          "LocalizedString": "持續工作會讓帕魯的SAN値降低並導致牠偷懶，\r\n建造溫泉等設施，讓牠早點回到工作狀態吧"
+        }
+      },
+      "TUTORIAL_CAPTURE_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_1_TextData",
+          "SourceString": "降低野生帕魯的<uiCommon id=|COMMON_STATUS_HP|/>後會比較容易捕獲\r\n但把牠打倒就無法捕獲了",
+          "LocalizedString": "降低野生帕魯的<uiCommon id=|COMMON_STATUS_HP|/>後會比較容易捕獲\r\n但把牠打倒就無法捕獲了"
+        }
+      },
+      "TUTORIAL_CAPTURE_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_2_TextData",
+          "SourceString": "按下<keyGuideIcon id=|ThrowPal|/>鍵召喚捕捉到的帕魯",
+          "LocalizedString": "按下<keyGuideIcon id=|ThrowPal|/>鍵召喚捕捉到的帕魯"
+        }
+      },
+      "TUTORIAL_CAPTURE_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_3_TextData",
+          "SourceString": "捕捉到新品種的帕魯就能獲得大量經驗值，\r\n繼續尋找沒見過的帕魯吧",
+          "LocalizedString": "捕捉到新品種的帕魯就能獲得大量經驗值，\r\n繼續尋找沒見過的帕魯吧"
+        }
+      },
+      "TUTORIAL_CAPTURE_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_4_TextData",
+          "SourceString": "即使是已捕捉過的帕魯，\r\n前10隻都能獲得經驗值獎勵喔",
+          "LocalizedString": "即使是已捕捉過的帕魯，\r\n前10隻都能獲得經驗值獎勵喔"
+        }
+      },
+      "TUTORIAL_CAPTURE_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_5_TextData",
+          "SourceString": "可以帶在身上的帕魯最多5隻，\r\n超過上限時，捕捉到的帕魯會被自動傳送至帕魯終端",
+          "LocalizedString": "可以帶在身上的帕魯最多5隻，\r\n超過上限時，捕捉到的帕魯會被自動傳送至帕魯終端"
+        }
+      },
+      "TUTORIAL_CAPTURE_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_6_TextData",
+          "SourceString": "抓到稀有的帕魯了！\r\n牠好像會很特別的技能呢",
+          "LocalizedString": "抓到稀有的帕魯了！\r\n牠好像會很特別的技能呢"
+        }
+      },
+      "TUTORIAL_CAPTURE_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_7_TextData",
+          "SourceString": "建造帕魯終端後，\r\n便能取出捕捉到的帕魯",
+          "LocalizedString": "建造帕魯終端後，\r\n便能取出捕捉到的帕魯"
+        }
+      },
+      "TUTORIAL_CAPTURE_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_8_TextData",
+          "SourceString": "等級高於自己的帕魯是不會乖乖聽話的！\r\n牠的能力會降低至與玩家相同等級",
+          "LocalizedString": "等級高於自己的帕魯是不會乖乖聽話的！\r\n牠的能力會降低至與玩家相同等級"
+        }
+      },
+      "TUTORIAL_COMMON_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_1_TextData",
+          "SourceString": "拿太多重物時就會動彈不得，\r\n使用屬性點來增加負重上限吧",
+          "LocalizedString": "拿太多重物時就會動彈不得，\r\n使用屬性點來增加負重上限吧"
+        }
+      },
+      "TUTORIAL_COMMON_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_2_TextData",
+          "SourceString": "攜帶型火炬可以照亮四周並抵禦寒意，\r\n用工作臺做一支吧",
+          "LocalizedString": "攜帶型火炬可以照亮四周並抵禦寒意，\r\n用工作臺做一支吧"
+        }
+      },
+      "TUTORIAL_COMMON_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_3_TextData",
+          "SourceString": "帕魯被打倒了！\r\n把牠放進帕魯終端，就能治療牠的「<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>」狀態",
+          "LocalizedString": "帕魯被打倒了！\r\n把牠放進帕魯終端，就能治療牠的「<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>」狀態"
+        }
+      },
+      "TUTORIAL_COMMON_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_4_TextData",
+          "SourceString": "在據點內召喚帕魯，\r\n牠就會主動尋找並執行自己能做的工作",
+          "LocalizedString": "在據點內召喚帕魯，\r\n牠就會主動尋找並執行自己能做的工作"
+        }
+      },
+      "TUTORIAL_COMMON_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_5_TextData",
+          "SourceString": "把帕魯設置為據點帕魯，\r\n牠就會幫忙做牠擅長的工作",
+          "LocalizedString": "把帕魯設置為據點帕魯，\r\n牠就會幫忙做牠擅長的工作"
+        }
+      },
+      "TUTORIAL_COMMON_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_6_TextData",
+          "SourceString": "帕魯最多只能裝備3個主動技能，\r\n到<uiCommon id=|INGAME_MAIN_MENU_PAL|/>選單更換技能吧",
+          "LocalizedString": "帕魯最多只能裝備3個主動技能，\r\n到<uiCommon id=|INGAME_MAIN_MENU_PAL|/>選單更換技能吧"
+        }
+      },
+      "TUTORIAL_COMMON_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_7_TextData",
+          "SourceString": "野生的帕魯相當狂暴，赤手空拳很難打贏，\r\n建造工作臺並製作一些武器吧",
+          "LocalizedString": "野生的帕魯相當狂暴，赤手空拳很難打贏，\r\n建造工作臺並製作一些武器吧"
+        }
+      },
+      "TUTORIAL_COMMON_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_8_TextData",
+          "SourceString": "取得其他冒險者的手記了，\r\n到選項畫面就能查看他們的旅途紀錄",
+          "LocalizedString": "取得其他冒險者的手記了，\r\n到選項畫面就能查看他們的旅途紀錄"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,1231 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NpcTalkText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "CHOICE_YES": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_YES_TextData",
+          "SourceString": "예",
+          "LocalizedString": "예"
+        }
+      },
+      "CHOICE_NO": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_NO_TextData",
+          "SourceString": "아니요",
+          "LocalizedString": "아니요"
+        }
+      },
+      "CHOICE_SHOP_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_BUY_TextData",
+          "SourceString": "구매",
+          "LocalizedString": "구매"
+        }
+      },
+      "CHOICE_SHOP_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_SELL_TextData",
+          "SourceString": "판매",
+          "LocalizedString": "판매"
+        }
+      },
+      "CHOICE_SHOP_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_CANCEL_TextData",
+          "SourceString": "자리를 떠난다",
+          "LocalizedString": "자리를 떠난다"
+        }
+      },
+      "CHOICE_SHOP_DARK_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_BUY_TextData",
+          "SourceString": "물건을 산다",
+          "LocalizedString": "물건을 산다"
+        }
+      },
+      "CHOICE_SHOP_DARK_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_SELL_TextData",
+          "SourceString": "물건을 팔아치운다",
+          "LocalizedString": "물건을 팔아치운다"
+        }
+      },
+      "CHOICE_SHOP_DARK_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_CANCEL_TextData",
+          "SourceString": "자리를 떠난다",
+          "LocalizedString": "자리를 떠난다"
+        }
+      },
+      "SHOP_CHOICE_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_CHOICE_TEST_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "SHOP_WELCOME_COMMON": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_WELCOME_COMMON_TextData",
+          "SourceString": "어서 와.\r\n좋은 아이템을 들여놨어.",
+          "LocalizedString": "어서 와.\r\n좋은 아이템을 들여놨어."
+        }
+      },
+      "SHOP_EXIT_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_EXIT_TEST_TextData",
+          "SourceString": "고마워, 다음에 또 와.",
+          "LocalizedString": "고마워, 다음에 또 와."
+        }
+      },
+      "SHOP_PAL_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_WELCOME_TextData",
+          "SourceString": "여어, 마침 좋은 팰이 들어왔어.\r\n우리 쪽에서 하는 팰 거래는 합법적이니 안심해.",
+          "LocalizedString": "여어, 마침 좋은 팰이 들어왔어.\r\n우리 쪽에서 하는 팰 거래는 합법적이니 안심해."
+        }
+      },
+      "SHOP_PALDARK_WELCOME_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_WELCOME_1_1_TextData",
+          "SourceString": "팰이라면 뭐든 다 거래하지…\r\n도난품이든, 사냥 금지종이든 말이야…\r\n한번 둘러보라고…",
+          "LocalizedString": "팰이라면 뭐든 다 거래하지…\r\n도난품이든, 사냥 금지종이든 말이야…\r\n한번 둘러보라고…"
+        }
+      },
+      "SHOP_PALDARK_EXIT_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_EXIT_1_1_TextData",
+          "SourceString": "크크큭, 오늘은 맛있는 고기를 먹을 수 있겠군…",
+          "LocalizedString": "크크큭, 오늘은 맛있는 고기를 먹을 수 있겠군…"
+        }
+      },
+      "SHOP_PAL_RANDOMEVENT_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_RANDOMEVENT_WELCOME_TextData",
+          "SourceString": "도와줘서 고마워.\r\n이것도 인연인데 뭐 하나 사 가는 게 어때?\r\n우린 합법적으로 팰을 거래하니까 안심해도 좋아.",
+          "LocalizedString": "도와줘서 고마워.\r\n이것도 인연인데 뭐 하나 사 가는 게 어때?\r\n우린 합법적으로 팰을 거래하니까 안심해도 좋아."
+        }
+      },
+      "JOHNSON_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "JOHNSON_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "JOHNSON_B1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_B1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "JOHNSON_C1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_C1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "TEST_ATTACKER": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TEST_ATTACKER_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "VILLAGELEADER01_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "VILLAGELEADER01_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "VILLAGELEADER01_A3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A3_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "VILLAGELEADER01_A4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A4_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "VILLAGELEADER01_A5": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A5_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "NOVICE_PALTIMER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_1_TextData",
+          "SourceString": "…조난자인가?\r\n팰 냄새가 나지 않는 인간은 오랜만인데…",
+          "LocalizedString": "…조난자인가?\r\n팰 냄새가 나지 않는 인간은 오랜만인데…"
+        }
+      },
+      "NOVICE_PALTIMER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_2_TextData",
+          "SourceString": "이 섬은 지옥이야… 나랑 함께 왔던 녀석들은 이미 이 세상에 없어.\r\n…사나운 팰에게 모조리 당해 버렸거든.\r\n너도 방심하지 마.",
+          "LocalizedString": "이 섬은 지옥이야… 나랑 함께 왔던 녀석들은 이미 이 세상에 없어.\r\n…사나운 팰에게 모조리 당해 버렸거든.\r\n너도 방심하지 마."
+        }
+      },
+      "NOVICE_PALTIMER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_3_TextData",
+          "SourceString": "최소한의 물자 정도는 나눠주겠지만…\r\n살아남으려면 네 힘을 스스로 키워야 해.",
+          "LocalizedString": "최소한의 물자 정도는 나눠주겠지만…\r\n살아남으려면 네 힘을 스스로 키워야 해."
+        }
+      },
+      "NOVICE_PALTIMER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_1_TextData",
+          "SourceString": "…이젠 지쳤어.\r\n처음엔 모두에게 묘를 만들어줬지만\r\n그 수가 100개를 넘긴 순간 전부 포기했지.",
+          "LocalizedString": "…이젠 지쳤어.\r\n처음엔 모두에게 묘를 만들어줬지만\r\n그 수가 100개를 넘긴 순간 전부 포기했지."
+        }
+      },
+      "NOVICE_PALTIMER_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_2_TextData",
+          "SourceString": "이곳은 무지가 즉시 죽음으로 이어지는 곳이야.\r\n팰을 잘 길들인다면 한 줄기 희망이 생기겠지만\r\n내 동료 중에 그걸 실행해낸 녀석은 한 명도 없었어…",
+          "LocalizedString": "이곳은 무지가 즉시 죽음으로 이어지는 곳이야.\r\n팰을 잘 길들인다면 한 줄기 희망이 생기겠지만\r\n내 동료 중에 그걸 실행해낸 녀석은 한 명도 없었어…"
+        }
+      },
+      "NOVICE_PALTIMER_2_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_3_TextData",
+          "SourceString": "아니, 너… 고대 단말기를 가지고 있는 거야!?\r\n그게 있으면 팰 스피어를 만들 수 있다고.\r\n팰 스피어가 있으면 팰을 포획할 수 있지.",
+          "LocalizedString": "아니, 너… 고대 단말기를 가지고 있는 거야!?\r\n그게 있으면 팰 스피어를 만들 수 있다고.\r\n팰 스피어가 있으면 팰을 포획할 수 있지."
+        }
+      },
+      "NOVICE_PALTIMER_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_1_TextData",
+          "SourceString": "네게서 팰 조련사의 자질이 엿보이는걸.\r\n팰 스피어를 제작하고 팰을 포획해 함께 싸워 봐.\r\n팰 조련사는 팰을 잡을수록 레벨이 올라가거든…",
+          "LocalizedString": "네게서 팰 조련사의 자질이 엿보이는걸.\r\n팰 스피어를 제작하고 팰을 포획해 함께 싸워 봐.\r\n팰 조련사는 팰을 잡을수록 레벨이 올라가거든…"
+        }
+      },
+      "NOVICE_PALTIMER_3_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_2_TextData",
+          "SourceString": "힘을 키우기 전까지 저 탑엔 얼씬도 안 하는 게 좋아.\r\n…저 탑은 흉악한 |레인 밀렵단|이 지배하고 있으니까.\r\n가면 틀림없이 살해당할 거야. 내 동료들이 그랬던 것처럼 말이야.",
+          "LocalizedString": "힘을 키우기 전까지 저 탑엔 얼씬도 안 하는 게 좋아.\r\n…저 탑은 흉악한 |레인 밀렵단|이 지배하고 있으니까.\r\n가면 틀림없이 살해당할 거야. 내 동료들이 그랬던 것처럼 말이야."
+        }
+      },
+      "SKILLED_PALTAMIER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_1_TextData",
+          "SourceString": "너, 처음 보는 얼굴인데.\r\n혹시…… 외지 사람인가?",
+          "LocalizedString": "너, 처음 보는 얼굴인데.\r\n혹시…… 외지 사람인가?"
+        }
+      },
+      "SKILLED_PALTAMIER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_2_TextData",
+          "SourceString": "아무렴 어때. 난 신경 안 쓰거든.\r\n어차피 섬에 왔으니, 팰을 잡아두는 게 좋을 거야.\r\n같은 종족이라도 10마리까지는 경험치를 더 많이 얻을 수 있지.",
+          "LocalizedString": "아무렴 어때. 난 신경 안 쓰거든.\r\n어차피 섬에 왔으니, 팰을 잡아두는 게 좋을 거야.\r\n같은 종족이라도 10마리까지는 경험치를 더 많이 얻을 수 있지."
+        }
+      },
+      "SKILLED_PALTAMIER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_3_TextData",
+          "SourceString": "|팰 조련사는 많이 잡을수록 성장한다.|\r\n이걸 줄 테니, 열심히 해 봐.",
+          "LocalizedString": "|팰 조련사는 많이 잡을수록 성장한다.|\r\n이걸 줄 테니, 열심히 해 봐."
+        }
+      },
+      "SKILLED_PALTAMIER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_2_1_TextData",
+          "SourceString": "|팰 조련사는 많이 잡을수록 성장한다.|\r\n팰을 많이 잡아서 더 강해져야 해.",
+          "LocalizedString": "|팰 조련사는 많이 잡을수록 성장한다.|\r\n팰을 많이 잡아서 더 강해져야 해."
+        }
+      },
+      "Vigilante_lackey_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Vigilante_lackey_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Vigilante_lackey_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_3_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Vigilante_lackey_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_4_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Vigilante_lackey_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Vigilante_lackey_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Head_of_Village_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_1_TextData",
+          "SourceString": "적에게 습격당해 팰을 떨어뜨린 적이 있나?\r\n잃어버린 팰이 있다면 거기 있는 팰 상인에게 물어보게나",
+          "LocalizedString": "적에게 습격당해 팰을 떨어뜨린 적이 있나?\r\n잃어버린 팰이 있다면 거기 있는 팰 상인에게 물어보게나"
+        }
+      },
+      "Head_of_Village_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_2_TextData",
+          "SourceString": "자네의 팰이 시장을 떠돌고 있다면 다시 사들일 수 있을지도 모르니 말이야.\r\n레인 밀렵단은 밀렵한 팰이나 타인에게서 빼앗은 팰을\r\n상인에게 팔아치우거든.",
+          "LocalizedString": "자네의 팰이 시장을 떠돌고 있다면 다시 사들일 수 있을지도 모르니 말이야.\r\n레인 밀렵단은 밀렵한 팰이나 타인에게서 빼앗은 팰을\r\n상인에게 팔아치우거든."
+        }
+      },
+      "Head_of_Village_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_3_TextData",
+          "SourceString": "정말이지 지독한 놈들이야.\r\n누가 그 두목을 쓰러뜨려주면 좋으련만…",
+          "LocalizedString": "정말이지 지독한 놈들이야.\r\n누가 그 두목을 쓰러뜨려주면 좋으련만…"
+        }
+      },
+      "Police_dependable_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_1_TextData",
+          "SourceString": "안녕, 팰 조련사 친구.",
+          "LocalizedString": "안녕, 팰 조련사 친구."
+        }
+      },
+      "Police_dependable_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_2_TextData",
+          "SourceString": "이제는 사는 사람들이 많이 줄었지만\r\n레인 밀렵단이 오기 전에는 지금보다 더 많이 살았었어.",
+          "LocalizedString": "이제는 사는 사람들이 많이 줄었지만\r\n레인 밀렵단이 오기 전에는 지금보다 더 많이 살았었어."
+        }
+      },
+      "Police_dependable_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_3_TextData",
+          "SourceString": "사람들이 줄어든 탓에 내 생활비도 뚝 떨어지고 말았지.",
+          "LocalizedString": "사람들이 줄어든 탓에 내 생활비도 뚝 떨어지고 말았지."
+        }
+      },
+      "Police_dependable_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_4_TextData",
+          "SourceString": "뭔가 도움이 필요하면 말해줘.\r\n돈만 준다면, 무슨 일이든 해줄 테니.",
+          "LocalizedString": "뭔가 도움이 필요하면 말해줘.\r\n돈만 준다면, 무슨 일이든 해줄 테니."
+        }
+      },
+      "Shabby-looking_merchant_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Shabby-looking_merchant_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_2_TextData",
+          "SourceString": "준비만 갖추면 뭐든 두렵지 않지. 사고 싶은 거라도 있어?",
+          "LocalizedString": "준비만 갖추면 뭐든 두렵지 않지. 사고 싶은 거라도 있어?"
+        }
+      },
+      "InnkeeperA_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_1_TextData",
+          "SourceString": "어서 와, 처음 보는 얼굴이네.",
+          "LocalizedString": "어서 와, 처음 보는 얼굴이네."
+        }
+      },
+      "InnkeeperA_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_2_TextData",
+          "SourceString": "멀리서 왔으려나?\r\n오랜 여행으로 피곤할 텐데, 여기서 편히 쉬다 가.",
+          "LocalizedString": "멀리서 왔으려나?\r\n오랜 여행으로 피곤할 텐데, 여기서 편히 쉬다 가."
+        }
+      },
+      "InnkeeperA_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_3_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Rumor-loving_villagers_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_1_TextData",
+          "SourceString": "너 혹시 동굴 본 적 있어?",
+          "LocalizedString": "너 혹시 동굴 본 적 있어?"
+        }
+      },
+      "Rumor-loving_villagers_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_2_TextData",
+          "SourceString": "동굴 안에는 희귀한 팰이 엄청 많이 산다고 하던데.",
+          "LocalizedString": "동굴 안에는 희귀한 팰이 엄청 많이 산다고 하던데."
+        }
+      },
+      "Rumor-loving_villagers_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_3_TextData",
+          "SourceString": "게다가 물건을 모으는 습성이 있는 팰이 만든 보물 창고도 있대.",
+          "LocalizedString": "게다가 물건을 모으는 습성이 있는 팰이 만든 보물 창고도 있대."
+        }
+      },
+      "Rumor-loving_villagers_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_4_TextData",
+          "SourceString": "혹시 동굴을 발견하면, 나한테도 꼭 알려줘야 해!",
+          "LocalizedString": "혹시 동굴을 발견하면, 나한테도 꼭 알려줘야 해!"
+        }
+      },
+      "Research-oriented_scholar_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_1_TextData",
+          "SourceString": "엄청나게 세고 덩치도 큰 팰이랑 만난 적 있어?",
+          "LocalizedString": "엄청나게 세고 덩치도 큰 팰이랑 만난 적 있어?"
+        }
+      },
+      "Research-oriented_scholar_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_2_TextData",
+          "SourceString": "내 가설이지만, 그런 팰은 주변 팰들을 통솔하는 우두머리 같은 존재일 거야!",
+          "LocalizedString": "내 가설이지만, 그런 팰은 주변 팰들을 통솔하는 우두머리 같은 존재일 거야!"
+        }
+      },
+      "Research-oriented_scholar_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_3_TextData",
+          "SourceString": "동료로 삼으면 큰 도움이 되겠지만, 굉장히 강력해 보이니 방심하지는 마!",
+          "LocalizedString": "동료로 삼으면 큰 도움이 되겠지만, 굉장히 강력해 보이니 방심하지는 마!"
+        }
+      },
+      "People_cant_leave_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "People_cant_leave_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Sweaty_paltimer_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Sweaty_paltimer_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Sweaty_paltimer_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_3_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_1_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_3_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_4_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_4_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "Visitor_Present_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Present_1_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "TestGift_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "TestGift_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "DesertVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_1_TextData",
+          "SourceString": "이 마을은 자경단의 두목인 마커스님이 지키는 곳이니 안심하라구.\r\n우리가 안심하고 살 수 있는 건 다 자경단의 위세 덕분이야.",
+          "LocalizedString": "이 마을은 자경단의 두목인 마커스님이 지키는 곳이니 안심하라구.\r\n우리가 안심하고 살 수 있는 건 다 자경단의 위세 덕분이야."
+        }
+      },
+      "DesertVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_2_TextData",
+          "SourceString": "뭐, 그런 연유로 이곳에서 눈에 띄는 행동은 자제하는 게 좋아.\r\n오래 살고 싶다면 더더욱 말이지.\r\n우리처럼 자경단의 보호를 받으며 살아가는 게 훨씬 유리할 거야.",
+          "LocalizedString": "뭐, 그런 연유로 이곳에서 눈에 띄는 행동은 자제하는 게 좋아.\r\n오래 살고 싶다면 더더욱 말이지.\r\n우리처럼 자경단의 보호를 받으며 살아가는 게 훨씬 유리할 거야."
+        }
+      },
+      "DesertVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_3_TextData",
+          "SourceString": "오늘도 마커스님 덕분에 평화로운걸.\r\n그렇지, 참. 밤엔 많이 추우니까 조심해.\r\n기온이 확 떨어지거든.",
+          "LocalizedString": "오늘도 마커스님 덕분에 평화로운걸.\r\n그렇지, 참. 밤엔 많이 추우니까 조심해.\r\n기온이 확 떨어지거든."
+        }
+      },
+      "DesertVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_Loop_TextData",
+          "SourceString": "어라, 못 보던 얼굴인데. 사막은 처음이야?\r\n다른 말은 안 할게. 깊숙이 들어갈 거라면 더위 대책을 확실히 세워야 할 거야.\r\n",
+          "LocalizedString": "어라, 못 보던 얼굴인데. 사막은 처음이야?\r\n다른 말은 안 할게. 깊숙이 들어갈 거라면 더위 대책을 확실히 세워야 할 거야.\r\n"
+        }
+      },
+      "DesertVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_1_TextData",
+          "SourceString": "소문으로는 사막 어딘가에 전설의 팰이 있다고 하던데…\r\n가벼운 마음으로 사막 한복판으로 떠났다가 돌아오지 못한 사람이 부지기수야.\r\n",
+          "LocalizedString": "소문으로는 사막 어딘가에 전설의 팰이 있다고 하던데…\r\n가벼운 마음으로 사막 한복판으로 떠났다가 돌아오지 못한 사람이 부지기수야.\r\n"
+        }
+      },
+      "DesertVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_2_TextData",
+          "SourceString": "무모한 팰 조련사가 싫은 건 아니지만, 과연 당신은 어떨까?\r\n혹시 도전할 생각이라면 같은 전철을 밟지 않도록 사전에 준비를 철저히 하도록 해.\r\n자, 괜찮다면 이걸 사용해 봐!",
+          "LocalizedString": "무모한 팰 조련사가 싫은 건 아니지만, 과연 당신은 어떨까?\r\n혹시 도전할 생각이라면 같은 전철을 밟지 않도록 사전에 준비를 철저히 하도록 해.\r\n자, 괜찮다면 이걸 사용해 봐!"
+        }
+      },
+      "DesertVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_3_TextData",
+          "SourceString": "사막 어딘가에 있다고들 하는 전설의 팰…\r\n하지만 아무도 돌아오지 못했으니 실존하는지 아닌지 알 방법이 없네…\r\n만약에 갈 거라면 더위 대책을 확실히 세워둬.",
+          "LocalizedString": "사막 어딘가에 있다고들 하는 전설의 팰…\r\n하지만 아무도 돌아오지 못했으니 실존하는지 아닌지 알 방법이 없네…\r\n만약에 갈 거라면 더위 대책을 확실히 세워둬."
+        }
+      },
+      "DesertVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_Loop_TextData",
+          "SourceString": "뭐야, 당신은…보아하니 유랑 팰 조련사인가 본데……?\r\n이 사막까지 뭐 하러 고생고생해서 기어들어 온 거야?",
+          "LocalizedString": "뭐야, 당신은…보아하니 유랑 팰 조련사인가 본데……?\r\n이 사막까지 뭐 하러 고생고생해서 기어들어 온 거야?"
+        }
+      },
+      "DesertVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_1_TextData",
+          "SourceString": "뭐, 눈빛을 보면 뻔하지. 전설의 팰을 잡으러 온 거 아니겠어?\r\n그만 포기해. 목숨을 함부로 여기면 안 되지.\r\n이 마을에 산 지 오래지만, 그런 건 본 적도 없다고.",
+          "LocalizedString": "뭐, 눈빛을 보면 뻔하지. 전설의 팰을 잡으러 온 거 아니겠어?\r\n그만 포기해. 목숨을 함부로 여기면 안 되지.\r\n이 마을에 산 지 오래지만, 그런 건 본 적도 없다고."
+        }
+      },
+      "DesertVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_2_TextData",
+          "SourceString": "설마 실존한다고 해도 꽤나 오지일 텐데…애시당초 헛소문이야.\r\n그래도 갈 거라면 중간에 포기하지만 마…\r\n적어도 이 정도는 챙겨가야 해.",
+          "LocalizedString": "설마 실존한다고 해도 꽤나 오지일 텐데…애시당초 헛소문이야.\r\n그래도 갈 거라면 중간에 포기하지만 마…\r\n적어도 이 정도는 챙겨가야 해."
+        }
+      },
+      "DesertVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_3_TextData",
+          "SourceString": "전설의 팰이라…과연 오지에 실존하는 걸까.\r\n그나저나 목이 타는데……\r\n바닷물이라도 마셔 볼까?",
+          "LocalizedString": "전설의 팰이라…과연 오지에 실존하는 걸까.\r\n그나저나 목이 타는데……\r\n바닷물이라도 마셔 볼까?"
+        }
+      },
+      "DesertVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_Loop_TextData",
+          "SourceString": "전설의 팰이라…과연 오지에 실존하는 걸까.\r\n그나저나 목이 타는데……\r\n바닷물이라도 마셔 볼까?",
+          "LocalizedString": "전설의 팰이라…과연 오지에 실존하는 걸까.\r\n그나저나 목이 타는데……\r\n바닷물이라도 마셔 볼까?"
+        }
+      },
+      "DesertPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_1_TextData",
+          "SourceString": "뭐야, 새로운 녀석이네? 여기가 마커스님의 구역인 줄은 알고 들어온 거야?\r\n여행객이랍시고 천방지축 날뛰면 곤란해.",
+          "LocalizedString": "뭐야, 새로운 녀석이네? 여기가 마커스님의 구역인 줄은 알고 들어온 거야?\r\n여행객이랍시고 천방지축 날뛰면 곤란해."
+        }
+      },
+      "DesertPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_2_TextData",
+          "SourceString": "얌전히 지내는 게 좋아. 뭐 어려운 일도 아니잖아?\r\n우린 마커스님에게 충성을 맹세하고 그분의 자경단에게 보호받고 있으니 자명한 일이지.",
+          "LocalizedString": "얌전히 지내는 게 좋아. 뭐 어려운 일도 아니잖아?\r\n우린 마커스님에게 충성을 맹세하고 그분의 자경단에게 보호받고 있으니 자명한 일이지."
+        }
+      },
+      "DesertPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_Loop_TextData",
+          "SourceString": "핫! 이상 없습니다!\r\n……뭐야, 너였냐. 사람 놀라게 하고 말이야.",
+          "LocalizedString": "핫! 이상 없습니다!\r\n……뭐야, 너였냐. 사람 놀라게 하고 말이야."
+        }
+      },
+      "DesertPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_1_TextData",
+          "SourceString": "잠깐만, 너, 마을에 들어가려고?\r\n우리 두목한테 거슬리게 굴지 않는 게 좋아.",
+          "LocalizedString": "잠깐만, 너, 마을에 들어가려고?\r\n우리 두목한테 거슬리게 굴지 않는 게 좋아."
+        }
+      },
+      "DesertPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_2_TextData",
+          "SourceString": "두목은 말이야, 순종적인 사람한테는 얼마나 다정한데.\r\n자경단까지 조직해서 우릴 지켜주실 정도니 다들 감사하지 않고는 못 배기지.\r\n두목 덕분에 질서가 유지되는 거야…",
+          "LocalizedString": "두목은 말이야, 순종적인 사람한테는 얼마나 다정한데.\r\n자경단까지 조직해서 우릴 지켜주실 정도니 다들 감사하지 않고는 못 배기지.\r\n두목 덕분에 질서가 유지되는 거야…"
+        }
+      },
+      "DesertPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_3_TextData",
+          "SourceString": "그나저나 두목은 간부 녀석들과 함께 탑 근처에서 벗어나는 일이 좀처럼 없거든.\r\n대체 거기서 뭘 하는 걸까?",
+          "LocalizedString": "그나저나 두목은 간부 녀석들과 함께 탑 근처에서 벗어나는 일이 좀처럼 없거든.\r\n대체 거기서 뭘 하는 걸까?"
+        }
+      },
+      "DesertPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_Loop_TextData",
+          "SourceString": "두목이라면 탑 근처에 있어.\r\n자경단이 고대 기술을 손에 넣으면 그 누구도 못 덤비지.\r\n두목의 지배력이 점점 강해지는 거야…",
+          "LocalizedString": "두목이라면 탑 근처에 있어.\r\n자경단이 고대 기술을 손에 넣으면 그 누구도 못 덤비지.\r\n두목의 지배력이 점점 강해지는 거야…"
+        }
+      },
+      "DesertPolice003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_1_TextData",
+          "SourceString": "불은 참 좋아…타닥타닥 타들어 가는 소리까지 정감 있거든.\r\n네 생각도 그렇지?",
+          "LocalizedString": "불은 참 좋아…타닥타닥 타들어 가는 소리까지 정감 있거든.\r\n네 생각도 그렇지?"
+        }
+      },
+      "DesertPolice003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_2_TextData",
+          "SourceString": "예전엔 말이야. 이렇게 지루해 죽겠는 이야기 같은 거 전혀 못 했었어.\r\n사느냐 죽느냐가 걸린 하루하루였으니까……하지만 그분이 오신 뒤로 완전히 달라졌지.\r\n드디어 인간답게 살 수 있겠다는 느낌이 들거든.",
+          "LocalizedString": "예전엔 말이야. 이렇게 지루해 죽겠는 이야기 같은 거 전혀 못 했었어.\r\n사느냐 죽느냐가 걸린 하루하루였으니까……하지만 그분이 오신 뒤로 완전히 달라졌지.\r\n드디어 인간답게 살 수 있겠다는 느낌이 들거든."
+        }
+      },
+      "DesertPolice003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_3_TextData",
+          "SourceString": "이렇게 아무것도 빼앗길 걱정 없이 모닥불을 피우며…\r\n이런 일마저 행복하다는 느낌을 줘서 참 감사해.\r\n흐음……얼추 다 구워진 것 같은데, 먹어 볼까?",
+          "LocalizedString": "이렇게 아무것도 빼앗길 걱정 없이 모닥불을 피우며…\r\n이런 일마저 행복하다는 느낌을 줘서 참 감사해.\r\n흐음……얼추 다 구워진 것 같은데, 먹어 볼까?"
+        }
+      },
+      "DesertPolice003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_Loop_TextData",
+          "SourceString": "생나무는 사실 태우지 않는 편이 더 나아.\r\n하지만 이런 나무라도 태우지 않으면 안 될 때도 있거든…\r\n불이 없으면 살아갈 수 없으니까 말이야.",
+          "LocalizedString": "생나무는 사실 태우지 않는 편이 더 나아.\r\n하지만 이런 나무라도 태우지 않으면 안 될 때도 있거든…\r\n불이 없으면 살아갈 수 없으니까 말이야."
+        }
+      },
+      "Police001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_1_TextData",
+          "SourceString": "그런 눈으로 보지 마. 내가 뭐 나쁜 짓이라도 했어?\r\n나도 지금은 경찰이 아니라고.",
+          "LocalizedString": "그런 눈으로 보지 마. 내가 뭐 나쁜 짓이라도 했어?\r\n나도 지금은 경찰이 아니라고."
+        }
+      },
+      "Police001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_2_TextData",
+          "SourceString": "원래는 다른 곳에 있었는데 말이야.\r\n일하던 중에 트럭에 치이는 바람에 꼼짝없이 죽는구나 했는데\r\n정신을 차려 보니 이 섬이었어.",
+          "LocalizedString": "원래는 다른 곳에 있었는데 말이야.\r\n일하던 중에 트럭에 치이는 바람에 꼼짝없이 죽는구나 했는데\r\n정신을 차려 보니 이 섬이었어."
+        }
+      },
+      "Police001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_3_TextData",
+          "SourceString": "<itemName id=|Pizza|/>가 먹고 싶다고 죽은 뒤에 신에게 빌었어.\r\n그랬더니 손에서 <itemName id=|Pizza|/>가 나오는 게 아니겠어? 엄청난 치트 스킬이야.\r\n자, 보여줄게.",
+          "LocalizedString": "<itemName id=|Pizza|/>가 먹고 싶다고 죽은 뒤에 신에게 빌었어.\r\n그랬더니 손에서 <itemName id=|Pizza|/>가 나오는 게 아니겠어? 엄청난 치트 스킬이야.\r\n자, 보여줄게."
+        }
+      },
+      "Police001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_Loop_TextData",
+          "SourceString": "<itemName id=|Pizza|/>를 더 먹고 싶다고?\r\n또 했다간 내 배만 꺼질 거야. 이쯤 하자.",
+          "LocalizedString": "<itemName id=|Pizza|/>를 더 먹고 싶다고?\r\n또 했다간 내 배만 꺼질 거야. 이쯤 하자."
+        }
+      },
+      "VolcanoVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_1_TextData",
+          "SourceString": "응? 낚시 중이야?\r\n여긴 영 틀렸어. 한 마리도 안 나와.\r\n또 빈손으로 돌아갔다간 마누라한테 엄청 구박당할 텐데.",
+          "LocalizedString": "응? 낚시 중이야?\r\n여긴 영 틀렸어. 한 마리도 안 나와.\r\n또 빈손으로 돌아갔다간 마누라한테 엄청 구박당할 텐데."
+        }
+      },
+      "VolcanoVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_2_TextData",
+          "SourceString": "이럴 때 의지할 수 있는 팰이 있으면 얼마나 좋을까~\r\n낚시도 해주고 이 얼마나 우아한 삶이야.",
+          "LocalizedString": "이럴 때 의지할 수 있는 팰이 있으면 얼마나 좋을까~\r\n낚시도 해주고 이 얼마나 우아한 삶이야."
+        }
+      },
+      "VolcanoVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_3_TextData",
+          "SourceString": "팰아! 오늘은 얼마나 잡았니!? 하고 물어보기만 하면 되잖아.",
+          "LocalizedString": "팰아! 오늘은 얼마나 잡았니!? 하고 물어보기만 하면 되잖아."
+        }
+      },
+      "VolcanoVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_Loop_TextData",
+          "SourceString": "마누라가 기뻐하는 얼굴을 보고 싶으니 열심히 낚시를 해야겠지.\r\n많이 잡으면 당신한테도 좀 나눠줄게.",
+          "LocalizedString": "마누라가 기뻐하는 얼굴을 보고 싶으니 열심히 낚시를 해야겠지.\r\n많이 잡으면 당신한테도 좀 나눠줄게."
+        }
+      },
+      "VolcanoVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_1_TextData",
+          "SourceString": "당신! 오늘은 좀 잡았어!?\r\n…뭐야, 손님이잖아.\r\n어디서 왔지? 꽤 멋지게 차려입었는데.",
+          "LocalizedString": "당신! 오늘은 좀 잡았어!?\r\n…뭐야, 손님이잖아.\r\n어디서 왔지? 꽤 멋지게 차려입었는데."
+        }
+      },
+      "VolcanoVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_2_TextData",
+          "SourceString": "오호라, 당신 그 뭐라더라…팰… 팰… 팰 뭐시기구나!\r\n당신도 역시 화산 정상까지 가는 게 목표야?\r\n대체 그놈의 탑이 뭐길래 다들 가고 싶어 안달일까나.",
+          "LocalizedString": "오호라, 당신 그 뭐라더라…팰… 팰… 팰 뭐시기구나!\r\n당신도 역시 화산 정상까지 가는 게 목표야?\r\n대체 그놈의 탑이 뭐길래 다들 가고 싶어 안달일까나."
+        }
+      },
+      "VolcanoVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_3_TextData",
+          "SourceString": "화산에 오르는 건 좋지만 말이야, 준비를 확실히 해야 해.\r\n여기랑은 비교도 안 되게 더우니까 방심했다간 큰일이거든.\r\n이걸 먹고 힘내!",
+          "LocalizedString": "화산에 오르는 건 좋지만 말이야, 준비를 확실히 해야 해.\r\n여기랑은 비교도 안 되게 더우니까 방심했다간 큰일이거든.\r\n이걸 먹고 힘내!"
+        }
+      },
+      "VolcanoVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_Loop_TextData",
+          "SourceString": "화산 정상에 있는 탑까지 가는 건 좋지만, 더위가 장난이 아니거든.\r\n도중에 힘이 빠지지 않도록 위험해지면 그만 올라가!",
+          "LocalizedString": "화산 정상에 있는 탑까지 가는 건 좋지만, 더위가 장난이 아니거든.\r\n도중에 힘이 빠지지 않도록 위험해지면 그만 올라가!"
+        }
+      },
+      "VolcanoVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_1_TextData",
+          "SourceString": "오, 봤다, 봤어!\r\n밤하늘에 유성이 지나가길래 감탄하면서 봤지...그런데 방향을 꺾는 거야!",
+          "LocalizedString": "오, 봤다, 봤어!\r\n밤하늘에 유성이 지나가길래 감탄하면서 봤지...그런데 방향을 꺾는 거야!"
+        }
+      },
+      "VolcanoVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_2_TextData",
+          "SourceString": "엄청난 속도로 지나갔는데, 아~무리 봐도 평범한 유성은 아니거든.\r\n그래서 맛있는 음식을 실컷 먹게 해달라고 빌었는데…영 틀렸나 봐.",
+          "LocalizedString": "엄청난 속도로 지나갔는데, 아~무리 봐도 평범한 유성은 아니거든.\r\n그래서 맛있는 음식을 실컷 먹게 해달라고 빌었는데…영 틀렸나 봐."
+        }
+      },
+      "VolcanoVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_3_TextData",
+          "SourceString": "날개 같은 게 어렴~풋이 보였던 것 같기도 해.\r\n어쩌면 아직 화산 깊숙한 곳에 있을지도 몰라.",
+          "LocalizedString": "날개 같은 게 어렴~풋이 보였던 것 같기도 해.\r\n어쩌면 아직 화산 깊숙한 곳에 있을지도 몰라."
+        }
+      },
+      "VolcanoVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_Loop_TextData",
+          "SourceString": "아무도 믿지 않았지만…\r\n그 유성처럼 보였던 물체는 화산 깊숙한 곳으로 날아가 버렸어.\r\n만일 그게 팰이라면……너무 무서운걸…",
+          "LocalizedString": "아무도 믿지 않았지만…\r\n그 유성처럼 보였던 물체는 화산 깊숙한 곳으로 날아가 버렸어.\r\n만일 그게 팰이라면……너무 무서운걸…"
+        }
+      },
+      "VolcanoVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_1_TextData",
+          "SourceString": "어라…이런 어촌에 팰 조련사가 웬일이지.\r\n괜찮으면 불가에서 지친 몸과 마음을 달래는 건 어때?\r\n우리 |영원한 불꽃의 동지|에게 불은 신성한 대상이거든…",
+          "LocalizedString": "어라…이런 어촌에 팰 조련사가 웬일이지.\r\n괜찮으면 불가에서 지친 몸과 마음을 달래는 건 어때?\r\n우리 |영원한 불꽃의 동지|에게 불은 신성한 대상이거든…"
+        }
+      },
+      "VolcanoVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_2_TextData",
+          "SourceString": "불은 모든 걸 재로 만들어 버리지…잔혹하면서도 아름다워.\r\n슬픔도 고통도, 이를 자아내는 사랑마저 불지르면 그만이야.\r\n|영원한 불꽃의 동지|의 가르침은 훌륭하거든…후후…",
+          "LocalizedString": "불은 모든 걸 재로 만들어 버리지…잔혹하면서도 아름다워.\r\n슬픔도 고통도, 이를 자아내는 사랑마저 불지르면 그만이야.\r\n|영원한 불꽃의 동지|의 가르침은 훌륭하거든…후후…"
+        }
+      },
+      "VolcanoVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_3_TextData",
+          "SourceString": "최근 교주님이 좀 변했는데 도무지 짐작이 안 가는 분이라서 말이야.\r\n신도들과 탑에서 뭔가 하나 봐.\r\n기도라고 하기엔 너무 긴데…",
+          "LocalizedString": "최근 교주님이 좀 변했는데 도무지 짐작이 안 가는 분이라서 말이야.\r\n신도들과 탑에서 뭔가 하나 봐.\r\n기도라고 하기엔 너무 긴데…"
+        }
+      },
+      "VolcanoVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_Loop_TextData",
+          "SourceString": "새로운 교주님은 어떤 분일까.\r\n탑에 가 보면 뭔가 알 수 있을지도 몰라.\r\n그나저나 너도 |영원한 불꽃의 동지|에 가입하고 싶어?",
+          "LocalizedString": "새로운 교주님은 어떤 분일까.\r\n탑에 가 보면 뭔가 알 수 있을지도 몰라.\r\n그나저나 너도 |영원한 불꽃의 동지|에 가입하고 싶어?"
+        }
+      },
+      "VolcanoPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_1_TextData",
+          "SourceString": "하아, 지겨워라…\r\n응? 모르는 얼굴인데…누군지는 몰라도 지나가도 좋아.\r\n대신 성가신 일만 일으키지 마.",
+          "LocalizedString": "하아, 지겨워라…\r\n응? 모르는 얼굴인데…누군지는 몰라도 지나가도 좋아.\r\n대신 성가신 일만 일으키지 마."
+        }
+      },
+      "VolcanoPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_2_TextData",
+          "SourceString": "정신 똑바로 차리고 지키라고?\r\n이런이런, 이런 오지에서 지킬 게 뭐가 있다고.",
+          "LocalizedString": "정신 똑바로 차리고 지키라고?\r\n이런이런, 이런 오지에서 지킬 게 뭐가 있다고."
+        }
+      },
+      "VolcanoPolice001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_3_TextData",
+          "SourceString": "난 계약에 따라 그냥 문 앞에 서 있을 뿐이야.\r\n하여튼 이런 어촌에 배치되다니 재수도 없지…",
+          "LocalizedString": "난 계약에 따라 그냥 문 앞에 서 있을 뿐이야.\r\n하여튼 이런 어촌에 배치되다니 재수도 없지…"
+        }
+      },
+      "VolcanoPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_Loop_TextData",
+          "SourceString": "하아, 오늘도 지겨워 죽겠네…\r\n네네, 경비 제대로 서고 있습니다…",
+          "LocalizedString": "하아, 오늘도 지겨워 죽겠네…\r\n네네, 경비 제대로 서고 있습니다…"
+        }
+      },
+      "VolcanoPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_1_TextData",
+          "SourceString": "누구냐? 뭐 누구든 상관없나.\r\n여긴 평범하기 그지없는 어촌이니까.\r\n뭐, 편안히 쉬다 가면 그만이지.",
+          "LocalizedString": "누구냐? 뭐 누구든 상관없나.\r\n여긴 평범하기 그지없는 어촌이니까.\r\n뭐, 편안히 쉬다 가면 그만이지."
+        }
+      },
+      "VolcanoPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_2_TextData",
+          "SourceString": "이 동네는 의외로 시간이 잘 가서 유유자적하기에 나쁘지 않아.\r\n사람은 하나도 없지만 나름 장점도 단점도 있는 동네라고 할 수 있지.",
+          "LocalizedString": "이 동네는 의외로 시간이 잘 가서 유유자적하기에 나쁘지 않아.\r\n사람은 하나도 없지만 나름 장점도 단점도 있는 동네라고 할 수 있지."
+        }
+      },
+      "VolcanoPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_3_TextData",
+          "SourceString": "아아, 그러고 보니 좀 전에 이런 걸 주웠는데…혹시 필요해?\r\n어째 탄약을 발포한 뒤에 나는 냄새가 나는 것 같거든.",
+          "LocalizedString": "아아, 그러고 보니 좀 전에 이런 걸 주웠는데…혹시 필요해?\r\n어째 탄약을 발포한 뒤에 나는 냄새가 나는 것 같거든."
+        }
+      },
+      "VolcanoPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_Loop_TextData",
+          "SourceString": "저건 <itemName id=|Sulfur|/>(이)라는 녀석 같은데. 흐음.\r\n화산 쪽에 비슷하게 생긴 녀석이 있었던 것 같거든.\r\n역시 탄약 냄새와 비슷하지 않아?",
+          "LocalizedString": "저건 <itemName id=|Sulfur|/>(이)라는 녀석 같은데. 흐음.\r\n화산 쪽에 비슷하게 생긴 녀석이 있었던 것 같거든.\r\n역시 탄약 냄새와 비슷하지 않아?"
+        }
+      },
+      "RandomBattle_PalTamer_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_PalTamer_Loop_TextData",
+          "SourceString": "도와줘서 고마워. 요즘은 치안이 나빠져서 참 힘들단 말이야.",
+          "LocalizedString": "도와줘서 고마워. 요즘은 치안이 나빠져서 참 힘들단 말이야."
+        }
+      },
+      "RandomBattle_Police_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_Police_Loop_TextData",
+          "SourceString": "도와줘서 고맙군. 밀렵단 녀석들 조심하고.",
+          "LocalizedString": "도와줘서 고맙군. 밀렵단 녀석들 조심하고."
+        }
+      },
+      "PvPVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_1_TextData",
+          "SourceString": "모처럼 무서운 사막에서 도망쳐 왔더니\r\n이 섬에 저렇게 덩치가 큰 팰이 있을 줄이야…",
+          "LocalizedString": "모처럼 무서운 사막에서 도망쳐 왔더니\r\n이 섬에 저렇게 덩치가 큰 팰이 있을 줄이야…"
+        }
+      },
+      "PvPVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_2_TextData",
+          "SourceString": "제길…나한테도 팰 조련사 소질이 있었다면…\r\n팰을 잡아 거점을 만들면 살아남을 수 있을 텐데…!",
+          "LocalizedString": "제길…나한테도 팰 조련사 소질이 있었다면…\r\n팰을 잡아 거점을 만들면 살아남을 수 있을 텐데…!"
+        }
+      },
+      "PvPVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_3_TextData",
+          "SourceString": "너도 죽으면 안 돼…\r\n이걸 할 거니까 빨리 외적의 침입에 대비하도록 해.\r\n밤이 찾아오면 잡아먹힌다고.",
+          "LocalizedString": "너도 죽으면 안 돼…\r\n이걸 할 거니까 빨리 외적의 침입에 대비하도록 해.\r\n밤이 찾아오면 잡아먹힌다고."
+        }
+      },
+      "PvPVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_Loop_TextData",
+          "SourceString": "특히 거대한 팰을 조심해야 해.\r\n가볍게 무장했다간 곧장 녀석에게 당할 테니까.",
+          "LocalizedString": "특히 거대한 팰을 조심해야 해.\r\n가볍게 무장했다간 곧장 녀석에게 당할 테니까."
+        }
+      },
+      "PvPVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_1_TextData",
+          "SourceString": "너, 못 보던 얼굴인데?\r\n너도 나랑 같은 유랑 민족인가…\r\n대체 뭐 하러 이런 쓰레기 같은 장소까지 기어들어 온 건지.",
+          "LocalizedString": "너, 못 보던 얼굴인데?\r\n너도 나랑 같은 유랑 민족인가…\r\n대체 뭐 하러 이런 쓰레기 같은 장소까지 기어들어 온 건지."
+        }
+      },
+      "PvPVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_2_TextData",
+          "SourceString": "너도 팰을 잡아서 일확천금하려는 거지?\r\n유감이지만 팰은 광폭하고 위험한 생물이야.\r\n내 동료들은 전부 황천길로 가 버렸지…",
+          "LocalizedString": "너도 팰을 잡아서 일확천금하려는 거지?\r\n유감이지만 팰은 광폭하고 위험한 생물이야.\r\n내 동료들은 전부 황천길로 가 버렸지…"
+        }
+      },
+      "PvPVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_3_TextData",
+          "SourceString": "특히 거대한 팰을 발견하면 멀리 떨어져.\r\n확실히 준비한 다음 덤벼야 해.\r\n팰을 잔뜩 잡아서 자기 레벨부터 올리는 거야.",
+          "LocalizedString": "특히 거대한 팰을 발견하면 멀리 떨어져.\r\n확실히 준비한 다음 덤벼야 해.\r\n팰을 잔뜩 잡아서 자기 레벨부터 올리는 거야."
+        }
+      },
+      "PvPVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_Loop_TextData",
+          "SourceString": "거대한 팰은 조심하도록 해.\r\n먼저 팰을 최대한 많이 잡아서\r\n경험치를 쌓은 다음 도전하는 거야.",
+          "LocalizedString": "거대한 팰은 조심하도록 해.\r\n먼저 팰을 최대한 많이 잡아서\r\n경험치를 쌓은 다음 도전하는 거야."
+        }
+      },
+      "PvPVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_1_TextData",
+          "SourceString": "어라, 여기까지 사람이 흘러들어오는 일은 드문데.\r\n…여긴 아무것도 없어.\r\n밀렵단이 전부 앗아가 버렸거든...",
+          "LocalizedString": "어라, 여기까지 사람이 흘러들어오는 일은 드문데.\r\n…여긴 아무것도 없어.\r\n밀렵단이 전부 앗아가 버렸거든..."
+        }
+      },
+      "PvPVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_2_TextData",
+          "SourceString": "혹시 팰 스피어를 만들 거라면\r\n팰을 포획해서 경호원을 늘리도록 해.\r\n이 섬은 약육강식의 세계니까…",
+          "LocalizedString": "혹시 팰 스피어를 만들 거라면\r\n팰을 포획해서 경호원을 늘리도록 해.\r\n이 섬은 약육강식의 세계니까…"
+        }
+      },
+      "PvPVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_3_TextData",
+          "SourceString": "나도 지칠 대로 지쳐서… 미련이 없어…\r\n물자를 나눠줄게.\r\n어차피 내가 가지고 있어 봐야 큰 필요도 없고…",
+          "LocalizedString": "나도 지칠 대로 지쳐서… 미련이 없어…\r\n물자를 나눠줄게.\r\n어차피 내가 가지고 있어 봐야 큰 필요도 없고…"
+        }
+      },
+      "PvPVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_Loop_TextData",
+          "SourceString": "나도 예전엔 싸웠지만 말이야…\r\n저기 있는 거대한 팰에게 무릎을 꿇고 말았지 뭐야.\r\n이 섬에서 싸우지 않는 자는…그저 죽는 날을 기다릴 뿐이지.",
+          "LocalizedString": "나도 예전엔 싸웠지만 말이야…\r\n저기 있는 거대한 팰에게 무릎을 꿇고 말았지 뭐야.\r\n이 섬에서 싸우지 않는 자는…그저 죽는 날을 기다릴 뿐이지."
+        }
+      },
+      "PvPVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_1_TextData",
+          "SourceString": "도, 도와줘…! 더는 여기 있고 싶지 않아!\r\n거대하고 무시무시한 팰한테 습격당했다고…!\r\n인간을 아무것도 아니라는 듯 물어뜯었다니까…",
+          "LocalizedString": "도, 도와줘…! 더는 여기 있고 싶지 않아!\r\n거대하고 무시무시한 팰한테 습격당했다고…!\r\n인간을 아무것도 아니라는 듯 물어뜯었다니까…"
+        }
+      },
+      "PvPVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_2_TextData",
+          "SourceString": "밤이 오기 전에 팰을 잡아서 거점을 지어야 해…!\r\n어두운 밤이 되면 우리가 이길 가능성이 전무해…!\r\n모닥불을 피운 뒤 거기에 의지해 새벽까지 버텨내야 해.",
+          "LocalizedString": "밤이 오기 전에 팰을 잡아서 거점을 지어야 해…!\r\n어두운 밤이 되면 우리가 이길 가능성이 전무해…!\r\n모닥불을 피운 뒤 거기에 의지해 새벽까지 버텨내야 해."
+        }
+      },
+      "PvPVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_3_TextData",
+          "SourceString": "이걸 줄 테니 도움 되는 곳에 써…\r\n어떻게든 살아남아서 이 섬에서 탈출해야 해…!",
+          "LocalizedString": "이걸 줄 테니 도움 되는 곳에 써…\r\n어떻게든 살아남아서 이 섬에서 탈출해야 해…!"
+        }
+      },
+      "PvPVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_Loop_TextData",
+          "SourceString": "어둠 속에서 난폭한 팰과 만났다간 그걸로 끝이야…\r\n휴대용 횃불을 만들고, 거점을 지어서\r\n안전한 밤이 되도록 만전을 기울이자고…",
+          "LocalizedString": "어둠 속에서 난폭한 팰과 만났다간 그걸로 끝이야…\r\n휴대용 횃불을 만들고, 거점을 지어서\r\n안전한 밤이 되도록 만전을 기울이자고…"
+        }
+      },
+      "PvPVillage005_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_1_TextData",
+          "SourceString": "넌… 표류자인가? 여기까지 오다니 운도 없지.\r\n이 주변 일대는 팰파고스섬이라고 하거든.\r\n모든 일을 폭력으로 해결하는 무시무시한 장소야…",
+          "LocalizedString": "넌… 표류자인가? 여기까지 오다니 운도 없지.\r\n이 주변 일대는 팰파고스섬이라고 하거든.\r\n모든 일을 폭력으로 해결하는 무시무시한 장소야…"
+        }
+      },
+      "PvPVillage005_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_2_TextData",
+          "SourceString": "팰을 잡으려고 외부에서 오는 사람은 많지만,\r\n대개 행방불명이 되어 버리지…\r\n야생 팰에게 잡아먹힌다던가, 레인 밀렵단에게 살해당한다던가…",
+          "LocalizedString": "팰을 잡으려고 외부에서 오는 사람은 많지만,\r\n대개 행방불명이 되어 버리지…\r\n야생 팰에게 잡아먹힌다던가, 레인 밀렵단에게 살해당한다던가…"
+        }
+      },
+      "PvPVillage005_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_3_TextData",
+          "SourceString": "혹시 너도 팰 조련사라면 팰을 많이 잡도록 해.\r\n팰 조련사는 팰을 잡으면 잡을수록 강해지거든.\r\n살아남을 확률도 조금은 올라갈지도 모르지.",
+          "LocalizedString": "혹시 너도 팰 조련사라면 팰을 많이 잡도록 해.\r\n팰 조련사는 팰을 잡으면 잡을수록 강해지거든.\r\n살아남을 확률도 조금은 올라갈지도 모르지."
+        }
+      },
+      "PvPVillage005_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_Loop_TextData",
+          "SourceString": "팰 조련사는 팰을 잡으면 잡을수록 강해지거든.\r\n이 지옥 같은 환경에서\r\n살아남을 확률이 조금은 올라갈지도…",
+          "LocalizedString": "팰 조련사는 팰을 잡으면 잡을수록 강해지거든.\r\n이 지옥 같은 환경에서\r\n살아남을 확률이 조금은 올라갈지도…"
+        }
+      },
+      "PvPVillage006_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_1_TextData",
+          "SourceString": "사람이 흘러들어온 게 몇 년 만인지…\r\n전에 왔던 사람은 이름 날리던 용병이었지만,\r\n<characterName id=|Garm|/>에게 어처구니없이 잡아먹히고 말았어.",
+          "LocalizedString": "사람이 흘러들어온 게 몇 년 만인지…\r\n전에 왔던 사람은 이름 날리던 용병이었지만,\r\n<characterName id=|Garm|/>에게 어처구니없이 잡아먹히고 말았어."
+        }
+      },
+      "PvPVillage006_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_2_TextData",
+          "SourceString": "팰은 생긴 것 이상으로 흉악한 생물이야.\r\n특히 육식 야생 팰과 마주친다면 당장 도망쳐.\r\n뒤도 돌아보지 말고.",
+          "LocalizedString": "팰은 생긴 것 이상으로 흉악한 생물이야.\r\n특히 육식 야생 팰과 마주친다면 당장 도망쳐.\r\n뒤도 돌아보지 말고."
+        }
+      },
+      "PvPVillage006_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_3_TextData",
+          "SourceString": "이걸 받아. 네가 이 가혹한 환경에서\r\n살아남기를 바랄게.",
+          "LocalizedString": "이걸 받아. 네가 이 가혹한 환경에서\r\n살아남기를 바랄게."
+        }
+      },
+      "PvPVillage006_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_Loop_TextData",
+          "SourceString": "여긴 설산과 가까워서 조금 추운 땅이야.\r\n너도 빨리 모닥불이나 오두막을 만들어서\r\n침대에서 밤을 보낼 수 있게 준비해놓는 게 좋아.",
+          "LocalizedString": "여긴 설산과 가까워서 조금 추운 땅이야.\r\n너도 빨리 모닥불이나 오두막을 만들어서\r\n침대에서 밤을 보낼 수 있게 준비해놓는 게 좋아."
+        }
+      }
+    }
+  }
+]

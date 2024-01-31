@@ -1,0 +1,279 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TutorialMessage_Text",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "TUTORIAL_SP_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_SP_1_TextData",
+          "SourceString": "按下<keyGuideIcon id=|Interact_1|/>键捡起道具",
+          "LocalizedString": "按下<keyGuideIcon id=|Interact_1|/>键捡起道具"
+        }
+      },
+      "TUTORIAL_ITEM_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_1_TextData",
+          "SourceString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>键开启建筑选单",
+          "LocalizedString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>键开启建筑选单"
+        }
+      },
+      "TUTORIAL_ITEM_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_2_TextData",
+          "SourceString": "按下<keyGuideIcon id=|ThrowObject|/>键投掷帕鲁球来捕捉帕鲁吧，\r\n削弱帕鲁的体力后会更容易捕捉",
+          "LocalizedString": "按下<keyGuideIcon id=|ThrowObject|/>键投掷帕鲁球来捕捉帕鲁吧，\r\n削弱帕鲁的体力后会更容易捕捉"
+        }
+      },
+      "TUTORIAL_ITEM_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_3_TextData",
+          "SourceString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>开启建筑选单，\r\n制作帕鲁终端并建造据点",
+          "LocalizedString": "按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>开启建筑选单，\r\n制作帕鲁终端并建造据点"
+        }
+      },
+      "TUTORIAL_ITEM_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_4_TextData",
+          "SourceString": "开启物品栏使用「技能果实」吧，\r\n这样就能让帕鲁学会技能了",
+          "LocalizedString": "开启物品栏使用「技能果实」吧，\r\n这样就能让帕鲁学会技能了"
+        }
+      },
+      "TUTORIAL_ITEM_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_5_TextData",
+          "SourceString": "收集<itemName id=|Relic|/>并将它献给<MapObjectName id=|BuildableGoddessStatue|/>，\r\n就能强化玩家捕捉帕鲁的能力",
+          "LocalizedString": "收集<itemName id=|Relic|/>并将它献给<MapObjectName id=|BuildableGoddessStatue|/>，\r\n就能强化玩家捕捉帕鲁的能力"
+        }
+      },
+      "TUTORIAL_ITEM_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_6_TextData",
+          "SourceString": "跳跃途中按下<keyGuideIcon id=|Jump|/>键即可滑翔",
+          "LocalizedString": "跳跃途中按下<keyGuideIcon id=|Jump|/>键即可滑翔"
+        }
+      },
+      "TUTORIAL_ITEM_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_7_TextData",
+          "SourceString": "建造<MapObjectName id=|HatchingPalEgg|/>后，\r\n即可孵化帕鲁蛋",
+          "LocalizedString": "建造<MapObjectName id=|HatchingPalEgg|/>后，\r\n即可孵化帕鲁蛋"
+        }
+      },
+      "TUTORIAL_RESPAWN_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_1_TextData",
+          "SourceString": "建造帕鲁终端后，\r\n便能在设置地点复活",
+          "LocalizedString": "建造帕鲁终端后，\r\n便能在设置地点复活"
+        }
+      },
+      "TUTORIAL_RESPAWN_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_2_TextData",
+          "SourceString": "帕鲁和道具还留在被打倒的地方，\r\n在被其他人抢走前赶快去拿回来吧",
+          "LocalizedString": "帕鲁和道具还留在被打倒的地方，\r\n在被其他人抢走前赶快去拿回来吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_1_TextData",
+          "SourceString": "使用科技点，\r\n即可解锁新的道具或设施",
+          "LocalizedString": "使用科技点，\r\n即可解锁新的道具或设施"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_2_TextData",
+          "SourceString": "按下<keyGuideIcon id=|OpenCharacterMenu|/>键开启物品栏后，\r\n使用属性点即可强化玩家的能力",
+          "LocalizedString": "按下<keyGuideIcon id=|OpenCharacterMenu|/>键开启物品栏后，\r\n使用属性点即可强化玩家的能力"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_3_TextData",
+          "SourceString": "肚子饿时各项数值会有所下降，\r\n开启物品栏使用道具即可食用餐点",
+          "LocalizedString": "肚子饿时各项数值会有所下降，\r\n开启物品栏使用道具即可食用餐点"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_4_TextData",
+          "SourceString": "帕鲁肚子饿时各项数值会有所下降，\r\n开启物品栏使用道具，喂帕鲁一些饲料吧",
+          "LocalizedString": "帕鲁肚子饿时各项数值会有所下降，\r\n开启物品栏使用道具，喂帕鲁一些饲料吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_5_TextData",
+          "SourceString": "SAN值降低会导致帕鲁偷懒或生病，\r\n请给它们美味的餐点，或建造温泉来帮助它们回复SAN値吧",
+          "LocalizedString": "SAN值降低会导致帕鲁偷懒或生病，\r\n请给它们美味的餐点，或建造温泉来帮助它们回复SAN値吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_6_TextData",
+          "SourceString": "帕鲁生病了，\r\n用制药工作台制作药品来治疗它吧",
+          "LocalizedString": "帕鲁生病了，\r\n用制药工作台制作药品来治疗它吧"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_7_TextData",
+          "SourceString": "持续工作会让帕鲁的SAN値降低并导致它偷懒，\r\n建造温泉等设施，让牠早点回到工作状态吧",
+          "LocalizedString": "持续工作会让帕鲁的SAN値降低并导致它偷懒，\r\n建造温泉等设施，让牠早点回到工作状态吧"
+        }
+      },
+      "TUTORIAL_CAPTURE_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_1_TextData",
+          "SourceString": "降低野生帕鲁的<uiCommon id=|COMMON_STATUS_HP|/>后会比较容易捕获\r\n但把它打倒就无法捕获了",
+          "LocalizedString": "降低野生帕鲁的<uiCommon id=|COMMON_STATUS_HP|/>后会比较容易捕获\r\n但把它打倒就无法捕获了"
+        }
+      },
+      "TUTORIAL_CAPTURE_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_2_TextData",
+          "SourceString": "按下<keyGuideIcon id=|ThrowPal|/>键召唤捕捉到的帕鲁",
+          "LocalizedString": "按下<keyGuideIcon id=|ThrowPal|/>键召唤捕捉到的帕鲁"
+        }
+      },
+      "TUTORIAL_CAPTURE_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_3_TextData",
+          "SourceString": "捕捉到新品种的帕鲁就能获得大量经验值，\r\n继续寻找没见过的帕鲁吧",
+          "LocalizedString": "捕捉到新品种的帕鲁就能获得大量经验值，\r\n继续寻找没见过的帕鲁吧"
+        }
+      },
+      "TUTORIAL_CAPTURE_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_4_TextData",
+          "SourceString": "即使是已捕捉过的帕鲁，\r\n前10只都能获得经验值奖励喔",
+          "LocalizedString": "即使是已捕捉过的帕鲁，\r\n前10只都能获得经验值奖励喔"
+        }
+      },
+      "TUTORIAL_CAPTURE_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_5_TextData",
+          "SourceString": "可以带在身上的帕鲁最多5只，\r\n超过上限时，捕捉到的帕鲁会被自动传送至帕鲁终端",
+          "LocalizedString": "可以带在身上的帕鲁最多5只，\r\n超过上限时，捕捉到的帕鲁会被自动传送至帕鲁终端"
+        }
+      },
+      "TUTORIAL_CAPTURE_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_6_TextData",
+          "SourceString": "抓到稀有的帕鲁了！\r\n它好像会很特别的技能呢",
+          "LocalizedString": "抓到稀有的帕鲁了！\r\n它好像会很特别的技能呢"
+        }
+      },
+      "TUTORIAL_CAPTURE_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_7_TextData",
+          "SourceString": "建造帕鲁终端后，\r\n便能取出捕捉到的帕鲁",
+          "LocalizedString": "建造帕鲁终端后，\r\n便能取出捕捉到的帕鲁"
+        }
+      },
+      "TUTORIAL_CAPTURE_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_8_TextData",
+          "SourceString": "等级高于自己的帕鲁是不会乖乖听话的！\r\n它的能力会降低至与玩家相同等级",
+          "LocalizedString": "等级高于自己的帕鲁是不会乖乖听话的！\r\n它的能力会降低至与玩家相同等级"
+        }
+      },
+      "TUTORIAL_COMMON_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_1_TextData",
+          "SourceString": "拿太多重物时就会动弹不得，\r\n使用属性点来增加负重上限吧",
+          "LocalizedString": "拿太多重物时就会动弹不得，\r\n使用属性点来增加负重上限吧"
+        }
+      },
+      "TUTORIAL_COMMON_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_2_TextData",
+          "SourceString": "携带型火炬可以照亮四周并抵御寒意，\r\n用工作台做一支吧",
+          "LocalizedString": "携带型火炬可以照亮四周并抵御寒意，\r\n用工作台做一支吧"
+        }
+      },
+      "TUTORIAL_COMMON_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_3_TextData",
+          "SourceString": "帕鲁被打倒了！\r\n把它放进帕鲁终端，就能治疗它的「<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>」状态",
+          "LocalizedString": "帕鲁被打倒了！\r\n把它放进帕鲁终端，就能治疗它的「<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>」状态"
+        }
+      },
+      "TUTORIAL_COMMON_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_4_TextData",
+          "SourceString": "在据点内召唤帕鲁，\r\n它就会主动寻找并执行自己能做的工作",
+          "LocalizedString": "在据点内召唤帕鲁，\r\n它就会主动寻找并执行自己能做的工作"
+        }
+      },
+      "TUTORIAL_COMMON_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_5_TextData",
+          "SourceString": "把帕鲁设置为据点帕鲁，\r\n它就会帮忙做它擅长的工作",
+          "LocalizedString": "把帕鲁设置为据点帕鲁，\r\n它就会帮忙做它擅长的工作"
+        }
+      },
+      "TUTORIAL_COMMON_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_6_TextData",
+          "SourceString": "帕鲁最多只能装备3个主动技能，\r\n到<uiCommon id=|INGAME_MAIN_MENU_PAL|/>选单更换技能吧",
+          "LocalizedString": "帕鲁最多只能装备3个主动技能，\r\n到<uiCommon id=|INGAME_MAIN_MENU_PAL|/>选单更换技能吧"
+        }
+      },
+      "TUTORIAL_COMMON_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_7_TextData",
+          "SourceString": "野生的帕鲁相当狂暴，赤手空拳很难打赢，\r\n建造工作台并制作一些武器吧",
+          "LocalizedString": "野生的帕鲁相当狂暴，赤手空拳很难打赢，\r\n建造工作台并制作一些武器吧"
+        }
+      },
+      "TUTORIAL_COMMON_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_8_TextData",
+          "SourceString": "取得其他冒险者的手记了，\r\n到选项画面就能查看他们的旅途纪录",
+          "LocalizedString": "取得其他冒险者的手记了，\r\n到选项画面就能查看他们的旅途纪录"
+        }
+      }
+    }
+  }
+]

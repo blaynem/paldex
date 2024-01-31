@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "UserDefinedStruct",
+    "Name": "FPassiveSkillCollectItemLotteryData",
+    "Class": "UScriptClass'UserDefinedStruct'",
+    "Properties": {
+      "Guid": "3C220898-40084A81-2926308E-193B7208"
+    },
+    "ChildProperties": [
+      {
+        "Type": "StructProperty",
+        "Name": "ItemName_8_CCCAF9734028CBCB1128F581A807E03D",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 12,
+        "PropertyFlags": "Edit | BlueprintVisible",
+        "Struct": {
+          "ObjectName": "ScriptStruct'PalDataTableRowName_ItemData'",
+          "ObjectPath": "/Script/Pal"
+        }
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Num_5_C1A7466C4A786389B583A880FA47DA9C",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4,
+        "PropertyFlags": "Edit | BlueprintVisible"
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Rate_7_919E446648F253D9B9351FAD51539CB8",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4,
+        "PropertyFlags": "Edit | BlueprintVisible"
+      }
+    ],
+    "StructFlags": 16384,
+    "DefaultProperties": {
+      "ItemName_8_CCCAF9734028CBCB1128F581A807E03D": {
+        "Key": "None"
+      },
+      "Num_5_C1A7466C4A786389B583A880FA47DA9C": 0,
+      "Rate_7_919E446648F253D9B9351FAD51539CB8": 0
+    }
+  }
+]

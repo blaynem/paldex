@@ -1,0 +1,639 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapRespawnPointInfoText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "SpawnPoint_1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_TextData",
+          "SourceString": "在一个小山丘上。\r\n不仅视野开阔，资源也极其丰富，\r\n非常适合第一次游玩的新手。",
+          "LocalizedString": "在一个小山丘上。\r\n不仅视野开阔，资源也极其丰富，\r\n非常适合第一次游玩的新手。"
+        }
+      },
+      "SpawnPoint_1_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_Title_TextData",
+          "SourceString": "风起之丘 初始台地",
+          "LocalizedString": "风起之丘 初始台地"
+        }
+      },
+      "SpawnPoint_2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_TextData",
+          "SourceString": "海边的沙滩。有非常多的水生帕鲁。\r\n树木稀少，但有不少帕鲁栖息。",
+          "LocalizedString": "海边的沙滩。有非常多的水生帕鲁。\r\n树木稀少，但有不少帕鲁栖息。"
+        }
+      },
+      "SpawnPoint_2_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_Title_TextData",
+          "SourceString": "风起之丘 飞鱼海岸",
+          "LocalizedString": "风起之丘 飞鱼海岸"
+        }
+      },
+      "SpawnPoint_3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_TextData",
+          "SourceString": "被广阔的岩石暗礁包围的海岸。\r\n这里的资源和帕鲁的数量较为均等。\r\n虽然岩石较多，但也有较为广阔的平地。",
+          "LocalizedString": "被广阔的岩石暗礁包围的海岸。\r\n这里的资源和帕鲁的数量较为均等。\r\n虽然岩石较多，但也有较为广阔的平地。"
+        }
+      },
+      "SpawnPoint_3_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_Title_TextData",
+          "SourceString": "潮风群岛 岩礁",
+          "LocalizedString": "潮风群岛 岩礁"
+        }
+      },
+      "SpawnPoint_4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_TextData",
+          "SourceString": "能够感受到海风微微吹拂的小岛。\r\n距离火山很近，气候温暖宜人，十分适合居住。\r\n且有着较好的地理位置，可以畅享各式各样的冒险。",
+          "LocalizedString": "能够感受到海风微微吹拂的小岛。\r\n距离火山很近，气候温暖宜人，十分适合居住。\r\n且有着较好的地理位置，可以畅享各式各样的冒险。"
+        }
+      },
+      "SpawnPoint_4_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_Title_TextData",
+          "SourceString": "潮风群岛 漂流者海滨",
+          "LocalizedString": "潮风群岛 漂流者海滨"
+        }
+      },
+      "SpawnPoint_5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_TextData",
+          "SourceString": "地理位置偏僻、感受不到人烟的小岛。\r\n位于北方，所以气温较低。\r\n无论是资源还是帕鲁都极其贫乏，不适合居住。",
+          "LocalizedString": "地理位置偏僻、感受不到人烟的小岛。\r\n位于北方，所以气温较低。\r\n无论是资源还是帕鲁都极其贫乏，不适合居住。"
+        }
+      },
+      "SpawnPoint_5_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_Title_TextData",
+          "SourceString": "忘却之岛",
+          "LocalizedString": "忘却之岛"
+        }
+      },
+      "SpawnPoint_6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_TextData",
+          "SourceString": "这座岛上常年会刮从雪山上吹来的冷风。\r\n夜晚极度寒冷，\r\n即使是原住民也不太想住在这里。",
+          "LocalizedString": "这座岛上常年会刮从雪山上吹来的冷风。\r\n夜晚极度寒冷，\r\n即使是原住民也不太想住在这里。"
+        }
+      },
+      "SpawnPoint_6_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_Title_TextData",
+          "SourceString": "寒风呼啸之岛",
+          "LocalizedString": "寒风呼啸之岛"
+        }
+      },
+      "SpawnPoint_7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_TextData",
+          "SourceString": "东部地区的荒芜之岛。\r\n位于大陆的另一头，没人想去开发。\r\n对于不习惯的人来说，在这定居可能有些困难。",
+          "LocalizedString": "东部地区的荒芜之岛。\r\n位于大陆的另一头，没人想去开发。\r\n对于不习惯的人来说，在这定居可能有些困难。"
+        }
+      },
+      "SpawnPoint_7_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_Title_TextData",
+          "SourceString": "东部的荒芜岛屿",
+          "LocalizedString": "东部的荒芜岛屿"
+        }
+      },
+      "SpawnPoint_8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_TextData",
+          "SourceString": "遍布广阔湿地带的小岛。\r\n因适宜的空气湿度而生长着许多野莓。\r\n地理位置也十分便利。",
+          "LocalizedString": "遍布广阔湿地带的小岛。\r\n因适宜的空气湿度而生长着许多野莓。\r\n地理位置也十分便利。"
+        }
+      },
+      "SpawnPoint_8_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_Title_TextData",
+          "SourceString": "湿地之岛",
+          "LocalizedString": "湿地之岛"
+        }
+      },
+      "FTPoint1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint1_TextData",
+          "SourceString": "黑曜火山 山腰",
+          "LocalizedString": "黑曜火山 山腰"
+        }
+      },
+      "FTPoint2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint2_TextData",
+          "SourceString": "埃伦同志塔",
+          "LocalizedString": "埃伦同志塔"
+        }
+      },
+      "FTPoint3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint3_TextData",
+          "SourceString": "永炎同心会的高塔 入口",
+          "LocalizedString": "永炎同心会的高塔 入口"
+        }
+      },
+      "FTPoint4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint4_TextData",
+          "SourceString": "古代文明遗址",
+          "LocalizedString": "古代文明遗址"
+        }
+      },
+      "FTPoint5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint5_TextData",
+          "SourceString": "边远渔村",
+          "LocalizedString": "边远渔村"
+        }
+      },
+      "FTPoint6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint6_TextData",
+          "SourceString": "黑曜火山的阿努比斯像",
+          "LocalizedString": "黑曜火山的阿努比斯像"
+        }
+      },
+      "FTPoint7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint7_TextData",
+          "SourceString": "常夏海滨",
+          "LocalizedString": "常夏海滨"
+        }
+      },
+      "FTPoint8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint8_TextData",
+          "SourceString": "被毁灭的要塞城市",
+          "LocalizedString": "被毁灭的要塞城市"
+        }
+      },
+      "FTPoint9": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint9_TextData",
+          "SourceString": "自卫队的高塔 入口",
+          "LocalizedString": "自卫队的高塔 入口"
+        }
+      },
+      "FTPoint10": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint10_TextData",
+          "SourceString": "警惕塔",
+          "LocalizedString": "警惕塔"
+        }
+      },
+      "FTPoint11": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint11_TextData",
+          "SourceString": "沙丘入口",
+          "LocalizedString": "沙丘入口"
+        }
+      },
+      "FTPoint12": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint12_TextData",
+          "SourceString": "沙漠之镇",
+          "LocalizedString": "沙漠之镇"
+        }
+      },
+      "FTPoint13": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint13_TextData",
+          "SourceString": "沙丘深处",
+          "LocalizedString": "沙丘深处"
+        }
+      },
+      "FTPoint14": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint14_TextData",
+          "SourceString": "寒水之滨",
+          "LocalizedString": "寒水之滨"
+        }
+      },
+      "FTPoint15": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint15_TextData",
+          "SourceString": "无生者山路",
+          "LocalizedString": "无生者山路"
+        }
+      },
+      "FTPoint16": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint16_TextData",
+          "SourceString": "冰鼬山丘",
+          "LocalizedString": "冰鼬山丘"
+        }
+      },
+      "FTPoint17": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint17_TextData",
+          "SourceString": "不溶湖",
+          "LocalizedString": "不溶湖"
+        }
+      },
+      "FTPoint18": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint18_TextData",
+          "SourceString": "绝对零度之域",
+          "LocalizedString": "绝对零度之域"
+        }
+      },
+      "FTPoint19": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint19_TextData",
+          "SourceString": "遗传研究塔",
+          "LocalizedString": "遗传研究塔"
+        }
+      },
+      "FTPoint20": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint20_TextData",
+          "SourceString": "基因研究部队的高塔 入口",
+          "LocalizedString": "基因研究部队的高塔 入口"
+        }
+      },
+      "FTPoint21": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint21_TextData",
+          "SourceString": "草巨兽山陵",
+          "LocalizedString": "草巨兽山陵"
+        }
+      },
+      "FTPoint22": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint22_TextData",
+          "SourceString": "破败教会",
+          "LocalizedString": "破败教会"
+        }
+      },
+      "FTPoint23": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint23_TextData",
+          "SourceString": "初始台地",
+          "LocalizedString": "初始台地"
+        }
+      },
+      "FTPoint24": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint24_TextData",
+          "SourceString": "小型聚落",
+          "LocalizedString": "小型聚落"
+        }
+      },
+      "FTPoint25": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint25_TextData",
+          "SourceString": "修行者瀑布",
+          "LocalizedString": "修行者瀑布"
+        }
+      },
+      "FTPoint26": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint26_TextData",
+          "SourceString": "火山之麓",
+          "LocalizedString": "火山之麓"
+        }
+      },
+      "FTPoint27": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint27_TextData",
+          "SourceString": "冰鸟密域",
+          "LocalizedString": "冰鸟密域"
+        }
+      },
+      "FTPoint28": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint28_TextData",
+          "SourceString": "要塞遗迹",
+          "LocalizedString": "要塞遗迹"
+        }
+      },
+      "FTPoint29": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint29_TextData",
+          "SourceString": "雷鸣龙密域",
+          "LocalizedString": "雷鸣龙密域"
+        }
+      },
+      "FTPoint30": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint30_TextData",
+          "SourceString": "探究者歧路",
+          "LocalizedString": "探究者歧路"
+        }
+      },
+      "FTPoint31": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint31_TextData",
+          "SourceString": "古老的祭祀场",
+          "LocalizedString": "古老的祭祀场"
+        }
+      },
+      "FTPoint32": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint32_TextData",
+          "SourceString": "花兔山 山顶",
+          "LocalizedString": "花兔山 山顶"
+        }
+      },
+      "FTPoint33": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint33_TextData",
+          "SourceString": "湖心",
+          "LocalizedString": "湖心"
+        }
+      },
+      "FTPoint34": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint34_TextData",
+          "SourceString": "伪善者之丘",
+          "LocalizedString": "伪善者之丘"
+        }
+      },
+      "FTPoint35": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint35_TextData",
+          "SourceString": "守护者密域",
+          "LocalizedString": "守护者密域"
+        }
+      },
+      "FTPoint36": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint36_TextData",
+          "SourceString": "通往雪山的岔路",
+          "LocalizedString": "通往雪山的岔路"
+        }
+      },
+      "FTPoint37": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint37_TextData",
+          "SourceString": "帕鲁保护团体的高塔 入口",
+          "LocalizedString": "帕鲁保护团体的高塔 入口"
+        }
+      },
+      "FTPoint38": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint38_TextData",
+          "SourceString": "神速密域",
+          "LocalizedString": "神速密域"
+        }
+      },
+      "FTPoint39": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint39_TextData",
+          "SourceString": "草熊猫之森",
+          "LocalizedString": "草熊猫之森"
+        }
+      },
+      "FTPoint40": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint40_TextData",
+          "SourceString": "鲨小子的地盘",
+          "LocalizedString": "鲨小子的地盘"
+        }
+      },
+      "FTPoint41": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint41_TextData",
+          "SourceString": "彩蝶之森",
+          "LocalizedString": "彩蝶之森"
+        }
+      },
+      "FTPoint42": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint42_TextData",
+          "SourceString": "剑豪密域",
+          "LocalizedString": "剑豪密域"
+        }
+      },
+      "FTPoint43": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint43_TextData",
+          "SourceString": "竹林深处",
+          "LocalizedString": "竹林深处"
+        }
+      },
+      "FTPoint44": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint44_TextData",
+          "SourceString": "翼龙密域",
+          "LocalizedString": "翼龙密域"
+        }
+      },
+      "FTPoint45": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint45_TextData",
+          "SourceString": "雷恩盗猎集团的高塔 入口",
+          "LocalizedString": "雷恩盗猎集团的高塔 入口"
+        }
+      },
+      "FTPoint46": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint46_TextData",
+          "SourceString": "雨塔塔塔",
+          "LocalizedString": "雨塔塔塔"
+        }
+      },
+      "FTPoint47": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint47_TextData",
+          "SourceString": "PAL保护塔",
+          "LocalizedString": "PAL保护塔"
+        }
+      },
+      "FTPoint48": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint48_TextData",
+          "SourceString": "纯白雪原",
+          "LocalizedString": "纯白雪原"
+        }
+      },
+      "FTPoint49": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint49_TextData",
+          "SourceString": "忘却之岛",
+          "LocalizedString": "忘却之岛"
+        }
+      },
+      "FTPoint50": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint50_TextData",
+          "SourceString": "寒风呼啸之岛",
+          "LocalizedString": "寒风呼啸之岛"
+        }
+      },
+      "FTPoint51": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint51_TextData",
+          "SourceString": "小青龙之滨",
+          "LocalizedString": "小青龙之滨"
+        }
+      },
+      "FTPoint52": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint52_TextData",
+          "SourceString": "潮风群岛 漂流者海滨",
+          "LocalizedString": "潮风群岛 漂流者海滨"
+        }
+      },
+      "FTPoint53": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint53_TextData",
+          "SourceString": "潮风群岛的教堂",
+          "LocalizedString": "潮风群岛的教堂"
+        }
+      },
+      "FTPoint54": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint54_TextData",
+          "SourceString": "小型海湾",
+          "LocalizedString": "小型海湾"
+        }
+      },
+      "FTPoint55": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint55_TextData",
+          "SourceString": "渡岛海岸",
+          "LocalizedString": "渡岛海岸"
+        }
+      },
+      "FTPoint56": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint56_TextData",
+          "SourceString": "湿地之岛",
+          "LocalizedString": "湿地之岛"
+        }
+      },
+      "FTPoint57": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint57_TextData",
+          "SourceString": "东部的荒芜岛屿",
+          "LocalizedString": "东部的荒芜岛屿"
+        }
+      },
+      "FTPoint58": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint58_TextData",
+          "SourceString": "天然陆桥",
+          "LocalizedString": "天然陆桥"
+        }
+      },
+      "FTPoint59": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint59_TextData",
+          "SourceString": "忘却之岛的教堂遗址",
+          "LocalizedString": "忘却之岛的教堂遗址"
+        }
+      },
+      "FTPoint60": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint60_TextData",
+          "SourceString": "湿地之岛的教堂遗址",
+          "LocalizedString": "湿地之岛的教堂遗址"
+        }
+      },
+      "FTPoint61": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint61_TextData",
+          "SourceString": "双骑士大桥",
+          "LocalizedString": "双骑士大桥"
+        }
+      },
+      "FTPoint62": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint62_TextData",
+          "SourceString": "溪谷入口",
+          "LocalizedString": "溪谷入口"
+        }
+      }
+    }
+  }
+]

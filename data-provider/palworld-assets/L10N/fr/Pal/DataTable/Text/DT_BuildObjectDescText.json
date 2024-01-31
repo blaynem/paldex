@@ -1,0 +1,2239 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BuildObjectDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "BUILDOBJECT_DESC_BlastFurnace": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace_TextData",
+          "SourceString": "Tu peux raffiner les <itemName id=|CopperIngot|/>.\r\nLa vitesse est basse à cause de leur faible valeur.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Tu peux raffiner les <itemName id=|CopperIngot|/>.\r\nLa vitesse est basse à cause de leur faible valeur.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace2_TextData",
+          "SourceString": "Tu peux raffiner les <itemName id=|IronIngot|/>.\r\nLeur valeur a été augmentée plusieurs fois, mais la vitesse demeure insuffisante.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Tu peux raffiner les <itemName id=|IronIngot|/>.\r\nLeur valeur a été augmentée plusieurs fois, mais la vitesse demeure insuffisante.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace3": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace3_TextData",
+          "SourceString": "Tu peux raffiner les <itemName id=|StealIngot|/>.\r\nDe l'électricité est nécessaire, mais elle permet un raffinage plus rapide.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Tu peux raffiner les <itemName id=|StealIngot|/>.\r\nDe l'électricité est nécessaire, mais elle permet un raffinage plus rapide.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace4": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace4_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace5": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace5_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_CampFire": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CampFire_TextData",
+          "SourceString": "Une installation requise pour cuisiner.\r\nElle ne remplit que les fonctions comme la cuisson d'ingrédients simples.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Une installation requise pour cuisiner.\r\nElle ne remplit que les fonctions comme la cuisson d'ingrédients simples.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_CharacterRankUp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CharacterRankUp_TextData",
+          "SourceString": "Une installation pour faire monter les Pals au rang supérieur.\r\nConcentrer l'extrait d'un Pal pressé et le verser sur un autre Pal\r\nde même type lui permet de dépasser les limites de son propre corps.",
+          "LocalizedString": "Une installation pour faire monter les Pals au rang supérieur.\r\nConcentrer l'extrait d'un Pal pressé et le verser sur un autre Pal\r\nde même type lui permet de dépasser les limites de son propre corps."
+        }
+      },
+      "BUILDOBJECT_DESC_CookingStove": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CookingStove_TextData",
+          "SourceString": "Une installation requise pour cuisiner.\r\nL'utilisation de la marmite offre de nouvelles possibilités de cuisine.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Une installation requise pour cuisiner.\r\nL'utilisation de la marmite offre de nouvelles possibilités de cuisine.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseGatlingGun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseGatlingGun_TextData",
+          "SourceString": "Une installation pour protéger son camp des ennemis.\r\nUne gatling à la puissance de feu élevée crachera des flammes.\r\nDéploie tes Pals et engage le combat.",
+          "LocalizedString": "Une installation pour protéger son camp des ennemis.\r\nUne gatling à la puissance de feu élevée crachera des flammes.\r\nDéploie tes Pals et engage le combat."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMachinegun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMachinegun_TextData",
+          "SourceString": "Une installation défensive où les Pals sont affectés et préparés au combat.\r\nDes <itemName id=|RifleBullet|/> sont nécessaires à son utilisation.\r\nIntroduire des munitions dans le coffre permettra aux Pals affectés de les charger automatiquement.",
+          "LocalizedString": "Une installation défensive où les Pals sont affectés et préparés au combat.\r\nDes <itemName id=|RifleBullet|/> sont nécessaires à son utilisation.\r\nIntroduire des munitions dans le coffre permettra aux Pals affectés de les charger automatiquement."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMinigun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMinigun_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMissile": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMissile_TextData",
+          "SourceString": "Une installation défensive où les Pals sont affectés et préparés au combat.\r\nDes <itemName id=|ExplosiveBullet|/> sont nécessaires à son utilisation.\r\nIntroduire des munitions dans le coffre permettra aux Pals affectés de les charger automatiquement.",
+          "LocalizedString": "Une installation défensive où les Pals sont affectés et préparés au combat.\r\nDes <itemName id=|ExplosiveBullet|/> sont nécessaires à son utilisation.\r\nIntroduire des munitions dans le coffre permettra aux Pals affectés de les charger automatiquement."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseBowGun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseBowGun_TextData",
+          "SourceString": "Une installation défensive où les Pals sont affectés et préparés au combat.\r\nDes <itemName id=|Arrow|/> sont nécessaires à son utilisation.\r\nIntroduire des munitions dans le coffre permettra aux Pals affectés de les charger automatiquement.",
+          "LocalizedString": "Une installation défensive où les Pals sont affectés et préparés au combat.\r\nDes <itemName id=|Arrow|/> sont nécessaires à son utilisation.\r\nIntroduire des munitions dans le coffre permettra aux Pals affectés de les charger automatiquement."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWait": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWait_TextData",
+          "SourceString": "Une installation pour protéger son camp des ennemis.\r\nY déployer un Pal le fera se préparer au combat en montant la garde\r\nsans effectuer d'autre tâche.",
+          "LocalizedString": "Une installation pour protéger son camp des ennemis.\r\nY déployer un Pal le fera se préparer au combat en montant la garde\r\nsans effectuer d'autre tâche."
+        }
+      },
+      "BUILDOBJECT_DESC_DisplayCharacter": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DisplayCharacter_TextData",
+          "SourceString": "Une boîte pour observer les Pals capturés.\r\nLes Pals qui s'y trouvent ne peuvent ni se battre ni travailler,\r\nmais ils ne ressentent pas non plus la faim.",
+          "LocalizedString": "Une boîte pour observer les Pals capturés.\r\nLes Pals qui s'y trouvent ne peuvent ni se battre ni travailler,\r\nmais ils ne ressentent pas non plus la faim."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator_TextData",
+          "SourceString": "Une installation permettant de stocker l'électricité produite par les Pals de foudre.\r\nLes installations électriques ne peuvent pas fonctionner sans.",
+          "LocalizedString": "Une installation permettant de stocker l'électricité produite par les Pals de foudre.\r\nLes installations électriques ne peuvent pas fonctionner sans."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator_Slave": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator_Slave_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator2_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator3": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator3_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricKitchen": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricKitchen_TextData",
+          "SourceString": "Une installation requise pour cuisiner.\r\nDe l'électricité est nécessaire, mais elle permet de cuisiner à la vitesse de l'éclair.\r\nLes Pals de feu requièrent du feu.",
+          "LocalizedString": "Une installation requise pour cuisiner.\r\nDe l'électricité est nécessaire, mais elle permet de cuisiner à la vitesse de l'éclair.\r\nLes Pals de feu requièrent du feu."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Comfortable_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Comfortable_01_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Comfortable_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Comfortable_02_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_01_TextData",
+          "SourceString": "Une <mapObjectName id=|Factory_Hard_01|/> pour créer objets et protections.\r\nL'espace encore restreint ne permet pas de travailler efficacement.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une <mapObjectName id=|Factory_Hard_01|/> pour créer objets et protections.\r\nL'espace encore restreint ne permet pas de travailler efficacement.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_02_TextData",
+          "SourceString": "Une <mapObjectName id=|Factory_Hard_01|/> pour créer objets et protections.\r\nLa répartition des tâches permet de travailler plus efficacement.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une <mapObjectName id=|Factory_Hard_01|/> pour créer objets et protections.\r\nLa répartition des tâches permet de travailler plus efficacement.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_03_TextData",
+          "SourceString": "Une <mapObjectName id=|Factory_Hard_01|/> pour créer objets et protections.\r\nLa délégation des tâches permet de travailler encore plus rapidement.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une <mapObjectName id=|Factory_Hard_01|/> pour créer objets et protections.\r\nLa délégation des tâches permet de travailler encore plus rapidement.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlock_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade01_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade02_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade03_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_wheet": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_wheet_TextData",
+          "SourceString": "Une ferme pour faire pousser du <itemName id=|Wheat|/>.\r\nLe délai de récolte est moyen.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte.",
+          "LocalizedString": "Une ferme pour faire pousser du <itemName id=|Wheat|/>.\r\nLe délai de récolte est moyen.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_tomato": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_tomato_TextData",
+          "SourceString": "Une ferme pour faire pousser des <itemName id=|Tomato|/>.\r\nLe délai de récolte est long, mais les possibilités de cuisine sont élargies.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte.",
+          "LocalizedString": "Une ferme pour faire pousser des <itemName id=|Tomato|/>.\r\nLe délai de récolte est long, mais les possibilités de cuisine sont élargies.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Lettuce": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Lettuce_TextData",
+          "SourceString": "Une ferme pour faire pousser de la <itemName id=|Lettuce|/>.\r\nLe délai de récolte est long, mais les possibilités de cuisine sont élargies.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte.",
+          "LocalizedString": "Une ferme pour faire pousser de la <itemName id=|Lettuce|/>.\r\nLe délai de récolte est long, mais les possibilités de cuisine sont élargies.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Berries": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Berries_TextData",
+          "SourceString": "Une ferme pour faire pousser des <itemName id=|Berries|/>.\r\nLe délai de récolte est court, mais le produit est peu rassasiant.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte.",
+          "LocalizedString": "Une ferme pour faire pousser des <itemName id=|Berries|/>.\r\nLe délai de récolte est court, mais le produit est peu rassasiant.\r\nPlusieurs Pals sont nécessaires pour les semailles, l'arrosage et la récolte."
+        }
+      },
+      "BUILDOBJECT_DESC_FastTravelPoint": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FastTravelPoint_TextData",
+          "SourceString": "Un monument à l'effigie de <characterName id=|ChickenPal|/>.\r\nL'installer rend possible le voyage instantané.",
+          "LocalizedString": "Un monument à l'effigie de <characterName id=|ChickenPal|/>.\r\nL'installer rend possible le voyage instantané."
+        }
+      },
+      "BUILDOBJECT_DESC_Floor": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Floor_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_Stone_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Floor_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_Wood_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_HighTechKitchen": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_HighTechKitchen_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_TextData",
+          "SourceString": "Permet de stocker des objets.\r\nSa matière en bois le rend fragile.\r\nMieux vaut éviter d'y laisser des trésors.",
+          "LocalizedString": "Permet de stocker des objets.\r\nSa matière en bois le rend fragile.\r\nMieux vaut éviter d'y laisser des trésors."
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_02_TextData",
+          "SourceString": "Permet de stocker des objets.\r\nSon renforcement en métal le rend un peu plus solide.\r\nSa taille plus importante accroît également sa capacité de stockage.",
+          "LocalizedString": "Permet de stocker des objets.\r\nSon renforcement en métal le rend un peu plus solide.\r\nSa taille plus importante accroît également sa capacité de stockage."
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_03_TextData",
+          "SourceString": "Permet de stocker des objets.\r\nSa matière en acier le rend très robuste.\r\nL'idéal pour déposer ses biens l'esprit tranquille.",
+          "LocalizedString": "Permet de stocker des objets.\r\nSa matière en acier le rend très robuste.\r\nL'idéal pour déposer ses biens l'esprit tranquille."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_02_TextData",
+          "SourceString": "Un lit en paille pour Pal.\r\nLes Pals l'utilisent la nuit ou quand ils sont blessés.\r\nUn peu ferme, mais toujours moins que le sol.",
+          "LocalizedString": "Un lit en paille pour Pal.\r\nLes Pals l'utilisent la nuit ou quand ils sont blessés.\r\nUn peu ferme, mais toujours moins que le sol."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_03_TextData",
+          "SourceString": "Un lit confortable pour Pal.\r\nLes Pals l'utilisent la nuit ou quand ils sont blessés.\r\nSon côté moelleux permet aux Pals de dormir comme des bébés.",
+          "LocalizedString": "Un lit confortable pour Pal.\r\nLes Pals l'utilisent la nuit ou quand ils sont blessés.\r\nSon côté moelleux permet aux Pals de dormir comme des bébés."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_04": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_04_TextData",
+          "SourceString": "Un grand lit confortable pour Pal.\r\nLes Pals l'utilisent la nuit ou quand ils sont blessés.\r\nMême les grands Pals peuvent y dormir comme des bébés.",
+          "LocalizedString": "Un grand lit confortable pour Pal.\r\nLes Pals l'utilisent la nuit ou quand ils sont blessés.\r\nMême les grands Pals peuvent y dormir comme des bébés."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_01_TextData",
+          "SourceString": "Une installation qui fabrique des médicaments pour soigner les maladies des Pals.\r\nSeuls les traitements de base sont disponibles pour le moment.\r\nMieux vaut confier ces tâches aux Pals à vocation pharmaceutique.",
+          "LocalizedString": "Une installation qui fabrique des médicaments pour soigner les maladies des Pals.\r\nSeuls les traitements de base sont disponibles pour le moment.\r\nMieux vaut confier ces tâches aux Pals à vocation pharmaceutique."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_02_TextData",
+          "SourceString": "Une installation qui fabrique des médicaments pour soigner les maladies des Pals.\r\nDe l'électricité est nécessaire, mais des médicaments de meilleure qualité peuvent être produits.\r\nMieux vaut confier ces tâches aux Pals à vocation pharmaceutique.",
+          "LocalizedString": "Une installation qui fabrique des médicaments pour soigner les maladies des Pals.\r\nDe l'électricité est nécessaire, mais des médicaments de meilleure qualité peuvent être produits.\r\nMieux vaut confier ces tâches aux Pals à vocation pharmaceutique."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_03_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_PalFoodBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalFoodBox_TextData",
+          "SourceString": "Une boîte qui contient de la nourriture pour Pal.\r\nLes Pals s'en servent pour se nourrir quand ils ont faim.\r\nAttention à ne pas tomber à court de nourriture.",
+          "LocalizedString": "Une boîte qui contient de la nourriture pour Pal.\r\nLes Pals s'en servent pour se nourrir quand ils ont faim.\r\nAttention à ne pas tomber à court de nourriture."
+        }
+      },
+      "BUILDOBJECT_DESC_PalStorage": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalStorage_TextData",
+          "SourceString": "Une installation pour déposer les Pals capturés.\r\nLe camp est déterminé par un rayon autour de cette installation.\r\nRevendique ton camp avec l'aide de tes Pals.",
+          "LocalizedString": "Une installation pour déposer les Pals capturés.\r\nLe camp est déterminé par un rayon autour de cette installation.\r\nRevendique ton camp avec l'aide de tes Pals."
+        }
+      },
+      "BUILDOBJECT_DESC_PalBoxV2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalBoxV2_TextData",
+          "SourceString": "Une installation pour déposer les Pals capturés.\r\nLes Pals à l'intérieur des boîtes récupèrent progressivement leurs PV.\r\nLe camp est déterminé par un rayon autour de cette installation.",
+          "LocalizedString": "Une installation pour déposer les Pals capturés.\r\nLes Pals à l'intérieur des boîtes récupèrent progressivement leurs PV.\r\nLe camp est déterminé par un rayon autour de cette installation."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_02_TextData",
+          "SourceString": "Un lit usé pour humain.\r\nIl permet de dormir la nuit ou en cas de blessure.\r\nIl est cependant impossible de s'y reposer en l'absence de toit.",
+          "LocalizedString": "Un lit usé pour humain.\r\nIl permet de dormir la nuit ou en cas de blessure.\r\nIl est cependant impossible de s'y reposer en l'absence de toit."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_03_TextData",
+          "SourceString": "Un lit moelleux et confortable pour humain.\r\nIl permet de dormir la nuit ou en cas de blessure.\r\nIl est cependant impossible s'y reposer en l'absence de toit.",
+          "LocalizedString": "Un lit moelleux et confortable pour humain.\r\nIl permet de dormir la nuit ou en cas de blessure.\r\nIl est cependant impossible s'y reposer en l'absence de toit."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ShippingItemBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ShippingItemBox_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_01_TextData",
+          "SourceString": "Une usine de sphères pour la capture des Pals.\r\nL'espace encore restreint ne permet pas de fabriquer des sphères efficacement.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une usine de sphères pour la capture des Pals.\r\nL'espace encore restreint ne permet pas de fabriquer des sphères efficacement.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_02_TextData",
+          "SourceString": "Une usine de sphères pour la capture des Pals.\r\nLa répartition des tâches permet de travailler plus efficacement.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une usine de sphères pour la capture des Pals.\r\nLa répartition des tâches permet de travailler plus efficacement.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_03_TextData",
+          "SourceString": "Une usine de sphères pour la capture des Pals.\r\nLa délégation des tâches permet de fabriquer des sphères à la vitesse de l'éclair.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une usine de sphères pour la capture des Pals.\r\nLa délégation des tâches permet de fabriquer des sphères à la vitesse de l'éclair.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_01_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_02_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_03_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_StationDeforest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StationDeforest_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stonehouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stonehouse1_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_StonePit": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StonePit_TextData",
+          "SourceString": "Une installation pour produire de la <itemName id=|Stone|/>.\r\nUne bonne force physique est nécessaire pour extraire la <itemName id=|Stone|/>.\r\nLaisse faire les Pals experts en exploitation minière.",
+          "LocalizedString": "Une installation pour produire de la <itemName id=|Stone|/>.\r\nUne bonne force physique est nécessaire pour extraire la <itemName id=|Stone|/>.\r\nLaisse faire les Pals experts en exploitation minière."
+        }
+      },
+      "BUILDOBJECT_DESC_CopperMine": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CopperMine_TextData",
+          "SourceString": "Une installation pour produire du <itemName id=|CopperOre|/>.\r\nUne bonne force physique est nécessaire pour extraire le <itemName id=|CopperOre|/>.\r\nLaisse faire les Pals experts en exploitation minière.",
+          "LocalizedString": "Une installation pour produire du <itemName id=|CopperOre|/>.\r\nUne bonne force physique est nécessaire pour extraire le <itemName id=|CopperOre|/>.\r\nLaisse faire les Pals experts en exploitation minière."
+        }
+      },
+      "BUILDOBJECT_DESC_SteelMine": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SteelMine_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Strawhouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Strawhouse1_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_Stone_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_Wood_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_DUMMY": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DUMMY_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_01_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_02_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_03_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponChest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponChest_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_01_TextData",
+          "SourceString": "Une usine pour produire armes et munitions.\r\nL'espace encore restreint ne permet pas la fabrication d'armes de qualité.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une usine pour produire armes et munitions.\r\nL'espace encore restreint ne permet pas la fabrication d'armes de qualité.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_02_TextData",
+          "SourceString": "Une usine pour produire armes et munitions.\r\nLa répartition des tâches permet une production plus efficace.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une usine pour produire armes et munitions.\r\nLa répartition des tâches permet une production plus efficace.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_03_TextData",
+          "SourceString": "Une usine pour produire armes et munitions.\r\nLa délégation des tâches permet de produire les meilleures armes possibles.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Une usine pour produire armes et munitions.\r\nLa délégation des tâches permet de produire les meilleures armes possibles.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactry": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactry_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Well": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Well_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Woodhouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Woodhouse1_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_TextData",
+          "SourceString": "Un <mapObjectName id=|WorkBench|/> pour créer des objets simples.\r\nUn Pal habile dans les travaux manuels est requis.",
+          "LocalizedString": "Un <mapObjectName id=|WorkBench|/> pour créer des objets simples.\r\nUn Pal habile dans les travaux manuels est requis."
+        }
+      },
+      "BUILDOBJECT_DESC_RecoverOtomo": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_RecoverOtomo_TextData",
+          "SourceString": "Un dispositif qui permet de restaurer les PV des Pal.\r\nRemplit la sphère d'énergie de paldium pour une plus grande tranquillité d'esprit.",
+          "LocalizedString": "Un dispositif qui permet de restaurer les PV des Pal.\r\nRemplit la sphère d'énergie de paldium pour une plus grande tranquillité d'esprit."
+        }
+      },
+      "BUILDOBJECT_DESC_HatchingPalEgg": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_HatchingPalEgg_TextData",
+          "SourceString": "Un dispositif pour faire éclore un Œuf de Pal.\r\nPlace un Œuf de Pal pour le faire éclore automatiquement après un certain temps.",
+          "LocalizedString": "Un dispositif pour faire éclore un Œuf de Pal.\r\nPlace un Œuf de Pal pour le faire éclore automatiquement après un certain temps."
+        }
+      },
+      "BUILDOBJECT_DESC_StationDeforest2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StationDeforest2_TextData",
+          "SourceString": "Une installation pour produire du <itemName id=|Wood|/>.\r\nUne bonne force physique est nécessaire pour couper le bois.\r\nLaisse faire les Pals experts en déboisement.",
+          "LocalizedString": "Une installation pour produire du <itemName id=|Wood|/>.\r\nUne bonne force physique est nécessaire pour couper le bois.\r\nLaisse faire les Pals experts en déboisement."
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench_SkillUnlock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_SkillUnlock_TextData",
+          "SourceString": "Un <mapObjectName id=|WorkBench|/> pour fabriquer des outils destinés aux Pals.\r\nFabrique une selle pour monter tes Pals\r\nou une arme pour les faire tirer avec.",
+          "LocalizedString": "Un <mapObjectName id=|WorkBench|/> pour fabriquer des outils destinés aux Pals.\r\nFabrique une selle pour monter tes Pals\r\nou une arme pour les faire tirer avec."
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench_SkillCard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_SkillCard_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Foundation_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Roof_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stairs": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stairs_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_foundation_TextData",
+          "SourceString": "Une base sur laquelle construire un mur ou une installation.\r\nSa matière en bois la rend fragile.",
+          "LocalizedString": "Une base sur laquelle construire un mur ou une installation.\r\nSa matière en bois la rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_wall_TextData",
+          "SourceString": "Un mur à construire sur une base pour repousser les intrus.\r\nSa matière en bois le rend fragile.",
+          "LocalizedString": "Un mur à construire sur une base pour repousser les intrus.\r\nSa matière en bois le rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_roof_TextData",
+          "SourceString": "Un toit à placer sur des murs pour contrer les éléments.\r\nSa matière en bois le rend fragile.",
+          "LocalizedString": "Un toit à placer sur des murs pour contrer les éléments.\r\nSa matière en bois le rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_stair_TextData",
+          "SourceString": "Un escalier à placer sur une base ou sous un toit.\r\nSa matière en bois le rend fragile.",
+          "LocalizedString": "Un escalier à placer sur une base ou sous un toit.\r\nSa matière en bois le rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_DoorWall_TextData",
+          "SourceString": "Une porte à construire sur une base pour servir d'entrée.\r\nSa composition en bois la rend fragile.",
+          "LocalizedString": "Une porte à construire sur une base pour servir d'entrée.\r\nSa composition en bois la rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_foundation_TextData",
+          "SourceString": "Une base sur laquelle construire un mur ou une installation.\r\nLe fait qu'elle soit en pierre la rend plus solide.",
+          "LocalizedString": "Une base sur laquelle construire un mur ou une installation.\r\nLe fait qu'elle soit en pierre la rend plus solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_wall_TextData",
+          "SourceString": "Un mur à construire sur une base pour repousser les intrus.\r\nLe fait qu'il soit en pierre le rend plus solide.",
+          "LocalizedString": "Un mur à construire sur une base pour repousser les intrus.\r\nLe fait qu'il soit en pierre le rend plus solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_roof_TextData",
+          "SourceString": "Un toit à construire sur des murs pour contrer les éléments.\r\nLe fait qu'il soit en pierre le rend plus solide.",
+          "LocalizedString": "Un toit à construire sur des murs pour contrer les éléments.\r\nLe fait qu'il soit en pierre le rend plus solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_stair_TextData",
+          "SourceString": "Un escalier à placer sur une base ou sous un toit.\r\nLe fait qu'il soit en pierre le rend plus solide.",
+          "LocalizedString": "Un escalier à placer sur une base ou sous un toit.\r\nLe fait qu'il soit en pierre le rend plus solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_foundation_TextData",
+          "SourceString": "Une base sur laquelle construire un mur ou une installation.\r\nSa composition en métal la rend très solide.",
+          "LocalizedString": "Une base sur laquelle construire un mur ou une installation.\r\nSa composition en métal la rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_wall_TextData",
+          "SourceString": "Un mur à construire sur une base pour repousser les intrus.\r\nSa composition en métal le rend très solide.",
+          "LocalizedString": "Un mur à construire sur une base pour repousser les intrus.\r\nSa composition en métal le rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_roof_TextData",
+          "SourceString": "Un toit à construire sur des murs pour contrer les éléments.\r\nSa composition en métal le rend très solide.",
+          "LocalizedString": "Un toit à construire sur des murs pour contrer les éléments.\r\nSa composition en métal le rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_stair_TextData",
+          "SourceString": "Un escalier à placer sur une base ou sous un toit.\r\nSa composition en métal le rend très solide.",
+          "LocalizedString": "Un escalier à placer sur une base ou sous un toit.\r\nSa composition en métal le rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Heater": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Heater_TextData",
+          "SourceString": "Une installation pour faire monter la température sur le camp en y envoyant de l'air chaud.\r\nLa différence n'est pas flagrante, mais suffisante pour contrer un froid modéré.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Une installation pour faire monter la température sur le camp en y envoyant de l'air chaud.\r\nLa différence n'est pas flagrante, mais suffisante pour contrer un froid modéré.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricHeater": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricHeater_TextData",
+          "SourceString": "Une installation pour faire monter la température sur le camp en y envoyant de l'air chaud.\r\nL'utilisation de l'électricité permet d'obtenir une température assez élevée.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Une installation pour faire monter la température sur le camp en y envoyant de l'air chaud.\r\nL'utilisation de l'électricité permet d'obtenir une température assez élevée.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_Cooler": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Cooler_TextData",
+          "SourceString": "Une installation pour faire baisser la température sur le camp en y envoyant de l'air froid.\r\nLa différence n'est pas flagrante, mais suffisante pour contrer une chaleur modérée.\r\nLes Pals de glace requièrent une réfrigération.",
+          "LocalizedString": "Une installation pour faire baisser la température sur le camp en y envoyant de l'air froid.\r\nLa différence n'est pas flagrante, mais suffisante pour contrer une chaleur modérée.\r\nLes Pals de glace requièrent une réfrigération."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricCooler": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricCooler_TextData",
+          "SourceString": "Une installation pour faire baisser la température sur le camp en y envoyant de l'air froid.\r\nL'utilisation de l'électricité permet d'obtenir une température assez basse.\r\nLes Pals de glace requièrent une réfrigération.",
+          "LocalizedString": "Une installation pour faire baisser la température sur le camp en y envoyant de l'air froid.\r\nL'utilisation de l'électricité permet d'obtenir une température assez basse.\r\nLes Pals de glace requièrent une réfrigération."
+        }
+      },
+      "BUILDOBJECT_DESC_Torch": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Torch_TextData",
+          "SourceString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_WallTorch": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WallTorch_TextData",
+          "SourceString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nPeut être installée sur les murs.\r\nLes Pals de feu requièrent d'allumer un feu.",
+          "LocalizedString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nPeut être installée sur les murs.\r\nLes Pals de feu requièrent d'allumer un feu."
+        }
+      },
+      "BUILDOBJECT_DESC_Lamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Lamp_TextData",
+          "SourceString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nDe l'électricité est nécessaire, mais la zone éclairée est plus grande.",
+          "LocalizedString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nDe l'électricité est nécessaire, mais la zone éclairée est plus grande."
+        }
+      },
+      "BUILDOBJECT_DESC_CeilingLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CeilingLamp_TextData",
+          "SourceString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nPeut être installée au plafond.\r\nDe l'électricité est nécessaire, mais la zone éclairée est plus grande.",
+          "LocalizedString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nPeut être installée au plafond.\r\nDe l'électricité est nécessaire, mais la zone éclairée est plus grande."
+        }
+      },
+      "BUILDOBJECT_DESC_LargeLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_LargeLamp_TextData",
+          "SourceString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nUne plus grande quantité d'électricité est nécessaire, mais la zone éclairée est bien plus grande.",
+          "LocalizedString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nUne plus grande quantité d'électricité est nécessaire, mais la zone éclairée est bien plus grande."
+        }
+      },
+      "BUILDOBJECT_DESC_LargeCeilingLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_LargeCeilingLamp_TextData",
+          "SourceString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nPeut être installée au plafond.\r\nUne plus grande quantité d'électricité est nécessaire, mais la zone éclairée est bien plus grande.",
+          "LocalizedString": "Une source de lumière pour éclairer le camp même dans la nuit noire.\r\nPeut être installée au plafond.\r\nUne plus grande quantité d'électricité est nécessaire, mais la zone éclairée est bien plus grande."
+        }
+      },
+      "BUILDOBJECT_DESC_BuildableGoddessStatue": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BuildableGoddessStatue_TextData",
+          "SourceString": "Une statue en pierre où est gravée une légende de Palpagos.\r\nConfère un mystérieux pouvoir\r\npour toute offrande de <itemName id=|Relic|/>.",
+          "LocalizedString": "Une statue en pierre où est gravée une légende de Palpagos.\r\nConfère un mystérieux pouvoir\r\npour toute offrande de <itemName id=|Relic|/>."
+        }
+      },
+      "BUILDOBJECT_DESC_Spa": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Spa_TextData",
+          "SourceString": "Une installation où les Pals du camp fatigués peuvent se reposer.\r\nAnnule les effets de la fatigue et restaure les points MEN.",
+          "LocalizedString": "Une installation où les Pals du camp fatigués peuvent se reposer.\r\nAnnule les effets de la fatigue et restaure les points MEN."
+        }
+      },
+      "BUILDOBJECT_DESC_Spa2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Spa2_TextData",
+          "SourceString": "Une installation où les Pals du camp fatigués peuvent se reposer.\r\nSon confort accru restaure encore plus de points MEN.",
+          "LocalizedString": "Une installation où les Pals du camp fatigués peuvent se reposer.\r\nSon confort accru restaure encore plus de points MEN."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_TextData",
+          "SourceString": "Un mur colossal pour contrer les invasions ennemies.\r\nSa composition en pierre le rend assez robuste.",
+          "LocalizedString": "Un mur colossal pour contrer les invasions ennemies.\r\nSa composition en pierre le rend assez robuste."
+        }
+      },
+      "BUILDOBJECT_DESC_Crusher": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Crusher_TextData",
+          "SourceString": "Une installation permettant de broyer de la <itemName id=|Stone|/>\r\net du <itemName id=|Wood|/> pour obtenir d'autres matériaux.\r\nLa capacité Arrosage est requise pour utiliser le moulin à eau.",
+          "LocalizedString": "Une installation permettant de broyer de la <itemName id=|Stone|/>\r\net du <itemName id=|Wood|/> pour obtenir d'autres matériaux.\r\nLa capacité Arrosage est requise pour utiliser le moulin à eau."
+        }
+      },
+      "BUILDOBJECT_DESC_WoodCrusher": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WoodCrusher_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FlourMill": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FlourMill_TextData",
+          "SourceString": "Une installation permettant de moudre le <itemName id=|Wheat|/>\r\npour produire de la <itemName id=|Flour|/>.\r\nLa capacité Arrosage est requise pour utiliser le moulin à eau.",
+          "LocalizedString": "Une installation permettant de moudre le <itemName id=|Wheat|/>\r\npour produire de la <itemName id=|Flour|/>.\r\nLa capacité Arrosage est requise pour utiliser le moulin à eau."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_LegHold": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_LegHold_TextData",
+          "SourceString": "Un piège qui immobilise les Pals marchant dessus.\r\nLes Pals piégés seront plus faciles à capturer.\r\nNe fonctionne que sur les petits Pals.",
+          "LocalizedString": "Un piège qui immobilise les Pals marchant dessus.\r\nLes Pals piégés seront plus faciles à capturer.\r\nNe fonctionne que sur les petits Pals."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_LegHold_Big": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_LegHold_Big_TextData",
+          "SourceString": "Un piège à ours qui immobilise les Pals marchant dessus.\r\nLes Pals piégés seront plus faciles à capturer.\r\nNe fonctionne que sur les gros Pals.",
+          "LocalizedString": "Un piège à ours qui immobilise les Pals marchant dessus.\r\nLes Pals piégés seront plus faciles à capturer.\r\nNe fonctionne que sur les gros Pals."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MovingPanel": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MovingPanel_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineElecShock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineElecShock_TextData",
+          "SourceString": "Un piège qui électrise les Pals marchant dessus.\r\nLes Pals électrocutés seront plus faciles à capturer.",
+          "LocalizedString": "Un piège qui électrise les Pals marchant dessus.\r\nLes Pals électrocutés seront plus faciles à capturer."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineFreeze": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineFreeze_TextData",
+          "SourceString": "Un piège qui gèle les Pals marchant dessus.\r\nLes Pals congelés seront plus faciles à capturer.",
+          "LocalizedString": "Un piège qui gèle les Pals marchant dessus.\r\nLes Pals congelés seront plus faciles à capturer."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineAttack": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineAttack_TextData",
+          "SourceString": "Un piège qui explose sur les Pals marchant dessus.\r\nInflige des dégâts sur une zone étendue.",
+          "LocalizedString": "Un piège qui explose sur les Pals marchant dessus.\r\nInflige des dégâts sur une zone étendue."
+        }
+      },
+      "BUILDOBJECT_DESC_BreedFarm": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BreedFarm_TextData",
+          "SourceString": "Y déposer un Pal ♂ et un Pal ♀\r\nfera apparaître un œuf.\r\nUn <itemName id=|Cake|/> doit être ajouté à l'installation.",
+          "LocalizedString": "Y déposer un Pal ♂ et un Pal ♀\r\nfera apparaître un œuf.\r\nUn <itemName id=|Cake|/> doit être ajouté à l'installation."
+        }
+      },
+      "BUILDOBJECT_DESC_ToolBoxV1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToolBoxV1_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse du travail manuel.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse du travail manuel.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_ToolBoxV2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToolBoxV2_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_BaseCampWorkHard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BaseCampWorkHard_TextData",
+          "SourceString": "La façon de travailler des Pals du camp peut être définie.\r\nAttention à la surcharge de travail.",
+          "LocalizedString": "La façon de travailler des Pals du camp peut être définie.\r\nAttention à la surcharge de travail."
+        }
+      },
+      "BUILDOBJECT_DESC_OlympicCauldron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_OlympicCauldron_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse d'allumage.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse d'allumage.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_Fountain": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Fountain_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse d'arrosage.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse d'arrosage.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_Silo": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Silo_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse de semence.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse de semence.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_TransmissionTower": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TransmissionTower_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse de génération d'énergie.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse de génération d'énergie.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_FlowerBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FlowerBed_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse de collecte.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse de collecte.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_Stump": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stump_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse d'abattage.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse d'abattage.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_MiningTool": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MiningTool_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse d'extraction.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse d'extraction.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_Cauldron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Cauldron_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse de fabrication des médicaments.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse de fabrication des médicaments.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_Snowman": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Snowman_TextData",
+          "SourceString": "À installer sur le camp pour accroître\r\nla vitesse de réfrigération.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire.",
+          "LocalizedString": "À installer sur le camp pour accroître\r\nla vitesse de réfrigération.\r\nEn installer 2 ou plus n'octroie aucun effet supplémentaire."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_DoorWall_TextData",
+          "SourceString": "Une porte à construire sur une base pour servir d'entrée.\r\nSa composition en pierre la rend assez robuste.",
+          "LocalizedString": "Une porte à construire sur une base pour servir d'entrée.\r\nSa composition en pierre la rend assez robuste."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_DoorWall_TextData",
+          "SourceString": "Une porte à construire sur une base pour servir d'entrée.\r\nSa composition en métal la rend très solide.",
+          "LocalizedString": "Une porte à construire sur une base pour servir d'entrée.\r\nSa composition en métal la rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_CoolerBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CoolerBox_TextData",
+          "SourceString": "Un petit contenant à nourriture.\r\nY attribuer un Pal de glace ralentira la dégradation\r\ndes aliments qu'il contient.",
+          "LocalizedString": "Un petit contenant à nourriture.\r\nY attribuer un Pal de glace ralentira la dégradation\r\ndes aliments qu'il contient."
+        }
+      },
+      "BUILDOBJECT_DESC_Refrigerator": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Refrigerator_TextData",
+          "SourceString": "Un grand contenant à nourriture.\r\nY attribuer un Pal de glace ralentira la dégradation\r\ndes aliments qu'il contient.",
+          "LocalizedString": "Un grand contenant à nourriture.\r\nY attribuer un Pal de glace ralentira la dégradation\r\ndes aliments qu'il contient."
+        }
+      },
+      "BUILDOBJECT_DESC_MonsterFarm": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MonsterFarm_TextData",
+          "SourceString": "Une ferme pour Pals de types mouton et poulet.\r\nY déposer des Pals avec des compétences partenaires spéciales\r\nleur fera produire des objets.",
+          "LocalizedString": "Une ferme pour Pals de types mouton et poulet.\r\nY déposer des Pals avec des compétences partenaires spéciales\r\nleur fera produire des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_Gate_TextData",
+          "SourceString": "Une porte que même les gros Pals peuvent franchir.\r\nSa composition en bois la rend fragile.",
+          "LocalizedString": "Une porte que même les gros Pals peuvent franchir.\r\nSa composition en bois la rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_Gate_TextData",
+          "SourceString": "Une porte que même les gros Pals peuvent franchir.\r\nSa composition en pierre la rend assez robuste.",
+          "LocalizedString": "Une porte que même les gros Pals peuvent franchir.\r\nSa composition en pierre la rend assez robuste."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_Gate_TextData",
+          "SourceString": "Une porte que même les gros Pals peuvent franchir.\r\nSa composition en métal la rend très solide.",
+          "LocalizedString": "Une porte que même les gros Pals peuvent franchir.\r\nSa composition en métal la rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_Noose": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_Noose_TextData",
+          "SourceString": "Un piège qui emprisonne les Pals marchant dessus.\r\nLes Pals piégés seront plus faciles à capturer.\r\nNe fonctionne que sur les petits Pals.",
+          "LocalizedString": "Un piège qui emprisonne les Pals marchant dessus.\r\nLes Pals piégés seront plus faciles à capturer.\r\nNe fonctionne que sur les petits Pals."
+        }
+      },
+      "BUILDOBJECT_DESC_RepairBench": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_RepairBench_TextData",
+          "SourceString": "Un établi pour réparer les outils abîmés.\r\nChaque réparation consomme des matériaux.",
+          "LocalizedString": "Un établi pour réparer les outils abîmés.\r\nChaque réparation consomme des matériaux."
+        }
+      },
+      "BUILDOBJECT_DESC_DamagedScarecrow": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DamagedScarecrow_TextData",
+          "SourceString": "Un mannequin d'entraînement à l'effigie de <characterName id=|Penguin|/>.\r\nNe peut être installé que dans les lieux spacieux.",
+          "LocalizedString": "Un mannequin d'entraînement à l'effigie de <characterName id=|Penguin|/>.\r\nNe peut être installé que dans les lieux spacieux."
+        }
+      },
+      "BUILDOBJECT_DESC_Signboard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Signboard_TextData",
+          "SourceString": "Permet d'écrire dessus.\r\nÀ utiliser à des fins d'archivage ou de communication.",
+          "LocalizedString": "Permet d'écrire dessus.\r\nÀ utiliser à des fins d'archivage ou de communication."
+        }
+      },
+      "BUILDOBJECT_DESC_BaseCampBattleDirector": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BaseCampBattleDirector_TextData",
+          "SourceString": "Une cloche pour changer l'état d'alerte des Pals au sein du camp.\r\nIl est possible de passer de « Attaque des intrus »\r\nà « Concentration sur le travail » à tout moment.",
+          "LocalizedString": "Une cloche pour changer l'état d'alerte des Pals au sein du camp.\r\nIl est possible de passer de « Attaque des intrus »\r\nà « Concentration sur le travail » à tout moment."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_Wood_TextData",
+          "SourceString": "Un mur colossal pour contrer les invasions ennemies.\r\nSa composition en bois le rend fragile.",
+          "LocalizedString": "Un mur colossal pour contrer les invasions ennemies.\r\nSa composition en bois le rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall_Metal": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_Metal_TextData",
+          "SourceString": "Un mur colossal pour contrer les invasions ennemies.\r\nSa composition en métal le rend très solide.",
+          "LocalizedString": "Un mur colossal pour contrer les invasions ennemies.\r\nSa composition en métal le rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare_Wood_TextData",
+          "SourceString": "Une table carrée décorative.\r\n",
+          "LocalizedString": "Une table carrée décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular_Wood_TextData",
+          "SourceString": "Une table ronde décorative.\r\n",
+          "LocalizedString": "Une table ronde décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Bench_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Bench_Wood_TextData",
+          "SourceString": "Un banc en bois décoratif.\r\n",
+          "LocalizedString": "Un banc en bois décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool_Wood_TextData",
+          "SourceString": "Un tabouret en bois décoratif.\r\n",
+          "LocalizedString": "Un tabouret en bois décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Decal_PalSticker_PinkCat": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Decal_PalSticker_PinkCat_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool_High_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool_High_Wood_TextData",
+          "SourceString": "Un tabouret de bar en bois décoratif.\r\n",
+          "LocalizedString": "Un tabouret de bar en bois décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel_Wood_TextData",
+          "SourceString": "Un tonneau en bois permettant de stocker des objets.",
+          "LocalizedString": "Un tonneau en bois permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Box_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box_Wood_TextData",
+          "SourceString": "Une caisse en bois permettant de stocker des objets.",
+          "LocalizedString": "Une caisse en bois permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Wood_TextData",
+          "SourceString": "Une étagère en bois permettant de stocker des objets.",
+          "LocalizedString": "Une étagère en bois permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Cask_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Cask_Wood_TextData",
+          "SourceString": "Un tonneau à étagères en bois permettant de stocker des objets.",
+          "LocalizedString": "Un tonneau à étagères en bois permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Hang01_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Hang01_Wood_TextData",
+          "SourceString": "Une étagère en bois permettant de stocker des objets.\r\nPeut être installée sur un mur.",
+          "LocalizedString": "Une étagère en bois permettant de stocker des objets.\r\nPeut être installée sur un mur."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Hang02_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Hang02_Wood_TextData",
+          "SourceString": "Une étagère en bois décorative.\r\nPeut être installée sur un mur.",
+          "LocalizedString": "Une étagère en bois décorative.\r\nPeut être installée sur un mur."
+        }
+      },
+      "BUILDOBJECT_DESC_Counter_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Counter_Wood_TextData",
+          "SourceString": "Un comptoir en bois décoratif.\r\n",
+          "LocalizedString": "Un comptoir en bois décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug_Wood_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy01_TextData",
+          "SourceString": "Du grand lierre décoratif.\r\nPeut être installé sur un mur.\r\n",
+          "LocalizedString": "Du grand lierre décoratif.\r\nPeut être installé sur un mur.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy02_TextData",
+          "SourceString": "Du petit lierre décoratif.\r\nPeut être installé sur un mur.\r\n",
+          "LocalizedString": "Du petit lierre décoratif.\r\nPeut être installé sur un mur.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy03_TextData",
+          "SourceString": "Du lierre horizontal décoratif.\r\nPeut être installé sur un mur.\r\n",
+          "LocalizedString": "Du lierre horizontal décoratif.\r\nPeut être installé sur un mur.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Wood_TextData",
+          "SourceString": "Une chaise en bois décorative.\r\n",
+          "LocalizedString": "Une chaise en bois décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel01_Iron_TextData",
+          "SourceString": "Un baril rouge décoratif.\r\n",
+          "LocalizedString": "Un baril rouge décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel02_Iron_TextData",
+          "SourceString": "Un baril bleu décoratif.\r\n",
+          "LocalizedString": "Un baril bleu décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel03_Iron_TextData",
+          "SourceString": "Un baril vert décoratif.\r\n",
+          "LocalizedString": "Un baril vert décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Box01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box01_Iron_TextData",
+          "SourceString": "Une petite boîte permettant de stocker des objets.",
+          "LocalizedString": "Une petite boîte permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Box02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box02_Iron_TextData",
+          "SourceString": "Une boîte en tissu permettant de stocker des objets.",
+          "LocalizedString": "Une boîte en tissu permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_CableCoil01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CableCoil01_Iron_TextData",
+          "SourceString": "Un tambour de câble décoratif.\r\n",
+          "LocalizedString": "Un tambour de câble décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Iron_TextData",
+          "SourceString": "Une chaise à revêtement en cuir décorative.\r\n",
+          "LocalizedString": "Une chaise à revêtement en cuir décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair02_Iron_TextData",
+          "SourceString": "Une chaise en fer décorative.\r\n",
+          "LocalizedString": "Une chaise en fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Clock01_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Clock01_Wall_Iron_TextData",
+          "SourceString": "Une horloge murale décorative.\r\nCassée, elle ne donne pas l'heure.",
+          "LocalizedString": "Une horloge murale décorative.\r\nCassée, elle ne donne pas l'heure."
+        }
+      },
+      "BUILDOBJECT_DESC_Container01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Container01_Iron_TextData",
+          "SourceString": "Une grosse boîte permettant de stocker des objets.\r\nSon design rappelle les reliques d'une civilisation qui a un jour prospéré.",
+          "LocalizedString": "Une grosse boîte permettant de stocker des objets.\r\nSon design rappelle les reliques d'une civilisation qui a un jour prospéré."
+        }
+      },
+      "BUILDOBJECT_DESC_GarbageBag_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_GarbageBag_Iron_TextData",
+          "SourceString": "Un sac poubelle décoratif.\r\n",
+          "LocalizedString": "Un sac poubelle décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_GoalSoccer_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_GoalSoccer_Iron_TextData",
+          "SourceString": "Une cage de foot décorative.\r\nY introduire un <characterName id=|SheepBall|/> n'accorde aucun but.",
+          "LocalizedString": "Une cage de foot décorative.\r\nY introduire un <characterName id=|SheepBall|/> n'accorde aucun but."
+        }
+      },
+      "BUILDOBJECT_DESC_MachineGame01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MachineGame01_Iron_TextData",
+          "SourceString": "Une machine à pince décorative.\r\nCassée, il est impossible d'y jouer.",
+          "LocalizedString": "Une machine à pince décorative.\r\nCassée, il est impossible d'y jouer."
+        }
+      },
+      "BUILDOBJECT_DESC_MachineVending01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MachineVending01_Iron_TextData",
+          "SourceString": "Un distributeur de cola décoratif.\r\nNe propose aucun objet à la vente.",
+          "LocalizedString": "Un distributeur de cola décoratif.\r\nNe propose aucun objet à la vente."
+        }
+      },
+      "BUILDOBJECT_DESC_PipeClay01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PipeClay01_Iron_TextData",
+          "SourceString": "Un tuyau en terre cuite décoratif.\r\n",
+          "LocalizedString": "Un tuyau en terre cuite décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Iron_TextData",
+          "SourceString": "Une étagère en fer permettant de stocker des objets.",
+          "LocalizedString": "Une étagère en fer permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf02_Iron_TextData",
+          "SourceString": "Une étagère en fer rectangulaire permettant de stocker des objets.",
+          "LocalizedString": "Une étagère en fer rectangulaire permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf03_Iron_TextData",
+          "SourceString": "Un casier orange permettant de stocker des objets.\r\nUn autocollant de Pal y est apposé.",
+          "LocalizedString": "Un casier orange permettant de stocker des objets.\r\nUn autocollant de Pal y est apposé."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf04_Iron_TextData",
+          "SourceString": "Un casier permettant de stocker des objets.\r\nUn autocollant de Pal y est apposé.",
+          "LocalizedString": "Un casier permettant de stocker des objets.\r\nUn autocollant de Pal y est apposé."
+        }
+      },
+      "BUILDOBJECT_DESC_SignExit_Ceiling_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SignExit_Ceiling_Iron_TextData",
+          "SourceString": "Un panneau Sortie de secours décoratif.\r\nPeut être installé au plafond.\r\n",
+          "LocalizedString": "Un panneau Sortie de secours décoratif.\r\nPeut être installé au plafond.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_SignExit_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SignExit_Wall_Iron_TextData",
+          "SourceString": "Un panneau Sortie de secours décoratif.\r\nPeut être installé sur un mur.\r\n",
+          "LocalizedString": "Un panneau Sortie de secours décoratif.\r\nPeut être installé sur un mur.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa01_Iron_TextData",
+          "SourceString": "Un canapé en cuir une place décoratif.\r\n",
+          "LocalizedString": "Un canapé en cuir une place décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa02_Iron_TextData",
+          "SourceString": "Un canapé en cuir deux places décoratif.\r\n",
+          "LocalizedString": "Un canapé en cuir deux places décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool01_Iron_TextData",
+          "SourceString": "Un tabouret en fer décoratif.\r\n",
+          "LocalizedString": "Un tabouret en fer décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular01_Iron_TextData",
+          "SourceString": "Une table ronde en fer décorative.\r\n",
+          "LocalizedString": "Une table ronde en fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSide01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSide01_Iron_TextData",
+          "SourceString": "Une table d'appoint en bois de fer décorative.\r\n",
+          "LocalizedString": "Une table d'appoint en bois de fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare01_Iron_TextData",
+          "SourceString": "Une table en bois de fer décorative.\r\n",
+          "LocalizedString": "Une table en bois de fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare02_Iron_TextData",
+          "SourceString": "Une table basse en bois de fer décorative.\r\n",
+          "LocalizedString": "Une table basse en bois de fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Tire01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Tire01_Iron_TextData",
+          "SourceString": "Un pneu décoratif.\r\n",
+          "LocalizedString": "Un pneu décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade01_Iron_TextData",
+          "SourceString": "Une barricade décorative.\r\n",
+          "LocalizedString": "Une barricade décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade02_Iron_TextData",
+          "SourceString": "Une barricade orange décorative.\r\n",
+          "LocalizedString": "Une barricade orange décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade03_Iron_TextData",
+          "SourceString": "Une barricade rouge en fer décorative.\r\n",
+          "LocalizedString": "Une barricade rouge en fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade04_Iron_TextData",
+          "SourceString": "Une barricade blanche en fer décorative.\r\n",
+          "LocalizedString": "Une barricade blanche en fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade05_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade05_Iron_TextData",
+          "SourceString": "Une clôture en fer décorative.\r\n",
+          "LocalizedString": "Une clôture en fer décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone01_Iron_TextData",
+          "SourceString": "Un cône décoratif.\r\n",
+          "LocalizedString": "Un cône décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone02_Iron_TextData",
+          "SourceString": "Un cône de signalisation épais décoratif.\r\n",
+          "LocalizedString": "Un cône de signalisation épais décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone03_Iron_TextData",
+          "SourceString": "Un cône de signalisation fin décoratif.\r\n",
+          "LocalizedString": "Un cône de signalisation fin décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficLight01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficLight01_Iron_TextData",
+          "SourceString": "Un feu de circulation décoratif.\r\n",
+          "LocalizedString": "Un feu de circulation décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_BathTub_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BathTub_Stone_TextData",
+          "SourceString": "Une baignoire ancienne décorative.\r\n",
+          "LocalizedString": "Une baignoire ancienne décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Box01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box01_Stone_TextData",
+          "SourceString": "Un panier en toile de jute ancien décoratif.\r\n",
+          "LocalizedString": "Un panier en toile de jute ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Stone_TextData",
+          "SourceString": "Une chaise ancienne en bois décorative.\r\n",
+          "LocalizedString": "Une chaise ancienne en bois décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair02_Stone_TextData",
+          "SourceString": "Une chaise verte ancienne en bois décorative.\r\n",
+          "LocalizedString": "Une chaise verte ancienne en bois décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Clock01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Clock01_Stone_TextData",
+          "SourceString": "Une horloge murale ancienne décorative.\r\nCassée, elle ne donne pas l'heure.",
+          "LocalizedString": "Une horloge murale ancienne décorative.\r\nCassée, elle ne donne pas l'heure."
+        }
+      },
+      "BUILDOBJECT_DESC_Curtain01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Curtain01_Wall_Stone_TextData",
+          "SourceString": "Un rideau ancien décoratif.\r\nPeut être installé sur un mur.\r\n",
+          "LocalizedString": "Un rideau ancien décoratif.\r\nPeut être installé sur un mur.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Desk01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Desk01_Stone_TextData",
+          "SourceString": "Un bureau ancien décoratif.\r\n",
+          "LocalizedString": "Un bureau ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Globe01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Globe01_Stone_TextData",
+          "SourceString": "Une mappemonde ancienne décorative.\r\n",
+          "LocalizedString": "Une mappemonde ancienne décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror01_Stone_TextData",
+          "SourceString": "Un miroir ovale ancien décoratif.\r\n",
+          "LocalizedString": "Un miroir ovale ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror02_Stone_TextData",
+          "SourceString": "Un miroir ancien décoratif.\r\n",
+          "LocalizedString": "Un miroir ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror01_Wall_Stone_TextData",
+          "SourceString": "Un miroir mural ancien décoratif.\r\nPeut être installé sur un mur.\r\n",
+          "LocalizedString": "Un miroir mural ancien décoratif.\r\nPeut être installé sur un mur.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Partition_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Partition_Stone_TextData",
+          "SourceString": "Un paravent ancien décoratif.\r\n",
+          "LocalizedString": "Un paravent ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Piano01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Piano01_Stone_TextData",
+          "SourceString": "Un piano à queue décoratif.\r\nNe produit aucun son.",
+          "LocalizedString": "Un piano à queue décoratif.\r\nNe produit aucun son."
+        }
+      },
+      "BUILDOBJECT_DESC_Piano02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Piano02_Stone_TextData",
+          "SourceString": "Un piano droit décoratif.\r\nNe produit aucun son.",
+          "LocalizedString": "Un piano droit décoratif.\r\nNe produit aucun son."
+        }
+      },
+      "BUILDOBJECT_DESC_Rug01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug01_Stone_TextData",
+          "SourceString": "Un tapis ancien décoratif.\r\n",
+          "LocalizedString": "Un tapis ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug02_Stone_TextData",
+          "SourceString": "Un tapis rouge ancien décoratif.\r\n",
+          "LocalizedString": "Un tapis rouge ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug03_Stone_TextData",
+          "SourceString": "Un tapis vert ancien décoratif.\r\n",
+          "LocalizedString": "Un tapis vert ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug04_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug04_Stone_TextData",
+          "SourceString": "Un tapis long ancien décoratif.\r\n",
+          "LocalizedString": "Un tapis long ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Stone_TextData",
+          "SourceString": "Une bibliothèque ancienne permettant de stocker des objets.",
+          "LocalizedString": "Une bibliothèque ancienne permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf02_Stone_TextData",
+          "SourceString": "Une penderie ancienne permettant de stocker des objets.",
+          "LocalizedString": "Une penderie ancienne permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf03_Stone_TextData",
+          "SourceString": "Une commode ancienne permettant de stocker des objets.\r\nUne photo de Pal y est apposée.",
+          "LocalizedString": "Une commode ancienne permettant de stocker des objets.\r\nUne photo de Pal y est apposée."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf04_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf04_Stone_TextData",
+          "SourceString": "Une table de chevet ancienne permettant de stocker des objets.\r\nUne photo de Pal y est apposée.",
+          "LocalizedString": "Une table de chevet ancienne permettant de stocker des objets.\r\nUne photo de Pal y est apposée."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf05_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf05_Stone_TextData",
+          "SourceString": "Une armoire ancienne permettant de stocker des objets.",
+          "LocalizedString": "Une armoire ancienne permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf06_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf06_Stone_TextData",
+          "SourceString": "Un meuble de rangement ancien permettant de stocker des objets.\r\nUne photo de Pal y est apposée.",
+          "LocalizedString": "Un meuble de rangement ancien permettant de stocker des objets.\r\nUne photo de Pal y est apposée."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf07_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf07_Stone_TextData",
+          "SourceString": "Une grande armoire ancienne permettant de stocker des objets.",
+          "LocalizedString": "Une grande armoire ancienne permettant de stocker des objets."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Wall_Stone_TextData",
+          "SourceString": "Une armoire ancienne permettant de stocker des objets.\r\nPeut être installée sur un mur.",
+          "LocalizedString": "Une armoire ancienne permettant de stocker des objets.\r\nPeut être installée sur un mur."
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa01_Stone_TextData",
+          "SourceString": "Un canapé ancien une place décoratif.\r\n",
+          "LocalizedString": "Un canapé ancien une place décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa02_Stone_TextData",
+          "SourceString": "Un canapé ancien deux places décoratif.\r\n",
+          "LocalizedString": "Un canapé ancien deux places décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa03_Stone_TextData",
+          "SourceString": "Une ottomane ancienne décorative.\r\n",
+          "LocalizedString": "Une ottomane ancienne décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool01_Stone_TextData",
+          "SourceString": "Un tabouret ancien décoratif.\r\n",
+          "LocalizedString": "Un tabouret ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stove01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stove01_Stone_TextData",
+          "SourceString": "Un poêle ancien décoratif.\r\n",
+          "LocalizedString": "Un poêle ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular01_Stone_TextData",
+          "SourceString": "Une table ronde ancienne décorative.\r\n",
+          "LocalizedString": "Une table ronde ancienne décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableDresser01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableDresser01_Stone_TextData",
+          "SourceString": "Un buffet ancien décoratif.\r\n",
+          "LocalizedString": "Un buffet ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSink01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSink01_Stone_TextData",
+          "SourceString": "Un lavabo ancien décoratif.\r\n",
+          "LocalizedString": "Un lavabo ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Toilet01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Toilet01_Stone_TextData",
+          "SourceString": "Des toilettes anciennes décoratives.\r\nOn ne peut pas y faire ses petites affaires.",
+          "LocalizedString": "Des toilettes anciennes décoratives.\r\nOn ne peut pas y faire ses petites affaires."
+        }
+      },
+      "BUILDOBJECT_DESC_ToiletHolder01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToiletHolder01_Stone_TextData",
+          "SourceString": "Un porte-papier toilette ancien décoratif.\r\n",
+          "LocalizedString": "Un porte-papier toilette ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TowlRack01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TowlRack01_Stone_TextData",
+          "SourceString": "Un porte-serviettes ancien décoratif.\r\n",
+          "LocalizedString": "Un porte-serviettes ancien décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant01_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant01_Plant_TextData",
+          "SourceString": "Une plante décorative.\r\n",
+          "LocalizedString": "Une plante décorative.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant02_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant02_Plant_TextData",
+          "SourceString": "Une plante décorative avec chaise.\r\n",
+          "LocalizedString": "Une plante décorative avec chaise.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant03_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant03_Plant_TextData",
+          "SourceString": "Une plante décorative de bureau.\r\n",
+          "LocalizedString": "Une plante décorative de bureau.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant04_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant04_Plant_TextData",
+          "SourceString": "Une plante décorative en pot.\r\n",
+          "LocalizedString": "Une plante décorative en pot.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FloorLamp01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FloorLamp01_TextData",
+          "SourceString": "Un lampadaire marron ancien, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Un lampadaire marron ancien, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FloorLamp02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FloorLamp02_TextData",
+          "SourceString": "Un lampadaire rouge ancien, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Un lampadaire rouge ancien, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole01_TextData",
+          "SourceString": "Un réverbère simple, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Un réverbère simple, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole02_TextData",
+          "SourceString": "Un réverbère à deux branches, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Un réverbère à deux branches, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole03_TextData",
+          "SourceString": "Un réverbère rétro, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Un réverbère rétro, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole04": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole04_TextData",
+          "SourceString": "Un réverbère chic, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Un réverbère chic, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FirePlace01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FirePlace01_TextData",
+          "SourceString": "Une cheminée en briques, source de lumière.\r\nDoit être allumée avec un Pal de feu.",
+          "LocalizedString": "Une cheminée en briques, source de lumière.\r\nDoit être allumée avec un Pal de feu."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FirePlace02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FirePlace02_TextData",
+          "SourceString": "Une cheminée, source de lumière.\r\nDoit être allumée avec un Pal de feu.",
+          "LocalizedString": "Une cheminée, source de lumière.\r\nDoit être allumée avec un Pal de feu."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_CandleSticks_Top": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_CandleSticks_Top_TextData",
+          "SourceString": "Un chandelier, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Un chandelier, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_CandleSticks_Wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_CandleSticks_Wall_TextData",
+          "SourceString": "Une lampe murale, source de lumière.\r\nDe l'électricité est requise pour l'allumer.",
+          "LocalizedString": "Une lampe murale, source de lumière.\r\nDe l'électricité est requise pour l'allumer."
+        }
+      },
+      "BUILDOBJECT_DESC_Television01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Television01_Iron_TextData",
+          "SourceString": "Un vieux téléviseur décoratif.\r\nRelique d'une ancienne civilisation, elle ne diffuse\r\nplus que des images de Pengullet.",
+          "LocalizedString": "Un vieux téléviseur décoratif.\r\nRelique d'une ancienne civilisation, elle ne diffuse\r\nplus que des images de Pengullet."
+        }
+      },
+      "BUILDOBJECT_DESC_Desk01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Desk01_Iron_TextData",
+          "SourceString": "Un bureau en fer décoratif.\r\n",
+          "LocalizedString": "Un bureau en fer décoratif.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Wall_Iron_TextData",
+          "SourceString": "Une étagère murale en fer permettant de stocker des objets.\r\nPeut être installée sur un mur.",
+          "LocalizedString": "Une étagère murale en fer permettant de stocker des objets.\r\nPeut être installée sur un mur."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign01_Iron_TextData",
+          "SourceString": "Un panneau Interdit aux Pals décoratif.\r\nAutrefois utilisé, il ne signifie plus grand-chose aujourd'hui.",
+          "LocalizedString": "Un panneau Interdit aux Pals décoratif.\r\nAutrefois utilisé, il ne signifie plus grand-chose aujourd'hui."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign02_Iron_TextData",
+          "SourceString": "Un panneau stop décoratif.\r\nAutrefois utilisé, il ne signifie plus grand-chose aujourd'hui.",
+          "LocalizedString": "Un panneau stop décoratif.\r\nAutrefois utilisé, il ne signifie plus grand-chose aujourd'hui."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign03_Iron_TextData",
+          "SourceString": "Un panneau Attention aux Eikthyrdeer décoratif.\r\nLes collisions avec ce Pal étaient\r\nsemble-t-il fréquentes dans l'ancien temps.",
+          "LocalizedString": "Un panneau Attention aux Eikthyrdeer décoratif.\r\nLes collisions avec ce Pal étaient\r\nsemble-t-il fréquentes dans l'ancien temps."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign04_Iron_TextData",
+          "SourceString": "Un panneau Attention aux Mammorest décoratif.\r\nBeaucoup auraient trouvé la mort\r\naprès avoir provoqué ce Pal dans l'ancien temps.",
+          "LocalizedString": "Un panneau Attention aux Mammorest décoratif.\r\nBeaucoup auraient trouvé la mort\r\naprès avoir provoqué ce Pal dans l'ancien temps."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_WindowWall_TextData",
+          "SourceString": "Un mur avec fenêtres à construire sur une base pour repousser les intrus.\r\nSa composition en bois le rend fragile.",
+          "LocalizedString": "Un mur avec fenêtres à construire sur une base pour repousser les intrus.\r\nSa composition en bois le rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_WindowWall_TextData",
+          "SourceString": "Un mur avec fenêtres à construire sur une base pour repousser les intrus.\r\nSa composition en pierre le rend assez robuste.",
+          "LocalizedString": "Un mur avec fenêtres à construire sur une base pour repousser les intrus.\r\nSa composition en pierre le rend assez robuste."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_WindowWall_TextData",
+          "SourceString": "Un mur avec fenêtres à construire sur une base pour repousser les intrus.\r\nSa composition en métal le rend très solide.",
+          "LocalizedString": "Un mur avec fenêtres à construire sur une base pour repousser les intrus.\r\nSa composition en métal le rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_TriangleWall_TextData",
+          "SourceString": "Un mur triangulaire à construire sur une base.\r\nSa composition en bois le rend fragile.",
+          "LocalizedString": "Un mur triangulaire à construire sur une base.\r\nSa composition en bois le rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_TriangleWall_TextData",
+          "SourceString": "Un mur triangulaire à construire sur une base.\r\nSa composition en pierre le rend assez robuste.",
+          "LocalizedString": "Un mur triangulaire à construire sur une base.\r\nSa composition en pierre le rend assez robuste."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_TriangleWall_TextData",
+          "SourceString": "Un mur triangulaire à construire sur une base.\r\nSa composition en métal le rend très solide.",
+          "LocalizedString": "Un mur triangulaire à construire sur une base.\r\nSa composition en métal le rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_SlantedRoof_TextData",
+          "SourceString": "Un toit incliné à placer sur des murs pour contrer les éléments.\r\nSa conception en bois le rend fragile.",
+          "LocalizedString": "Un toit incliné à placer sur des murs pour contrer les éléments.\r\nSa conception en bois le rend fragile."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_SlantedRoof_TextData",
+          "SourceString": "Un toit incliné à placer sur des murs pour contrer les éléments.\r\nSa composition en pierre le rend assez robuste.",
+          "LocalizedString": "Un toit incliné à placer sur des murs pour contrer les éléments.\r\nSa composition en pierre le rend assez robuste."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_SlantedRoof_TextData",
+          "SourceString": "Un toit incliné à placer sur des murs pour contrer les éléments.\r\nSa composition en métal le rend très solide.",
+          "LocalizedString": "Un toit incliné à placer sur des murs pour contrer les éléments.\r\nSa composition en métal le rend très solide."
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Pal": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Pal_TextData",
+          "SourceString": "Une jolie chaise décorative.",
+          "LocalizedString": "Une jolie chaise décorative."
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_WorldMap_Common_Text",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "REGION_Grass_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_TextData",
+          "SourceString": "Холмы ветров",
+          "LocalizedString": "Холмы ветров"
+        }
+      },
+      "REGION_Grass_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_2_TextData",
+          "SourceString": "Ущелье Бамбуковой рощи",
+          "LocalizedString": "Ущелье Бамбуковой рощи"
+        }
+      },
+      "REGION_Forest_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_1_TextData",
+          "SourceString": "Берег Убывающей луны",
+          "LocalizedString": "Берег Убывающей луны"
+        }
+      },
+      "REGION_Forest_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_2_TextData",
+          "SourceString": "Ручей Молодой листвы",
+          "LocalizedString": "Ручей Молодой листвы"
+        }
+      },
+      "REGION_Volcano_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_1_TextData",
+          "SourceString": "Обсидиановый вулкан",
+          "LocalizedString": "Обсидиановый вулкан"
+        }
+      },
+      "REGION_Desert_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_1_TextData",
+          "SourceString": "Пустынные дюны",
+          "LocalizedString": "Пустынные дюны"
+        }
+      },
+      "REGION_Frost_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_1_TextData",
+          "SourceString": "Серебряный пик",
+          "LocalizedString": "Серебряный пик"
+        }
+      },
+      "REGION_Frost_small": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_small_TextData",
+          "SourceString": "Ледяная гора",
+          "LocalizedString": "Ледяная гора"
+        }
+      },
+      "REGION_Desert_Small": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_Small_TextData",
+          "SourceString": "Сумрачные пески",
+          "LocalizedString": "Сумрачные пески"
+        }
+      },
+      "REGION_Grass_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_Boss_TextData",
+          "SourceString": "Башня Отряда браконьеров Рейн",
+          "LocalizedString": "Башня Отряда браконьеров Рейн"
+        }
+      },
+      "REGION_Forest_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_Boss_TextData",
+          "SourceString": "Башня Организации по защите Палов",
+          "LocalizedString": "Башня Организации по защите Палов"
+        }
+      },
+      "REGION_Desert_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_Boss_TextData",
+          "SourceString": "Башня вигилантов",
+          "LocalizedString": "Башня вигилантов"
+        }
+      },
+      "REGION_Volcano_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_Boss_TextData",
+          "SourceString": "Башня Братства Вечного пламени",
+          "LocalizedString": "Башня Братства Вечного пламени"
+        }
+      },
+      "REGION_Frost_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_Boss_TextData",
+          "SourceString": "Башня Отряда генетических исследований",
+          "LocalizedString": "Башня Отряда генетических исследований"
+        }
+      },
+      "REGION_TEST_CHICKEN": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_TEST_CHICKEN_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "REGION_Grass_1_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_Church_TextData",
+          "SourceString": "Ветхая церковь",
+          "LocalizedString": "Ветхая церковь"
+        }
+      },
+      "REGION_Grass_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_Village_TextData",
+          "SourceString": "Небольшое поселение",
+          "LocalizedString": "Небольшое поселение"
+        }
+      },
+      "REGION_Desert_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_1_Village_TextData",
+          "SourceString": "Город в пустыне",
+          "LocalizedString": "Город в пустыне"
+        }
+      },
+      "REGION_Volcano_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_1_Village_TextData",
+          "SourceString": "Отдаленная рыбацкая деревня",
+          "LocalizedString": "Отдаленная рыбацкая деревня"
+        }
+      },
+      "REGION_Preserve1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve1_TextData",
+          "SourceString": "Первая зона запрета охоты",
+          "LocalizedString": "Первая зона запрета охоты"
+        }
+      },
+      "REGION_Preserve2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve2_TextData",
+          "SourceString": "Вторая зона запрета охоты",
+          "LocalizedString": "Вторая зона запрета охоты"
+        }
+      },
+      "REGION_Preserve3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve3_TextData",
+          "SourceString": "Третья зона запрета охоты",
+          "LocalizedString": "Третья зона запрета охоты"
+        }
+      },
+      "REGION_Statue1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "REGION_Statue2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "REGION_Statue3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue3_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "REGION_Forest_Ruin": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_Ruin_TextData",
+          "SourceString": "Старое святилище",
+          "LocalizedString": "Старое святилище"
+        }
+      },
+      "REGION_FixedDungeon_grass_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_1_TextData",
+          "SourceString": "Обитель ледяной птицы",
+          "LocalizedString": "Обитель ледяной птицы"
+        }
+      },
+      "REGION_FixedDungeon_grass_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_2_TextData",
+          "SourceString": "Обитель мастера меча",
+          "LocalizedString": "Обитель мастера меча"
+        }
+      },
+      "REGION_FixedDungeon_grass_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_3_TextData",
+          "SourceString": "Обитель крылатого дракона",
+          "LocalizedString": "Обитель крылатого дракона"
+        }
+      },
+      "REGION_FixedDungeon_grass_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_4_TextData",
+          "SourceString": "Обитель громового дракона",
+          "LocalizedString": "Обитель громового дракона"
+        }
+      },
+      "REGION_FixedDungeon_grass_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_5_TextData",
+          "SourceString": "Обитель темной ночи",
+          "LocalizedString": "Обитель темной ночи"
+        }
+      },
+      "REGION_FixedDungeon_grass_6": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_6_TextData",
+          "SourceString": "Обитель бесстрашия",
+          "LocalizedString": "Обитель бесстрашия"
+        }
+      },
+      "REGION_FixedDungeon_grass_7": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_7_TextData",
+          "SourceString": "Обитель тайн",
+          "LocalizedString": "Обитель тайн"
+        }
+      },
+      "REGION_FixedDungeon_forest_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_1_TextData",
+          "SourceString": "Обитель непреклонности",
+          "LocalizedString": "Обитель непреклонности"
+        }
+      },
+      "REGION_FixedDungeon_forest_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_2_TextData",
+          "SourceString": "Обитель духа",
+          "LocalizedString": "Обитель духа"
+        }
+      },
+      "REGION_FixedDungeon_forest_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_3_TextData",
+          "SourceString": "Обитель молниеносной скорости",
+          "LocalizedString": "Обитель молниеносной скорости"
+        }
+      },
+      "REGION_FixedDungeon_forest_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_4_TextData",
+          "SourceString": "Обитель хранителя",
+          "LocalizedString": "Обитель хранителя"
+        }
+      },
+      "REGION_FixedDungeon_forest_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_5_TextData",
+          "SourceString": "Обитель снежной белизны",
+          "LocalizedString": "Обитель снежной белизны"
+        }
+      },
+      "REGION_UndergroundCave_grass01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass01_TextData",
+          "SourceString": "Заброшенная шахта",
+          "LocalizedString": "Заброшенная шахта"
+        }
+      },
+      "REGION_UndergroundCave_grass02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass02_TextData",
+          "SourceString": "Шахта на отмели",
+          "LocalizedString": "Шахта на отмели"
+        }
+      },
+      "REGION_UndergroundCave_grass03": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass03_TextData",
+          "SourceString": "Шахта за водопадом",
+          "LocalizedString": "Шахта за водопадом"
+        }
+      },
+      "REGION_UndergroundCave_grass04": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass04_TextData",
+          "SourceString": "Шахта в заливе",
+          "LocalizedString": "Шахта в заливе"
+        }
+      },
+      "REGION_UndergroundCave_forest01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_forest01_TextData",
+          "SourceString": "Шахта фанатиков",
+          "LocalizedString": "Шахта фанатиков"
+        }
+      },
+      "REGION_UndergroundCave_dessert01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert01_TextData",
+          "SourceString": "Иссохшая шахта",
+          "LocalizedString": "Иссохшая шахта"
+        }
+      },
+      "REGION_UndergroundCave_dessert02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert02_TextData",
+          "SourceString": "Тайная шахта",
+          "LocalizedString": "Тайная шахта"
+        }
+      },
+      "REGION_UndergroundCave_dessert03": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert03_TextData",
+          "SourceString": "Шахта на отшибе",
+          "LocalizedString": "Шахта на отшибе"
+        }
+      },
+      "REGION_UndergroundCave_volcano01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_volcano01_TextData",
+          "SourceString": "Раскаленная шахта",
+          "LocalizedString": "Раскаленная шахта"
+        }
+      },
+      "REGION_UndergroundCave_volcano02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_volcano02_TextData",
+          "SourceString": "Разоренная шахта",
+          "LocalizedString": "Разоренная шахта"
+        }
+      },
+      "REGION_UndergroundCave_snow01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_snow01_TextData",
+          "SourceString": "Шахта ледяной горы",
+          "LocalizedString": "Шахта ледяной горы"
+        }
+      },
+      "REGION_UndergroundCave_snow02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_snow02_TextData",
+          "SourceString": "Забытая шахта",
+          "LocalizedString": "Забытая шахта"
+        }
+      },
+      "REGION_PvP_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_1_TextData",
+          "SourceString": "Архипелаг морских ветров",
+          "LocalizedString": "Архипелаг морских ветров"
+        }
+      },
+      "REGION_PvP_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_2_TextData",
+          "SourceString": "Забытый остров",
+          "LocalizedString": "Забытый остров"
+        }
+      },
+      "REGION_PvP_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_3_TextData",
+          "SourceString": "Остров холодных ветров",
+          "LocalizedString": "Остров холодных ветров"
+        }
+      },
+      "REGION_PvP_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_4_TextData",
+          "SourceString": "Дикий остров на востоке",
+          "LocalizedString": "Дикий остров на востоке"
+        }
+      },
+      "REGION_PvP_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_5_TextData",
+          "SourceString": "Остров болотистых равнин",
+          "LocalizedString": "Остров болотистых равнин"
+        }
+      },
+      "REGION_PvP_1_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_1_Church_TextData",
+          "SourceString": "Церковь на архипелаге морских ветров",
+          "LocalizedString": "Церковь на архипелаге морских ветров"
+        }
+      },
+      "REGION_PvP_2_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_2_Church_TextData",
+          "SourceString": "Руины церкви на Забытом острове",
+          "LocalizedString": "Руины церкви на Забытом острове"
+        }
+      },
+      "REGION_PvP_3_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_3_Church_TextData",
+          "SourceString": "Руины церкви на острове болотистых равнин",
+          "LocalizedString": "Руины церкви на острове болотистых равнин"
+        }
+      }
+    }
+  }
+]

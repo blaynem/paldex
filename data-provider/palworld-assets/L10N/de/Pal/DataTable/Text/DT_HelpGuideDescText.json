@@ -1,0 +1,343 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HelpGuideDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "Help_1": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_1_TextData",
+          "SourceString": "Steuerung (Tastatur)\r\n\r\nMaus　Kamerasteuerung\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/>　Bewegen\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/>　Pal werfen\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/>　Pal-Sphäre werfen\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/>　Baumenü\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/>　Springen\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/>　Zielen\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/>　Angreifen\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/>　Partnerfähigkeit\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/>　Nachladen\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/>　Waffe wechseln\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/>　Ducken\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/>　Rollen\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/>　Sprinten\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/>　Pal anweisen\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/>　Pal wechseln\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/>　Sphäre wechseln",
+          "LocalizedString": "Steuerung (Tastatur)\r\n\r\nMaus　Kamerasteuerung\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/>　Bewegen\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/>　Pal werfen\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/>　Pal-Sphäre werfen\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/>　Baumenü\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/>　Springen\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/>　Zielen\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/>　Angreifen\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/>　Partnerfähigkeit\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/>　Nachladen\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/>　Waffe wechseln\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/>　Ducken\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/>　Rollen\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/>　Sprinten\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/>　Pal anweisen\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/>　Pal wechseln\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/>　Sphäre wechseln"
+        }
+      },
+      "Help_2": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_2_TextData",
+          "SourceString": "Steuerung (Controller)\r\n\r\nLinker Stick　Bewegen\r\nRechter Stick　Kamerasteuerung\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/>　Pal werfen\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/>　Pal-Sphäre werfen\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/>　Baumenü\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/>　Springen\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/>　Zielen\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/>　Angreifen\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/>　Partnerfähigkeit\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|2|/>　Waffe wechseln\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/>　Ducken/Rollen\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/>　Sprinten\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/>　Pal anweisen\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/>　Pal wechseln\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/>　Sphäre wechseln",
+          "LocalizedString": "Steuerung (Controller)\r\n\r\nLinker Stick　Bewegen\r\nRechter Stick　Kamerasteuerung\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/>　Pal werfen\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/>　Pal-Sphäre werfen\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/>　Baumenü\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/>　Springen\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/>　Zielen\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/>　Angreifen\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/>　Partnerfähigkeit\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|2|/>　Waffe wechseln\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/>　Ducken/Rollen\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/>　Sprinten\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/>　Pal anweisen\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/>　Pal wechseln\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/>　Sphäre wechseln"
+        }
+      },
+      "Help_3": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_3_TextData",
+          "SourceString": "Spielziel\r\n\r\nBesiege die Bosse der Türme jeder Region und werde der allerstärkste Paltrainer!\r\nDu kannst dich in aller Ruhe der Befestigung deines Lagers widmen oder hinausziehen und alle Pals fangen.\r\nAuch die Erschaffung megastarker Pals durch Züchtung oder Verstärkung ist möglich.\r\n\r\nTue dich mit deinen Pals zusammen und ziehe hinaus, um die wilden Weiten dieser Welt zu entdecken!",
+          "LocalizedString": "Spielziel\r\n\r\nBesiege die Bosse der Türme jeder Region und werde der allerstärkste Paltrainer!\r\nDu kannst dich in aller Ruhe der Befestigung deines Lagers widmen oder hinausziehen und alle Pals fangen.\r\nAuch die Erschaffung megastarker Pals durch Züchtung oder Verstärkung ist möglich.\r\n\r\nTue dich mit deinen Pals zusammen und ziehe hinaus, um die wilden Weiten dieser Welt zu entdecken!"
+        }
+      },
+      "Help_4": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_4_TextData",
+          "SourceString": "Womit fange ich am besten an?\r\n\r\nZunächst solltest du an Holz und Stein kommen, zum Beispiel indem du Äste und Kiesel aufsammelst.\r\nDu kannst dazu auch Bäume oder Felsen mit bloßen Händen schlagen.\r\nMit einer Werkbank kannst du dir eine Axt und eine Spitzhacke anfertigen, um die Effizienz beim Sammeln dieser Rohstoffe zu steigern.\r\n\r\nHast du genug Material zusammen, suche dir einen passenden Platz für dein Lager aus und baue eine Pal-Box.\r\nDas Gebiet um deine Pal-Box ist dein Lager.\r\n\r\nErhöhe deine Stufe und baue Waffen und Pal-Sphären, um damit Pals zu schwächen und einzufangen.\r\nPals können nicht nur für dich kämpfen, sondern auch in deinem Lager arbeiten.\r\n\r\nVorsicht, die Nächte auf Palapagos sind voller Gefahren! Kümmere dich rechtzeitig um ein Lagerfeuer oder Fackeln, und natürlich um ein Bett.",
+          "LocalizedString": "Womit fange ich am besten an?\r\n\r\nZunächst solltest du an Holz und Stein kommen, zum Beispiel indem du Äste und Kiesel aufsammelst.\r\nDu kannst dazu auch Bäume oder Felsen mit bloßen Händen schlagen.\r\nMit einer Werkbank kannst du dir eine Axt und eine Spitzhacke anfertigen, um die Effizienz beim Sammeln dieser Rohstoffe zu steigern.\r\n\r\nHast du genug Material zusammen, suche dir einen passenden Platz für dein Lager aus und baue eine Pal-Box.\r\nDas Gebiet um deine Pal-Box ist dein Lager.\r\n\r\nErhöhe deine Stufe und baue Waffen und Pal-Sphären, um damit Pals zu schwächen und einzufangen.\r\nPals können nicht nur für dich kämpfen, sondern auch in deinem Lager arbeiten.\r\n\r\nVorsicht, die Nächte auf Palapagos sind voller Gefahren! Kümmere dich rechtzeitig um ein Lagerfeuer oder Fackeln, und natürlich um ein Bett."
+        }
+      },
+      "Help_5": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_5_TextData",
+          "SourceString": "Die Pals\r\n\r\nPals sind mysteriöse Geschöpfe, die auf Palapagos heimisch sind.\r\nDu kannst sie mithilfe von Sphären fangen und sie zu deinen Gefährten machen.\r\nPals in deinem Team kannst du mit <keyGuideIcon id=|ThrowPal|/> aus ihrer Sphäre rufen.\r\n\r\nDu kannst bis zu 5 Pals im Team haben. Alle weiteren Pals, die du fängst, werden automatisch an deine Pal-Box geschickt.\r\nBaue sie auf, um deine Pals herauszuholen.",
+          "LocalizedString": "Die Pals\r\n\r\nPals sind mysteriöse Geschöpfe, die auf Palapagos heimisch sind.\r\nDu kannst sie mithilfe von Sphären fangen und sie zu deinen Gefährten machen.\r\nPals in deinem Team kannst du mit <keyGuideIcon id=|ThrowPal|/> aus ihrer Sphäre rufen.\r\n\r\nDu kannst bis zu 5 Pals im Team haben. Alle weiteren Pals, die du fängst, werden automatisch an deine Pal-Box geschickt.\r\nBaue sie auf, um deine Pals herauszuholen."
+        }
+      },
+      "Help_6": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_6_TextData",
+          "SourceString": "HUD\r\n\r\nUnten links siehst du die LP und Sattheit von dir und deinem Team.\r\nDaneben ist die Temperaturanzeige; bei extremer Hitze oder Kälte nimmst du Schaden.\r\nUnten rechts siehst du, welche Waffe und Sphäre du ausgerüstet hast sowie ihre jeweiligen Munitionsanzeigen.",
+          "LocalizedString": "HUD\r\n\r\nUnten links siehst du die LP und Sattheit von dir und deinem Team.\r\nDaneben ist die Temperaturanzeige; bei extremer Hitze oder Kälte nimmst du Schaden.\r\nUnten rechts siehst du, welche Waffe und Sphäre du ausgerüstet hast sowie ihre jeweiligen Munitionsanzeigen."
+        }
+      },
+      "Help_7": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_7_TextData",
+          "SourceString": "Gegenstände\r\n\r\nHerumliegende Gegenstände lassen sich mit <keyGuideIcon id=|Interact_1|/> einsammeln.\r\nMaterialien wie Holz und Stein kannst du auch erhalten, indem du Bäume oder Felsen mit einer Axt oder einer Spitzhacke zerstörst.\r\nAuch besiegte Pals lassen Gegenstände als Beute zurück.",
+          "LocalizedString": "Gegenstände\r\n\r\nHerumliegende Gegenstände lassen sich mit <keyGuideIcon id=|Interact_1|/> einsammeln.\r\nMaterialien wie Holz und Stein kannst du auch erhalten, indem du Bäume oder Felsen mit einer Axt oder einer Spitzhacke zerstörst.\r\nAuch besiegte Pals lassen Gegenstände als Beute zurück."
+        }
+      },
+      "Help_8": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_8_TextData",
+          "SourceString": "Bauen\r\n\r\nÖffne zum Bauen mit <keyGuideIcon id=|OpenConstructionRadialMenu|/> das Baumenü.\r\nVon dort aus kannst du einen Bauplatz bestimmen, an dem du dann nur noch bauen musst.\r\nWenn du Pals im Team oder im Lager hast, können sie dir bei deinem Projekt helfen.",
+          "LocalizedString": "Bauen\r\n\r\nÖffne zum Bauen mit <keyGuideIcon id=|OpenConstructionRadialMenu|/> das Baumenü.\r\nVon dort aus kannst du einen Bauplatz bestimmen, an dem du dann nur noch bauen musst.\r\nWenn du Pals im Team oder im Lager hast, können sie dir bei deinem Projekt helfen."
+        }
+      },
+      "Help_9": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_9_TextData",
+          "SourceString": "Fertigen\r\n\r\nDu kannst Gegenstände fertigen, indem du zum Beispiel eine Werkbank baust und damit interagierst.\r\nMithilfe von Technologiepunkten lassen sich neue Rezepte freischalten\r\nund je nach Produktionsgebäude andere Gegenstände fertigen.",
+          "LocalizedString": "Fertigen\r\n\r\nDu kannst Gegenstände fertigen, indem du zum Beispiel eine Werkbank baust und damit interagierst.\r\nMithilfe von Technologiepunkten lassen sich neue Rezepte freischalten\r\nund je nach Produktionsgebäude andere Gegenstände fertigen."
+        }
+      },
+      "Help_10": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_10_TextData",
+          "SourceString": "Technologien\r\n\r\nIm Technologie-Tab im Menü kannst du Technologiepunkte einsetzen,\r\num neue Rezepte, Gebäude oder Gegenstände freizuschalten.\r\nTechnologiepunkte erhältst du beim Hochstufen oder durch das Aktivieren von Adlerstatuen.",
+          "LocalizedString": "Technologien\r\n\r\nIm Technologie-Tab im Menü kannst du Technologiepunkte einsetzen,\r\num neue Rezepte, Gebäude oder Gegenstände freizuschalten.\r\nTechnologiepunkte erhältst du beim Hochstufen oder durch das Aktivieren von Adlerstatuen."
+        }
+      },
+      "Help_11": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_11_TextData",
+          "SourceString": "Antike Technologien\r\n\r\nWenn du mächtige Gegner besiegst, erhältst du Antiktechnologiepunkte,\r\ndie du einsetzen kannst, um antike Technologien freizuschalten.\r\n\r\nDiese fortschrittlichen Technologien einer längst untergegangenen Zivilisation\r\nhaben oft mächtige und einzigartige Effekte.",
+          "LocalizedString": "Antike Technologien\r\n\r\nWenn du mächtige Gegner besiegst, erhältst du Antiktechnologiepunkte,\r\ndie du einsetzen kannst, um antike Technologien freizuschalten.\r\n\r\nDiese fortschrittlichen Technologien einer längst untergegangenen Zivilisation\r\nhaben oft mächtige und einzigartige Effekte."
+        }
+      },
+      "Help_12": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_12_TextData",
+          "SourceString": "Hochstufen\r\n\r\nJe mehr EP du und deine Pals sammeln, desto höher steigt eure Stufe.\r\nEP erhältst du beim Besiegen oder Fangen von Pals.\r\n\r\nPals, die stärker sind als du selbst, lassen sich nicht kontrollieren,\r\nweshalb ihre Fähigkeiten durch Level-Synchro auf dein Level sinken.",
+          "LocalizedString": "Hochstufen\r\n\r\nJe mehr EP du und deine Pals sammeln, desto höher steigt eure Stufe.\r\nEP erhältst du beim Besiegen oder Fangen von Pals.\r\n\r\nPals, die stärker sind als du selbst, lassen sich nicht kontrollieren,\r\nweshalb ihre Fähigkeiten durch Level-Synchro auf dein Level sinken."
+        }
+      },
+      "Help_13": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_13_TextData",
+          "SourceString": "Erhöhung deiner Werte\r\n\r\nIm Inventar-Tab im Menü kannst du Statuspunkte zuweisen\r\nund so deine eigenen Parameter verbessern.\r\nStatuspunkte erhältst du, indem du dein Level erhöhst.",
+          "LocalizedString": "Erhöhung deiner Werte\r\n\r\nIm Inventar-Tab im Menü kannst du Statuspunkte zuweisen\r\nund so deine eigenen Parameter verbessern.\r\nStatuspunkte erhältst du, indem du dein Level erhöhst."
+        }
+      },
+      "Help_14": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_14_TextData",
+          "SourceString": "Lager\r\n\r\nWenn du deine Pal-Box aufbaust, wird das Gebiet darum zu deinem Lager.\r\nInteragiere mit der Pal-Box, um deine Pals herauszuholen, und sie suchen sich\r\nje nach Arbeitseignung selbstständig Aufgaben im Lager, die sie verrichten können.\r\n\r\nBaue Gebäude im Lager, um deine Pals für dich arbeiten zu lassen.\r\nLasse aber Vorsicht walten, denn Pals im Lager sind Feinden ausgesetzt!",
+          "LocalizedString": "Lager\r\n\r\nWenn du deine Pal-Box aufbaust, wird das Gebiet darum zu deinem Lager.\r\nInteragiere mit der Pal-Box, um deine Pals herauszuholen, und sie suchen sich\r\nje nach Arbeitseignung selbstständig Aufgaben im Lager, die sie verrichten können.\r\n\r\nBaue Gebäude im Lager, um deine Pals für dich arbeiten zu lassen.\r\nLasse aber Vorsicht walten, denn Pals im Lager sind Feinden ausgesetzt!"
+        }
+      },
+      "Help_15": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_15_TextData",
+          "SourceString": "Pal-Box\r\n\r\nDas Gebiet um die Pal-Box herum wird zum Territorium des Lagers der Gilde, der du angehörst, und alle Gebäude, die darauf gebaut werden, gehen ins Eigentum deiner Gilde über.\r\nDurch das Abschließen von Missionen, die du durch Interaktion mit der Pal-Box erhältst, wächst das Gildenlager und mit ihm die Anzahl der Pals, die du rufen kannst.\r\n\r\nSetze Pals in die Box, damit sie sich dort ausruhen und regenerieren können.\r\nSogar kampfunfähige Pals kommen darin wieder zu Kräften.\r\n\r\nDie Pal-Box hat eine Schnellreisefunktion, mit der du sie zu Adlerstatuen teleportieren kannst, die du auf deinen Reisen aktiviert hast.\r\n*Die Schnellreisefunktion kann nicht genutzt werden, wenn sie in den Welteinstellungen deaktiviert wurde.",
+          "LocalizedString": "Pal-Box\r\n\r\nDas Gebiet um die Pal-Box herum wird zum Territorium des Lagers der Gilde, der du angehörst, und alle Gebäude, die darauf gebaut werden, gehen ins Eigentum deiner Gilde über.\r\nDurch das Abschließen von Missionen, die du durch Interaktion mit der Pal-Box erhältst, wächst das Gildenlager und mit ihm die Anzahl der Pals, die du rufen kannst.\r\n\r\nSetze Pals in die Box, damit sie sich dort ausruhen und regenerieren können.\r\nSogar kampfunfähige Pals kommen darin wieder zu Kräften.\r\n\r\nDie Pal-Box hat eine Schnellreisefunktion, mit der du sie zu Adlerstatuen teleportieren kannst, die du auf deinen Reisen aktiviert hast.\r\n*Die Schnellreisefunktion kann nicht genutzt werden, wenn sie in den Welteinstellungen deaktiviert wurde."
+        }
+      },
+      "Help_16": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_16_TextData",
+          "SourceString": "Fangen\r\n\r\nWirf eine Sphäre mit <keyGuideIcon id=|ThrowObject|/> auf einen Pal, um ihn zu fangen.\r\nPals sind einfacher zu fangen, wenn ihre LP niedrig sind, sie Statusprobleme haben oder in einer Falle festsitzen.\r\nDu kannst die Fangwahrscheinlichkeit auch erhöhen, indem du dich unbemerkt anpirschst und die Sphäre von hinten auf den Pal wirfst.\r\nFertige bessere Sphären, um stärkere Pals zu fangen.",
+          "LocalizedString": "Fangen\r\n\r\nWirf eine Sphäre mit <keyGuideIcon id=|ThrowObject|/> auf einen Pal, um ihn zu fangen.\r\nPals sind einfacher zu fangen, wenn ihre LP niedrig sind, sie Statusprobleme haben oder in einer Falle festsitzen.\r\nDu kannst die Fangwahrscheinlichkeit auch erhöhen, indem du dich unbemerkt anpirschst und die Sphäre von hinten auf den Pal wirfst.\r\nFertige bessere Sphären, um stärkere Pals zu fangen."
+        }
+      },
+      "Help_17": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_17_TextData",
+          "SourceString": "Dein Team\r\n\r\nIm Menü findest du den Team-Tab.\r\nHier kannst du sehen, wie viele LP die Pals in deinem Team haben und wie satt sie sind.\r\nAußerdem kannst du dir hier ihre Fähigkeiten ansehen und gelernte Aktivfähigkeiten ändern.",
+          "LocalizedString": "Dein Team\r\n\r\nIm Menü findest du den Team-Tab.\r\nHier kannst du sehen, wie viele LP die Pals in deinem Team haben und wie satt sie sind.\r\nAußerdem kannst du dir hier ihre Fähigkeiten ansehen und gelernte Aktivfähigkeiten ändern."
+        }
+      },
+      "Help_18": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_18_TextData",
+          "SourceString": "Sattheit\r\n\r\nWenn du und deine Pals aktiv seid, sinkt eure Sattheit.\r\nEine niedrige Sattheit kann eine Verringerung der Parameter und andere negative Auswirkungen haben.\r\n\r\nBenutze Essensgegenstände aus deinem Inventar, um deine Sattheit und die Sattheit deiner Pals wiederherzustellen.",
+          "LocalizedString": "Sattheit\r\n\r\nWenn du und deine Pals aktiv seid, sinkt eure Sattheit.\r\nEine niedrige Sattheit kann eine Verringerung der Parameter und andere negative Auswirkungen haben.\r\n\r\nBenutze Essensgegenstände aus deinem Inventar, um deine Sattheit und die Sattheit deiner Pals wiederherzustellen."
+        }
+      },
+      "Help_19": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_19_TextData",
+          "SourceString": "Geistige Gesundheit (GEI)\r\n\r\nDie GEI deiner Pals sinkt, wenn sie Arbeiten im Lager verrichten.\r\nEine niedrige GEI kann dazu führen, dass deine Pals nicht mehr ihrer Arbeit nachgehen oder krank werden.\r\nJe niedriger die Sattheit, desto schneller sinkt die GEI.\r\nDu kannst die GEI deiner Pals wiederherstellen, indem du ihnen gutes Futter gibst oder heiße Quellen für sie baust.",
+          "LocalizedString": "Geistige Gesundheit (GEI)\r\n\r\nDie GEI deiner Pals sinkt, wenn sie Arbeiten im Lager verrichten.\r\nEine niedrige GEI kann dazu führen, dass deine Pals nicht mehr ihrer Arbeit nachgehen oder krank werden.\r\nJe niedriger die Sattheit, desto schneller sinkt die GEI.\r\nDu kannst die GEI deiner Pals wiederherstellen, indem du ihnen gutes Futter gibst oder heiße Quellen für sie baust."
+        }
+      },
+      "Help_20": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_20_TextData",
+          "SourceString": "Partnerfähigkeiten\r\n\r\nPartnerfähigkeiten sind einzigartige Fähigkeiten jeder Pal-Spezies.\r\nDie Partnerfähigkeiten mancher Pals befähigen sie dazu, mit Waffen zu schießen oder erlauben es dir, auf ihnen zu reiten.\r\n\r\nEinige Pals benötigen Pal-Ausrüstung, die du mithilfe einer Werkbank für Pal-Ausrüstung fertigen kannst, um ihre Partnerfähigkeit freizuschalten.\r\n\r\nDie jeweiligen Effekte kannst du im Teambildschirm nachlesen. Es gibt auch Pals, die schon dadurch Vorteile bringen, dass sie bloß im Team sind.",
+          "LocalizedString": "Partnerfähigkeiten\r\n\r\nPartnerfähigkeiten sind einzigartige Fähigkeiten jeder Pal-Spezies.\r\nDie Partnerfähigkeiten mancher Pals befähigen sie dazu, mit Waffen zu schießen oder erlauben es dir, auf ihnen zu reiten.\r\n\r\nEinige Pals benötigen Pal-Ausrüstung, die du mithilfe einer Werkbank für Pal-Ausrüstung fertigen kannst, um ihre Partnerfähigkeit freizuschalten.\r\n\r\nDie jeweiligen Effekte kannst du im Teambildschirm nachlesen. Es gibt auch Pals, die schon dadurch Vorteile bringen, dass sie bloß im Team sind."
+        }
+      },
+      "Help_21": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_21_TextData",
+          "SourceString": "Paldex\r\n\r\nIm Menü findest du den Paldex.\r\nDarin werden Informationen zu gefangenen und gesehenen Pals aufgezeichnet.\r\nSo kannst du zum Beispiel nachschlagen, wo das Habitat von Pals ist, denen du mal begegnet bist.",
+          "LocalizedString": "Paldex\r\n\r\nIm Menü findest du den Paldex.\r\nDarin werden Informationen zu gefangenen und gesehenen Pals aufgezeichnet.\r\nSo kannst du zum Beispiel nachschlagen, wo das Habitat von Pals ist, denen du mal begegnet bist."
+        }
+      },
+      "Help_22": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_22_TextData",
+          "SourceString": "Paldex-Bonus\r\n\r\nBeim Fang einer neuen Pal-Spezies erhältst du Bonus-EP.\r\nDiesen Bonus gibt es für die ersten 10 gefangenen Pals einer Spezies.",
+          "LocalizedString": "Paldex-Bonus\r\n\r\nBeim Fang einer neuen Pal-Spezies erhältst du Bonus-EP.\r\nDiesen Bonus gibt es für die ersten 10 gefangenen Pals einer Spezies."
+        }
+      },
+      "Help_23": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_23_TextData",
+          "SourceString": "Gilden\r\n\r\nWenn du dich anderen Spielern näherst, kannst du um Aufnahme in ihre Gilde bitten.\r\nIm Menü findest du außerdem den Gilden-Tab,\r\nwo Infos zu deiner Gilde und ihren Mitgliedern angezeigt werden.\r\nMitglieder einer Gilde teilen sich ein Lager\r\nund können über die Pals, die darin arbeiten, frei verfügen.",
+          "LocalizedString": "Gilden\r\n\r\nWenn du dich anderen Spielern näherst, kannst du um Aufnahme in ihre Gilde bitten.\r\nIm Menü findest du außerdem den Gilden-Tab,\r\nwo Infos zu deiner Gilde und ihren Mitgliedern angezeigt werden.\r\nMitglieder einer Gilde teilen sich ein Lager\r\nund können über die Pals, die darin arbeiten, frei verfügen."
+        }
+      },
+      "Help_24": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_24_TextData",
+          "SourceString": "Karte\r\n\r\nMit <keyGuideIcon id=|OpenWorldMap|/> kannst du die Karte aufrufen.\r\nAuf der Karte finden sich allerlei Informationen zum umliegenden Gebiet.",
+          "LocalizedString": "Karte\r\n\r\nMit <keyGuideIcon id=|OpenWorldMap|/> kannst du die Karte aufrufen.\r\nAuf der Karte finden sich allerlei Informationen zum umliegenden Gebiet."
+        }
+      },
+      "Help_25": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_25_TextData",
+          "SourceString": "Adlerstatuen\r\n\r\nInteragiere mit ihnen, um sie zu aktivieren und Schnellreisen\r\nzu anderen Adlerstatuen und zu deiner Pal-Box zu ermöglichen.\r\n\r\nAußerdem erhältst du beim Aktivieren einer Adlerstatue Technologiepunkte.\r\nDu findest diese Statuen überall auf Palapagos.\r\n\r\n*Die Schnellreisefunktion kann nicht genutzt werden, wenn sie in den Welteinstellungen deaktiviert wurde.",
+          "LocalizedString": "Adlerstatuen\r\n\r\nInteragiere mit ihnen, um sie zu aktivieren und Schnellreisen\r\nzu anderen Adlerstatuen und zu deiner Pal-Box zu ermöglichen.\r\n\r\nAußerdem erhältst du beim Aktivieren einer Adlerstatue Technologiepunkte.\r\nDu findest diese Statuen überall auf Palapagos.\r\n\r\n*Die Schnellreisefunktion kann nicht genutzt werden, wenn sie in den Welteinstellungen deaktiviert wurde."
+        }
+      },
+      "Help_26": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_26_TextData",
+          "SourceString": "Menürad\r\n\r\nMit <keyGuideIcon id=|PartnerPalInstructions|/> kannst du das Menürad aufrufen\r\nund damit Pals in deinem Team Befehle geben oder sie füttern.",
+          "LocalizedString": "Menürad\r\n\r\nMit <keyGuideIcon id=|PartnerPalInstructions|/> kannst du das Menürad aufrufen\r\nund damit Pals in deinem Team Befehle geben oder sie füttern."
+        }
+      },
+      "Help_27": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_27_TextData",
+          "SourceString": "Nacht\r\n\r\nWenn die Nacht hereinbricht, wird es dunkel, die Temperatur sinkt und gefährliche nachtaktive Pals tauchen auf.\r\nBaue an einem sicheren Ort Betten und schlafe bis zum Morgen oder halte dich und deine Pals an einem Lagerfeuer warm.",
+          "LocalizedString": "Nacht\r\n\r\nWenn die Nacht hereinbricht, wird es dunkel, die Temperatur sinkt und gefährliche nachtaktive Pals tauchen auf.\r\nBaue an einem sicheren Ort Betten und schlafe bis zum Morgen oder halte dich und deine Pals an einem Lagerfeuer warm."
+        }
+      },
+      "Help_28": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_28_TextData",
+          "SourceString": "Turmbosse\r\n\r\nAuf Palapagos findest du Türme, von denen aus die Anführer verschiedener Organisationen über die jeweilige Region herrschen.\r\nIn der Regel betrachten sie Paltrainer von außerhalb der Insel als Eindringlinge und greifen jeden sofort an, der sich in ihren Turm wagt.\r\nKämpfe gegen Turmbosse haben ein Zeitlimit. Schaffst du es nicht, den Feind innerhalb des Limits zu besiegen, ist der Kampf verloren.\r\nDu kannst Turmbosse so oft herausfordern, wie du möchtest, vorausgesetzt niemand anderes ist gerade in einen Kampf mit ihnen verwickelt.",
+          "LocalizedString": "Turmbosse\r\n\r\nAuf Palapagos findest du Türme, von denen aus die Anführer verschiedener Organisationen über die jeweilige Region herrschen.\r\nIn der Regel betrachten sie Paltrainer von außerhalb der Insel als Eindringlinge und greifen jeden sofort an, der sich in ihren Turm wagt.\r\nKämpfe gegen Turmbosse haben ein Zeitlimit. Schaffst du es nicht, den Feind innerhalb des Limits zu besiegen, ist der Kampf verloren.\r\nDu kannst Turmbosse so oft herausfordern, wie du möchtest, vorausgesetzt niemand anderes ist gerade in einen Kampf mit ihnen verwickelt."
+        }
+      },
+      "Help_29": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_29_TextData",
+          "SourceString": "Verbrechen\r\n\r\nAngriffe gegen unschuldige NPCs bleiben auf Palapagos nicht ohne Folgen!\r\nAuch das Betreten bestimmter verbotener Inseln gilt als Verbrechen.\r\nWird jemand Zeuge deiner Tat, stellt die Palapagos-Miliz einen Haftbefehl gegen dich aus.",
+          "LocalizedString": "Verbrechen\r\n\r\nAngriffe gegen unschuldige NPCs bleiben auf Palapagos nicht ohne Folgen!\r\nAuch das Betreten bestimmter verbotener Inseln gilt als Verbrechen.\r\nWird jemand Zeuge deiner Tat, stellt die Palapagos-Miliz einen Haftbefehl gegen dich aus."
+        }
+      },
+      "Help_30": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_30_TextData",
+          "SourceString": "Haltbarkeit der Ausrüstung\r\n\r\nDeine Ausrüstung nutzt sich mit der Zeit ab und geht kaputt, wenn ihre Haltbarkeit auf 0 sinkt.\r\nAbgenutzte Ausrüstung kann mithilfe einer Reparaturbank und Material repariert werden.",
+          "LocalizedString": "Haltbarkeit der Ausrüstung\r\n\r\nDeine Ausrüstung nutzt sich mit der Zeit ab und geht kaputt, wenn ihre Haltbarkeit auf 0 sinkt.\r\nAbgenutzte Ausrüstung kann mithilfe einer Reparaturbank und Material repariert werden."
+        }
+      },
+      "Help_31": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_31_TextData",
+          "SourceString": "Verfall von Gegenständen\r\n\r\nEinige Gegenstände wie zum Beispiel Essen werden mit der Zeit schlecht und verschwinden.\r\nLagere solche Gegenstände in einer Kühlbox oder einem Kühlschrank, um ihrem Verfall vorzubeugen.",
+          "LocalizedString": "Verfall von Gegenständen\r\n\r\nEinige Gegenstände wie zum Beispiel Essen werden mit der Zeit schlecht und verschwinden.\r\nLagere solche Gegenstände in einer Kühlbox oder einem Kühlschrank, um ihrem Verfall vorzubeugen."
+        }
+      },
+      "Help_32": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_32_TextData",
+          "SourceString": "Elementartypen\r\n\r\nPals haben bestimmte Elementartypen, die gegen andere Elementartypen stark oder schwach sein können.\r\nGreift man einen schwächeren Elementartyp an, erhöht sich der Schaden, während ein stärkerer Elementartyp weniger Schaden nimmt.",
+          "LocalizedString": "Elementartypen\r\n\r\nPals haben bestimmte Elementartypen, die gegen andere Elementartypen stark oder schwach sein können.\r\nGreift man einen schwächeren Elementartyp an, erhöht sich der Schaden, während ein stärkerer Elementartyp weniger Schaden nimmt."
+        }
+      },
+      "Help_33": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_33_TextData",
+          "SourceString": "Statusprobleme\r\n\r\nUmwelteinflüsse und Fähigkeitseffekte können Statusprobleme bei dir und deinen Pals verursachen.\r\nManche Statusprobleme fügen dem Betroffenen fortlaufenden Schaden zu, andere können zum Beispiel das Bewegungstempo verlangsamen.\r\nVon Statusproblemen betroffene Pals sind einfacher zu fangen.",
+          "LocalizedString": "Statusprobleme\r\n\r\nUmwelteinflüsse und Fähigkeitseffekte können Statusprobleme bei dir und deinen Pals verursachen.\r\nManche Statusprobleme fügen dem Betroffenen fortlaufenden Schaden zu, andere können zum Beispiel das Bewegungstempo verlangsamen.\r\nVon Statusproblemen betroffene Pals sind einfacher zu fangen."
+        }
+      },
+      "Help_34": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_34_TextData",
+          "SourceString": "Pal-Eier\r\n\r\nBei deinen Erkundungen stößt du in der Wildnis vielleicht auf Pal-Eier.\r\nLege ein Pal-Ei in einen Brutkasten, um es auszubrüten.\r\nEine für das jeweilige Ei passende Temperatur beschleunigt das Ausbrüten.",
+          "LocalizedString": "Pal-Eier\r\n\r\nBei deinen Erkundungen stößt du in der Wildnis vielleicht auf Pal-Eier.\r\nLege ein Pal-Ei in einen Brutkasten, um es auszubrüten.\r\nEine für das jeweilige Ei passende Temperatur beschleunigt das Ausbrüten."
+        }
+      },
+      "Help_35": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_35_TextData",
+          "SourceString": "Zuchtfarm\r\n\r\nSchicke ein Männchen und ein Weibchen auf die Zuchtfarm, kredenze den beiden eine motivierende Torte\r\nund vielleicht findest du schon bald ein Pal-Ei.\r\nEinige spezielle Kombinationen von Pals können besondere Eier hervorbringen.",
+          "LocalizedString": "Zuchtfarm\r\n\r\nSchicke ein Männchen und ein Weibchen auf die Zuchtfarm, kredenze den beiden eine motivierende Torte\r\nund vielleicht findest du schon bald ein Pal-Ei.\r\nEinige spezielle Kombinationen von Pals können besondere Eier hervorbringen."
+        }
+      },
+      "Help_36": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_36_TextData",
+          "SourceString": "Pal-Rang und Pal-Entsafter\r\n\r\nJe höher der Rang eines Pals, desto stärker seine Werte.\r\nAuch manche Partnerfähigkeiten können durch Rangerhöhung verbessert werden.\r\nDu kannst den Rang eines Pals mithilfe eines Pal-Entsafters erhöhen, indem du eine große Anzahl an Pals derselben Spezies zu Konzentrat verarbeitest.",
+          "LocalizedString": "Pal-Rang und Pal-Entsafter\r\n\r\nJe höher der Rang eines Pals, desto stärker seine Werte.\r\nAuch manche Partnerfähigkeiten können durch Rangerhöhung verbessert werden.\r\nDu kannst den Rang eines Pals mithilfe eines Pal-Entsafters erhöhen, indem du eine große Anzahl an Pals derselben Spezies zu Konzentrat verarbeitest."
+        }
+      },
+      "Help_37": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_37_TextData",
+          "SourceString": "Lifmunk-Statuetten\r\n\r\nLifmunk-Statuetten sind in der Wildnis zu finden und können an Statuen der Kraft geopfert werden,\r\num dein Fanggeschick zu erhöhen.",
+          "LocalizedString": "Lifmunk-Statuetten\r\n\r\nLifmunk-Statuetten sind in der Wildnis zu finden und können an Statuen der Kraft geopfert werden,\r\num dein Fanggeschick zu erhöhen."
+        }
+      },
+      "Help_38": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_38_TextData",
+          "SourceString": "Pal-Seelen\r\n\r\nPal-Seelen sind unter anderem in Schatztruhen zu finden und können an Statuen der Kraft geopfert werden,\r\num die Werte deiner Pals zu verbessern.",
+          "LocalizedString": "Pal-Seelen\r\n\r\nPal-Seelen sind unter anderem in Schatztruhen zu finden und können an Statuen der Kraft geopfert werden,\r\num die Werte deiner Pals zu verbessern."
+        }
+      },
+      "Help_39": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_39_TextData",
+          "SourceString": "Subspezies\r\n\r\nBei einigen Pals können Subspezies beobachtet werden, die sich an ihre Umgebung angepasst und ein anderes Aussehen entwickelt haben.\r\nSubspezies haben einen anderen Elementartyp als die Hauptspezies und etwas höhere Werte.\r\n\r\nAuch durch bestimmte Zuchtkombinationen können Subspezies entstehen.\r\n\r\nDer Paldex-Bonus wird für die Subspezies separat gezählt, sodass dir der Fang von 10 Pals der Subspezies zusätzliche EP einbringt.",
+          "LocalizedString": "Subspezies\r\n\r\nBei einigen Pals können Subspezies beobachtet werden, die sich an ihre Umgebung angepasst und ein anderes Aussehen entwickelt haben.\r\nSubspezies haben einen anderen Elementartyp als die Hauptspezies und etwas höhere Werte.\r\n\r\nAuch durch bestimmte Zuchtkombinationen können Subspezies entstehen.\r\n\r\nDer Paldex-Bonus wird für die Subspezies separat gezählt, sodass dir der Fang von 10 Pals der Subspezies zusätzliche EP einbringt."
+        }
+      },
+      "Help_40": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_40_TextData",
+          "SourceString": "Glückspals\r\n\r\nGlückspals sind seltene Pals, die in der Wildnis zu finden sind.\r\nSie zeichnen sich durch ihren hellen Schein und ihre relative Größe aus.\r\nOft besitzen sie besondere Passiv- und Aktivfähigkeiten und höhere Werte.",
+          "LocalizedString": "Glückspals\r\n\r\nGlückspals sind seltene Pals, die in der Wildnis zu finden sind.\r\nSie zeichnen sich durch ihren hellen Schein und ihre relative Größe aus.\r\nOft besitzen sie besondere Passiv- und Aktivfähigkeiten und höhere Werte."
+        }
+      },
+      "Help_41": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_41_TextData",
+          "SourceString": "Tod\r\n\r\nWenn du stirbst, lässt du deine Gegenstände und Pals in der Nähe fallen.\r\nUm alles wieder einzusammeln, musst du nach deinem Wiedereinstieg dorthin zurück.\r\n\r\n*In den Welteinstellungen können diese Verlusteinstellungen angepasst oder deaktiviert werden.",
+          "LocalizedString": "Tod\r\n\r\nWenn du stirbst, lässt du deine Gegenstände und Pals in der Nähe fallen.\r\nUm alles wieder einzusammeln, musst du nach deinem Wiedereinstieg dorthin zurück.\r\n\r\n*In den Welteinstellungen können diese Verlusteinstellungen angepasst oder deaktiviert werden."
+        }
+      }
+    }
+  }
+]

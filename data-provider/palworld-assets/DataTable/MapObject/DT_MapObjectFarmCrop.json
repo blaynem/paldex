@@ -1,0 +1,141 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapObjectFarmCrop",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalMapObjectFarmCropData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "Wheat": {
+        "CropBlueprintClassName": "BP_PalMapObjectFarmCrop_Wheat",
+        "CropClassPath": {
+          "AssetPathName": "/Game/Pal/Blueprint/MapObject/FarmCrop/BP_PalMapObjectFarmCrop_Wheat.BP_PalMapObjectFarmCrop_Wheat_C",
+          "SubPathString": ""
+        },
+        "CropItemId": "Wheat",
+        "GrowupTime": 270.0,
+        "CropItemNum": 10,
+        "SeedingWorkAmount": 7500.0,
+        "WateringWorkAmount": 7500.0,
+        "HarvestWorkAmount": 7500.0,
+        "MaterialItem1_Id": "Wheat",
+        "MaterialItem1_Num": 1,
+        "MaterialItem2_Id": "None",
+        "MaterialItem2_Num": 0,
+        "Editor_RowNameHash": -895499482
+      },
+      "Tomato": {
+        "CropBlueprintClassName": "BP_PalMapObjectFarmCrop_Tomato",
+        "CropClassPath": {
+          "AssetPathName": "/Game/Pal/Blueprint/MapObject/FarmCrop/BP_PalMapObjectFarmCrop_Tomato.BP_PalMapObjectFarmCrop_Tomato_C",
+          "SubPathString": ""
+        },
+        "CropItemId": "Tomato",
+        "GrowupTime": 360.0,
+        "CropItemNum": 10,
+        "SeedingWorkAmount": 22500.0,
+        "WateringWorkAmount": 22500.0,
+        "HarvestWorkAmount": 22500.0,
+        "MaterialItem1_Id": "Tomato",
+        "MaterialItem1_Num": 1,
+        "MaterialItem2_Id": "None",
+        "MaterialItem2_Num": 0,
+        "Editor_RowNameHash": 1940418144
+      },
+      "Potato": {
+        "CropBlueprintClassName": "BP_PalMapObjectFarmCrop_Potato",
+        "CropClassPath": {
+          "AssetPathName": "/Game/Pal/Blueprint/MapObject/FarmCrop/BP_PalMapObjectFarmCrop_Potato.BP_PalMapObjectFarmCrop_Potato_C",
+          "SubPathString": ""
+        },
+        "CropItemId": "Potato",
+        "GrowupTime": 360.0,
+        "CropItemNum": 10,
+        "SeedingWorkAmount": 3000.0,
+        "WateringWorkAmount": 3000.0,
+        "HarvestWorkAmount": 1500.0,
+        "MaterialItem1_Id": "Potato",
+        "MaterialItem1_Num": 1,
+        "MaterialItem2_Id": "None",
+        "MaterialItem2_Num": 0,
+        "Editor_RowNameHash": -1954615783
+      },
+      "Corn": {
+        "CropBlueprintClassName": "BP_PalMapObjectFarmCrop_Corn",
+        "CropClassPath": {
+          "AssetPathName": "/Game/Pal/Blueprint/MapObject/FarmCrop/BP_PalMapObjectFarmCrop_Corn.BP_PalMapObjectFarmCrop_Corn_C",
+          "SubPathString": ""
+        },
+        "CropItemId": "Corn",
+        "GrowupTime": 360.0,
+        "CropItemNum": 10,
+        "SeedingWorkAmount": 3000.0,
+        "WateringWorkAmount": 3000.0,
+        "HarvestWorkAmount": 1500.0,
+        "MaterialItem1_Id": "Corn",
+        "MaterialItem1_Num": 1,
+        "MaterialItem2_Id": "None",
+        "MaterialItem2_Num": 0,
+        "Editor_RowNameHash": -408205103
+      },
+      "Pumpkin": {
+        "CropBlueprintClassName": "BP_PalMapObjectFarmCrop_Pumpkin",
+        "CropClassPath": {
+          "AssetPathName": "/Game/Pal/Blueprint/MapObject/FarmCrop/BP_PalMapObjectFarmCrop_Pumpkin.BP_PalMapObjectFarmCrop_Pumpkin_C",
+          "SubPathString": ""
+        },
+        "CropItemId": "Pumpkin",
+        "GrowupTime": 360.0,
+        "CropItemNum": 10,
+        "SeedingWorkAmount": 3000.0,
+        "WateringWorkAmount": 3000.0,
+        "HarvestWorkAmount": 1500.0,
+        "MaterialItem1_Id": "Pumpkin",
+        "MaterialItem1_Num": 1,
+        "MaterialItem2_Id": "None",
+        "MaterialItem2_Num": 0,
+        "Editor_RowNameHash": 2023925090
+      },
+      "Berries": {
+        "CropBlueprintClassName": "BP_PalMapObjectFarmCrop_Berries",
+        "CropClassPath": {
+          "AssetPathName": "/Game/Pal/Blueprint/MapObject/FarmCrop/BP_PalMapObjectFarmCrop_Berries.BP_PalMapObjectFarmCrop_Berries_C",
+          "SubPathString": ""
+        },
+        "CropItemId": "Berries",
+        "GrowupTime": 180.0,
+        "CropItemNum": 10,
+        "SeedingWorkAmount": 4500.0,
+        "WateringWorkAmount": 4500.0,
+        "HarvestWorkAmount": 4500.0,
+        "MaterialItem1_Id": "Berries",
+        "MaterialItem1_Num": 1,
+        "MaterialItem2_Id": "None",
+        "MaterialItem2_Num": 0,
+        "Editor_RowNameHash": -574366416
+      },
+      "Lettuce": {
+        "CropBlueprintClassName": "BP_PalMapObjectFarmCrop_Lettuce",
+        "CropClassPath": {
+          "AssetPathName": "/Game/Pal/Blueprint/MapObject/FarmCrop/BP_PalMapObjectFarmCrop_Lettuce.BP_PalMapObjectFarmCrop_Lettuce_C",
+          "SubPathString": ""
+        },
+        "CropItemId": "Lettuce",
+        "GrowupTime": 450.0,
+        "CropItemNum": 10,
+        "SeedingWorkAmount": 45000.0,
+        "WateringWorkAmount": 45000.0,
+        "HarvestWorkAmount": 45000.0,
+        "MaterialItem1_Id": "Lettuce",
+        "MaterialItem1_Num": 1,
+        "MaterialItem2_Id": "None",
+        "MaterialItem2_Num": 0,
+        "Editor_RowNameHash": 1994001291
+      }
+    }
+  }
+]

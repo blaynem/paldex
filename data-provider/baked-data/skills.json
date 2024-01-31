@@ -1,0 +1,5200 @@
+{
+  "active_skills": [
+    {
+      "is_unique_skill": false,
+      "id": "1",
+      "name": "en Text",
+      "power": 1,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "Generates small waves over a wide area that slow an enemy's movements\r\nbefore assailing them with a giant wave.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 80
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "4",
+      "name": "en Text",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "Creates a wall with a water vortex that slowly moves forward.",
+      "element_type": "Water",
+      "effect_types": [],
+      "min_range": 700,
+      "max_range": 1500,
+      "is_disabled_data": true
+    },
+    {
+      "is_unique_skill": false,
+      "id": "6",
+      "name": "Hydro Jet",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "Hurls a high speed ball of water at an enemy.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "21",
+      "name": "Aqua Gun",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "Hurls a ball of water straight at an enemy.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "51",
+      "name": "Bubble Blast",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "Fires numerous bubbles that slowly pursue an enemy.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "76",
+      "name": "Acid Rain",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "Creates acidic clouds that pour down acid rain on enemies.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "85",
+      "name": "Aqua Burst",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "Creates a giant ball of water and hurls it at an enemy.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "88",
+      "name": "Surfing Slam",
+      "power": 100,
+      "cool_down_time": 120,
+      "category": "Melee",
+      "description": "Missing...",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "105",
+      "name": "Hydro Laser",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "NewRow",
+      "name": "Intimidate",
+      "power": 1,
+      "cool_down_time": 1,
+      "category": "Shot",
+      "description": "en Text",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Stun",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "3",
+      "name": "Punch",
+      "power": 12,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "Punch with conviction; believe in the power of the fist.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 600,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "7",
+      "name": "Air Cannon",
+      "power": 25,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "Quickly fires a burst of highly pressurized air.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "15",
+      "name": "Chicken Rush",
+      "power": 30,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "Chikipi's special skill. Flies at enemies in its sights, attacking them with its sharp beak.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "17",
+      "name": "Power Shot",
+      "power": 35,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "Charges energy into a focused blast.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 600,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "19",
+      "name": "Roly Poly",
+      "power": 35,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "Lamball's special skill. Curls into a ball, rolling after any enemies in its way.\r\nBecomes dizzy and unable to move after the attack ends.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "23",
+      "name": "Punch Flurry",
+      "power": 40,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "Cattiva's special skill. Pursues enemies, repeatedly punching them\r\nwith both its fists.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "26",
+      "name": "Fluffy Tackle",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Melee",
+      "description": "Melpaca's exclusive skill. Charges forward while clad in an aura of sublime adorableness.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 300,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "30",
+      "name": "Fierce Fang",
+      "power": 45,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "Direhowl's special skill. Swiftly leaps at an enemy and bites into them.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 800,
+      "max_range": 900,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "35",
+      "name": "Antler Uppercut",
+      "power": 50,
+      "cool_down_time": 5,
+      "category": "Melee",
+      "description": "Eikthyrdeer's exclusive skill. Charges at foes and uses antlers to launch them into the air.\r\nIf used while riding, the direction of the charge can be controlled.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "28",
+      "name": "Reckless Charge",
+      "power": 55,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "Rushoar's special skill. Takes aim at a foe and rushes at them with a mad charge.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 300,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "32",
+      "name": "Gale Claw",
+      "power": 60,
+      "cool_down_time": 8,
+      "category": "Melee",
+      "description": "Galeclaw's exclusive skill. Soars through the air\r\nwith its talons outstretched forward.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "41",
+      "name": "Cat Press",
+      "power": 60,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "Grintale's exclusive skill. Grins menacingly before leaping into the air\r\nand smashing foes with its body.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "42",
+      "name": "en Text",
+      "power": 60,
+      "cool_down_time": 1,
+      "category": "Shot",
+      "description": "en Text",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "65",
+      "name": "Tornado Attack",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Melee",
+      "description": "Nitewing's exclusive skill. Generates a tornado before soaring towards its target.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "59",
+      "name": "Power Bomb",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "Charges a massive amount of energy before firing a large destructive ball.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "55",
+      "name": "Muscle Slam",
+      "power": 80,
+      "cool_down_time": 12,
+      "category": "Melee",
+      "description": "Broncherry's exclusive skill. Turns sideways before tackling enemies in front of it,\r\nsending them flying into the air.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 400,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "62",
+      "name": "Ground Pound",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "Gorirat's exclusive skill. Pounds the ground twice before leaping into the air\r\nand unleashing a powerful punch.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "63",
+      "name": "Cloud Tempest",
+      "power": 90,
+      "cool_down_time": 15,
+      "category": "Melee",
+      "description": "Fenglope's exclusive skill. Charges forward while manipulating the atmosphere\r\nto create a pressurized wind tunnel around itself.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "83",
+      "name": "en Text",
+      "power": 100,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "en Text",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Stun",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "86",
+      "name": "Missing...",
+      "power": 100,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "Missing...",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "89",
+      "name": "Kingly Slam",
+      "power": 100,
+      "cool_down_time": 21,
+      "category": "Melee",
+      "description": "Kingpaca's exclusive skill. Leaps high into the air before\r\nsmashing into an enemy with its massive body.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "96",
+      "name": "Spear Thrust",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Melee",
+      "description": "Paladius's exclusive skill. Clads itself in holy power before charging forward with its spear.\r\nThe shield in its other hand protects from attacks during the charge.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "107",
+      "name": "Pal Blast",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "113",
+      "name": "Implode",
+      "power": 180,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Risks its life to cause a violent explosion. Becomes incapacitated afterwards.",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "114",
+      "name": "Bee Quiet",
+      "power": 200,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Risks its life to cause a violent explosion, but receives the honor of falling in battle.",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "118",
+      "name": "Megaton Implode",
+      "power": 250,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Risks life to cause a massive explosion. Those who perish for their duty become glistening stars in the night sky.",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "5",
+      "name": "Wind Cutter",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "22",
+      "name": "Seed Machine Gun",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "Fires a volley of hard seeds at enemies in front of it.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "45",
+      "name": "Botanical Smash",
+      "power": 60,
+      "cool_down_time": 8,
+      "category": "Shot",
+      "description": "Dinossom's exclusive skill. Uses large tail to smash the ground in front of it,\r\ndamaging enemies over a wide area.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "9",
+      "name": "Multicutter",
+      "power": 60,
+      "cool_down_time": 12,
+      "category": "Shot",
+      "description": "The user fires three high-speed blades of wind in quick succession that fly straight at enemies.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "31",
+      "name": "Seed Mine",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 800,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "53",
+      "name": "Focus Shot",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "Robinquill's exclusive skill. Takes aim while drawing its bow\r\nbefore loosing a powerful shot at an enemy.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "54",
+      "name": "Spinning Lance",
+      "power": 70,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "Elizabee's exclusive skill. Channels power into its staff, and unleashes it in a whirl.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 600,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "74",
+      "name": "Grass Tornado",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "Generates two tornadoes on either side before launching them at an enemy.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 65
+        }
+      ],
+      "min_range": 700,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "77",
+      "name": "Crushing Punch",
+      "power": 85,
+      "cool_down_time": 18,
+      "category": "Melee",
+      "description": "Mossanda's exclusive skill. Winds up its fist before striking an enemy with a devastating punch.",
+      "element_type": "Leaf",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "82",
+      "name": "Spine Vine",
+      "power": 95,
+      "cool_down_time": 25,
+      "category": "Shot",
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "112",
+      "name": "Solar Blast",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Charges solar energy before blasting enemies with a powerful beam.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "2",
+      "name": "Missing...",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 20
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": true
+    },
+    {
+      "is_unique_skill": false,
+      "id": "43",
+      "name": "Ice Missile",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "en Text",
+      "element_type": "Ice",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "11",
+      "name": "Ice Missile",
+      "power": 30,
+      "cool_down_time": 3,
+      "category": "Shot",
+      "description": "Creates ice lances in the air that fly towards enemies.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 103
+        }
+      ],
+      "min_range": 800,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "40",
+      "name": "Icicle Cutter",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "Creates a crescent blade of ice and hurls it forward.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "48",
+      "name": "Freezing Charge",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "Reindrix's exclusive skill. Charges at an enemy with antlers adorned in ice.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "50",
+      "name": "Iceberg",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "Summons a sharp ice lance under an enemy.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "66",
+      "name": "Emperor Slide",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "Penking's exclusive skill. Lies on its belly while generating frozen air all around it\r\nbefore sliding at enemies at high speed.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "80",
+      "name": "Cryst Breath",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Shot",
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "93",
+      "name": "Frost Burst",
+      "power": 100,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "Ice Reptyro's exclusive skill. Raises its front legs and slams them into the ground\r\ncausing frozen blasts under its enemies.\r\nIt simultaneously pounds them with snow balls from above.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "95",
+      "name": "Crystal Wing",
+      "power": 110,
+      "cool_down_time": 24,
+      "category": "Melee",
+      "description": "Frostallion's exclusive skill. Dashes forward while creating frigid air around its wings,\r\nusing them to slash enemies.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "98",
+      "name": "Blizzard Spike",
+      "power": 130,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "10",
+      "name": "Ignis Blast",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "Hurls a ball of fire straight at an enemy.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "25",
+      "name": "Spirit Fire",
+      "power": 45,
+      "cool_down_time": 7,
+      "category": "Shot",
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "38",
+      "name": "Blazing Horn",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "Arsox's exclusive skill. Takes aim and rushes at an enemy with a mad dash.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "44",
+      "name": "Flare Arrow",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "Fires three flaming arrows in succession that home in on an enemy.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 103
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "81",
+      "name": "Iaigiri",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "Bushi's exclusive skill. After Holding the sword, he appears in front of the enemy\r\nin an instant and unleashes a Ultra-fast sword draw attack.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "58",
+      "name": "Ignis Breath",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "Shoots flames at an enemy, dealing continuous damage.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "70",
+      "name": "Hellfire Claw",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Melee",
+      "description": "Incineram's exclusive skill. Draws near enemies using its left claw to slash them into the air\r\nbefore cutting them down with its right claw.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1100,
+      "max_range": 1200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "64",
+      "name": "Daring Flames",
+      "power": 75,
+      "cool_down_time": 10,
+      "category": "Melee",
+      "description": "Kitsun's exclusive skill. Charges forward with great speed while clad in intense blue flames.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "75",
+      "name": "Flare Storm",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "Generates two flaming tornadoes on either side before launching them at an enemy.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 65
+        }
+      ],
+      "min_range": 700,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "69",
+      "name": "Ignis Slam",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "Pyrin's exclusive skill. Charges forward while clad in a veil of flames.\r\nFlames continue to burn in its wake.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "91",
+      "name": "Volcanic Burst",
+      "power": 100,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "Reptyro's exclusive skill. Raises its front legs before slamming them into the ground,\r\ncausing volcanic eruptions under its enemies.\r\nIt simultaneously bombards them with volcanic bombs from above.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "101",
+      "name": "Ignis Rage",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Shot",
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "100",
+      "name": "Phoenix Flare",
+      "power": 135,
+      "cool_down_time": 28,
+      "category": "Melee",
+      "description": "Faleris's special skill. Covers its body in a tornado of flames before charging forward.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "111",
+      "name": "Fire Ball",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "72",
+      "name": "Cross Lightning",
+      "power": 1,
+      "cool_down_time": 7,
+      "category": "Shot",
+      "description": "Generates two lightning bolts that advance left and right, blocking either direction.",
+      "element_type": "Electricity",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "97",
+      "name": "Lightning Rain",
+      "power": 1,
+      "cool_down_time": 20,
+      "category": "Shot",
+      "description": "Calls lightning that strikes an enemy after a set amount of time has passed.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 80
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "14",
+      "name": "Spark Blast",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "The user releases a lightning ball that expands outward in a forward, circular pattern.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "20",
+      "name": "Missing...",
+      "power": 30,
+      "cool_down_time": 8,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 10
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "16",
+      "name": "Shockwave",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "Quickly discharges electricity, shocking those around it.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 103
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "24",
+      "name": "Electric Ball",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "Fires an electric ball that slowly pursues an enemy.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "37",
+      "name": "Plasma Tornado",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "Creates two balls of electric energy that fire numerous bolts of lightning at enemies.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "52",
+      "name": "Lock-on Laser",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "Takes aim at an enemy before firing a super high speed laser.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "60",
+      "name": "Lightning Claw",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Melee",
+      "description": "Grizzbolt's special skill. After leaping at an enemy and tearing at it twice with its electrically charged claws, it attacks the ground, sending an electric shock throughout the area.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "67",
+      "name": "Lightning Streak",
+      "power": 75,
+      "cool_down_time": 16,
+      "category": "Shot",
+      "description": "Generates a lightning bolt that moves forward in a line.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "116",
+      "name": "Blast Punch",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "Mossanda Lux's exclusive skill. Winds up its fist before pummeling an enemy with a flurry of electrically charged punches.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "79",
+      "name": "Tri-Lightning",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Shot",
+      "description": "Generates lightning that strikes an enemy three times from above.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 103
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "90",
+      "name": "Lightning Tackle",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Melee",
+      "description": "Univolt's exclusive skill. Generates bolts of lightning all around\r\nwhile charging at its target.",
+      "element_type": "Electricity",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "92",
+      "name": "Kerauno",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "Orserk's exclusive skill. Summons a blade of lightning while leaping into the air\r\nbefore throwing it at an enemy.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "102",
+      "name": "Lightning Strike",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Shot",
+      "description": "Acts as a lightning rod, calling down thunderbolts that electrocute the surrounding area.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "110",
+      "name": "Lightning Bolt",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Charges electric energy before blasting enemies with a powerful shock.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "12",
+      "name": "Sand Blast",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "Hurls sticky mud at an enemy.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "29",
+      "name": "Stone Blast",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "Fires a barrage of stones forward.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "47",
+      "name": "Shell Spin",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "Digtoise's exclusive skill. Moves while spinning its whole body at high speeds.\r\nDrills through enemies, dealing continuous damage.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 200,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "33",
+      "name": "Stone Cannon",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "Digs up a boulder and hurls it at an enemy.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 35
+        },
+        {
+          "type": "Stun",
+          "value": 20
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "49",
+      "name": "Giga Horn",
+      "power": 75,
+      "cool_down_time": 11,
+      "category": "Melee",
+      "description": "Warsect 's exclusive skill. Skewers enemies with its four sturdy horns.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "73",
+      "name": "Sand Tornado",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 65
+        }
+      ],
+      "min_range": 100,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "56",
+      "name": "Spinning Roundhouse",
+      "power": 100,
+      "cool_down_time": 21,
+      "category": "Melee",
+      "description": "Anubis's special skill. Performs a spin kick with its strong legs, cutting down enemies over a wide area.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "87",
+      "name": "Earth Impact",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "Mammorest's exclusive skill. Uses massive body to shake the earth,\r\ndealing damage over a wide area.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "78",
+      "name": "Forceful Charge",
+      "power": 120,
+      "cool_down_time": 28,
+      "category": "Melee",
+      "description": "Anubis's special skill. Pursues its foe with a high speed dash\r\nwhile releasing energy and unleashes a powerful punch.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 1500,
+      "max_range": 5000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "99",
+      "name": "Ground Smash",
+      "power": 140,
+      "cool_down_time": 35,
+      "category": "Melee",
+      "description": "Anubis's special skill. Leaps high into the air before diving to the ground with a punch.\r\nThe force of the impact deals damage over a wide area.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "108",
+      "name": "Rock Lance",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Generates a sharp rock spear under an enemy.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "13",
+      "name": "Dragon Cannon",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "36",
+      "name": "Dragon Burst",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "Quickly discharges draconic energy, damaging those around it.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "57",
+      "name": "Draconic Breath",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "61",
+      "name": "Mystic Whirlwind",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "Elphidran's exclusive skill. Generates twin whirlwinds imbued with a mysterious power\r\nthat pursues enemies.",
+      "element_type": "Dragon",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "104",
+      "name": "Beam Comet",
+      "power": 140,
+      "cool_down_time": 50,
+      "category": "Shot",
+      "description": "Jetragon's exclusive skill. Flies at enemies on illuminated wings while firing innumerable beams.\r\nThe beams explode on impact.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "109",
+      "name": "Dragon Meteor",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Calls down numerous small meteorites and launches them at an enemy.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 45
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "0",
+      "name": "Poison Fog",
+      "power": 0,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "Generates a fog of poison in front,  causing the opponent to become poisoned.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Poison",
+          "value": 9999
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "8",
+      "name": "Missing...",
+      "power": 20,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 5
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "18",
+      "name": "Poison Blast",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "Hurls poison sludge at an enemy.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Poison",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "27",
+      "name": "Dark Ball",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "Unleashes a sphere of darkness  that slowly tracks down the enemy.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "34",
+      "name": "Shadow Burst",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "Quickly discharges dark energy, damaging those around it.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "39",
+      "name": "Phantom Peck",
+      "power": 55,
+      "cool_down_time": 7,
+      "category": "Melee",
+      "description": "Cawgnito's exclusive skill. Teleports next to an enemy\r\nbefore attacking with its beak.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "46",
+      "name": "Jumping Claw",
+      "power": 55,
+      "cool_down_time": 7,
+      "category": "Melee",
+      "description": "Loupmoon's exclusive skill. Leaps forward and attacks twice with vicious claws\r\nimbued with dark energy.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 400,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "68",
+      "name": "Spirit Flame",
+      "power": 75,
+      "cool_down_time": 16,
+      "category": "Shot",
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 102
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "71",
+      "name": "Dark Charge",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "Pyrin Noct's exclusive skill. Charges forward while clad in a veil of dark flames.\r\nFlames continue to burn in its trajectory.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "84",
+      "name": "Nightmare Ball",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 65
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "94",
+      "name": "Psycho Gravity",
+      "power": 110,
+      "cool_down_time": 35,
+      "category": "Shot",
+      "description": "Utilizes psychokinesis to grab enemies before flinging them to the ground from above.",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XL"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "115",
+      "name": "Twin Spears",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Melee",
+      "description": "Necromus' exclusive skill. Clads its twin spears with vicious whirlwinds and charges forward,\r\nthrusting them one after the other.",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "106",
+      "name": "Dark Laser",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "Charges dark energy before blasting enemies with a powerful beam.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "103",
+      "name": "Divine Disaster",
+      "power": 160,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "Shadowbeak's exclusive skill. Charges forward while generating orbs of light that automatically capture enemies.\r\nThe orbs automatically capture enemies, before releasing a barrage of lasers.",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "117",
+      "name": "Dark Whisp",
+      "power": 160,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "Fires a menacing ball of dark energy that pursues enemies.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    }
+  ],
+  "passive_skills": [
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {
+        "melee_weapon": true,
+        "armor": true,
+        "accessory": true
+      }
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill2",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {
+        "melee_weapon": true
+      }
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill3",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill4",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill5",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill6",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill7",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "MeleeAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestSkill8",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -20,
+          "target": "To Self"
+        },
+        {
+          "text": "MeleeAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Stamina Up Lv. 1",
+      "skill_dev_name": "HP_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Stamina Up Lv. 2",
+      "skill_dev_name": "HP_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Stamina Up Lv. 3",
+      "skill_dev_name": "HP_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Attack Up Lv. 1",
+      "skill_dev_name": "Attack_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Attack Up Lv. 2",
+      "skill_dev_name": "Attack_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Attack Up Lv. 3",
+      "skill_dev_name": "Attack_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Defense Up Lv. 1",
+      "skill_dev_name": "defense_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Defense Up Lv. 2",
+      "skill_dev_name": "defense_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Defense Up Lv. 3",
+      "skill_dev_name": "defense_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Speedy Worker Lv. 1",
+      "skill_dev_name": "WorkSpeed_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Speedy Worker Lv. 2",
+      "skill_dev_name": "WorkSpeed_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Speedy Worker Lv. 3",
+      "skill_dev_name": "WorkSpeed_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestHoming_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Homing undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestHoming_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Homing undefined",
+          "value": 500,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestExplosive_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Explosive undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "TestExplosive_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Explosive undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "BulletSpeed_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletSpeed undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "BulletSpeed_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletSpeed undefined",
+          "value": 2000,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "RecoilIncrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Recoil undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "RecoilDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Recoil undefined",
+          "value": -90,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "AccuracyIncrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": 90,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "AccuracyDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": -300,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "AccuracySuperDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": -1000,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Artisan",
+      "skill_dev_name": "CraftSpeed_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Serious",
+      "skill_dev_name": "CraftSpeed_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Clumsy",
+      "skill_dev_name": "CraftSpeed_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Slacker",
+      "skill_dev_name": "CraftSpeed_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "MeleeAttack_up2",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "MeleeAttack_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "MeleeAttack_down1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "MeleeAttack_down2",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "ShotAttack_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "ShotAttack_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "ShotAttack_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "ShotAttack_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Burly Body",
+      "skill_dev_name": "Deffence_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Hard Skin",
+      "skill_dev_name": "Deffence_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Downtrodden",
+      "skill_dev_name": "Deffence_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Brittle",
+      "skill_dev_name": "Deffence_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Support_up2",
+      "rank": 0,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Support_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Support_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Support_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Musclehead",
+      "skill_dev_name": "Noukin",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 30,
+          "target": "To Self"
+        },
+        {
+          "text": "CraftSpeed undefined",
+          "value": -50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveAFire",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Fire",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveAWater",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Water",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveALeaf",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Leaf",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveAElectricity",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Electricity",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveAIce",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Ice",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveAEarth",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Earth",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveADark",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Dark",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "GiveADragon",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Dragon",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "CollectItem",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Egg Layer",
+      "skill_dev_name": "CollectItem_Egg",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Milk Maker",
+      "skill_dev_name": "CollectItem_Milk",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Berry Picker",
+      "skill_dev_name": "CollectItem_Berries",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Confectioner",
+      "skill_dev_name": "CollectItem_Sweets",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Gold Digger",
+      "skill_dev_name": "CollectItem_Money",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "CollectItem_CuteFox",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Wool Maker",
+      "skill_dev_name": "CollectItem_Wool_Alpaca",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Wool Maker",
+      "skill_dev_name": "CollectItem_Wool_SheepBall",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Silk Spinner",
+      "skill_dev_name": "CollectItem_Wool_WhiteMoth",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Logging_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Logging_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 130,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Logging_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 160,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Logging_up4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Logging_up5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 250,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Logging_up1_Otomo_only",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Logging_up2_Otomo_only",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 220,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mining_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mining_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 130,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mining_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 160,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mining_up4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mining_up5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 250,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mining_up1_Otomo_only",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 300,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mining_up2_Otomo_only",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 500,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "StealExpert_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 100,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "StealExpert_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 150,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "StealExpert_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 200,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "StealExpert_4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 250,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mute_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -50,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mute_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -60,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mute_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -70,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mute_4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -80,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "Mute_5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -90,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "CraftSpeed*3",
+      "rank": 9,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "CraftSpeed*5",
+      "rank": 9,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 400,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Heat Resistant Lv. 1",
+      "skill_dev_name": "TemperatureResist_Heat1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 1,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Heat Resistant Lv. 2",
+      "skill_dev_name": "TemperatureResist_Heat2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 2,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Heat Resistant Lv. 3",
+      "skill_dev_name": "TemperatureResist_Heat3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 3,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Cold Resistant Lv. 1",
+      "skill_dev_name": "TemperatureResist_Cold1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 1,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Cold Resistant Lv. 2",
+      "skill_dev_name": "TemperatureResist_Cold2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 2,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Cold Resistant Lv. 3",
+      "skill_dev_name": "TemperatureResist_Cold3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 3,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Lucky",
+      "skill_dev_name": "Rare",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "rare_pal": true
+      }
+    },
+    {
+      "skill_name": "Legend",
+      "skill_dev_name": "Legend",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "MoveSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Max Carrying Capacity Lv. 1",
+      "skill_dev_name": "MaxInventoryWeight_up",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 50,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Max Carrying Capacity Lv. 2",
+      "skill_dev_name": "MaxInventoryWeight_up2",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 150,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Max Carrying Capacity Lv. 3",
+      "skill_dev_name": "MaxInventoryWeight_up3",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 200,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Ferocious",
+      "skill_dev_name": "PAL_ALLAttack_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Brave",
+      "skill_dev_name": "PAL_ALLAttack_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Coward",
+      "skill_dev_name": "PAL_ALLAttack_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Pacifist",
+      "skill_dev_name": "PAL_ALLAttack_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Hooligan",
+      "skill_dev_name": "PAL_rude",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Conceited",
+      "skill_dev_name": "PAL_conceited",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Mentally unstable",
+      "skill_dev_name": "PAL_SpiritualInst",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Sadist",
+      "skill_dev_name": "PAL_sadist",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Masochist",
+      "skill_dev_name": "PAL_masochist",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Work Slave",
+      "skill_dev_name": "PAL_CorporateSlave",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 30,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Aggressive",
+      "skill_dev_name": "PAL_oraora",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "PAL_ElementPassive_Test",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "in_otomo": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Neutral Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Normal_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Fire Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Fire_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Water Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Aqua_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Electric Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Thunder_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Grass Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Leaf_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Ice Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Ice_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Earth Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Earth_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Dark Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Dark_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Dragon Damage Reduction Lv. 1",
+      "skill_dev_name": "ElementResist_Dragon_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Neutral Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Normal_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Fire Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Fire_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Water Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Aqua_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Electric Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Thunder_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Grass Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Leaf_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Ice Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Ice_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Earth Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Earth_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Dark Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Dark_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Dragon Damage Reduction Lv. 2",
+      "skill_dev_name": "ElementResist_Dragon_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Neutral Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Normal_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Fire Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Fire_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Water Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Aqua_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Electric Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Thunder_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Grass Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Leaf_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Ice Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Ice_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Earth Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Earth_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Dark Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Dark_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Dragon Damage Reduction Lv. 3",
+      "skill_dev_name": "ElementResist_Dragon_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Vanguard",
+      "skill_dev_name": "TrainerATK_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Stronghold Strategist",
+      "skill_dev_name": "TrainerDEF_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Motivational Leader",
+      "skill_dev_name": "TrainerWorkSpeed_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Mine Foreman",
+      "skill_dev_name": "TrainerMining_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Logging Foreman",
+      "skill_dev_name": "TrainerLogging_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "en Text",
+      "skill_dev_name": "PAL_TribePassive_Test",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 12,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": 12,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "in_otomo": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Abnormal",
+      "skill_dev_name": "ElementResist_Normal_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Suntan Lover",
+      "skill_dev_name": "ElementResist_Fire_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Waterproof",
+      "skill_dev_name": "ElementResist_Aqua_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Insulated Body",
+      "skill_dev_name": "ElementResist_Thunder_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Botanical Barrier",
+      "skill_dev_name": "ElementResist_Leaf_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Heated Body",
+      "skill_dev_name": "ElementResist_Ice_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Earthquake Resistant",
+      "skill_dev_name": "ElementResist_Earth_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Cheery",
+      "skill_dev_name": "ElementResist_Dark_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Dragonkiller",
+      "skill_dev_name": "ElementResist_Dragon_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Zen Mind",
+      "skill_dev_name": "ElementBoost_Normal_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Normal",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Pyromaniac",
+      "skill_dev_name": "ElementBoost_Fire_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Fire",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Hydromaniac",
+      "skill_dev_name": "ElementBoost_Aqua_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Water",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Capacitor",
+      "skill_dev_name": "ElementBoost_Thunder_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Electricity",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Fragrant Foliage",
+      "skill_dev_name": "ElementBoost_Leaf_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Leaf",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Coldblooded",
+      "skill_dev_name": "ElementBoost_Ice_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Ice",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Power of Gaia",
+      "skill_dev_name": "ElementBoost_Earth_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Earth",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Veil of Darkness",
+      "skill_dev_name": "ElementBoost_Dark_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Dark",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Blood of the Dragon",
+      "skill_dev_name": "ElementBoost_Dragon_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Dragon",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Glutton",
+      "skill_dev_name": "PAL_FullStomach_Up_1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Bottomless Stomach",
+      "skill_dev_name": "PAL_FullStomach_Up_2",
+      "rank": -2,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Dainty Eater",
+      "skill_dev_name": "PAL_FullStomach_Down_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Diet Lover",
+      "skill_dev_name": "PAL_FullStomach_Down_2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Unstable",
+      "skill_dev_name": "PAL_Sanity_Up_1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Destructive",
+      "skill_dev_name": "PAL_Sanity_Up_2",
+      "rank": -2,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Positive Thinker",
+      "skill_dev_name": "PAL_Sanity_Down_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Workaholic",
+      "skill_dev_name": "PAL_Sanity_Down_2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Celestial Emperor",
+      "skill_dev_name": "ElementBoost_Normal_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Normal",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Flame Emperor",
+      "skill_dev_name": "ElementBoost_Fire_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Fire",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Lord of the Sea",
+      "skill_dev_name": "ElementBoost_Aqua_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Water",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Lord of Lightning",
+      "skill_dev_name": "ElementBoost_Thunder_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Electricity",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Spirit Emperor",
+      "skill_dev_name": "ElementBoost_Leaf_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Leaf",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Ice Emperor",
+      "skill_dev_name": "ElementBoost_Ice_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Ice",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Earth Emperor",
+      "skill_dev_name": "ElementBoost_Earth_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Earth",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Lord of the Underworld",
+      "skill_dev_name": "ElementBoost_Dark_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Dark",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Divine Dragon",
+      "skill_dev_name": "ElementBoost_Dragon_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Dragon",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "Nimble",
+      "skill_dev_name": "MoveSpeed_up_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Runner",
+      "skill_dev_name": "MoveSpeed_up_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "Swift",
+      "skill_dev_name": "MoveSpeed_up_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    }
+  ]
+}

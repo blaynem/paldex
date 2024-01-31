@@ -1,0 +1,639 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapRespawnPointInfoText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "SpawnPoint_1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_TextData",
+          "SourceString": "A small hill with a good view and plentiful resources.\r\nRecommended for new players.",
+          "LocalizedString": "A small hill with a good view and plentiful resources.\r\nRecommended for new players."
+        }
+      },
+      "SpawnPoint_1_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_Title_TextData",
+          "SourceString": "Windswept Hills Plateau of Beginnings",
+          "LocalizedString": "Windswept Hills Plateau of Beginnings"
+        }
+      },
+      "SpawnPoint_2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_TextData",
+          "SourceString": "Sandy beach with lots of water Pals around.\r\nNot many trees, but many Pals call this place home.",
+          "LocalizedString": "Sandy beach with lots of water Pals around.\r\nNot many trees, but many Pals call this place home."
+        }
+      },
+      "SpawnPoint_2_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_Title_TextData",
+          "SourceString": "Windswept Hills Flying Fish Coast",
+          "LocalizedString": "Windswept Hills Flying Fish Coast"
+        }
+      },
+      "SpawnPoint_3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_TextData",
+          "SourceString": "Coastline with reefs in every direction.\r\nAverage number of resources and Pals.\r\nThough rocky, it's easy enough to secure a wide, open plot of land.",
+          "LocalizedString": "Coastline with reefs in every direction.\r\nAverage number of resources and Pals.\r\nThough rocky, it's easy enough to secure a wide, open plot of land."
+        }
+      },
+      "SpawnPoint_3_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_Title_TextData",
+          "SourceString": "Sea Breeze Archipelago Reef",
+          "LocalizedString": "Sea Breeze Archipelago Reef"
+        }
+      },
+      "SpawnPoint_4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_TextData",
+          "SourceString": "Sunny islands blessed with a pleasant sea breeze.\r\nNear a volcano with a warm, easy-to-live in climate.\r\nWith good access to the center of the main island, it's a great place for setting off on adventures.",
+          "LocalizedString": "Sunny islands blessed with a pleasant sea breeze.\r\nNear a volcano with a warm, easy-to-live in climate.\r\nWith good access to the center of the main island, it's a great place for setting off on adventures."
+        }
+      },
+      "SpawnPoint_4_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_Title_TextData",
+          "SourceString": "Sea Breeze Archipelago Castaway Beach",
+          "LocalizedString": "Sea Breeze Archipelago Castaway Beach"
+        }
+      },
+      "SpawnPoint_5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_TextData",
+          "SourceString": "Far from the main island, no one seems to be living on the island.\r\nSituated at the north end of the archipelago, the temperature is somewhat low.\r\nWith few Pals and resources, living here is difficult.",
+          "LocalizedString": "Far from the main island, no one seems to be living on the island.\r\nSituated at the north end of the archipelago, the temperature is somewhat low.\r\nWith few Pals and resources, living here is difficult."
+        }
+      },
+      "SpawnPoint_5_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_Title_TextData",
+          "SourceString": "Forgotten Island",
+          "LocalizedString": "Forgotten Island"
+        }
+      },
+      "SpawnPoint_6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_TextData",
+          "SourceString": "Cold winds from a snowy mountain blow across the island.\r\nThe cold of the night can be fatal.\r\nNot even the archipelago native often consider living here.",
+          "LocalizedString": "Cold winds from a snowy mountain blow across the island.\r\nThe cold of the night can be fatal.\r\nNot even the archipelago native often consider living here."
+        }
+      },
+      "SpawnPoint_6_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_Title_TextData",
+          "SourceString": "Ice Wind Island",
+          "LocalizedString": "Ice Wind Island"
+        }
+      },
+      "SpawnPoint_7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_TextData",
+          "SourceString": "Wild island to the east.\r\nAt the edge of the main island, none have considered developing it.\r\nThose not used to living in the wilds would find it hard to survive here.",
+          "LocalizedString": "Wild island to the east.\r\nAt the edge of the main island, none have considered developing it.\r\nThose not used to living in the wilds would find it hard to survive here."
+        }
+      },
+      "SpawnPoint_7_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_Title_TextData",
+          "SourceString": "Eastern Wild Island",
+          "LocalizedString": "Eastern Wild Island"
+        }
+      },
+      "SpawnPoint_8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_TextData",
+          "SourceString": "Island with expansive marshes.\r\nBerries can be found everywhere, thanks to its temperate climate.\r\nHas good access to the center of the main island.",
+          "LocalizedString": "Island with expansive marshes.\r\nBerries can be found everywhere, thanks to its temperate climate.\r\nHas good access to the center of the main island."
+        }
+      },
+      "SpawnPoint_8_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_Title_TextData",
+          "SourceString": "Marsh Island",
+          "LocalizedString": "Marsh Island"
+        }
+      },
+      "FTPoint1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint1_TextData",
+          "SourceString": "Mount Obsidian Midpoint",
+          "LocalizedString": "Mount Obsidian Midpoint"
+        }
+      },
+      "FTPoint2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint2_TextData",
+          "SourceString": "en Text",
+          "LocalizedString": "en Text"
+        }
+      },
+      "FTPoint3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint3_TextData",
+          "SourceString": "Eternal Pyre Tower Entrance",
+          "LocalizedString": "Eternal Pyre Tower Entrance"
+        }
+      },
+      "FTPoint4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint4_TextData",
+          "SourceString": "Ancient Civilization Ruins",
+          "LocalizedString": "Ancient Civilization Ruins"
+        }
+      },
+      "FTPoint5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint5_TextData",
+          "SourceString": "Fisherman's Point",
+          "LocalizedString": "Fisherman's Point"
+        }
+      },
+      "FTPoint6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint6_TextData",
+          "SourceString": "Mount Obsidian Anubis Statue",
+          "LocalizedString": "Mount Obsidian Anubis Statue"
+        }
+      },
+      "FTPoint7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint7_TextData",
+          "SourceString": "Beach of Everlasting Summer",
+          "LocalizedString": "Beach of Everlasting Summer"
+        }
+      },
+      "FTPoint8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint8_TextData",
+          "SourceString": "Ruined Fortress City",
+          "LocalizedString": "Ruined Fortress City"
+        }
+      },
+      "FTPoint9": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint9_TextData",
+          "SourceString": "PIDF Tower Entrance",
+          "LocalizedString": "PIDF Tower Entrance"
+        }
+      },
+      "FTPoint10": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint10_TextData",
+          "SourceString": "en Text",
+          "LocalizedString": "en Text"
+        }
+      },
+      "FTPoint11": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint11_TextData",
+          "SourceString": "Sand Dunes Entrance",
+          "LocalizedString": "Sand Dunes Entrance"
+        }
+      },
+      "FTPoint12": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint12_TextData",
+          "SourceString": "Duneshelter",
+          "LocalizedString": "Duneshelter"
+        }
+      },
+      "FTPoint13": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint13_TextData",
+          "SourceString": "Deep Sand Dunes",
+          "LocalizedString": "Deep Sand Dunes"
+        }
+      },
+      "FTPoint14": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint14_TextData",
+          "SourceString": "Cold Shore",
+          "LocalizedString": "Cold Shore"
+        }
+      },
+      "FTPoint15": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint15_TextData",
+          "SourceString": "No Man's Trail",
+          "LocalizedString": "No Man's Trail"
+        }
+      },
+      "FTPoint16": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint16_TextData",
+          "SourceString": "Icy Weasel Hill",
+          "LocalizedString": "Icy Weasel Hill"
+        }
+      },
+      "FTPoint17": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint17_TextData",
+          "SourceString": "Unthawable Lake",
+          "LocalizedString": "Unthawable Lake"
+        }
+      },
+      "FTPoint18": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint18_TextData",
+          "SourceString": "Land of Absolute Zero",
+          "LocalizedString": "Land of Absolute Zero"
+        }
+      },
+      "FTPoint19": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint19_TextData",
+          "SourceString": "en Text",
+          "LocalizedString": "en Text"
+        }
+      },
+      "FTPoint20": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint20_TextData",
+          "SourceString": "PAL Genetic Research Unit Tower Entrance",
+          "LocalizedString": "PAL Genetic Research Unit Tower Entrance"
+        }
+      },
+      "FTPoint21": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint21_TextData",
+          "SourceString": "Grassy Behemoth Hills",
+          "LocalizedString": "Grassy Behemoth Hills"
+        }
+      },
+      "FTPoint22": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint22_TextData",
+          "SourceString": "Desolate Church",
+          "LocalizedString": "Desolate Church"
+        }
+      },
+      "FTPoint23": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint23_TextData",
+          "SourceString": "Plateau of Beginnings",
+          "LocalizedString": "Plateau of Beginnings"
+        }
+      },
+      "FTPoint24": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint24_TextData",
+          "SourceString": "Small Settlement",
+          "LocalizedString": "Small Settlement"
+        }
+      },
+      "FTPoint25": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint25_TextData",
+          "SourceString": "Ascetic Falls",
+          "LocalizedString": "Ascetic Falls"
+        }
+      },
+      "FTPoint26": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint26_TextData",
+          "SourceString": "Foot of the Volcano",
+          "LocalizedString": "Foot of the Volcano"
+        }
+      },
+      "FTPoint27": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint27_TextData",
+          "SourceString": "Sealed Realm of the Frozen Wings",
+          "LocalizedString": "Sealed Realm of the Frozen Wings"
+        }
+      },
+      "FTPoint28": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint28_TextData",
+          "SourceString": "Fort Ruins",
+          "LocalizedString": "Fort Ruins"
+        }
+      },
+      "FTPoint29": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint29_TextData",
+          "SourceString": "Sealed Realm of the Thunder Dragon",
+          "LocalizedString": "Sealed Realm of the Thunder Dragon"
+        }
+      },
+      "FTPoint30": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint30_TextData",
+          "SourceString": "Investigator's Fork",
+          "LocalizedString": "Investigator's Fork"
+        }
+      },
+      "FTPoint31": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint31_TextData",
+          "SourceString": "Ancient Ritual Site",
+          "LocalizedString": "Ancient Ritual Site"
+        }
+      },
+      "FTPoint32": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint32_TextData",
+          "SourceString": "Mount Flopie Summit",
+          "LocalizedString": "Mount Flopie Summit"
+        }
+      },
+      "FTPoint33": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint33_TextData",
+          "SourceString": "Lake Center",
+          "LocalizedString": "Lake Center"
+        }
+      },
+      "FTPoint34": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint34_TextData",
+          "SourceString": "Hypocrite Hill",
+          "LocalizedString": "Hypocrite Hill"
+        }
+      },
+      "FTPoint35": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint35_TextData",
+          "SourceString": "Sealed Realm of the Guardian",
+          "LocalizedString": "Sealed Realm of the Guardian"
+        }
+      },
+      "FTPoint36": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint36_TextData",
+          "SourceString": "Snowy Mountain Fork",
+          "LocalizedString": "Snowy Mountain Fork"
+        }
+      },
+      "FTPoint37": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint37_TextData",
+          "SourceString": "Free Pal Alliance Tower Entrance",
+          "LocalizedString": "Free Pal Alliance Tower Entrance"
+        }
+      },
+      "FTPoint38": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint38_TextData",
+          "SourceString": "Sealed Realm of the Swift",
+          "LocalizedString": "Sealed Realm of the Swift"
+        }
+      },
+      "FTPoint39": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint39_TextData",
+          "SourceString": "Mossanda Forest",
+          "LocalizedString": "Mossanda Forest"
+        }
+      },
+      "FTPoint40": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint40_TextData",
+          "SourceString": "Gobfin's Turf",
+          "LocalizedString": "Gobfin's Turf"
+        }
+      },
+      "FTPoint41": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint41_TextData",
+          "SourceString": "Cinnamoth Forest",
+          "LocalizedString": "Cinnamoth Forest"
+        }
+      },
+      "FTPoint42": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint42_TextData",
+          "SourceString": "Sealed Realm of the Swordmaster",
+          "LocalizedString": "Sealed Realm of the Swordmaster"
+        }
+      },
+      "FTPoint43": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint43_TextData",
+          "SourceString": "Deep Bamboo Thicket",
+          "LocalizedString": "Deep Bamboo Thicket"
+        }
+      },
+      "FTPoint44": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint44_TextData",
+          "SourceString": "Sealed Realm of the Winged Tyrant",
+          "LocalizedString": "Sealed Realm of the Winged Tyrant"
+        }
+      },
+      "FTPoint45": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint45_TextData",
+          "SourceString": "Rayne Syndicate Tower Entrance",
+          "LocalizedString": "Rayne Syndicate Tower Entrance"
+        }
+      },
+      "FTPoint46": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint46_TextData",
+          "SourceString": "en Text",
+          "LocalizedString": "en Text"
+        }
+      },
+      "FTPoint47": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint47_TextData",
+          "SourceString": "en Text",
+          "LocalizedString": "en Text"
+        }
+      },
+      "FTPoint48": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint48_TextData",
+          "SourceString": "Pristine Snow Field",
+          "LocalizedString": "Pristine Snow Field"
+        }
+      },
+      "FTPoint49": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint49_TextData",
+          "SourceString": "Forgotten Island",
+          "LocalizedString": "Forgotten Island"
+        }
+      },
+      "FTPoint50": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint50_TextData",
+          "SourceString": "Ice Wind Island",
+          "LocalizedString": "Ice Wind Island"
+        }
+      },
+      "FTPoint51": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint51_TextData",
+          "SourceString": "Azurobe Hill",
+          "LocalizedString": "Azurobe Hill"
+        }
+      },
+      "FTPoint52": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint52_TextData",
+          "SourceString": "Sea Breeze Archipelago Castaway Beach",
+          "LocalizedString": "Sea Breeze Archipelago Castaway Beach"
+        }
+      },
+      "FTPoint53": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint53_TextData",
+          "SourceString": "Sea Breeze Archipelago Church",
+          "LocalizedString": "Sea Breeze Archipelago Church"
+        }
+      },
+      "FTPoint54": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint54_TextData",
+          "SourceString": "Small Cove",
+          "LocalizedString": "Small Cove"
+        }
+      },
+      "FTPoint55": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint55_TextData",
+          "SourceString": "Islandhopper Coast",
+          "LocalizedString": "Islandhopper Coast"
+        }
+      },
+      "FTPoint56": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint56_TextData",
+          "SourceString": "Marsh Island",
+          "LocalizedString": "Marsh Island"
+        }
+      },
+      "FTPoint57": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint57_TextData",
+          "SourceString": "Eastern Wild Island",
+          "LocalizedString": "Eastern Wild Island"
+        }
+      },
+      "FTPoint58": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint58_TextData",
+          "SourceString": "Natural Bridge",
+          "LocalizedString": "Natural Bridge"
+        }
+      },
+      "FTPoint59": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint59_TextData",
+          "SourceString": "Forgotten Island Church Ruins",
+          "LocalizedString": "Forgotten Island Church Ruins"
+        }
+      },
+      "FTPoint60": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint60_TextData",
+          "SourceString": "Marsh Island Church Ruins",
+          "LocalizedString": "Marsh Island Church Ruins"
+        }
+      },
+      "FTPoint61": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint61_TextData",
+          "SourceString": "Bridge of the Twin Knights",
+          "LocalizedString": "Bridge of the Twin Knights"
+        }
+      },
+      "FTPoint62": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint62_TextData",
+          "SourceString": "Ravine Entrance",
+          "LocalizedString": "Ravine Entrance"
+        }
+      }
+    }
+  }
+]

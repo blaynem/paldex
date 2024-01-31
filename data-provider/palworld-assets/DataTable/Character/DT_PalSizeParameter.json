@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PalSizeParameter",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalSizeParameterDataRow'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "Size_None": {
+        "Size": "EPalSizeType::None",
+        "EffectScale": 1.0,
+        "JumpEffectOffsetZ": 0.0
+      },
+      "Size_XS": {
+        "Size": "EPalSizeType::XS",
+        "EffectScale": 0.25,
+        "JumpEffectOffsetZ": 55.0
+      },
+      "Size_S": {
+        "Size": "EPalSizeType::S",
+        "EffectScale": 0.5,
+        "JumpEffectOffsetZ": 55.0
+      },
+      "Size_M": {
+        "Size": "EPalSizeType::M",
+        "EffectScale": 0.8,
+        "JumpEffectOffsetZ": 55.0
+      },
+      "Size_L": {
+        "Size": "EPalSizeType::L",
+        "EffectScale": 1.2,
+        "JumpEffectOffsetZ": 55.0
+      },
+      "Size_XL": {
+        "Size": "EPalSizeType::XL",
+        "EffectScale": 1.6,
+        "JumpEffectOffsetZ": 55.0
+      }
+    }
+  }
+]

@@ -1,0 +1,1231 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NpcTalkText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "CHOICE_YES": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_YES_TextData",
+          "SourceString": "Да",
+          "LocalizedString": "Да"
+        }
+      },
+      "CHOICE_NO": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_NO_TextData",
+          "SourceString": "Нет",
+          "LocalizedString": "Нет"
+        }
+      },
+      "CHOICE_SHOP_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_BUY_TextData",
+          "SourceString": "Купить",
+          "LocalizedString": "Купить"
+        }
+      },
+      "CHOICE_SHOP_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_SELL_TextData",
+          "SourceString": "Продать",
+          "LocalizedString": "Продать"
+        }
+      },
+      "CHOICE_SHOP_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_CANCEL_TextData",
+          "SourceString": "Уйти",
+          "LocalizedString": "Уйти"
+        }
+      },
+      "CHOICE_SHOP_DARK_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_BUY_TextData",
+          "SourceString": "Купить «товар»",
+          "LocalizedString": "Купить «товар»"
+        }
+      },
+      "CHOICE_SHOP_DARK_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_SELL_TextData",
+          "SourceString": "Продать «товар»",
+          "LocalizedString": "Продать «товар»"
+        }
+      },
+      "CHOICE_SHOP_DARK_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_CANCEL_TextData",
+          "SourceString": "Уйти",
+          "LocalizedString": "Уйти"
+        }
+      },
+      "SHOP_CHOICE_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_CHOICE_TEST_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "SHOP_WELCOME_COMMON": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_WELCOME_COMMON_TextData",
+          "SourceString": "Добро пожаловать.\r\nУ меня сегодня отличный ассортимент.",
+          "LocalizedString": "Добро пожаловать.\r\nУ меня сегодня отличный ассортимент."
+        }
+      },
+      "SHOP_EXIT_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_EXIT_TEST_TextData",
+          "SourceString": "Спасибо, заходи еще.",
+          "LocalizedString": "Спасибо, заходи еще."
+        }
+      },
+      "SHOP_PAL_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_WELCOME_TextData",
+          "SourceString": "Приветствую! У меня есть отличные Палы на продажу.\r\nНе волнуйся, все по закону.",
+          "LocalizedString": "Приветствую! У меня есть отличные Палы на продажу.\r\nНе волнуйся, все по закону."
+        }
+      },
+      "SHOP_PALDARK_WELCOME_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_WELCOME_1_1_TextData",
+          "SourceString": "Я торгую любыми Палами...\r\nКрадеными, незаконно отловленными...\r\nСмотри и выбирай...",
+          "LocalizedString": "Я торгую любыми Палами...\r\nКрадеными, незаконно отловленными...\r\nСмотри и выбирай..."
+        }
+      },
+      "SHOP_PALDARK_EXIT_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_EXIT_1_1_TextData",
+          "SourceString": "Хе-хе-хе, похоже, сегодня меня ждет вкусное мясцо...",
+          "LocalizedString": "Хе-хе-хе, похоже, сегодня меня ждет вкусное мясцо..."
+        }
+      },
+      "SHOP_PAL_RANDOMEVENT_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_RANDOMEVENT_WELCOME_TextData",
+          "SourceString": "Спасибо за помощь.\r\nЗаодно присмотрись к моим товарам.\r\nНе волнуйся, все по закону.",
+          "LocalizedString": "Спасибо за помощь.\r\nЗаодно присмотрись к моим товарам.\r\nНе волнуйся, все по закону."
+        }
+      },
+      "JOHNSON_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "JOHNSON_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "JOHNSON_B1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_B1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "JOHNSON_C1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_C1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "TEST_ATTACKER": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TEST_ATTACKER_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "VILLAGELEADER01_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "VILLAGELEADER01_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "VILLAGELEADER01_A3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A3_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "VILLAGELEADER01_A4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A4_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "VILLAGELEADER01_A5": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A5_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "NOVICE_PALTIMER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_1_TextData",
+          "SourceString": "...Ты не из этих мест, да?\r\nДавно я не встречала людей, от которых не пахнет Палами...",
+          "LocalizedString": "...Ты не из этих мест, да?\r\nДавно я не встречала людей, от которых не пахнет Палами..."
+        }
+      },
+      "NOVICE_PALTIMER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_2_TextData",
+          "SourceString": "Этот остров - сущий ад... Все, кто прибыл сюда со мной, уже на том свете.\r\nИх всех убили свирепые Палы...\r\nТы тоже не теряй бдительности.",
+          "LocalizedString": "Этот остров - сущий ад... Все, кто прибыл сюда со мной, уже на том свете.\r\nИх всех убили свирепые Палы...\r\nТы тоже не теряй бдительности."
+        }
+      },
+      "NOVICE_PALTIMER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_3_TextData",
+          "SourceString": "Я могу дать тебе немного ресурсов, но...\r\nЧтобы выжить, тебе придется приложить усилия.",
+          "LocalizedString": "Я могу дать тебе немного ресурсов, но...\r\nЧтобы выжить, тебе придется приложить усилия."
+        }
+      },
+      "NOVICE_PALTIMER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_1_TextData",
+          "SourceString": "...Я уже устала.\r\nПоначалу я копала для всех могилы,\r\nно когда их стало больше 100, отказалась от этой затеи.",
+          "LocalizedString": "...Я уже устала.\r\nПоначалу я копала для всех могилы,\r\nно когда их стало больше 100, отказалась от этой затеи."
+        }
+      },
+      "NOVICE_PALTIMER_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_2_TextData",
+          "SourceString": "Беспечность тут может мгновенно стоить тебе жизни.\r\nЕсли сможешь приручить Палов, шансы еще есть,\r\nно из моих друзей это не удалось никому...",
+          "LocalizedString": "Беспечность тут может мгновенно стоить тебе жизни.\r\nЕсли сможешь приручить Палов, шансы еще есть,\r\nно из моих друзей это не удалось никому..."
+        }
+      },
+      "NOVICE_PALTIMER_2_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_3_TextData",
+          "SourceString": "Эй, что это... у тебя есть древнее устройство?!\r\nС ним можно создавать Пал-сферы.\r\nС их помощью ты сможешь ловить Палов.",
+          "LocalizedString": "Эй, что это... у тебя есть древнее устройство?!\r\nС ним можно создавать Пал-сферы.\r\nС их помощью ты сможешь ловить Палов."
+        }
+      },
+      "NOVICE_PALTIMER_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_1_TextData",
+          "SourceString": "Мне кажется, у тебя есть необходимые тренеру Палов качества.\r\nИзготовь Пал-сферы, налови Палов и сделай из них свою армию.\r\nУровень тренера Палов растет пропорционально числу пойманных Палов...",
+          "LocalizedString": "Мне кажется, у тебя есть необходимые тренеру Палов качества.\r\nИзготовь Пал-сферы, налови Палов и сделай из них свою армию.\r\nУровень тренера Палов растет пропорционально числу пойманных Палов..."
+        }
+      },
+      "NOVICE_PALTIMER_3_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_2_TextData",
+          "SourceString": "Пока не наберешься сил, лучше не приближайся к той башне.\r\nЭта территория под контролем браконьеров Рейн, им закон не писан...\r\nЕсли сунешься туда, тебя точно убьют. Так же, как моих товарищей.",
+          "LocalizedString": "Пока не наберешься сил, лучше не приближайся к той башне.\r\nЭта территория под контролем браконьеров Рейн, им закон не писан...\r\nЕсли сунешься туда, тебя точно убьют. Так же, как моих товарищей."
+        }
+      },
+      "SKILLED_PALTAMIER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_1_TextData",
+          "SourceString": "В первый раз тебя вижу.\r\nНеужто ты... не отсюда?",
+          "LocalizedString": "В первый раз тебя вижу.\r\nНеужто ты... не отсюда?"
+        }
+      },
+      "SKILLED_PALTAMIER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_2_TextData",
+          "SourceString": "Ладно, мне все равно.\r\nРаз уж ты здесь, советую заняться поимкой Палов.\r\nДаже за Палов одного вида можно получить много опыта, считается до 10 штук.",
+          "LocalizedString": "Ладно, мне все равно.\r\nРаз уж ты здесь, советую заняться поимкой Палов.\r\nДаже за Палов одного вида можно получить много опыта, считается до 10 штук."
+        }
+      },
+      "SKILLED_PALTAMIER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_3_TextData",
+          "SourceString": "|Тренер Палов становится опытнее с каждым пойманным Палом|.\r\nВот, возьми. Удачи!",
+          "LocalizedString": "|Тренер Палов становится опытнее с каждым пойманным Палом|.\r\nВот, возьми. Удачи!"
+        }
+      },
+      "SKILLED_PALTAMIER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_2_1_TextData",
+          "SourceString": "|Тренер Палов становится опытнее с каждым пойманным Палом|.\r\nЖелаю тебе поймать много Палов и стать сильнее.",
+          "LocalizedString": "|Тренер Палов становится опытнее с каждым пойманным Палом|.\r\nЖелаю тебе поймать много Палов и стать сильнее."
+        }
+      },
+      "Vigilante_lackey_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Vigilante_lackey_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Vigilante_lackey_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_3_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Vigilante_lackey_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_4_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Vigilante_lackey_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Vigilante_lackey_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Head_of_Village_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_1_TextData",
+          "SourceString": "Случалось терять своих Палов после нападения врага?\r\nЕсли у тебя есть такие потеряшки, попробуй спросить у торговца Палами.",
+          "LocalizedString": "Случалось терять своих Палов после нападения врага?\r\nЕсли у тебя есть такие потеряшки, попробуй спросить у торговца Палами."
+        }
+      },
+      "Head_of_Village_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_2_TextData",
+          "SourceString": "Если твои Палы попали на рынок, есть шанс их выкупить.\r\nБраконьеры Рейн продают незаконно пойманных и\r\nприсвоенных чужих Палов торговцам.",
+          "LocalizedString": "Если твои Палы попали на рынок, есть шанс их выкупить.\r\nБраконьеры Рейн продают незаконно пойманных и\r\nприсвоенных чужих Палов торговцам."
+        }
+      },
+      "Head_of_Village_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_3_TextData",
+          "SourceString": "Воистину, ну что за ужасные люди.\r\nПрикончил бы кто-нибудь их лидера...",
+          "LocalizedString": "Воистину, ну что за ужасные люди.\r\nПрикончил бы кто-нибудь их лидера..."
+        }
+      },
+      "Police_dependable_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_1_TextData",
+          "SourceString": "Привет, тренер Палов.",
+          "LocalizedString": "Привет, тренер Палов."
+        }
+      },
+      "Police_dependable_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_2_TextData",
+          "SourceString": "Нынче тут стало совсем безлюдно,\r\nно до прихода браконьеров Рейн жителей было больше.",
+          "LocalizedString": "Нынче тут стало совсем безлюдно,\r\nно до прихода браконьеров Рейн жителей было больше."
+        }
+      },
+      "Police_dependable_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_3_TextData",
+          "SourceString": "Из-за них еще и пособия на питание урезали дальше некуда.",
+          "LocalizedString": "Из-за них еще и пособия на питание урезали дальше некуда."
+        }
+      },
+      "Police_dependable_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_4_TextData",
+          "SourceString": "Дай знать, если будет нужна помощь.\r\nЯ возьмусь за любую работу — только плати.",
+          "LocalizedString": "Дай знать, если будет нужна помощь.\r\nЯ возьмусь за любую работу — только плати."
+        }
+      },
+      "Shabby-looking_merchant_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Shabby-looking_merchant_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_2_TextData",
+          "SourceString": "Про важность подготовки объяснять, думаю, не нужно. Не желаешь что-нибудь купить?",
+          "LocalizedString": "Про важность подготовки объяснять, думаю, не нужно. Не желаешь что-нибудь купить?"
+        }
+      },
+      "InnkeeperA_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_1_TextData",
+          "SourceString": "Добро пожаловать! Незнакомое лицо.",
+          "LocalizedString": "Добро пожаловать! Незнакомое лицо."
+        }
+      },
+      "InnkeeperA_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_2_TextData",
+          "SourceString": "Ты откуда-то издалека?\r\nОтдохни хорошенько после долгого путешествия.",
+          "LocalizedString": "Ты откуда-то издалека?\r\nОтдохни хорошенько после долгого путешествия."
+        }
+      },
+      "InnkeeperA_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_3_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Rumor-loving_villagers_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_1_TextData",
+          "SourceString": "Тебе когда-нибудь случалось видеть пещеры?",
+          "LocalizedString": "Тебе когда-нибудь случалось видеть пещеры?"
+        }
+      },
+      "Rumor-loving_villagers_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_2_TextData",
+          "SourceString": "Говорят, в них обитает много редких Палов.",
+          "LocalizedString": "Говорят, в них обитает много редких Палов."
+        }
+      },
+      "Rumor-loving_villagers_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_3_TextData",
+          "SourceString": "А еще там хранят свои сокровища Палы, имеющие привычку собирать предметы.",
+          "LocalizedString": "А еще там хранят свои сокровища Палы, имеющие привычку собирать предметы."
+        }
+      },
+      "Rumor-loving_villagers_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_4_TextData",
+          "SourceString": "Если найдешь пещеру, обязательно дай мне знать!",
+          "LocalizedString": "Если найдешь пещеру, обязательно дай мне знать!"
+        }
+      },
+      "Research-oriented_scholar_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_1_TextData",
+          "SourceString": "Тебе когда-нибудь встречались огромные, невероятно сильные Палы?",
+          "LocalizedString": "Тебе когда-нибудь встречались огромные, невероятно сильные Палы?"
+        }
+      },
+      "Research-oriented_scholar_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_2_TextData",
+          "SourceString": "Я предполагаю, что они выполняют роль предводителей окрестных Палов!",
+          "LocalizedString": "Я предполагаю, что они выполняют роль предводителей окрестных Палов!"
+        }
+      },
+      "Research-oriented_scholar_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_3_TextData",
+          "SourceString": "Такого бы здоровяка да в союзники! Но ты с ними поосторожней, они, похоже, очень сильные противники!",
+          "LocalizedString": "Такого бы здоровяка да в союзники! Но ты с ними поосторожней, они, похоже, очень сильные противники!"
+        }
+      },
+      "People_cant_leave_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "People_cant_leave_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Sweaty_paltimer_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Sweaty_paltimer_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Sweaty_paltimer_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_3_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_1_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_3_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_4_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_4_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "Visitor_Present_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Present_1_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "TestGift_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "TestGift_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "DesertVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_1_TextData",
+          "SourceString": "Тут у нас безопасно, деревня под охраной босса вигилантов Маркуса.\r\nБлагодаря ему мы можем жить в мире и спокойствии.",
+          "LocalizedString": "Тут у нас безопасно, деревня под охраной босса вигилантов Маркуса.\r\nБлагодаря ему мы можем жить в мире и спокойствии."
+        }
+      },
+      "DesertVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_2_TextData",
+          "SourceString": "Так что лучше не высовывайся.\r\nОсобенно если хочешь жить долго.\r\nЖиви себе не тужи, как я, под защитой вигилантов — вот разумный выбор.",
+          "LocalizedString": "Так что лучше не высовывайся.\r\nОсобенно если хочешь жить долго.\r\nЖиви себе не тужи, как я, под защитой вигилантов — вот разумный выбор."
+        }
+      },
+      "DesertVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_3_TextData",
+          "SourceString": "Благодаря господину Маркусу сегодня тоже все спокойно.\r\nИ да, берегись ночных холодов.\r\nТемпература резко падает.",
+          "LocalizedString": "Благодаря господину Маркусу сегодня тоже все спокойно.\r\nИ да, берегись ночных холодов.\r\nТемпература резко падает."
+        }
+      },
+      "DesertVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_Loop_TextData",
+          "SourceString": "О, незнакомое лицо. Ты впервые в пустыне?\r\nНе хочу пугать, но если пойдешь вглубь, лучше хорошенько подготовиться к жаре.\r\n",
+          "LocalizedString": "О, незнакомое лицо. Ты впервые в пустыне?\r\nНе хочу пугать, но если пойдешь вглубь, лучше хорошенько подготовиться к жаре.\r\n"
+        }
+      },
+      "DesertVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_1_TextData",
+          "SourceString": "Ходят слухи, что где-то в пустыне обитает легендарный Пал...\r\nМногие забредают беспечно вглубь и не возвращаются.\r\n",
+          "LocalizedString": "Ходят слухи, что где-то в пустыне обитает легендарный Пал...\r\nМногие забредают беспечно вглубь и не возвращаются.\r\n"
+        }
+      },
+      "DesertVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_2_TextData",
+          "SourceString": "Я не осуждаю безрассудных тренеров Палов, но ты же не из таких?\r\nЧтобы не повторять чужих ошибок, советую хорошенько подготовиться, прежде чем рисковать.\r\nВот, возьми, пригодится!",
+          "LocalizedString": "Я не осуждаю безрассудных тренеров Палов, но ты же не из таких?\r\nЧтобы не повторять чужих ошибок, советую хорошенько подготовиться, прежде чем рисковать.\r\nВот, возьми, пригодится!"
+        }
+      },
+      "DesertVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_3_TextData",
+          "SourceString": "Легендарный Пал, бродящий, по слухам, где-то в пустыне...\r\nНо никто назад не возвращался, поэтому кто знает, правда ли это...\r\nЕсли соберешься туда идти, хотя бы не забудь про защиту от жары.",
+          "LocalizedString": "Легендарный Пал, бродящий, по слухам, где-то в пустыне...\r\nНо никто назад не возвращался, поэтому кто знает, правда ли это...\r\nЕсли соберешься туда идти, хотя бы не забудь про защиту от жары."
+        }
+      },
+      "DesertVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_Loop_TextData",
+          "SourceString": "О... я погляжу, ты странствующий тренер Палов?..\r\nДалеко же тебя занесло. Что привело тебя в эту пустыню?",
+          "LocalizedString": "О... я погляжу, ты странствующий тренер Палов?..\r\nДалеко же тебя занесло. Что привело тебя в эту пустыню?"
+        }
+      },
+      "DesertVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_1_TextData",
+          "SourceString": "А, по глазам вижу. Ты здесь за тем, чтобы поймать легендарного Пала, да?\r\nСоветую отказаться от этой затеи, жизнь нужно ценить.\r\nЯ уже давно живу в этой деревне, но ничего подобного мне видеть не приходилось.",
+          "LocalizedString": "А, по глазам вижу. Ты здесь за тем, чтобы поймать легендарного Пала, да?\r\nСоветую отказаться от этой затеи, жизнь нужно ценить.\r\nЯ уже давно живу в этой деревне, но ничего подобного мне видеть не приходилось."
+        }
+      },
+      "DesertVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_2_TextData",
+          "SourceString": "Даже если он и правда существует, то где-то далеко... да и вообще, брехня это все.\r\nНо если тебя это не смущает, останавливать не буду...\r\nВозьми хотя бы это.",
+          "LocalizedString": "Даже если он и правда существует, то где-то далеко... да и вообще, брехня это все.\r\nНо если тебя это не смущает, останавливать не буду...\r\nВозьми хотя бы это."
+        }
+      },
+      "DesertVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_3_TextData",
+          "SourceString": "Легендарный Пал... Есть он где-то там в пустыне или нет?\r\nАх, жажда замучила...\r\nМорскую воду можно пить?",
+          "LocalizedString": "Легендарный Пал... Есть он где-то там в пустыне или нет?\r\nАх, жажда замучила...\r\nМорскую воду можно пить?"
+        }
+      },
+      "DesertVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_Loop_TextData",
+          "SourceString": "Легендарный Пал... Есть он где-то там в пустыне или нет?\r\nАх, жажда замучила...\r\nМорскую воду можно пить?",
+          "LocalizedString": "Легендарный Пал... Есть он где-то там в пустыне или нет?\r\nАх, жажда замучила...\r\nМорскую воду можно пить?"
+        }
+      },
+      "DesertPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_1_TextData",
+          "SourceString": "О, новое лицо? Это территория господина Маркуса, ты же в курсе?\r\nХоть ты и путешественник, веди себя в рамках дозволенного.",
+          "LocalizedString": "О, новое лицо? Это территория господина Маркуса, ты же в курсе?\r\nХоть ты и путешественник, веди себя в рамках дозволенного."
+        }
+      },
+      "DesertPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_2_TextData",
+          "SourceString": "Веди себя смирно. Ясно?\r\nМы поклялись в верности господину Маркусу, и его отряд вигилантов нас защищает. Все предельно просто.",
+          "LocalizedString": "Веди себя смирно. Ясно?\r\nМы поклялись в верности господину Маркусу, и его отряд вигилантов нас защищает. Все предельно просто."
+        }
+      },
+      "DesertPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_Loop_TextData",
+          "SourceString": "Честь отдаю! Все спокойно!\r\nТы что ли?.. Не надо меня пугать!",
+          "LocalizedString": "Честь отдаю! Все спокойно!\r\nТы что ли?.. Не надо меня пугать!"
+        }
+      },
+      "DesertPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_1_TextData",
+          "SourceString": "Стой, ты хочешь попасть в деревню?\r\nЕсли не будешь чинить неприятности боссу, то почему бы и нет.",
+          "LocalizedString": "Стой, ты хочешь попасть в деревню?\r\nЕсли не будешь чинить неприятности боссу, то почему бы и нет."
+        }
+      },
+      "DesertPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_2_TextData",
+          "SourceString": "Наш босс великодушен к тем, что соблюдает правила.\r\nОн даже создал отряд вигилантов и защищает нас, поэтому большинство местных ему благодарны.\r\nБлагодаря ему здесь сохраняется порядок...",
+          "LocalizedString": "Наш босс великодушен к тем, что соблюдает правила.\r\nОн даже создал отряд вигилантов и защищает нас, поэтому большинство местных ему благодарны.\r\nБлагодаря ему здесь сохраняется порядок..."
+        }
+      },
+      "DesertPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_3_TextData",
+          "SourceString": "Но босс почти все время проводит в районе башни вместе с офицерами.\r\nИнтересно, что они делают в таком месте?",
+          "LocalizedString": "Но босс почти все время проводит в районе башни вместе с офицерами.\r\nИнтересно, что они делают в таком месте?"
+        }
+      },
+      "DesertPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_Loop_TextData",
+          "SourceString": "Босса ищешь? Он возле башни.\r\nЕсли вигиланты смогут заполучить древние технологии, они будут непобедимы.\r\nВласть босса растет с каждым часом...",
+          "LocalizedString": "Босса ищешь? Он возле башни.\r\nЕсли вигиланты смогут заполучить древние технологии, они будут непобедимы.\r\nВласть босса растет с каждым часом..."
+        }
+      },
+      "DesertPolice003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_1_TextData",
+          "SourceString": "Люблю пламя... Это потрескивание создает особую атмосферу.\r\nТы так не думаешь?",
+          "LocalizedString": "Люблю пламя... Это потрескивание создает особую атмосферу.\r\nТы так не думаешь?"
+        }
+      },
+      "DesertPolice003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_2_TextData",
+          "SourceString": "Еще совсем недавно мне было не до таких размеренных бесед.\r\nКаждый день был борьбой за выживание... но все изменилось с приходом того человека.\r\nТеперь мы можем жить как нормальные люди.",
+          "LocalizedString": "Еще совсем недавно мне было не до таких размеренных бесед.\r\nКаждый день был борьбой за выживание... но все изменилось с приходом того человека.\r\nТеперь мы можем жить как нормальные люди."
+        }
+      },
+      "DesertPolice003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_3_TextData",
+          "SourceString": "Можно вот так просто развести костерок, не опасаясь, что тебя ограбят...\r\nДаже такие вещи позволяют почувствовать себя счастливым. Спасибо ему.\r\nМ-м... поджарилось потихоньку. Будешь?",
+          "LocalizedString": "Можно вот так просто развести костерок, не опасаясь, что тебя ограбят...\r\nДаже такие вещи позволяют почувствовать себя счастливым. Спасибо ему.\r\nМ-м... поджарилось потихоньку. Будешь?"
+        }
+      },
+      "DesertPolice003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_Loop_TextData",
+          "SourceString": "Свежие ветки, на самом деле, лучше не жечь.\r\nНо иногда приходится...\r\nБез огня не выжить.",
+          "LocalizedString": "Свежие ветки, на самом деле, лучше не жечь.\r\nНо иногда приходится...\r\nБез огня не выжить."
+        }
+      },
+      "Police001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_1_TextData",
+          "SourceString": "Не смотри на меня так. Грешок, что ли, за тобой водится?\r\nЯ уже не полицейский.",
+          "LocalizedString": "Не смотри на меня так. Грешок, что ли, за тобой водится?\r\nЯ уже не полицейский."
+        }
+      },
+      "Police001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_2_TextData",
+          "SourceString": "Правда, раньше я, кажется, был в другом месте.\r\nВо время работы меня сбил грузовик. Я уж было думал, что помер,\r\nно в какой-то момент обнаружил себя на этом острове.",
+          "LocalizedString": "Правда, раньше я, кажется, был в другом месте.\r\nВо время работы меня сбил грузовик. Я уж было думал, что помер,\r\nно в какой-то момент обнаружил себя на этом острове."
+        }
+      },
+      "Police001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_3_TextData",
+          "SourceString": "После смерти я обратился к Богу: |Вот бы мне отведать пиццы|.\r\nИ с тех пор я могу наколдовать себе пиццу одним взмахом руки. Хитрый трюк, да?\r\nВот, смотри.",
+          "LocalizedString": "После смерти я обратился к Богу: |Вот бы мне отведать пиццы|.\r\nИ с тех пор я могу наколдовать себе пиццу одним взмахом руки. Хитрый трюк, да?\r\nВот, смотри."
+        }
+      },
+      "Police001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_Loop_TextData",
+          "SourceString": "<itemName id=|Pizza|/>? Еще хочешь?\r\nУ меня от этой магии начинает в животе урчать. Хватит уже.",
+          "LocalizedString": "<itemName id=|Pizza|/>? Еще хочешь?\r\nУ меня от этой магии начинает в животе урчать. Хватит уже."
+        }
+      },
+      "VolcanoVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_1_TextData",
+          "SourceString": "О? Клюет?\r\nУ меня по нулям.\r\nЕсли я снова вернусь ни с чем, мать меня прибьет.",
+          "LocalizedString": "О? Клюет?\r\nУ меня по нулям.\r\nЕсли я снова вернусь ни с чем, мать меня прибьет."
+        }
+      },
+      "VolcanoVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_2_TextData",
+          "SourceString": "Вот бы мне Пала, который может выручить в такой ситуации...\r\nЛовил бы мне рыбку, и жил бы я припеваючи.",
+          "LocalizedString": "Вот бы мне Пала, который может выручить в такой ситуации...\r\nЛовил бы мне рыбку, и жил бы я припеваючи."
+        }
+      },
+      "VolcanoVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_3_TextData",
+          "SourceString": "Я бы ему говорил: |Пал! Как улов сегодня?|.",
+          "LocalizedString": "Я бы ему говорил: |Пал! Как улов сегодня?|."
+        }
+      },
+      "VolcanoVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_Loop_TextData",
+          "SourceString": "Я хочу порадовать маму, вот и стараюсь, рыбачу.\r\nЕсли будет хороший улов, поделюсь от души.",
+          "LocalizedString": "Я хочу порадовать маму, вот и стараюсь, рыбачу.\r\nЕсли будет хороший улов, поделюсь от души."
+        }
+      },
+      "VolcanoVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_1_TextData",
+          "SourceString": "Это ты! Как улов сегодня?\r\n...Ой, гость?\r\nОткуда будешь? Уж больно красивая у тебя одежда.",
+          "LocalizedString": "Это ты! Как улов сегодня?\r\n...Ой, гость?\r\nОткуда будешь? Уж больно красивая у тебя одежда."
+        }
+      },
+      "VolcanoVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_2_TextData",
+          "SourceString": "А-а, поняла. Ты этот, ну, как его... тре... тре... ну тот, что с Палами возится!\r\nТы тоже, наверное, на вершину вулкана собираешься?\r\nБашня там какая-то, все туда лазают.",
+          "LocalizedString": "А-а, поняла. Ты этот, ну, как его... тре... тре... ну тот, что с Палами возится!\r\nТы тоже, наверное, на вершину вулкана собираешься?\r\nБашня там какая-то, все туда лазают."
+        }
+      },
+      "VolcanoVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_3_TextData",
+          "SourceString": "Восхождение это хорошо, но нужно тщательно подготовиться.\r\nЖара тут небывалая, не обольщайся.\r\nВот, поешь. Силенок прибавится!",
+          "LocalizedString": "Восхождение это хорошо, но нужно тщательно подготовиться.\r\nЖара тут небывалая, не обольщайся.\r\nВот, поешь. Силенок прибавится!"
+        }
+      },
+      "VolcanoVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_Loop_TextData",
+          "SourceString": "Путешествие к башне на вершине вулкана это хорошо, но жара там нестерпимая.\r\nСледи за остатком сил, и если ситуация станет опасной - поворачивай назад!",
+          "LocalizedString": "Путешествие к башне на вершине вулкана это хорошо, но жара там нестерпимая.\r\nСледи за остатком сил, и если ситуация станет опасной - поворачивай назад!"
+        }
+      },
+      "VolcanoVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_1_TextData",
+          "SourceString": "Э-Эй! Я такое видел!\r\nНочью по небу пролетела падающая звезда. Любуюсь я на нее, и тут... она повернула в сторону!",
+          "LocalizedString": "Э-Эй! Я такое видел!\r\nНочью по небу пролетела падающая звезда. Любуюсь я на нее, и тут... она повернула в сторону!"
+        }
+      },
+      "VolcanoVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_2_TextData",
+          "SourceString": "Скорость у нее была бешеная. Как ни погляди, это не простая звезда.\r\nЯ загадал гору вкусной еды... но, наверное, не исполнится мое желание.",
+          "LocalizedString": "Скорость у нее была бешеная. Как ни погляди, это не простая звезда.\r\nЯ загадал гору вкусной еды... но, наверное, не исполнится мое желание."
+        }
+      },
+      "VolcanoVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_3_TextData",
+          "SourceString": "Еще мне кажется, будто у нее было что-то вроде то-о-оненьких крыльев.\r\nВозможно, эта штука все еще где-то там, на вулкане.",
+          "LocalizedString": "Еще мне кажется, будто у нее было что-то вроде то-о-оненьких крыльев.\r\nВозможно, эта штука все еще где-то там, на вулкане."
+        }
+      },
+      "VolcanoVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_Loop_TextData",
+          "SourceString": "Мне никто не верит...\r\nЭта похожая на падающую звезду штука улетела куда-то далеко в сторону вулкана.\r\nЕсли это был Пал... страшно как... страшно...",
+          "LocalizedString": "Мне никто не верит...\r\nЭта похожая на падающую звезду штука улетела куда-то далеко в сторону вулкана.\r\nЕсли это был Пал... страшно как... страшно..."
+        }
+      },
+      "VolcanoVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_1_TextData",
+          "SourceString": "О... Тренер Палов в нашей рыбацкой деревушке? Редкое зрелище.\r\nНе желаешь очистить тело и душу огнем?\r\nОгонь у нас в Братстве Вечного пламени считается священным...",
+          "LocalizedString": "О... Тренер Палов в нашей рыбацкой деревушке? Редкое зрелище.\r\nНе желаешь очистить тело и душу огнем?\r\nОгонь у нас в Братстве Вечного пламени считается священным..."
+        }
+      },
+      "VolcanoVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_2_TextData",
+          "SourceString": "Огонь сжигает все, превращая в пепел... Он жесток, но прекрасен.\r\nПусть горят в пламени боль и печали, и даже порождающая их любовь.\r\nНравится мне учение Братства Вечного пламени... хе-хе...",
+          "LocalizedString": "Огонь сжигает все, превращая в пепел... Он жесток, но прекрасен.\r\nПусть горят в пламени боль и печали, и даже порождающая их любовь.\r\nНравится мне учение Братства Вечного пламени... хе-хе..."
+        }
+      },
+      "VolcanoVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_3_TextData",
+          "SourceString": "Вот только в последнее время непонятно, что у нашего нового учителя на уме.\r\nКакие-то у него там дела в башне с последователями.\r\nДля молитвы как-то долговато они там...",
+          "LocalizedString": "Вот только в последнее время непонятно, что у нашего нового учителя на уме.\r\nКакие-то у него там дела в башне с последователями.\r\nДля молитвы как-то долговато они там..."
+        }
+      },
+      "VolcanoVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_Loop_TextData",
+          "SourceString": "Интересно, что за человек наш новый учитель.\r\nВозможно, можно что-то выяснить там в башне.\r\nКстати, а ты не желаешь вступить в Братство Вечного пламени?",
+          "LocalizedString": "Интересно, что за человек наш новый учитель.\r\nВозможно, можно что-то выяснить там в башне.\r\nКстати, а ты не желаешь вступить в Братство Вечного пламени?"
+        }
+      },
+      "VolcanoPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_1_TextData",
+          "SourceString": "Эх, скукотища...\r\nМ? В первый раз тебя вижу... Не знаю, кто ты, но можешь проходить.\r\nГлавное, не устраивай неприятности.",
+          "LocalizedString": "Эх, скукотища...\r\nМ? В первый раз тебя вижу... Не знаю, кто ты, но можешь проходить.\r\nГлавное, не устраивай неприятности."
+        }
+      },
+      "VolcanoPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_2_TextData",
+          "SourceString": "Что значит охраняй как следует?\r\nЧто тут охранять в этой богом забытой дыре.",
+          "LocalizedString": "Что значит охраняй как следует?\r\nЧто тут охранять в этой богом забытой дыре."
+        }
+      },
+      "VolcanoPolice001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_3_TextData",
+          "SourceString": "Мое дело - просто стоять перед воротами согласно контракту.\r\nНадо ж мне было получить распределение в эту рыбацкую деревню! Не повезло так не повезло...",
+          "LocalizedString": "Мое дело - просто стоять перед воротами согласно контракту.\r\nНадо ж мне было получить распределение в эту рыбацкую деревню! Не повезло так не повезло..."
+        }
+      },
+      "VolcanoPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_Loop_TextData",
+          "SourceString": "Э-э-эх... и снова скучный день...\r\nДа, да, охраняю я...",
+          "LocalizedString": "Э-э-эх... и снова скучный день...\r\nДа, да, охраняю я..."
+        }
+      },
+      "VolcanoPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_1_TextData",
+          "SourceString": "Кто здесь? А, какая разница.\r\nВ этой рыбацкой деревушке ничего не происходит.\r\nА может ну его, не напрягаться и все.",
+          "LocalizedString": "Кто здесь? А, какая разница.\r\nВ этой рыбацкой деревушке ничего не происходит.\r\nА может ну его, не напрягаться и все."
+        }
+      },
+      "VolcanoPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_2_TextData",
+          "SourceString": "Здесь на удивление беззаботная жизнь, можно и расслабиться.\r\nТо, что здесь ничего нет, это и преимущество, и недостаток.",
+          "LocalizedString": "Здесь на удивление беззаботная жизнь, можно и расслабиться.\r\nТо, что здесь ничего нет, это и преимущество, и недостаток."
+        }
+      },
+      "VolcanoPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_3_TextData",
+          "SourceString": "А, кстати, тут недавно нашел... надо?\r\nПахнет чем-то вроде использованного патрона.",
+          "LocalizedString": "А, кстати, тут недавно нашел... надо?\r\nПахнет чем-то вроде использованного патрона."
+        }
+      },
+      "VolcanoPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_Loop_TextData",
+          "SourceString": "Кажется, это называется <itemName id=|Sulfur|/>? Хм-м.\r\nПо-моему, я видел такую штуку где-то на вулкане.\r\nПохоже на запах патронов, да?",
+          "LocalizedString": "Кажется, это называется <itemName id=|Sulfur|/>? Хм-м.\r\nПо-моему, я видел такую штуку где-то на вулкане.\r\nПохоже на запах патронов, да?"
+        }
+      },
+      "RandomBattle_PalTamer_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_PalTamer_Loop_TextData",
+          "SourceString": "Спасибо за помощь. В последнее время тут неспокойно.",
+          "LocalizedString": "Спасибо за помощь. В последнее время тут неспокойно."
+        }
+      },
+      "RandomBattle_Police_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_Police_Loop_TextData",
+          "SourceString": "Благодарю за помощь. Берегись браконьеров.",
+          "LocalizedString": "Благодарю за помощь. Берегись браконьеров."
+        }
+      },
+      "PvPVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_1_TextData",
+          "SourceString": "Только я унес ноги из той ужасной пустыни,\r\nкак оказалось, что на этом острове тоже водятся такие огромные Палы...",
+          "LocalizedString": "Только я унес ноги из той ужасной пустыни,\r\nкак оказалось, что на этом острове тоже водятся такие огромные Палы..."
+        }
+      },
+      "PvPVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_2_TextData",
+          "SourceString": "Черт... Вот бы и мне талант тренера Палов...\r\nЯ мог бы выжить, наловив Палов и построив базу!..",
+          "LocalizedString": "Черт... Вот бы и мне талант тренера Палов...\r\nЯ мог бы выжить, наловив Палов и построив базу!.."
+        }
+      },
+      "PvPVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_3_TextData",
+          "SourceString": "Ты тоже держись...\r\nВот, возьми. Скорее подготовься к защите от врагов.\r\nНочью тебя сожрут.",
+          "LocalizedString": "Ты тоже держись...\r\nВот, возьми. Скорее подготовься к защите от врагов.\r\nНочью тебя сожрут."
+        }
+      },
+      "PvPVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_Loop_TextData",
+          "SourceString": "Особенно берегись гигантских Палов.\r\nВ легком обмундировании они тебя мигом прикончат.",
+          "LocalizedString": "Особенно берегись гигантских Палов.\r\nВ легком обмундировании они тебя мигом прикончат."
+        }
+      },
+      "PvPVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_1_TextData",
+          "SourceString": "Ты не отсюда?\r\nТоже из странников, как я?..\r\nЗачем я вообще сунулся в это чертово место.",
+          "LocalizedString": "Ты не отсюда?\r\nТоже из странников, как я?..\r\nЗачем я вообще сунулся в это чертово место."
+        }
+      },
+      "PvPVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_2_TextData",
+          "SourceString": "Ты, наверное, тоже мечтаешь обогатиться, наловив Палов?\r\nОгорчу тебя. Палы — яростные и опасные создания.\r\nВсе мои товарищи уже на том свете...",
+          "LocalizedString": "Ты, наверное, тоже мечтаешь обогатиться, наловив Палов?\r\nОгорчу тебя. Палы — яростные и опасные создания.\r\nВсе мои товарищи уже на том свете..."
+        }
+      },
+      "PvPVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_3_TextData",
+          "SourceString": "Особенно не советую приближаться к огромным Палам.\r\nБросай им вызов только тогда, когда хорошенько подготовишься.\r\nСначала поймай много Палов и подними свой уровень.",
+          "LocalizedString": "Особенно не советую приближаться к огромным Палам.\r\nБросай им вызов только тогда, когда хорошенько подготовишься.\r\nСначала поймай много Палов и подними свой уровень."
+        }
+      },
+      "PvPVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_Loop_TextData",
+          "SourceString": "Берегись огромных Палов.\r\nПрежде чем вступать с ними в бой, набей руку в поимке Палов\r\nи хорошенько наберись опыта.",
+          "LocalizedString": "Берегись огромных Палов.\r\nПрежде чем вступать с ними в бой, набей руку в поимке Палов\r\nи хорошенько наберись опыта."
+        }
+      },
+      "PvPVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_1_TextData",
+          "SourceString": "О! Нечасто к нам забредают люди.\r\nТут ничего нет.\r\nВсе забрали браконьеры...",
+          "LocalizedString": "О! Нечасто к нам забредают люди.\r\nТут ничего нет.\r\nВсе забрали браконьеры..."
+        }
+      },
+      "PvPVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_2_TextData",
+          "SourceString": "Если ты умеешь изготавливать Пал-сферы,\r\nналови Палов и обеспечь себя охраной.\r\nНа этом острове выживают только сильнейшие...",
+          "LocalizedString": "Если ты умеешь изготавливать Пал-сферы,\r\nналови Палов и обеспечь себя охраной.\r\nНа этом острове выживают только сильнейшие..."
+        }
+      },
+      "PvPVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_3_TextData",
+          "SourceString": "Я уже устала... у меня не осталось никаких сожалений...\r\nЯ поделюсь с тобой ресурсами.\r\nМне уже почти ничего не надо...",
+          "LocalizedString": "Я уже устала... у меня не осталось никаких сожалений...\r\nЯ поделюсь с тобой ресурсами.\r\nМне уже почти ничего не надо..."
+        }
+      },
+      "PvPVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_Loop_TextData",
+          "SourceString": "Я тоже раньше могла сражаться...\r\nНо тот большой Пал повредил мне колено.\r\nНа этом острове те, кто не может сражаться... обречены лишь ждать своей смерти.",
+          "LocalizedString": "Я тоже раньше могла сражаться...\r\nНо тот большой Пал повредил мне колено.\r\nНа этом острове те, кто не может сражаться... обречены лишь ждать своей смерти."
+        }
+      },
+      "PvPVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_1_TextData",
+          "SourceString": "На... на помощь!.. Я больше не хочу здесь находиться!\r\nНа меня напал ужасный гигантский Пал!..\r\nОн играючи рвал людей в клочья своими зубами...",
+          "LocalizedString": "На... на помощь!.. Я больше не хочу здесь находиться!\r\nНа меня напал ужасный гигантский Пал!..\r\nОн играючи рвал людей в клочья своими зубами..."
+        }
+      },
+      "PvPVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_2_TextData",
+          "SourceString": "Налови Палов и построй базу до наступления ночи!..\r\nВ темноте у нас нет никаких шансов...\r\nРазведи костер, спрячься в укрытие и молись в ожидании рассвета.",
+          "LocalizedString": "Налови Палов и построй базу до наступления ночи!..\r\nВ темноте у нас нет никаких шансов...\r\nРазведи костер, спрячься в укрытие и молись в ожидании рассвета."
+        }
+      },
+      "PvPVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_3_TextData",
+          "SourceString": "Вот, возьми...\r\nПостарайся выжить и уноси ноги с этого острова!..",
+          "LocalizedString": "Вот, возьми...\r\nПостарайся выжить и уноси ноги с этого острова!.."
+        }
+      },
+      "PvPVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_Loop_TextData",
+          "SourceString": "Если во тьме тебе встретится разъяренный Пал, тебе крышка...\r\nЗапасись переносными факелами или построй базу,\r\nчтобы безопасно пережить ночь...",
+          "LocalizedString": "Если во тьме тебе встретится разъяренный Пал, тебе крышка...\r\nЗапасись переносными факелами или построй базу,\r\nчтобы безопасно пережить ночь..."
+        }
+      },
+      "PvPVillage005_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_1_TextData",
+          "SourceString": "Ты... странник? Не повезло тебе оказаться здесь.\r\nЭтот остров носит название Палпагос.\r\nУжасное место, где все решает грубая сила...",
+          "LocalizedString": "Ты... странник? Не повезло тебе оказаться здесь.\r\nЭтот остров носит название Палпагос.\r\nУжасное место, где все решает грубая сила..."
+        }
+      },
+      "PvPVillage005_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_2_TextData",
+          "SourceString": "Многие прибывают сюда ради охоты на Палов,\r\nно большинство пропадает без вести...\r\nМожет, их сожрали дикие Палы, а может, убили браконьеры Рейн...",
+          "LocalizedString": "Многие прибывают сюда ради охоты на Палов,\r\nно большинство пропадает без вести...\r\nМожет, их сожрали дикие Палы, а может, убили браконьеры Рейн..."
+        }
+      },
+      "PvPVillage005_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_3_TextData",
+          "SourceString": "Если ты тренер Палов, охоться на них поактивнее.\r\nЧем больше тренер поймает Палов, тем сильнее он становится.\r\nМожет быть, немного повысишь свой шанс выжить.",
+          "LocalizedString": "Если ты тренер Палов, охоться на них поактивнее.\r\nЧем больше тренер поймает Палов, тем сильнее он становится.\r\nМожет быть, немного повысишь свой шанс выжить."
+        }
+      },
+      "PvPVillage005_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_Loop_TextData",
+          "SourceString": "Чем больше тренер поймает Палов, тем сильнее он становится.\r\nВ этом похожем на ад месте\r\nнужно постараться хоть немного увеличить свой шанс выжить...",
+          "LocalizedString": "Чем больше тренер поймает Палов, тем сильнее он становится.\r\nВ этом похожем на ад месте\r\nнужно постараться хоть немного увеличить свой шанс выжить..."
+        }
+      },
+      "PvPVillage006_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_1_TextData",
+          "SourceString": "Впервые за много лет вижу здесь нового человека...\r\nБыл у нас тут до тебя какой-то известный наемник,\r\nно <characterName id=|Garm|/> быстро с ним расправился.",
+          "LocalizedString": "Впервые за много лет вижу здесь нового человека...\r\nБыл у нас тут до тебя какой-то известный наемник,\r\nно <characterName id=|Garm|/> быстро с ним расправился."
+        }
+      },
+      "PvPVillage006_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_2_TextData",
+          "SourceString": "Палы — существа гораздо более жестокие, чем кажется с виду.\r\nОсобенно плотоядные дикие Палы. Встретишь такого — сразу же беги.\r\nИ не оборачивайся!",
+          "LocalizedString": "Палы — существа гораздо более жестокие, чем кажется с виду.\r\nОсобенно плотоядные дикие Палы. Встретишь такого — сразу же беги.\r\nИ не оборачивайся!"
+        }
+      },
+      "PvPVillage006_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_3_TextData",
+          "SourceString": "Держи, пригодится. Желаю тебе выжить\r\nв этой жестокой среде.",
+          "LocalizedString": "Держи, пригодится. Желаю тебе выжить\r\nв этой жестокой среде."
+        }
+      },
+      "PvPVillage006_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_Loop_TextData",
+          "SourceString": "Здесь у нас прохладно — рядом Снежная гора.\r\nСоветую поскорее развести костер и построить хижину,\r\nчтобы провести ночь в кровати.",
+          "LocalizedString": "Здесь у нас прохладно — рядом Снежная гора.\r\nСоветую поскорее развести костер и построить хижину,\r\nчтобы провести ночь в кровати."
+        }
+      }
+    }
+  }
+]

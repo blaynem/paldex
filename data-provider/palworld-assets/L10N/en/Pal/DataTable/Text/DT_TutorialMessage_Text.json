@@ -1,0 +1,279 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TutorialMessage_Text",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "TUTORIAL_SP_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_SP_1_TextData",
+          "SourceString": "Pick up items with <keyGuideIcon id=|Interact_1|/>.",
+          "LocalizedString": "Pick up items with <keyGuideIcon id=|Interact_1|/>."
+        }
+      },
+      "TUTORIAL_ITEM_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_1_TextData",
+          "SourceString": "Open the Build Menu with <keyGuideIcon id=|OpenConstructionRadialMenu|/>.",
+          "LocalizedString": "Open the Build Menu with <keyGuideIcon id=|OpenConstructionRadialMenu|/>."
+        }
+      },
+      "TUTORIAL_ITEM_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_2_TextData",
+          "SourceString": "Press <keyGuideIcon id=|ThrowObject|/> to throw a Sphere and capture a Pal.\r\nWeakened Pals are easier to catch.",
+          "LocalizedString": "Press <keyGuideIcon id=|ThrowObject|/> to throw a Sphere and capture a Pal.\r\nWeakened Pals are easier to catch."
+        }
+      },
+      "TUTORIAL_ITEM_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_3_TextData",
+          "SourceString": "Use <keyGuideIcon id=|OpenConstructionRadialMenu|/> to build a Palbox\r\nfrom the Build Menu and construct a base.",
+          "LocalizedString": "Use <keyGuideIcon id=|OpenConstructionRadialMenu|/> to build a Palbox\r\nfrom the Build Menu and construct a base."
+        }
+      },
+      "TUTORIAL_ITEM_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_4_TextData",
+          "SourceString": "Use a Skill Fruit from your inventory\r\nto learn a Pal skill.",
+          "LocalizedString": "Use a Skill Fruit from your inventory\r\nto learn a Pal skill."
+        }
+      },
+      "TUTORIAL_ITEM_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_5_TextData",
+          "SourceString": "Collect <itemName id=|Relic|/> and offer them to a <MapObjectName id=|BuildableGoddessStatue|/>\r\nto improve your ability to capture Pals.",
+          "LocalizedString": "Collect <itemName id=|Relic|/> and offer them to a <MapObjectName id=|BuildableGoddessStatue|/>\r\nto improve your ability to capture Pals."
+        }
+      },
+      "TUTORIAL_ITEM_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_6_TextData",
+          "SourceString": "Press <keyGuideIcon id=|Jump|/> while jumping to glide.",
+          "LocalizedString": "Press <keyGuideIcon id=|Jump|/> while jumping to glide."
+        }
+      },
+      "TUTORIAL_ITEM_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_7_TextData",
+          "SourceString": "Build an <MapObjectName id=|HatchingPalEgg|/>\r\nto incubate Pal eggs.",
+          "LocalizedString": "Build an <MapObjectName id=|HatchingPalEgg|/>\r\nto incubate Pal eggs."
+        }
+      },
+      "TUTORIAL_RESPAWN_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_1_TextData",
+          "SourceString": "You will be revived at the location\r\nwhere you build a Palbox.",
+          "LocalizedString": "You will be revived at the location\r\nwhere you build a Palbox."
+        }
+      },
+      "TUTORIAL_RESPAWN_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_2_TextData",
+          "SourceString": "Your Pals and items will be dropped where you were knocked out.\r\nCollect them before someone else does.",
+          "LocalizedString": "Your Pals and items will be dropped where you were knocked out.\r\nCollect them before someone else does."
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_1_TextData",
+          "SourceString": "Use Technology Points to unlock\r\nnew items and facilities.",
+          "LocalizedString": "Use Technology Points to unlock\r\nnew items and facilities."
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_2_TextData",
+          "SourceString": "Press <keyGuideIcon id=|OpenCharacterMenu|/> to open the inventory\r\nand use Status Points to strengthen your character.",
+          "LocalizedString": "Press <keyGuideIcon id=|OpenCharacterMenu|/> to open the inventory\r\nand use Status Points to strengthen your character."
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_3_TextData",
+          "SourceString": "Your parameters will decrease while hungry.\r\nYou can eat by using items in the inventory.",
+          "LocalizedString": "Your parameters will decrease while hungry.\r\nYou can eat by using items in the inventory."
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_4_TextData",
+          "SourceString": "Pal parameters will decrease while hungry.\r\nYou can feed them by using items in the inventory.",
+          "LocalizedString": "Pal parameters will decrease while hungry.\r\nYou can feed them by using items in the inventory."
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_5_TextData",
+          "SourceString": "Pals will slack off or get sick if their SAN decreases too much.\r\nFeed them high quality food or build a hot spring to restore SAN.",
+          "LocalizedString": "Pals will slack off or get sick if their SAN decreases too much.\r\nFeed them high quality food or build a hot spring to restore SAN."
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_6_TextData",
+          "SourceString": "If a Pal falls ill, treat them using medicine\r\nmade from a medicine work bench.",
+          "LocalizedString": "If a Pal falls ill, treat them using medicine\r\nmade from a medicine work bench."
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_7_TextData",
+          "SourceString": "Pals' SAN decreases while doing work, causing them to slack off.\r\nBuild a hot spring or other facilities to get them back on the job.",
+          "LocalizedString": "Pals' SAN decreases while doing work, causing them to slack off.\r\nBuild a hot spring or other facilities to get them back on the job."
+        }
+      },
+      "TUTORIAL_CAPTURE_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_1_TextData",
+          "SourceString": "Wild Pals are easier to capture when their <uiCommon id=|COMMON_STATUS_HP|/> is low.\r\nThey cannot be captured if you kill them.",
+          "LocalizedString": "Wild Pals are easier to capture when their <uiCommon id=|COMMON_STATUS_HP|/> is low.\r\nThey cannot be captured if you kill them."
+        }
+      },
+      "TUTORIAL_CAPTURE_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_2_TextData",
+          "SourceString": "Press <keyGuideIcon id=|ThrowPal|/> to summon a captured Pal.",
+          "LocalizedString": "Press <keyGuideIcon id=|ThrowPal|/> to summon a captured Pal."
+        }
+      },
+      "TUTORIAL_CAPTURE_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_3_TextData",
+          "SourceString": "You'll receive a lot of EXP for capturing a new type of Pal.\r\nSearch for new Pals as you continue your adventure.",
+          "LocalizedString": "You'll receive a lot of EXP for capturing a new type of Pal.\r\nSearch for new Pals as you continue your adventure."
+        }
+      },
+      "TUTORIAL_CAPTURE_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_4_TextData",
+          "SourceString": "You'll receive bonus EXP for capturing the same type of Pal\r\nup to ten times.",
+          "LocalizedString": "You'll receive bonus EXP for capturing the same type of Pal\r\nup to ten times."
+        }
+      },
+      "TUTORIAL_CAPTURE_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_5_TextData",
+          "SourceString": "You can take up to five Pals with you at a time.\r\nCapture any more than that, and they will automatically be sent to your Palbox.",
+          "LocalizedString": "You can take up to five Pals with you at a time.\r\nCapture any more than that, and they will automatically be sent to your Palbox."
+        }
+      },
+      "TUTORIAL_CAPTURE_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_6_TextData",
+          "SourceString": "You've captured a lucky Pal!\r\nSee what special abilities they have!",
+          "LocalizedString": "You've captured a lucky Pal!\r\nSee what special abilities they have!"
+        }
+      },
+      "TUTORIAL_CAPTURE_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_7_TextData",
+          "SourceString": "Build a Palbox,\r\nand you can retrieve captured Pals from it.",
+          "LocalizedString": "Build a Palbox,\r\nand you can retrieve captured Pals from it."
+        }
+      },
+      "TUTORIAL_CAPTURE_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_8_TextData",
+          "SourceString": "You won't be able to effectively use Pals at a higher level than you!\r\nTheir abilities will be lowered to match those of your character's level.",
+          "LocalizedString": "You won't be able to effectively use Pals at a higher level than you!\r\nTheir abilities will be lowered to match those of your character's level."
+        }
+      },
+      "TUTORIAL_COMMON_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_1_TextData",
+          "SourceString": "You won't be able to move if you're carrying too much heavy stuff.\r\nUse Status Points to increase your carrying capacity.",
+          "LocalizedString": "You won't be able to move if you're carrying too much heavy stuff.\r\nUse Status Points to increase your carrying capacity."
+        }
+      },
+      "TUTORIAL_COMMON_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_2_TextData",
+          "SourceString": "Hand-held torches brighten up areas around you and fend off the cold.\r\nTry crafting one at a workbench.",
+          "LocalizedString": "Hand-held torches brighten up areas around you and fend off the cold.\r\nTry crafting one at a workbench."
+        }
+      },
+      "TUTORIAL_COMMON_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_3_TextData",
+          "SourceString": "Your Pal has been knocked out!\r\nPlace them in a Palbox to heal them of the <uiCommon id=|COMMON_CONDITION_NAME_Dying|/> status.",
+          "LocalizedString": "Your Pal has been knocked out!\r\nPlace them in a Palbox to heal them of the <uiCommon id=|COMMON_CONDITION_NAME_Dying|/> status."
+        }
+      },
+      "TUTORIAL_COMMON_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_4_TextData",
+          "SourceString": "Take out a Pal at base, and they\r\nwill automatically search for jobs they are capable of doing.",
+          "LocalizedString": "Take out a Pal at base, and they\r\nwill automatically search for jobs they are capable of doing."
+        }
+      },
+      "TUTORIAL_COMMON_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_5_TextData",
+          "SourceString": "Place a Pal in the Base Pals slot in your Palbox,\r\nand they will help out based on their work suitability",
+          "LocalizedString": "Place a Pal in the Base Pals slot in your Palbox,\r\nand they will help out based on their work suitability"
+        }
+      },
+      "TUTORIAL_COMMON_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_6_TextData",
+          "SourceString": "Pals can equip up to three active skills at once.\r\nTry swapping in new skills from the <uiCommon id=|INGAME_MAIN_MENU_PAL|/> menu.",
+          "LocalizedString": "Pals can equip up to three active skills at once.\r\nTry swapping in new skills from the <uiCommon id=|INGAME_MAIN_MENU_PAL|/> menu."
+        }
+      },
+      "TUTORIAL_COMMON_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_7_TextData",
+          "SourceString": "Fighting a rampaging wild Pal with your bare hands isn't the best idea.\r\nTry building a workbench and crafting a weapon.",
+          "LocalizedString": "Fighting a rampaging wild Pal with your bare hands isn't the best idea.\r\nTry building a workbench and crafting a weapon."
+        }
+      },
+      "TUTORIAL_COMMON_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_8_TextData",
+          "SourceString": "You've found a note from another adventurer.\r\nYou can check their journeys from the option screen.",
+          "LocalizedString": "You've found a note from another adventurer.\r\nYou can check their journeys from the option screen."
+        }
+      }
+    }
+  }
+]

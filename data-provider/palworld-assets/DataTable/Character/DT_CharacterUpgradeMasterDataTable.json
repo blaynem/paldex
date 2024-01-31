@@ -1,0 +1,75 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CharacterUpgradeMasterDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalCharacterUpgradeMasterData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Rank": 1,
+        "RequiredStaticItemId": "PalUpgradeStone",
+        "RequiredItemNum": 1,
+        "ResetRequiredMoney": 1000
+      },
+      "2": {
+        "Rank": 2,
+        "RequiredStaticItemId": "PalUpgradeStone",
+        "RequiredItemNum": 2,
+        "ResetRequiredMoney": 3000
+      },
+      "3": {
+        "Rank": 3,
+        "RequiredStaticItemId": "PalUpgradeStone",
+        "RequiredItemNum": 3,
+        "ResetRequiredMoney": 6000
+      },
+      "4": {
+        "Rank": 4,
+        "RequiredStaticItemId": "PalUpgradeStone",
+        "RequiredItemNum": 4,
+        "ResetRequiredMoney": 10000
+      },
+      "5": {
+        "Rank": 5,
+        "RequiredStaticItemId": "PalUpgradeStone2",
+        "RequiredItemNum": 1,
+        "ResetRequiredMoney": 15000
+      },
+      "6": {
+        "Rank": 6,
+        "RequiredStaticItemId": "PalUpgradeStone2",
+        "RequiredItemNum": 2,
+        "ResetRequiredMoney": 21000
+      },
+      "7": {
+        "Rank": 7,
+        "RequiredStaticItemId": "PalUpgradeStone2",
+        "RequiredItemNum": 3,
+        "ResetRequiredMoney": 28000
+      },
+      "8": {
+        "Rank": 8,
+        "RequiredStaticItemId": "PalUpgradeStone3",
+        "RequiredItemNum": 1,
+        "ResetRequiredMoney": 36000
+      },
+      "9": {
+        "Rank": 9,
+        "RequiredStaticItemId": "PalUpgradeStone3",
+        "RequiredItemNum": 2,
+        "ResetRequiredMoney": 45000
+      },
+      "10": {
+        "Rank": 10,
+        "RequiredStaticItemId": "PalUpgradeStone3",
+        "RequiredItemNum": 3,
+        "ResetRequiredMoney": 55000
+      }
+    }
+  }
+]

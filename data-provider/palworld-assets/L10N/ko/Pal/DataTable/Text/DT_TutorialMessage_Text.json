@@ -1,0 +1,279 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TutorialMessage_Text",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "TUTORIAL_SP_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_SP_1_TextData",
+          "SourceString": "<keyGuideIcon id=|Interact_1|/> 키로 아이템을 줍는다",
+          "LocalizedString": "<keyGuideIcon id=|Interact_1|/> 키로 아이템을 줍는다"
+        }
+      },
+      "TUTORIAL_ITEM_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_1_TextData",
+          "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/> 키로 건축 메뉴를 연다",
+          "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/> 키로 건축 메뉴를 연다"
+        }
+      },
+      "TUTORIAL_ITEM_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_2_TextData",
+          "SourceString": "<keyGuideIcon id=|ThrowObject|/> 키로 스피어를 던져 팰을 포획하자\r\n팰의 힘을 빼놓으면 잡기 수월하다",
+          "LocalizedString": "<keyGuideIcon id=|ThrowObject|/> 키로 스피어를 던져 팰을 포획하자\r\n팰의 힘을 빼놓으면 잡기 수월하다"
+        }
+      },
+      "TUTORIAL_ITEM_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_3_TextData",
+          "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/> 키로 건축 메뉴에서\r\n팰 상자를 짓고, 거점을 구축하자",
+          "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/> 키로 건축 메뉴에서\r\n팰 상자를 짓고, 거점을 구축하자"
+        }
+      },
+      "TUTORIAL_ITEM_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_4_TextData",
+          "SourceString": "인벤토리에서 '기술 열매'를 사용하자\r\n팰이 스킬을 익히게 할 수 있다",
+          "LocalizedString": "인벤토리에서 '기술 열매'를 사용하자\r\n팰이 스킬을 익히게 할 수 있다"
+        }
+      },
+      "TUTORIAL_ITEM_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_5_TextData",
+          "SourceString": "<itemName id=|Relic|/>을(를) 모아 <mapObjectName id=|BuildableGoddessStatue|/>에 바치면\r\n플레이어의 팰 포획력이 강화된다",
+          "LocalizedString": "<itemName id=|Relic|/>을(를) 모아 <mapObjectName id=|BuildableGoddessStatue|/>에 바치면\r\n플레이어의 팰 포획력이 강화된다"
+        }
+      },
+      "TUTORIAL_ITEM_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_6_TextData",
+          "SourceString": "점프하면서 <keyGuideIcon id=|Jump|/> 키를 누르면 활공할 수 있다",
+          "LocalizedString": "점프하면서 <keyGuideIcon id=|Jump|/> 키를 누르면 활공할 수 있다"
+        }
+      },
+      "TUTORIAL_ITEM_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_ITEM_7_TextData",
+          "SourceString": "<mapObjectName id=|HatchingPalEgg|/>을(를) 건축하여\r\n팰의 알을 부화시킬 수 있다",
+          "LocalizedString": "<mapObjectName id=|HatchingPalEgg|/>을(를) 건축하여\r\n팰의 알을 부화시킬 수 있다"
+        }
+      },
+      "TUTORIAL_RESPAWN_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_1_TextData",
+          "SourceString": "팰 상자를 만들면\r\n만든 위치에서 부활할 수 있다",
+          "LocalizedString": "팰 상자를 만들면\r\n만든 위치에서 부활할 수 있다"
+        }
+      },
+      "TUTORIAL_RESPAWN_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_RESPAWN_2_TextData",
+          "SourceString": "쓰러진 장소에 팰과 아이템이 남아 있다\r\n다른 사람에게 빼앗기기 전에 회수하자",
+          "LocalizedString": "쓰러진 장소에 팰과 아이템이 남아 있다\r\n다른 사람에게 빼앗기기 전에 회수하자"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_1_TextData",
+          "SourceString": "기술 포인트를 소비하여\r\n새로운 아이템이나 시설을 개방할 수 있다",
+          "LocalizedString": "기술 포인트를 소비하여\r\n새로운 아이템이나 시설을 개방할 수 있다"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_2_TextData",
+          "SourceString": "<keyGuideIcon id=|OpenCharacterMenu|/> 키로 인벤토리를 열어\r\n스테이터스 포인트를 소비해 플레이어를 강화할 수 있다",
+          "LocalizedString": "<keyGuideIcon id=|OpenCharacterMenu|/> 키로 인벤토리를 열어\r\n스테이터스 포인트를 소비해 플레이어를 강화할 수 있다"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_3_TextData",
+          "SourceString": "배가 고프면 각종 수치가 떨어진다\r\n인벤토리에서 아이템을 사용해 식사할 수 있다",
+          "LocalizedString": "배가 고프면 각종 수치가 떨어진다\r\n인벤토리에서 아이템을 사용해 식사할 수 있다"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_4_TextData",
+          "SourceString": "팰이 배가 고프면 각종 수치가 떨어진다\r\n인벤토리에서 아이템을 사용해 팰에게 먹이를 주자",
+          "LocalizedString": "팰이 배가 고프면 각종 수치가 떨어진다\r\n인벤토리에서 아이템을 사용해 팰에게 먹이를 주자"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_5_TextData",
+          "SourceString": "팰의 SAN 수치가 떨어지면 딴짓을 하거나 병이 나기도 한다\r\n양질의 식사를 주고 온천을 만들어 회복시켜 주자",
+          "LocalizedString": "팰의 SAN 수치가 떨어지면 딴짓을 하거나 병이 나기도 한다\r\n양질의 식사를 주고 온천을 만들어 회복시켜 주자"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_6_TextData",
+          "SourceString": "팰이 병에 걸렸다\r\n제약대에서 약을 만들어 치료해 주자",
+          "LocalizedString": "팰이 병에 걸렸다\r\n제약대에서 약을 만들어 치료해 주자"
+        }
+      },
+      "TUTORIAL_INDIVIDUAL_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_INDIVIDUAL_7_TextData",
+          "SourceString": "팰은 작업 중에 SAN 수치가 저하하며, 낮을 경우 농땡이를 피우게 된다\r\n온천 등을 만들어 작업에 빨리 복귀하게 해주자",
+          "LocalizedString": "팰은 작업 중에 SAN 수치가 저하하며, 낮을 경우 농땡이를 피우게 된다\r\n온천 등을 만들어 작업에 빨리 복귀하게 해주자"
+        }
+      },
+      "TUTORIAL_CAPTURE_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_1_TextData",
+          "SourceString": "야생 팰은 <uiCommon id=|COMMON_STATUS_HP|/>을(를) 떨어뜨리면 포획하기 수월해진다\r\n쓰러뜨리면 포획할 수 없게 된다",
+          "LocalizedString": "야생 팰은 <uiCommon id=|COMMON_STATUS_HP|/>을(를) 떨어뜨리면 포획하기 수월해진다\r\n쓰러뜨리면 포획할 수 없게 된다"
+        }
+      },
+      "TUTORIAL_CAPTURE_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_2_TextData",
+          "SourceString": "<keyGuideIcon id=|ThrowPal|/> 키로 포획한 팰을 소환한다",
+          "LocalizedString": "<keyGuideIcon id=|ThrowPal|/> 키로 포획한 팰을 소환한다"
+        }
+      },
+      "TUTORIAL_CAPTURE_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_3_TextData",
+          "SourceString": "신종 팰을 포획하면 경험치를 대량으로 획득한다\r\n아직 못 본 팰을 찾아 나서자",
+          "LocalizedString": "신종 팰을 포획하면 경험치를 대량으로 획득한다\r\n아직 못 본 팰을 찾아 나서자"
+        }
+      },
+      "TUTORIAL_CAPTURE_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_4_TextData",
+          "SourceString": "이미 잡은 팰이라도 10마리를 모을 때까지는\r\n보너스 경험치를 얻을 수 있다",
+          "LocalizedString": "이미 잡은 팰이라도 10마리를 모을 때까지는\r\n보너스 경험치를 얻을 수 있다"
+        }
+      },
+      "TUTORIAL_CAPTURE_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_5_TextData",
+          "SourceString": "한 번에 휴대 가능한 팰은 5마리까지다\r\n그 이상 포획하면 자동으로 팰 상자로 전송된다",
+          "LocalizedString": "한 번에 휴대 가능한 팰은 5마리까지다\r\n그 이상 포획하면 자동으로 팰 상자로 전송된다"
+        }
+      },
+      "TUTORIAL_CAPTURE_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_6_TextData",
+          "SourceString": "희귀한 팰을 잡았다!\r\n특별한 스킬을 가진 녀석인 것 같다",
+          "LocalizedString": "희귀한 팰을 잡았다!\r\n특별한 스킬을 가진 녀석인 것 같다"
+        }
+      },
+      "TUTORIAL_CAPTURE_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_7_TextData",
+          "SourceString": "팰 상자를 만들면\r\n잡은 팰을 꺼낼 수 있다",
+          "LocalizedString": "팰 상자를 만들면\r\n잡은 팰을 꺼낼 수 있다"
+        }
+      },
+      "TUTORIAL_CAPTURE_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_CAPTURE_8_TextData",
+          "SourceString": "나보다 레벨이 높은 팰은 다루기 까다롭다!\r\n플레이어와 같은 레벨까지 성능이 떨어진다",
+          "LocalizedString": "나보다 레벨이 높은 팰은 다루기 까다롭다!\r\n플레이어와 같은 레벨까지 성능이 떨어진다"
+        }
+      },
+      "TUTORIAL_COMMON_1": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_1_TextData",
+          "SourceString": "무거운 물건을 많이 들면 움직일 수 없게 된다\r\n스테이터스 포인트를 소비해 소지 중량을 늘리자",
+          "LocalizedString": "무거운 물건을 많이 들면 움직일 수 없게 된다\r\n스테이터스 포인트를 소비해 소지 중량을 늘리자"
+        }
+      },
+      "TUTORIAL_COMMON_2": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_2_TextData",
+          "SourceString": "휴대형 횃불은 주변을 비추고 추위를 막아준다\r\n작업대에서 제작하자",
+          "LocalizedString": "휴대형 횃불은 주변을 비추고 추위를 막아준다\r\n작업대에서 제작하자"
+        }
+      },
+      "TUTORIAL_COMMON_3": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_3_TextData",
+          "SourceString": "팰이 쓰러졌다!\r\n팰 상자에 맡기면 |<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>| 상태를 치료할 수 있다",
+          "LocalizedString": "팰이 쓰러졌다!\r\n팰 상자에 맡기면 |<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>| 상태를 치료할 수 있다"
+        }
+      },
+      "TUTORIAL_COMMON_4": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_4_TextData",
+          "SourceString": "거점에서 팰을 꺼내면 녀석들은\r\n자기가 할 수 있는 일을 찾아 스스로 작업한다",
+          "LocalizedString": "거점에서 팰을 꺼내면 녀석들은\r\n자기가 할 수 있는 일을 찾아 스스로 작업한다"
+        }
+      },
+      "TUTORIAL_COMMON_5": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_5_TextData",
+          "SourceString": "팰 상자에 있는 거점 팰 슬롯에 팰을 배치하면\r\n해당 팰은 자기가 자신 있는 작업을 도와준다",
+          "LocalizedString": "팰 상자에 있는 거점 팰 슬롯에 팰을 배치하면\r\n해당 팰은 자기가 자신 있는 작업을 도와준다"
+        }
+      },
+      "TUTORIAL_COMMON_6": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_6_TextData",
+          "SourceString": "팰이 장비할 수 있는 액티브 스킬은 3개까지이다\r\n새로운 스킬은 <uiCommon id=|INGAME_MAIN_MENU_PAL|/> 메뉴에서 바꿔주자",
+          "LocalizedString": "팰이 장비할 수 있는 액티브 스킬은 3개까지이다\r\n새로운 스킬은 <uiCommon id=|INGAME_MAIN_MENU_PAL|/> 메뉴에서 바꿔주자"
+        }
+      },
+      "TUTORIAL_COMMON_7": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_7_TextData",
+          "SourceString": "야생 팰은 광폭해서 맨손으로 상대하기 쉽지 않다\r\n작업대를 건축해 무기를 만들자",
+          "LocalizedString": "야생 팰은 광폭해서 맨손으로 상대하기 쉽지 않다\r\n작업대를 건축해 무기를 만들자"
+        }
+      },
+      "TUTORIAL_COMMON_8": {
+        "TextData": {
+          "Namespace": "DT_TutorialMessage_Text",
+          "Key": "TUTORIAL_COMMON_8_TextData",
+          "SourceString": "다른 모험가의 수기를 손에 넣었다\r\n이들의 경로는 옵션 화면에서 확인할 수 있다",
+          "LocalizedString": "다른 모험가의 수기를 손에 넣었다\r\n이들의 경로는 옵션 화면에서 확인할 수 있다"
+        }
+      }
+    }
+  }
+]

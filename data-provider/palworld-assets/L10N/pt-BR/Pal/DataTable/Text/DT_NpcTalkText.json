@@ -1,0 +1,1231 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NpcTalkText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "CHOICE_YES": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_YES_TextData",
+          "SourceString": "Sim",
+          "LocalizedString": "Sim"
+        }
+      },
+      "CHOICE_NO": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_NO_TextData",
+          "SourceString": "Não",
+          "LocalizedString": "Não"
+        }
+      },
+      "CHOICE_SHOP_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_BUY_TextData",
+          "SourceString": "Vim comprar",
+          "LocalizedString": "Vim comprar"
+        }
+      },
+      "CHOICE_SHOP_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_SELL_TextData",
+          "SourceString": "Vim vender",
+          "LocalizedString": "Vim vender"
+        }
+      },
+      "CHOICE_SHOP_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_CANCEL_TextData",
+          "SourceString": "Ir embora",
+          "LocalizedString": "Ir embora"
+        }
+      },
+      "CHOICE_SHOP_DARK_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_BUY_TextData",
+          "SourceString": "Comprar muamba",
+          "LocalizedString": "Comprar muamba"
+        }
+      },
+      "CHOICE_SHOP_DARK_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_SELL_TextData",
+          "SourceString": "Passar muamba adiante",
+          "LocalizedString": "Passar muamba adiante"
+        }
+      },
+      "CHOICE_SHOP_DARK_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_CANCEL_TextData",
+          "SourceString": "Ir embora",
+          "LocalizedString": "Ir embora"
+        }
+      },
+      "SHOP_CHOICE_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_CHOICE_TEST_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "SHOP_WELCOME_COMMON": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_WELCOME_COMMON_TextData",
+          "SourceString": "Olá!\r\nHoje temos itens muito bons à disposição.",
+          "LocalizedString": "Olá!\r\nHoje temos itens muito bons à disposição."
+        }
+      },
+      "SHOP_EXIT_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_EXIT_TEST_TextData",
+          "SourceString": "Obrigado, volte sempre.",
+          "LocalizedString": "Obrigado, volte sempre."
+        }
+      },
+      "SHOP_PAL_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_WELCOME_TextData",
+          "SourceString": "Veja só, consegui uns Pals muito bons!\r\nMas não precisa se preocupar porque meu negócio é legítimo.",
+          "LocalizedString": "Veja só, consegui uns Pals muito bons!\r\nMas não precisa se preocupar porque meu negócio é legítimo."
+        }
+      },
+      "SHOP_PALDARK_WELCOME_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_WELCOME_1_1_TextData",
+          "SourceString": "Quando o assunto são Pals, fazemos qualquer negócio.\r\nNão importa se são roubados, de caça ilegal…\r\nVenha, dê uma olhada na mercadoria.",
+          "LocalizedString": "Quando o assunto são Pals, fazemos qualquer negócio.\r\nNão importa se são roubados, de caça ilegal…\r\nVenha, dê uma olhada na mercadoria."
+        }
+      },
+      "SHOP_PALDARK_EXIT_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_EXIT_1_1_TextData",
+          "SourceString": "Hehehe, hoje vou comer carne de primeira.",
+          "LocalizedString": "Hehehe, hoje vou comer carne de primeira."
+        }
+      },
+      "SHOP_PAL_RANDOMEVENT_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_RANDOMEVENT_WELCOME_TextData",
+          "SourceString": "Que bom que você me ajudou.\r\nAproveite para comprar alguma coisa.\r\nNão precisa se preocupar porque meu negócio é legítimo.",
+          "LocalizedString": "Que bom que você me ajudou.\r\nAproveite para comprar alguma coisa.\r\nNão precisa se preocupar porque meu negócio é legítimo."
+        }
+      },
+      "JOHNSON_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "JOHNSON_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "JOHNSON_B1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_B1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "JOHNSON_C1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_C1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "TEST_ATTACKER": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TEST_ATTACKER_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "VILLAGELEADER01_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "VILLAGELEADER01_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "VILLAGELEADER01_A3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A3_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "VILLAGELEADER01_A4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A4_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "VILLAGELEADER01_A5": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A5_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "NOVICE_PALTIMER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_1_TextData",
+          "SourceString": "Mais uma pessoa refugiada?\r\nFaz tempo que não vejo alguém que não cheira a Pal…",
+          "LocalizedString": "Mais uma pessoa refugiada?\r\nFaz tempo que não vejo alguém que não cheira a Pal…"
+        }
+      },
+      "NOVICE_PALTIMER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_2_TextData",
+          "SourceString": "Esta ilha é um inferno… Todo mundo que veio comigo já partiu desta para a melhor.\r\nTodos tiveram a vida roubada por Pals ferozes.\r\nVocê também não deve baixar a guarda.",
+          "LocalizedString": "Esta ilha é um inferno… Todo mundo que veio comigo já partiu desta para a melhor.\r\nTodos tiveram a vida roubada por Pals ferozes.\r\nVocê também não deve baixar a guarda."
+        }
+      },
+      "NOVICE_PALTIMER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_3_TextData",
+          "SourceString": "Posso compartilhar o mínimo de recursos com você, mas…\r\nSe quiser ter uma vida longa, precisa ficar mais forte.",
+          "LocalizedString": "Posso compartilhar o mínimo de recursos com você, mas…\r\nSe quiser ter uma vida longa, precisa ficar mais forte."
+        }
+      },
+      "NOVICE_PALTIMER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_1_TextData",
+          "SourceString": "Já cansei…\r\nNo início eu vinha cavando túmulos para cada um que morria, mas,\r\nquando passou de uma centena, desisti de tudo.",
+          "LocalizedString": "Já cansei…\r\nNo início eu vinha cavando túmulos para cada um que morria, mas,\r\nquando passou de uma centena, desisti de tudo."
+        }
+      },
+      "NOVICE_PALTIMER_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_2_TextData",
+          "SourceString": "Aqui a falta de conhecimento leva à morte imediata.\r\nQuem é capaz de domesticar algum Pal até tem alguma esperança,\r\nmas nenhum dos meus amigos conseguiu fazer isso…",
+          "LocalizedString": "Aqui a falta de conhecimento leva à morte imediata.\r\nQuem é capaz de domesticar algum Pal até tem alguma esperança,\r\nmas nenhum dos meus amigos conseguiu fazer isso…"
+        }
+      },
+      "NOVICE_PALTIMER_2_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_3_TextData",
+          "SourceString": "Ei, por acaso… Você está usando um terminal antigo?!\r\nCom isso você deve conseguir criar esferas de Pal.\r\nE, com as esferas, pode tentar capturar um.",
+          "LocalizedString": "Ei, por acaso… Você está usando um terminal antigo?!\r\nCom isso você deve conseguir criar esferas de Pal.\r\nE, com as esferas, pode tentar capturar um."
+        }
+      },
+      "NOVICE_PALTIMER_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_1_TextData",
+          "SourceString": "Você parece ter talento para domar Pals.\r\nCrie esferas e capture alguns Pals para usá-los no combate.\r\nQuanto mais Pals um domador captura, mais aumenta de nível.",
+          "LocalizedString": "Você parece ter talento para domar Pals.\r\nCrie esferas e capture alguns Pals para usá-los no combate.\r\nQuanto mais Pals um domador captura, mais aumenta de nível."
+        }
+      },
+      "NOVICE_PALTIMER_3_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_2_TextData",
+          "SourceString": "Até ficar mais forte, é melhor não se aproximar daquela torre.\r\nEla é controlada pelos Caçadores Clandestinos de Rayne, um bando violento.\r\nSe for lá, com certeza vai acabar morrendo. Foi o que aconteceu com os meus amigos…",
+          "LocalizedString": "Até ficar mais forte, é melhor não se aproximar daquela torre.\r\nEla é controlada pelos Caçadores Clandestinos de Rayne, um bando violento.\r\nSe for lá, com certeza vai acabar morrendo. Foi o que aconteceu com os meus amigos…"
+        }
+      },
+      "SKILLED_PALTAMIER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_1_TextData",
+          "SourceString": "Hum, nunca vi você por aqui.\r\nSerá possível que é… alguém de fora?",
+          "LocalizedString": "Hum, nunca vi você por aqui.\r\nSerá possível que é… alguém de fora?"
+        }
+      },
+      "SKILLED_PALTAMIER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_2_TextData",
+          "SourceString": "Bom, tanto faz. Eu não me importo com isso.\r\nDe qualquer forma, agora que está nesta ilha, acho melhor capturar algum Pal, viu?\r\nVocê pode conseguir experiência extra capturando até 10 Pals do mesmo tipo.",
+          "LocalizedString": "Bom, tanto faz. Eu não me importo com isso.\r\nDe qualquer forma, agora que está nesta ilha, acho melhor capturar algum Pal, viu?\r\nVocê pode conseguir experiência extra capturando até 10 Pals do mesmo tipo."
+        }
+      },
+      "SKILLED_PALTAMIER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_3_TextData",
+          "SourceString": "|Quanto mais um domador de Pals captura, mais ele cresce.|\r\nÓ, vou dar isto como incentivo pra você.",
+          "LocalizedString": "|Quanto mais um domador de Pals captura, mais ele cresce.|\r\nÓ, vou dar isto como incentivo pra você."
+        }
+      },
+      "SKILLED_PALTAMIER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_2_1_TextData",
+          "SourceString": "|Quanto mais um domador de Pals captura, mais ele cresce.|\r\nCapture muitos Pals e fique mais forte!",
+          "LocalizedString": "|Quanto mais um domador de Pals captura, mais ele cresce.|\r\nCapture muitos Pals e fique mais forte!"
+        }
+      },
+      "Vigilante_lackey_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Vigilante_lackey_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Vigilante_lackey_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_3_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Vigilante_lackey_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_4_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Vigilante_lackey_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Vigilante_lackey_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Head_of_Village_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_1_TextData",
+          "SourceString": "Já foi atacado por um inimigo e deixou seus Pals caírem alguma vez?\r\nSe tiver perdido algum Pal, experimente falar com aquele comerciante de Pals ali.",
+          "LocalizedString": "Já foi atacado por um inimigo e deixou seus Pals caírem alguma vez?\r\nSe tiver perdido algum Pal, experimente falar com aquele comerciante de Pals ali."
+        }
+      },
+      "Head_of_Village_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_2_TextData",
+          "SourceString": "Se o seu Pal foi colocado no mercado, talvez consiga comprá-lo de volta.\r\nOs Caçadores Clandestinos de Rayne costumam vender os Pals contrabandeados\r\nou roubados de outras pessoas para os comerciantes.",
+          "LocalizedString": "Se o seu Pal foi colocado no mercado, talvez consiga comprá-lo de volta.\r\nOs Caçadores Clandestinos de Rayne costumam vender os Pals contrabandeados\r\nou roubados de outras pessoas para os comerciantes."
+        }
+      },
+      "Head_of_Village_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_3_TextData",
+          "SourceString": "Eles são mesmo um bando terrível.\r\nSeria bom se alguém acabasse com a líder deles…",
+          "LocalizedString": "Eles são mesmo um bando terrível.\r\nSeria bom se alguém acabasse com a líder deles…"
+        }
+      },
+      "Police_dependable_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_1_TextData",
+          "SourceString": "Ah, alguém que sabe domar Pals.",
+          "LocalizedString": "Ah, alguém que sabe domar Pals."
+        }
+      },
+      "Police_dependable_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_2_TextData",
+          "SourceString": "Agora já não resta quase ninguém nesta vila, mas,\r\nantes da vinda dos Caçadores Clandestinos de Rayne, muita gente morava aqui.",
+          "LocalizedString": "Agora já não resta quase ninguém nesta vila, mas,\r\nantes da vinda dos Caçadores Clandestinos de Rayne, muita gente morava aqui."
+        }
+      },
+      "Police_dependable_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_3_TextData",
+          "SourceString": "Por causa disso anda difícil garantir o ganha-pão.",
+          "LocalizedString": "Por causa disso anda difícil garantir o ganha-pão."
+        }
+      },
+      "Police_dependable_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_4_TextData",
+          "SourceString": "Se tiver qualquer problema, é só me chamar.\r\nPagando bem, eu posso ajudar com o que for.",
+          "LocalizedString": "Se tiver qualquer problema, é só me chamar.\r\nPagando bem, eu posso ajudar com o que for."
+        }
+      },
+      "Shabby-looking_merchant_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Shabby-looking_merchant_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_2_TextData",
+          "SourceString": "O seguro morreu de velho, sabia? Não quer comprar alguma coisa antes de ir?",
+          "LocalizedString": "O seguro morreu de velho, sabia? Não quer comprar alguma coisa antes de ir?"
+        }
+      },
+      "InnkeeperA_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_1_TextData",
+          "SourceString": "Olá! É a primeira vez que vejo você por aqui.",
+          "LocalizedString": "Olá! É a primeira vez que vejo você por aqui."
+        }
+      },
+      "InnkeeperA_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_2_TextData",
+          "SourceString": "Você veio de muito longe?\r\nDeve querer uma cama depois de viajar tanto. É melhor descansar bem.",
+          "LocalizedString": "Você veio de muito longe?\r\nDeve querer uma cama depois de viajar tanto. É melhor descansar bem."
+        }
+      },
+      "InnkeeperA_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_3_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Rumor-loving_villagers_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_1_TextData",
+          "SourceString": "Você já viu uma caverna?",
+          "LocalizedString": "Você já viu uma caverna?"
+        }
+      },
+      "Rumor-loving_villagers_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_2_TextData",
+          "SourceString": "Parece que existem muitos Pals raros habitando dentro delas.",
+          "LocalizedString": "Parece que existem muitos Pals raros habitando dentro delas."
+        }
+      },
+      "Rumor-loving_villagers_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_3_TextData",
+          "SourceString": "E dizem que tem até depósitos de tesouros feitos por Pals com hábito de colecionar coisas.",
+          "LocalizedString": "E dizem que tem até depósitos de tesouros feitos por Pals com hábito de colecionar coisas."
+        }
+      },
+      "Rumor-loving_villagers_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_4_TextData",
+          "SourceString": "Se encontrar uma caverna, prometa que vai me contar!",
+          "LocalizedString": "Se encontrar uma caverna, prometa que vai me contar!"
+        }
+      },
+      "Research-oriented_scholar_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_1_TextData",
+          "SourceString": "Você já encontrou algum Pal enorme e incrivelmente poderoso?",
+          "LocalizedString": "Você já encontrou algum Pal enorme e incrivelmente poderoso?"
+        }
+      },
+      "Research-oriented_scholar_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_2_TextData",
+          "SourceString": "É só uma hipótese minha, mas acredito que eles são uma espécie de líder controlando os Pals ao redor!",
+          "LocalizedString": "É só uma hipótese minha, mas acredito que eles são uma espécie de líder controlando os Pals ao redor!"
+        }
+      },
+      "Research-oriented_scholar_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_3_TextData",
+          "SourceString": "Eles sem dúvida podem ajudar muito se você conseguir fazer amizade com um. Mas tenha cuidado, pois parece que são fortes de verdade!",
+          "LocalizedString": "Eles sem dúvida podem ajudar muito se você conseguir fazer amizade com um. Mas tenha cuidado, pois parece que são fortes de verdade!"
+        }
+      },
+      "People_cant_leave_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "People_cant_leave_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Sweaty_paltimer_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Sweaty_paltimer_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Sweaty_paltimer_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_3_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_1_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_3_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Visitor_Hunter_Rifle_4_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_4_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "Visitor_Present_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Present_1_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "TestGift_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_1_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "TestGift_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_2_TextData",
+          "SourceString": "pt-BR_Text",
+          "LocalizedString": "pt-BR_Text"
+        }
+      },
+      "DesertVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_1_TextData",
+          "SourceString": "Esta vila é tranquila porque é protegida pelo Marcus, o chefe da Milícia Popular.\r\nÉ graças à influência dele que nós podemos viver em paz.",
+          "LocalizedString": "Esta vila é tranquila porque é protegida pelo Marcus, o chefe da Milícia Popular.\r\nÉ graças à influência dele que nós podemos viver em paz."
+        }
+      },
+      "DesertVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_2_TextData",
+          "SourceString": "Ou seja, por causa disso, recomendo não chamar muito a atenção por aqui.\r\nPrincipalmente se quiser ter uma vida longa.\r\nO mais inteligente a se fazer é sobreviver um dia após o outro contando com a proteção da Milícia Popular.",
+          "LocalizedString": "Ou seja, por causa disso, recomendo não chamar muito a atenção por aqui.\r\nPrincipalmente se quiser ter uma vida longa.\r\nO mais inteligente a se fazer é sobreviver um dia após o outro contando com a proteção da Milícia Popular."
+        }
+      },
+      "DesertVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_3_TextData",
+          "SourceString": "Mais um dia de paz graças ao Marcus.\r\nAh, e cuidado com o frio da noite,\r\nque a temperatura aqui muda de repente.",
+          "LocalizedString": "Mais um dia de paz graças ao Marcus.\r\nAh, e cuidado com o frio da noite,\r\nque a temperatura aqui muda de repente."
+        }
+      },
+      "DesertVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_Loop_TextData",
+          "SourceString": "Ué, nunca vi você por aqui. É a sua primeira vez no deserto?\r\nNão vou julgar você, mas, se pretende ir mais adiante,\r\né melhor se preparar bem contra o calor.",
+          "LocalizedString": "Ué, nunca vi você por aqui. É a sua primeira vez no deserto?\r\nNão vou julgar você, mas, se pretende ir mais adiante,\r\né melhor se preparar bem contra o calor."
+        }
+      },
+      "DesertVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_1_TextData",
+          "SourceString": "Dizem os boatos que existe um Pal lendário em algum lugar do deserto,\r\nmas não falta gente que tentou ir mais longe\r\nsem muito preparo e nunca retornou.",
+          "LocalizedString": "Dizem os boatos que existe um Pal lendário em algum lugar do deserto,\r\nmas não falta gente que tentou ir mais longe\r\nsem muito preparo e nunca retornou."
+        }
+      },
+      "DesertVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_2_TextData",
+          "SourceString": "Eu até gosto de domadores de Pals ousados. Será que você também é assim?\r\nSe quiser encarar o desafio, recomendo se preparar bem para não acabar trilhando o mesmo caminho.\r\nÓ, se quiser pode ficar com isto!",
+          "LocalizedString": "Eu até gosto de domadores de Pals ousados. Será que você também é assim?\r\nSe quiser encarar o desafio, recomendo se preparar bem para não acabar trilhando o mesmo caminho.\r\nÓ, se quiser pode ficar com isto!"
+        }
+      },
+      "DesertVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_3_TextData",
+          "SourceString": "Dizem que o Pal lendário está em algum lugar do deserto…\r\nMas não tem como saber se ele existe mesmo, já que ninguém nunca voltou de lá.\r\nSe quiser ir, não se esqueça de que vai precisar se proteger contra o calor.",
+          "LocalizedString": "Dizem que o Pal lendário está em algum lugar do deserto…\r\nMas não tem como saber se ele existe mesmo, já que ninguém nunca voltou de lá.\r\nSe quiser ir, não se esqueça de que vai precisar se proteger contra o calor."
+        }
+      },
+      "DesertVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_Loop_TextData",
+          "SourceString": "E você, quem é? Pelas aparências, deve ser como aqueles domadores de Pals andarilhos.\r\nDeve ter dado trabalho viajar até o deserto. Mas veio fazer o quê?",
+          "LocalizedString": "E você, quem é? Pelas aparências, deve ser como aqueles domadores de Pals andarilhos.\r\nDeve ter dado trabalho viajar até o deserto. Mas veio fazer o quê?"
+        }
+      },
+      "DesertVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_1_TextData",
+          "SourceString": "Ah, é só olhar para saber. Deve estar atrás do Pal lendário.\r\nEsqueça isso, a vida é preciosa demais para se arriscar assim.\r\nMoro nesta vila há muito tempo e nunca vi nada desse tipo.",
+          "LocalizedString": "Ah, é só olhar para saber. Deve estar atrás do Pal lendário.\r\nEsqueça isso, a vida é preciosa demais para se arriscar assim.\r\nMoro nesta vila há muito tempo e nunca vi nada desse tipo."
+        }
+      },
+      "DesertVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_2_TextData",
+          "SourceString": "Se esse Pal existe de verdade, deve estar muito mais para dentro do deserto — ou não passa de rumor.\r\nSe quiser ir mesmo assim, não sou eu quem vai impedir.\r\nMas ao menos leve isto com você.",
+          "LocalizedString": "Se esse Pal existe de verdade, deve estar muito mais para dentro do deserto — ou não passa de rumor.\r\nSe quiser ir mesmo assim, não sou eu quem vai impedir.\r\nMas ao menos leve isto com você."
+        }
+      },
+      "DesertVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_3_TextData",
+          "SourceString": "Um Pal lendário, é? Eu me pergunto se ele existe no fundo do deserto.\r\nBem, tanto faz, agora só consigo pensar na sede.\r\nA água do mar também serve para beber?",
+          "LocalizedString": "Um Pal lendário, é? Eu me pergunto se ele existe no fundo do deserto.\r\nBem, tanto faz, agora só consigo pensar na sede.\r\nA água do mar também serve para beber?"
+        }
+      },
+      "DesertVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_Loop_TextData",
+          "SourceString": "Um Pal lendário, é? Eu me pergunto se ele existe no fundo do deserto.\r\nBem, tanto faz, agora só consigo pensar na sede.\r\nA água do mar também serve para beber?",
+          "LocalizedString": "Um Pal lendário, é? Eu me pergunto se ele existe no fundo do deserto.\r\nBem, tanto faz, agora só consigo pensar na sede.\r\nA água do mar também serve para beber?"
+        }
+      },
+      "DesertPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_1_TextData",
+          "SourceString": "Ah, uma cara nova? Está ciente de que este é o território do grande Marcus?\r\nNão vá achando que pode se empolgar e aprontar algo só por ser viajante.",
+          "LocalizedString": "Ah, uma cara nova? Está ciente de que este é o território do grande Marcus?\r\nNão vá achando que pode se empolgar e aprontar algo só por ser viajante."
+        }
+      },
+      "DesertPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_2_TextData",
+          "SourceString": "É só se comportar direitinho. Nada muito difícil, não concorda?\r\nTudo é mais simples quando juramos lealdade ao grande Marcus e contamos com a proteção da Milícia Popular.",
+          "LocalizedString": "É só se comportar direitinho. Nada muito difícil, não concorda?\r\nTudo é mais simples quando juramos lealdade ao grande Marcus e contamos com a proteção da Milícia Popular."
+        }
+      },
+      "DesertPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_Loop_TextData",
+          "SourceString": "Sim, senhor! Não há problema nenh—\r\nAh, é você? Não me assuste desse jeito.",
+          "LocalizedString": "Sim, senhor! Não há problema nenh—\r\nAh, é você? Não me assuste desse jeito."
+        }
+      },
+      "DesertPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_1_TextData",
+          "SourceString": "Ei, espere um pouco aí. Você quer entrar na vila?\r\nEu posso deixar se você prometer não se opor ao nosso chefe.",
+          "LocalizedString": "Ei, espere um pouco aí. Você quer entrar na vila?\r\nEu posso deixar se você prometer não se opor ao nosso chefe."
+        }
+      },
+      "DesertPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_2_TextData",
+          "SourceString": "O chefe é especialmente bondoso com as pessoas mais obedientes.\r\nEle até formou uma Milícia Popular pra nos proteger, então a maioria das pessoas é muito grata.\r\nAfinal é por causa dele que se mantém a ordem aqui.",
+          "LocalizedString": "O chefe é especialmente bondoso com as pessoas mais obedientes.\r\nEle até formou uma Milícia Popular pra nos proteger, então a maioria das pessoas é muito grata.\r\nAfinal é por causa dele que se mantém a ordem aqui."
+        }
+      },
+      "DesertPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_3_TextData",
+          "SourceString": "Mas ele anda quase sempre perto da torre junto com os líderes daquele grupo.\r\nO que será que ele fica fazendo lá?",
+          "LocalizedString": "Mas ele anda quase sempre perto da torre junto com os líderes daquele grupo.\r\nO que será que ele fica fazendo lá?"
+        }
+      },
+      "DesertPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_Loop_TextData",
+          "SourceString": "Se quiser falar com o chefe, ele está na torre.\r\nQuando a Milícia Popular conseguir a tecnologia antiga, ninguém mais vai poder com ela.\r\nO comando do chefe vai se tornar cada vez mais forte.",
+          "LocalizedString": "Se quiser falar com o chefe, ele está na torre.\r\nQuando a Milícia Popular conseguir a tecnologia antiga, ninguém mais vai poder com ela.\r\nO comando do chefe vai se tornar cada vez mais forte."
+        }
+      },
+      "DesertPolice003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_1_TextData",
+          "SourceString": "Ah, como o fogo é bom… Seu som crepitante é tão refinado.\r\nVocê também não acha?",
+          "LocalizedString": "Ah, como o fogo é bom… Seu som crepitante é tão refinado.\r\nVocê também não acha?"
+        }
+      },
+      "DesertPolice003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_2_TextData",
+          "SourceString": "No passado eu não podia ficar de conversa fiada deste jeito.\r\nA cada dia, ninguém sabia se ia continuar vivo ou morrer. Mas tudo mudou quando ele apareceu.\r\nFinalmente a gente pôde começar a levar uma vida normal.",
+          "LocalizedString": "No passado eu não podia ficar de conversa fiada deste jeito.\r\nA cada dia, ninguém sabia se ia continuar vivo ou morrer. Mas tudo mudou quando ele apareceu.\r\nFinalmente a gente pôde começar a levar uma vida normal."
+        }
+      },
+      "DesertPolice003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_3_TextData",
+          "SourceString": "Agora não precisamos nos preocupar em ser roubados; podemos só fazer uma fogueira e relaxar.\r\nComo é bom encontrar a felicidade numa coisa simples assim.\r\nHmm… Já está com uma cara boa, quer comer um pouco?",
+          "LocalizedString": "Agora não precisamos nos preocupar em ser roubados; podemos só fazer uma fogueira e relaxar.\r\nComo é bom encontrar a felicidade numa coisa simples assim.\r\nHmm… Já está com uma cara boa, quer comer um pouco?"
+        }
+      },
+      "DesertPolice003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_Loop_TextData",
+          "SourceString": "Na verdade o ideal seria não queimar nenhuma árvore.\r\nMas às vezes somos obrigados a fazer isso…\r\nAfinal não tem como viver sem fogo.",
+          "LocalizedString": "Na verdade o ideal seria não queimar nenhuma árvore.\r\nMas às vezes somos obrigados a fazer isso…\r\nAfinal não tem como viver sem fogo."
+        }
+      },
+      "Police001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_1_TextData",
+          "SourceString": "Ei, não faça esse olhar estranho. Está aprontando alguma coisa?\r\nEu agora já não sou da polícia.",
+          "LocalizedString": "Ei, não faça esse olhar estranho. Está aprontando alguma coisa?\r\nEu agora já não sou da polícia."
+        }
+      },
+      "Police001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_2_TextData",
+          "SourceString": "Tenho certeza de que antigamente vivia em outro lugar.\r\nMas morri atropelado por um caminhão e,\r\nquando me dei conta, estava nesta ilha.",
+          "LocalizedString": "Tenho certeza de que antigamente vivia em outro lugar.\r\nMas morri atropelado por um caminhão e,\r\nquando me dei conta, estava nesta ilha."
+        }
+      },
+      "Police001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_3_TextData",
+          "SourceString": "Depois de morrer, pedi aos deuses que me deixassem comer <itemName id=|Pizza|/>.\r\nEntão me tornei capaz de criar <itemName id=|Pizza|/> com as mãos. É como um código de trapaça incrível.\r\nÓ, tem para você também.",
+          "LocalizedString": "Depois de morrer, pedi aos deuses que me deixassem comer <itemName id=|Pizza|/>.\r\nEntão me tornei capaz de criar <itemName id=|Pizza|/> com as mãos. É como um código de trapaça incrível.\r\nÓ, tem para você também."
+        }
+      },
+      "Police001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_Loop_TextData",
+          "SourceString": "Quer mais, é? Mas quando dou <itemName id=|Pizza|/> para alguém,\r\nfico de barriga vazia. Então já chega.",
+          "LocalizedString": "Quer mais, é? Mas quando dou <itemName id=|Pizza|/> para alguém,\r\nfico de barriga vazia. Então já chega."
+        }
+      },
+      "VolcanoVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_1_TextData",
+          "SourceString": "Hmm? Está pescando alguma coisa?\r\nNão consegui nadinha de nada.\r\nSe voltar de mãos vazias de novo, minha velha vai me puxar a orelha.",
+          "LocalizedString": "Hmm? Está pescando alguma coisa?\r\nNão consegui nadinha de nada.\r\nSe voltar de mãos vazias de novo, minha velha vai me puxar a orelha."
+        }
+      },
+      "VolcanoVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_2_TextData",
+          "SourceString": "Como seria bom poder contar com um Pal nestas horas…\r\nEu faria ele pescar no meu lugar e levaria uma vida mais confortável.",
+          "LocalizedString": "Como seria bom poder contar com um Pal nestas horas…\r\nEu faria ele pescar no meu lugar e levaria uma vida mais confortável."
+        }
+      },
+      "VolcanoVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_3_TextData",
+          "SourceString": "E eu diria |Ei, meu Pal! Pescou alguma coisa hoje?!|",
+          "LocalizedString": "E eu diria |Ei, meu Pal! Pescou alguma coisa hoje?!|"
+        }
+      },
+      "VolcanoVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_Loop_TextData",
+          "SourceString": "Quero deixar minha velha contente, por isso me esforço na pescaria.\r\nSe eu pegar um montão de peixes, compartilho com você também, tá?",
+          "LocalizedString": "Quero deixar minha velha contente, por isso me esforço na pescaria.\r\nSe eu pegar um montão de peixes, compartilho com você também, tá?"
+        }
+      },
+      "VolcanoVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_1_TextData",
+          "SourceString": "Amor! Pescou alguma coisa hoje?!\r\nAh, é uma visita?\r\nDe onde você veio? Não deve ser daqui, com essas roupas tão bonitas.",
+          "LocalizedString": "Amor! Pescou alguma coisa hoje?!\r\nAh, é uma visita?\r\nDe onde você veio? Não deve ser daqui, com essas roupas tão bonitas."
+        }
+      },
+      "VolcanoVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_2_TextData",
+          "SourceString": "Hahaha, já sei, você é como aqueles doma… doma… não sei o quê de Pals!\r\nEntão também vai até o topo do vulcão?\r\nTodo mundo vai lá por causa de uma torre ou coisa assim.",
+          "LocalizedString": "Hahaha, já sei, você é como aqueles doma… doma… não sei o quê de Pals!\r\nEntão também vai até o topo do vulcão?\r\nTodo mundo vai lá por causa de uma torre ou coisa assim."
+        }
+      },
+      "VolcanoVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_3_TextData",
+          "SourceString": "Escalar o vulcão é escolha sua, mas é bom se preparar bem.\r\nO calor lá é de outro mundo, então não se pode subestimar, não.\r\nComa isto para ganhar ânimo!",
+          "LocalizedString": "Escalar o vulcão é escolha sua, mas é bom se preparar bem.\r\nO calor lá é de outro mundo, então não se pode subestimar, não.\r\nComa isto para ganhar ânimo!"
+        }
+      },
+      "VolcanoVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_Loop_TextData",
+          "SourceString": "Se quiser subir até a torre no alto do vulcão, tudo bem, mas o calor lá é absurdo.\r\nQuando sentir que não aguenta mais, dê meia-volta logo para não acabar perdendo as forças!",
+          "LocalizedString": "Se quiser subir até a torre no alto do vulcão, tudo bem, mas o calor lá é absurdo.\r\nQuando sentir que não aguenta mais, dê meia-volta logo para não acabar perdendo as forças!"
+        }
+      },
+      "VolcanoVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_1_TextData",
+          "SourceString": "E-Eu juro! Vi passar uma estrela cadente à noite e,\r\nenquanto pensava como era bonita, ela, ela… Ela fez uma curva!",
+          "LocalizedString": "E-Eu juro! Vi passar uma estrela cadente à noite e,\r\nenquanto pensava como era bonita, ela, ela… Ela fez uma curva!"
+        }
+      },
+      "VolcanoVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_2_TextData",
+          "SourceString": "E que velocidade incrível! Aquilo não podia ser só uma estrela cadente.\r\nEu desejei poder encher a barriga de coisas gostosas, mas acho que não vai se realizar…",
+          "LocalizedString": "E que velocidade incrível! Aquilo não podia ser só uma estrela cadente.\r\nEu desejei poder encher a barriga de coisas gostosas, mas acho que não vai se realizar…"
+        }
+      },
+      "VolcanoVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_3_TextData",
+          "SourceString": "Tenho a leve impressão de que aquela coisa parecia ter asas.\r\nSerá que ela ainda está no vulcão?",
+          "LocalizedString": "Tenho a leve impressão de que aquela coisa parecia ter asas.\r\nSerá que ela ainda está no vulcão?"
+        }
+      },
+      "VolcanoVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_Loop_TextData",
+          "SourceString": "Por que ninguém acredita…?\r\nEu juro que aquela coisa com jeito de estrela cadente foi na direção do vulcão.\r\nSe ela for um Pal… Não, não quero nem pensar.",
+          "LocalizedString": "Por que ninguém acredita…?\r\nEu juro que aquela coisa com jeito de estrela cadente foi na direção do vulcão.\r\nSe ela for um Pal… Não, não quero nem pensar."
+        }
+      },
+      "VolcanoVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_1_TextData",
+          "SourceString": "Que coisa rara, não vemos muitos domadores de Pals em vilas pesqueiras.\r\nQue tal purificar o corpo e a alma no fogo?\r\nPara Amigos da Chama Eterna como nós, o fogo é algo sagrado.",
+          "LocalizedString": "Que coisa rara, não vemos muitos domadores de Pals em vilas pesqueiras.\r\nQue tal purificar o corpo e a alma no fogo?\r\nPara Amigos da Chama Eterna como nós, o fogo é algo sagrado."
+        }
+      },
+      "VolcanoVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_2_TextData",
+          "SourceString": "O fogo tudo queima e tudo converte em cinzas. É cruel, mas é lindo.\r\nTristeza, sofrimento, e até o amor que causa sentimentos assim devem ser jogados para dentro das chamas.\r\nOs ensinamentos dos Amigos da Chama Eterna são muito bons. Hihihi…",
+          "LocalizedString": "O fogo tudo queima e tudo converte em cinzas. É cruel, mas é lindo.\r\nTristeza, sofrimento, e até o amor que causa sentimentos assim devem ser jogados para dentro das chamas.\r\nOs ensinamentos dos Amigos da Chama Eterna são muito bons. Hihihi…"
+        }
+      },
+      "VolcanoVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_3_TextData",
+          "SourceString": "O único problema é que a nova pessoa liderando nossa seita é difícil de entender.\r\nParece que está fazendo alguma coisa com os seguidores lá na torre.\r\nE estão demorando tempo demais para ser só uma sessão de orações…",
+          "LocalizedString": "O único problema é que a nova pessoa liderando nossa seita é difícil de entender.\r\nParece que está fazendo alguma coisa com os seguidores lá na torre.\r\nE estão demorando tempo demais para ser só uma sessão de orações…"
+        }
+      },
+      "VolcanoVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_Loop_TextData",
+          "SourceString": "Como será a pessoa que está liderando a seita agora?\r\nTalvez tenha como descobrir indo até a torre.\r\nA propósito, você não gostaria de entrar para os Amigos da Chama Eterna?",
+          "LocalizedString": "Como será a pessoa que está liderando a seita agora?\r\nTalvez tenha como descobrir indo até a torre.\r\nA propósito, você não gostaria de entrar para os Amigos da Chama Eterna?"
+        }
+      },
+      "VolcanoPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_1_TextData",
+          "SourceString": "Ai, ai, que tédio…\r\nHein? Nunca vi você antes. Não sei quem é, mas pode passar.\r\nSó não invente de causar incômodo.",
+          "LocalizedString": "Ai, ai, que tédio…\r\nHein? Nunca vi você antes. Não sei quem é, mas pode passar.\r\nSó não invente de causar incômodo."
+        }
+      },
+      "VolcanoPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_2_TextData",
+          "SourceString": "Como, você acha que eu não estou fazendo meu trabalho direito?\r\nOra, o que tem para se proteger num fim de mundo como este?",
+          "LocalizedString": "Como, você acha que eu não estou fazendo meu trabalho direito?\r\nOra, o que tem para se proteger num fim de mundo como este?"
+        }
+      },
+      "VolcanoPolice001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_3_TextData",
+          "SourceString": "Só preciso ficar parado em frente ao portão, como manda meu contrato.\r\nQue azar o meu, ser enviado pra uma vila pesqueira assim…",
+          "LocalizedString": "Só preciso ficar parado em frente ao portão, como manda meu contrato.\r\nQue azar o meu, ser enviado pra uma vila pesqueira assim…"
+        }
+      },
+      "VolcanoPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_Loop_TextData",
+          "SourceString": "Ai, ai, outro dia aborrecido…\r\nTá, tá, não se preocupe que eu estou mantendo guarda direitinho.",
+          "LocalizedString": "Ai, ai, outro dia aborrecido…\r\nTá, tá, não se preocupe que eu estou mantendo guarda direitinho."
+        }
+      },
+      "VolcanoPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_1_TextData",
+          "SourceString": "Quem é você? Bem, acho que tanto faz.\r\nNesta vila pesqueira não acontece nada de interessante.\r\nSe quiser pode descansar um pouco aqui.",
+          "LocalizedString": "Quem é você? Bem, acho que tanto faz.\r\nNesta vila pesqueira não acontece nada de interessante.\r\nSe quiser pode descansar um pouco aqui."
+        }
+      },
+      "VolcanoPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_2_TextData",
+          "SourceString": "Este é um lugar bastante fácil de levar a vida, até. Nada mal para quem quer relaxar.\r\nO fato de não ter nada é tanto um ponto forte quanto um ponto fraco… Pois é, é esse tipo de lugar.",
+          "LocalizedString": "Este é um lugar bastante fácil de levar a vida, até. Nada mal para quem quer relaxar.\r\nO fato de não ter nada é tanto um ponto forte quanto um ponto fraco… Pois é, é esse tipo de lugar."
+        }
+      },
+      "VolcanoPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_3_TextData",
+          "SourceString": "Ah, a propósito, achei isto agora há pouco, você não quer?\r\nTem um cheiro parecido com o de munição usada.",
+          "LocalizedString": "Ah, a propósito, achei isto agora há pouco, você não quer?\r\nTem um cheiro parecido com o de munição usada."
+        }
+      },
+      "VolcanoPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_Loop_TextData",
+          "SourceString": "Então aquilo se chama <itemName id=|Sulfur|/>, é?\r\nSe não me engano tinha mais disso lá para os lados do vulcão.\r\nVocê não acha que tem um cheiro parecido com o de munição?",
+          "LocalizedString": "Então aquilo se chama <itemName id=|Sulfur|/>, é?\r\nSe não me engano tinha mais disso lá para os lados do vulcão.\r\nVocê não acha que tem um cheiro parecido com o de munição?"
+        }
+      },
+      "RandomBattle_PalTamer_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_PalTamer_Loop_TextData",
+          "SourceString": "Você ajudou muito! A segurança por aqui anda terrível ultimamente.",
+          "LocalizedString": "Você ajudou muito! A segurança por aqui anda terrível ultimamente."
+        }
+      },
+      "RandomBattle_Police_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_Police_Loop_TextData",
+          "SourceString": "Agradeço pela ajuda. Tenha cuidado com os Caçadores Clandestinos, viu?",
+          "LocalizedString": "Agradeço pela ajuda. Tenha cuidado com os Caçadores Clandestinos, viu?"
+        }
+      },
+      "PvPVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_1_TextData",
+          "SourceString": "Tive tanto trabalho pra fugir daquele deserto medonho\r\ne nesta ilha também encontro um Pal gigantesco daqueles…",
+          "LocalizedString": "Tive tanto trabalho pra fugir daquele deserto medonho\r\ne nesta ilha também encontro um Pal gigantesco daqueles…"
+        }
+      },
+      "PvPVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_2_TextData",
+          "SourceString": "Droga. Se eu tivesse dom pra ser domador… Se ao menos capturasse alguns Pals\r\ne criasse uma base, eu poderia garantir minha sobrevivência!",
+          "LocalizedString": "Droga. Se eu tivesse dom pra ser domador… Se ao menos capturasse alguns Pals\r\ne criasse uma base, eu poderia garantir minha sobrevivência!"
+        }
+      },
+      "PvPVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_3_TextData",
+          "SourceString": "Você também, não vá morrer.\r\nPode ficar com isto e se prepare logo contra os inimigos de fora.\r\nQuando a noite cai, a gente pode acabar sendo devorado.",
+          "LocalizedString": "Você também, não vá morrer.\r\nPode ficar com isto e se prepare logo contra os inimigos de fora.\r\nQuando a noite cai, a gente pode acabar sendo devorado."
+        }
+      },
+      "PvPVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_Loop_TextData",
+          "SourceString": "Tenha cuidado principalmente com Pals gigantes.\r\nSem equipamento pesado, você acaba morrendo bem depressa.",
+          "LocalizedString": "Tenha cuidado principalmente com Pals gigantes.\r\nSem equipamento pesado, você acaba morrendo bem depressa."
+        }
+      },
+      "PvPVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_1_TextData",
+          "SourceString": "Você não é daqui, é?\r\nQuantos andarilhos será que existem como eu…\r\nNão sei por que inventei de vir pra um lixo de lugar como este.",
+          "LocalizedString": "Você não é daqui, é?\r\nQuantos andarilhos será que existem como eu…\r\nNão sei por que inventei de vir pra um lixo de lugar como este."
+        }
+      },
+      "PvPVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_2_TextData",
+          "SourceString": "Você também quis fazer fortuna da noite pro dia capturando Pals, não foi?\r\nQue pena, pois os Pals são criaturas violentas e perigosas.\r\nTodos meus companheiros acabaram indo desta para melhor…",
+          "LocalizedString": "Você também quis fazer fortuna da noite pro dia capturando Pals, não foi?\r\nQue pena, pois os Pals são criaturas violentas e perigosas.\r\nTodos meus companheiros acabaram indo desta para melhor…"
+        }
+      },
+      "PvPVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_3_TextData",
+          "SourceString": "Se encontrar um Pal gigantesco, então, nem chegue perto.\r\nSó tente enfrentar um depois de se preparar bastante.\r\nCapture muitos Pals e faça eles aumentarem até o seu nível.",
+          "LocalizedString": "Se encontrar um Pal gigantesco, então, nem chegue perto.\r\nSó tente enfrentar um depois de se preparar bastante.\r\nCapture muitos Pals e faça eles aumentarem até o seu nível."
+        }
+      },
+      "PvPVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_Loop_TextData",
+          "SourceString": "Cuidado com os Pals gigantescos.\r\nAntes de enfrentar um, primeiro capture o máximo de Pals\r\nque conseguir e acumule bastante experiência.",
+          "LocalizedString": "Cuidado com os Pals gigantescos.\r\nAntes de enfrentar um, primeiro capture o máximo de Pals\r\nque conseguir e acumule bastante experiência."
+        }
+      },
+      "PvPVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_1_TextData",
+          "SourceString": "Ué, que raro alguém passar por aqui.\r\nNão tem nada por estas bandas, viu?\r\nOs Caçadores Clandestinos já roubaram tudo que tinha…",
+          "LocalizedString": "Ué, que raro alguém passar por aqui.\r\nNão tem nada por estas bandas, viu?\r\nOs Caçadores Clandestinos já roubaram tudo que tinha…"
+        }
+      },
+      "PvPVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_2_TextData",
+          "SourceString": "Se você sabe criar esferas de Pal, o melhor a fazer\r\né capturar Pals e usá-los de guarda-costas.\r\nEsta ilha é governada pela lei do mais forte…",
+          "LocalizedString": "Se você sabe criar esferas de Pal, o melhor a fazer\r\né capturar Pals e usá-los de guarda-costas.\r\nEsta ilha é governada pela lei do mais forte…"
+        }
+      },
+      "PvPVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_3_TextData",
+          "SourceString": "Eu já estou cansada… Não me arrependo de nada.\r\nPor isso vou repartir o que tenho.\r\nAfinal já não tem quase nenhuma utilidade para mim…",
+          "LocalizedString": "Eu já estou cansada… Não me arrependo de nada.\r\nPor isso vou repartir o que tenho.\r\nAfinal já não tem quase nenhuma utilidade para mim…"
+        }
+      },
+      "PvPVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_Loop_TextData",
+          "SourceString": "Antigamente eu também era capaz de lutar…\r\nMas aquele Pal enorme lá acabou com o meu joelho.\r\nNesta ilha, quem não consegue lutar… só pode esperar pela morte.",
+          "LocalizedString": "Antigamente eu também era capaz de lutar…\r\nMas aquele Pal enorme lá acabou com o meu joelho.\r\nNesta ilha, quem não consegue lutar… só pode esperar pela morte."
+        }
+      },
+      "PvPVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_1_TextData",
+          "SourceString": "S-Socorro! Eu não quero mais ficar aqui!\r\nFui atacado por um Pal gigantesco e assustador!\r\nEle estava mastigando pessoas como se não fosse nada!",
+          "LocalizedString": "S-Socorro! Eu não quero mais ficar aqui!\r\nFui atacado por um Pal gigantesco e assustador!\r\nEle estava mastigando pessoas como se não fosse nada!"
+        }
+      },
+      "PvPVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_2_TextData",
+          "SourceString": "Temos que capturar um Pal e construir uma base antes que caia a noite!\r\nNa escuridão não temos chance nenhuma!\r\nÉ preciso fazer uma fogueira e se esconder rezando pelo amanhecer!",
+          "LocalizedString": "Temos que capturar um Pal e construir uma base antes que caia a noite!\r\nNa escuridão não temos chance nenhuma!\r\nÉ preciso fazer uma fogueira e se esconder rezando pelo amanhecer!"
+        }
+      },
+      "PvPVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_3_TextData",
+          "SourceString": "Ache alguma serventia para isto!\r\nDê um jeito de sobreviver e fugir desta ilha!",
+          "LocalizedString": "Ache alguma serventia para isto!\r\nDê um jeito de sobreviver e fugir desta ilha!"
+        }
+      },
+      "PvPVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_Loop_TextData",
+          "SourceString": "Se você se deparar com um Pal violento na escuridão, será o seu fim.\r\nCrie uma tocha portátil, construa uma base ou faça o que mais for necessário\r\npara se preparar e passar a noite em segurança…",
+          "LocalizedString": "Se você se deparar com um Pal violento na escuridão, será o seu fim.\r\nCrie uma tocha portátil, construa uma base ou faça o que mais for necessário\r\npara se preparar e passar a noite em segurança…"
+        }
+      },
+      "PvPVillage005_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_1_TextData",
+          "SourceString": "Você é… alguém vagando sem destino? Teve muito azar em vir para cá.\r\nEsta região toda é conhecida como |Ilha de Palpagos|.\r\nUm lugar pavoroso, onde tudo se resolve na base da violência.",
+          "LocalizedString": "Você é… alguém vagando sem destino? Teve muito azar em vir para cá.\r\nEsta região toda é conhecida como |Ilha de Palpagos|.\r\nUm lugar pavoroso, onde tudo se resolve na base da violência."
+        }
+      },
+      "PvPVillage005_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_2_TextData",
+          "SourceString": "Tem muita gente que vem de fora para capturar Pals,\r\nmas a maioria acaba desaparecida.\r\nOs viajantes ou foram devorados por um Pal selvagem, ou mortos pelos Caçadores Clandestinos de Rayne…",
+          "LocalizedString": "Tem muita gente que vem de fora para capturar Pals,\r\nmas a maioria acaba desaparecida.\r\nOs viajantes ou foram devorados por um Pal selvagem, ou mortos pelos Caçadores Clandestinos de Rayne…"
+        }
+      },
+      "PvPVillage005_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_3_TextData",
+          "SourceString": "Se você sabe domar Pals, recomendo capturar muitos deles.\r\nQuanto mais um domador de Pals captura, mais ele fica forte.\r\nTalvez isso melhore um pouco suas chances de sobrevivência.",
+          "LocalizedString": "Se você sabe domar Pals, recomendo capturar muitos deles.\r\nQuanto mais um domador de Pals captura, mais ele fica forte.\r\nTalvez isso melhore um pouco suas chances de sobrevivência."
+        }
+      },
+      "PvPVillage005_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_Loop_TextData",
+          "SourceString": "Quanto mais um domador de Pals captura, mais ele fica forte.\r\nNum ambiente infernal desses,\r\né preciso melhorar suas chances de sobrevivência ainda que um pouco…",
+          "LocalizedString": "Quanto mais um domador de Pals captura, mais ele fica forte.\r\nNum ambiente infernal desses,\r\né preciso melhorar suas chances de sobrevivência ainda que um pouco…"
+        }
+      },
+      "PvPVillage006_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_1_TextData",
+          "SourceString": "Quanto tempo será que faz desde que alguém veio parar aqui?\r\nA última pessoa que veio era um mercenário renomado,\r\nmas acabou logo devorado por um <characterName id=|Garm|/>.",
+          "LocalizedString": "Quanto tempo será que faz desde que alguém veio parar aqui?\r\nA última pessoa que veio era um mercenário renomado,\r\nmas acabou logo devorado por um <characterName id=|Garm|/>."
+        }
+      },
+      "PvPVillage006_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_2_TextData",
+          "SourceString": "Os Pals são criaturas muito mais brutais do que parecem.\r\nSe você vir um Pal selvagem carnívoro, então, fuja na mesma hora.\r\nE nem pense em olhar para trás.",
+          "LocalizedString": "Os Pals são criaturas muito mais brutais do que parecem.\r\nSe você vir um Pal selvagem carnívoro, então, fuja na mesma hora.\r\nE nem pense em olhar para trás."
+        }
+      },
+      "PvPVillage006_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_3_TextData",
+          "SourceString": "Fique com isto. Vou rezar pela sua sobrevivência\r\nneste ambiente implacável.",
+          "LocalizedString": "Fique com isto. Vou rezar pela sua sobrevivência\r\nneste ambiente implacável."
+        }
+      },
+      "PvPVillage006_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_Loop_TextData",
+          "SourceString": "Como estamos perto da montanha nevada, esta região é um tanto fria.\r\nÉ melhor você também criar logo uma fogueira ou uma cabana\r\ne se preparar para poder passar a noite numa cama.",
+          "LocalizedString": "Como estamos perto da montanha nevada, esta região é um tanto fria.\r\nÉ melhor você também criar logo uma fogueira ou uma cabana\r\ne se preparar para poder passar a noite numa cama."
+        }
+      }
+    }
+  }
+]

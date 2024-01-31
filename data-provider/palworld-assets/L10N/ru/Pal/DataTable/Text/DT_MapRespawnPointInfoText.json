@@ -1,0 +1,639 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapRespawnPointInfoText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "SpawnPoint_1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_TextData",
+          "SourceString": "Вершина невысокого холма.\r\nОтсюда открывается хороший обзор, вокруг много ресурсов.\r\nРекомендуется для новичков.",
+          "LocalizedString": "Вершина невысокого холма.\r\nОтсюда открывается хороший обзор, вокруг много ресурсов.\r\nРекомендуется для новичков."
+        }
+      },
+      "SpawnPoint_1_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_Title_TextData",
+          "SourceString": "Холмы ветров - Плоскогорье начал",
+          "LocalizedString": "Холмы ветров - Плоскогорье начал"
+        }
+      },
+      "SpawnPoint_2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_TextData",
+          "SourceString": "Песчаное побережье. В округе много водных Палов.\r\nДеревья редки, но местность заселена Палами.",
+          "LocalizedString": "Песчаное побережье. В округе много водных Палов.\r\nДеревья редки, но местность заселена Палами."
+        }
+      },
+      "SpawnPoint_2_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_Title_TextData",
+          "SourceString": "Холмы ветров - Берег летучей рыбы",
+          "LocalizedString": "Холмы ветров - Берег летучей рыбы"
+        }
+      },
+      "SpawnPoint_3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_TextData",
+          "SourceString": "Продуваемый морскими ветрами остров.\r\nБлизость вулкана обеспечивает комфортный для жизни теплый климат.\r\nОтсюда легко попасть в центр большой земли, и вы точно не заскучаете.",
+          "LocalizedString": "Продуваемый морскими ветрами остров.\r\nБлизость вулкана обеспечивает комфортный для жизни теплый климат.\r\nОтсюда легко попасть в центр большой земли, и вы точно не заскучаете."
+        }
+      },
+      "SpawnPoint_3_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_Title_TextData",
+          "SourceString": "Архипелаг морских ветров - Риф",
+          "LocalizedString": "Архипелаг морских ветров - Риф"
+        }
+      },
+      "SpawnPoint_4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_TextData",
+          "SourceString": "Морской берег, окруженный рифами.\r\nКоличество ресурсов и Палов среднее.\r\nМестность немного скалистая, но можно найти просторный участок.",
+          "LocalizedString": "Морской берег, окруженный рифами.\r\nКоличество ресурсов и Палов среднее.\r\nМестность немного скалистая, но можно найти просторный участок."
+        }
+      },
+      "SpawnPoint_4_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_Title_TextData",
+          "SourceString": "Архипелаг морских ветров - Берег принесенных морем",
+          "LocalizedString": "Архипелаг морских ветров - Берег принесенных морем"
+        }
+      },
+      "SpawnPoint_5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_TextData",
+          "SourceString": "Безлюдный остров, лежащий далеко от основной земли.\r\nРасполагается в северной стороне, поэтому здесь холоднее.\r\nРесурсов и Палов мало, условия жизни трудные.",
+          "LocalizedString": "Безлюдный остров, лежащий далеко от основной земли.\r\nРасполагается в северной стороне, поэтому здесь холоднее.\r\nРесурсов и Палов мало, условия жизни трудные."
+        }
+      },
+      "SpawnPoint_5_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_Title_TextData",
+          "SourceString": "Забытый остров",
+          "LocalizedString": "Забытый остров"
+        }
+      },
+      "SpawnPoint_6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_TextData",
+          "SourceString": "Здесь бушует дующий со Снежной горы холодный ветер.\r\nПо ночам резко холодает,\r\nи даже коренные жители не жаждут тут оставаться.",
+          "LocalizedString": "Здесь бушует дующий со Снежной горы холодный ветер.\r\nПо ночам резко холодает,\r\nи даже коренные жители не жаждут тут оставаться."
+        }
+      },
+      "SpawnPoint_6_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_Title_TextData",
+          "SourceString": "Остров холодных ветров",
+          "LocalizedString": "Остров холодных ветров"
+        }
+      },
+      "SpawnPoint_7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_TextData",
+          "SourceString": "Дикий остров, лежащий на востоке.\r\nНаходится на периферии, и никто не стремится его осваивать.\r\nНеопытным путешественникам жить здесь будет трудновато.",
+          "LocalizedString": "Дикий остров, лежащий на востоке.\r\nНаходится на периферии, и никто не стремится его осваивать.\r\nНеопытным путешественникам жить здесь будет трудновато."
+        }
+      },
+      "SpawnPoint_7_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_Title_TextData",
+          "SourceString": "Дикий остров на востоке",
+          "LocalizedString": "Дикий остров на востоке"
+        }
+      },
+      "SpawnPoint_8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_TextData",
+          "SourceString": "Территорию острова занимают болотистые равнины.\r\nУмеренная влажность способствует обильному росту ягод.\r\nТакже имеет удобный доступ к центру основной земли.",
+          "LocalizedString": "Территорию острова занимают болотистые равнины.\r\nУмеренная влажность способствует обильному росту ягод.\r\nТакже имеет удобный доступ к центру основной земли."
+        }
+      },
+      "SpawnPoint_8_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_Title_TextData",
+          "SourceString": "Остров болотистых равнин",
+          "LocalizedString": "Остров болотистых равнин"
+        }
+      },
+      "FTPoint1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint1_TextData",
+          "SourceString": "Обсидиановый вулкан - Склон",
+          "LocalizedString": "Обсидиановый вулкан - Склон"
+        }
+      },
+      "FTPoint2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint2_TextData",
+          "SourceString": "Башня товарищей Эйрена",
+          "LocalizedString": "Башня товарищей Эйрена"
+        }
+      },
+      "FTPoint3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint3_TextData",
+          "SourceString": "Башня Братства Вечного пламени - Вход",
+          "LocalizedString": "Башня Братства Вечного пламени - Вход"
+        }
+      },
+      "FTPoint4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint4_TextData",
+          "SourceString": "Руины древней цивилизации",
+          "LocalizedString": "Руины древней цивилизации"
+        }
+      },
+      "FTPoint5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint5_TextData",
+          "SourceString": "Отдаленная рыбацкая деревня",
+          "LocalizedString": "Отдаленная рыбацкая деревня"
+        }
+      },
+      "FTPoint6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint6_TextData",
+          "SourceString": "Статуя Анубиса на Обсидиановом вулкане",
+          "LocalizedString": "Статуя Анубиса на Обсидиановом вулкане"
+        }
+      },
+      "FTPoint7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint7_TextData",
+          "SourceString": "Берег вечного лета",
+          "LocalizedString": "Берег вечного лета"
+        }
+      },
+      "FTPoint8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint8_TextData",
+          "SourceString": "Разрушенный город-крепость",
+          "LocalizedString": "Разрушенный город-крепость"
+        }
+      },
+      "FTPoint9": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint9_TextData",
+          "SourceString": "Башня вигилантов - Вход",
+          "LocalizedString": "Башня вигилантов - Вход"
+        }
+      },
+      "FTPoint10": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint10_TextData",
+          "SourceString": "Бдиная башня",
+          "LocalizedString": "Бдиная башня"
+        }
+      },
+      "FTPoint11": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint11_TextData",
+          "SourceString": "Вход в дюны",
+          "LocalizedString": "Вход в дюны"
+        }
+      },
+      "FTPoint12": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint12_TextData",
+          "SourceString": "Город в пустыне",
+          "LocalizedString": "Город в пустыне"
+        }
+      },
+      "FTPoint13": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint13_TextData",
+          "SourceString": "Море дюн",
+          "LocalizedString": "Море дюн"
+        }
+      },
+      "FTPoint14": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint14_TextData",
+          "SourceString": "Берег холодной воды",
+          "LocalizedString": "Берег холодной воды"
+        }
+      },
+      "FTPoint15": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint15_TextData",
+          "SourceString": "Непроходимая горная дорога",
+          "LocalizedString": "Непроходимая горная дорога"
+        }
+      },
+      "FTPoint16": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint16_TextData",
+          "SourceString": "Холм ледяной ласки",
+          "LocalizedString": "Холм ледяной ласки"
+        }
+      },
+      "FTPoint17": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint17_TextData",
+          "SourceString": "Нетающее озеро",
+          "LocalizedString": "Нетающее озеро"
+        }
+      },
+      "FTPoint18": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint18_TextData",
+          "SourceString": "Земля вечной мерзлоты",
+          "LocalizedString": "Земля вечной мерзлоты"
+        }
+      },
+      "FTPoint19": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint19_TextData",
+          "SourceString": "Башня генетических исследований",
+          "LocalizedString": "Башня генетических исследований"
+        }
+      },
+      "FTPoint20": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint20_TextData",
+          "SourceString": "Башня отряда генетических исследований - Вход",
+          "LocalizedString": "Башня отряда генетических исследований - Вход"
+        }
+      },
+      "FTPoint21": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint21_TextData",
+          "SourceString": "Холм исполинского зеленого зверя",
+          "LocalizedString": "Холм исполинского зеленого зверя"
+        }
+      },
+      "FTPoint22": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint22_TextData",
+          "SourceString": "Ветхая церковь",
+          "LocalizedString": "Ветхая церковь"
+        }
+      },
+      "FTPoint23": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint23_TextData",
+          "SourceString": "Плоскогорье начал",
+          "LocalizedString": "Плоскогорье начал"
+        }
+      },
+      "FTPoint24": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint24_TextData",
+          "SourceString": "Небольшое поселение",
+          "LocalizedString": "Небольшое поселение"
+        }
+      },
+      "FTPoint25": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint25_TextData",
+          "SourceString": "Водопад отшельника",
+          "LocalizedString": "Водопад отшельника"
+        }
+      },
+      "FTPoint26": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint26_TextData",
+          "SourceString": "Подножье вулкана",
+          "LocalizedString": "Подножье вулкана"
+        }
+      },
+      "FTPoint27": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint27_TextData",
+          "SourceString": "Обитель ледяной птицы",
+          "LocalizedString": "Обитель ледяной птицы"
+        }
+      },
+      "FTPoint28": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint28_TextData",
+          "SourceString": "Руины бастиона",
+          "LocalizedString": "Руины бастиона"
+        }
+      },
+      "FTPoint29": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint29_TextData",
+          "SourceString": "Обитель громового дракона",
+          "LocalizedString": "Обитель громового дракона"
+        }
+      },
+      "FTPoint30": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint30_TextData",
+          "SourceString": "Развилка изыскателей",
+          "LocalizedString": "Развилка изыскателей"
+        }
+      },
+      "FTPoint31": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint31_TextData",
+          "SourceString": "Старое святилище",
+          "LocalizedString": "Старое святилище"
+        }
+      },
+      "FTPoint32": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint32_TextData",
+          "SourceString": "Гора цветочного зайца - Вершина",
+          "LocalizedString": "Гора цветочного зайца - Вершина"
+        }
+      },
+      "FTPoint33": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint33_TextData",
+          "SourceString": "Центр озера",
+          "LocalizedString": "Центр озера"
+        }
+      },
+      "FTPoint34": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint34_TextData",
+          "SourceString": "Холм лицемеров",
+          "LocalizedString": "Холм лицемеров"
+        }
+      },
+      "FTPoint35": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint35_TextData",
+          "SourceString": "Обитель хранителя",
+          "LocalizedString": "Обитель хранителя"
+        }
+      },
+      "FTPoint36": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint36_TextData",
+          "SourceString": "Поворот на Снежную гору",
+          "LocalizedString": "Поворот на Снежную гору"
+        }
+      },
+      "FTPoint37": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint37_TextData",
+          "SourceString": "Башня Организации по защите Палов - Вход",
+          "LocalizedString": "Башня Организации по защите Палов - Вход"
+        }
+      },
+      "FTPoint38": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint38_TextData",
+          "SourceString": "Обитель молниеносной скорости",
+          "LocalizedString": "Обитель молниеносной скорости"
+        }
+      },
+      "FTPoint39": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint39_TextData",
+          "SourceString": "Лес кустарниковых панд",
+          "LocalizedString": "Лес кустарниковых панд"
+        }
+      },
+      "FTPoint40": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint40_TextData",
+          "SourceString": "Владения маленьких акул",
+          "LocalizedString": "Владения маленьких акул"
+        }
+      },
+      "FTPoint41": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint41_TextData",
+          "SourceString": "Лес разноцветных бабочек",
+          "LocalizedString": "Лес разноцветных бабочек"
+        }
+      },
+      "FTPoint42": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint42_TextData",
+          "SourceString": "Обитель мастера меча",
+          "LocalizedString": "Обитель мастера меча"
+        }
+      },
+      "FTPoint43": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint43_TextData",
+          "SourceString": "Дебри бамбукового леса",
+          "LocalizedString": "Дебри бамбукового леса"
+        }
+      },
+      "FTPoint44": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint44_TextData",
+          "SourceString": "Обитель крылатого дракона",
+          "LocalizedString": "Обитель крылатого дракона"
+        }
+      },
+      "FTPoint45": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint45_TextData",
+          "SourceString": "Башня отряда браконьеров Рейн - Вход",
+          "LocalizedString": "Башня отряда браконьеров Рейн - Вход"
+        }
+      },
+      "FTPoint46": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint46_TextData",
+          "SourceString": "Башня из -за дождя",
+          "LocalizedString": "Башня из -за дождя"
+        }
+      },
+      "FTPoint47": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint47_TextData",
+          "SourceString": "PAL защитная башня",
+          "LocalizedString": "PAL защитная башня"
+        }
+      },
+      "FTPoint48": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint48_TextData",
+          "SourceString": "Обитель снежной белизны",
+          "LocalizedString": "Обитель снежной белизны"
+        }
+      },
+      "FTPoint49": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint49_TextData",
+          "SourceString": "Забытый остров",
+          "LocalizedString": "Забытый остров"
+        }
+      },
+      "FTPoint50": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint50_TextData",
+          "SourceString": "Остров холодных ветров",
+          "LocalizedString": "Остров холодных ветров"
+        }
+      },
+      "FTPoint51": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint51_TextData",
+          "SourceString": "Побережье синих дракончиков",
+          "LocalizedString": "Побережье синих дракончиков"
+        }
+      },
+      "FTPoint52": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint52_TextData",
+          "SourceString": "Архипелаг морских ветров - Берег принесенных морем",
+          "LocalizedString": "Архипелаг морских ветров - Берег принесенных морем"
+        }
+      },
+      "FTPoint53": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint53_TextData",
+          "SourceString": "Церковь на архипелаге морских ветров",
+          "LocalizedString": "Церковь на архипелаге морских ветров"
+        }
+      },
+      "FTPoint54": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint54_TextData",
+          "SourceString": "Небольшая бухта",
+          "LocalizedString": "Небольшая бухта"
+        }
+      },
+      "FTPoint55": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint55_TextData",
+          "SourceString": "Берег переправ",
+          "LocalizedString": "Берег переправ"
+        }
+      },
+      "FTPoint56": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint56_TextData",
+          "SourceString": "Остров болотистых равнин",
+          "LocalizedString": "Остров болотистых равнин"
+        }
+      },
+      "FTPoint57": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint57_TextData",
+          "SourceString": "Дикий остров на востоке",
+          "LocalizedString": "Дикий остров на востоке"
+        }
+      },
+      "FTPoint58": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint58_TextData",
+          "SourceString": "Природный виадук",
+          "LocalizedString": "Природный виадук"
+        }
+      },
+      "FTPoint59": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint59_TextData",
+          "SourceString": "Руины церкви на Забытом острове",
+          "LocalizedString": "Руины церкви на Забытом острове"
+        }
+      },
+      "FTPoint60": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint60_TextData",
+          "SourceString": "Руины церкви на острове болотистых равнин",
+          "LocalizedString": "Руины церкви на острове болотистых равнин"
+        }
+      },
+      "FTPoint61": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint61_TextData",
+          "SourceString": "Мост двух рыцарей",
+          "LocalizedString": "Мост двух рыцарей"
+        }
+      },
+      "FTPoint62": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint62_TextData",
+          "SourceString": "Вход в ущелье",
+          "LocalizedString": "Вход в ущелье"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,1407 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SkillDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "ACTION_SKILL_Human_Punch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Human_Punch_TextData",
+          "SourceString": "相信自己的拳头，出拳攻击。",
+          "LocalizedString": "相信自己的拳头，出拳攻击。"
+        }
+      },
+      "ACTION_SKILL_Throw": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Throw_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_Scratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Scratch_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_EnergyShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_EnergyShot_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_HyperBeam": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_HyperBeam_TextData",
+          "SourceString": "积蓄破坏性的能量，\r\n朝前方大范围射出威力惊人的光束。",
+          "LocalizedString": "积蓄破坏性的能量，\r\n朝前方大范围射出威力惊人的光束。"
+        }
+      },
+      "ACTION_SKILL_PowerShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PowerShot_TextData",
+          "SourceString": "积蓄能量，\r\n并将其化作子弹射出。",
+          "LocalizedString": "积蓄能量，\r\n并将其化作子弹射出。"
+        }
+      },
+      "ACTION_SKILL_PowerBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PowerBall_TextData",
+          "SourceString": "积蓄大量能量，\r\n并将其化作巨大球体射出。",
+          "LocalizedString": "积蓄大量能量，\r\n并将其化作巨大球体射出。"
+        }
+      },
+      "ACTION_SKILL_AirCanon": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_AirCanon_TextData",
+          "SourceString": "以急速射出空气团块。",
+          "LocalizedString": "以急速射出空气团块。"
+        }
+      },
+      "ACTION_SKILL_StardustArrow": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_StardustArrow_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_Intimidate": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Intimidate_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_Unique_Anubis_LowRoundKick": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Anubis_LowRoundKick_TextData",
+          "SourceString": "<characterName id=|Anubis|/>的专用技能。\r\n用强健的腿脚回旋飞踢，大范围横扫周围的敌人。",
+          "LocalizedString": "<characterName id=|Anubis|/>的专用技能。\r\n用强健的腿脚回旋飞踢，大范围横扫周围的敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_Anubis_GroundPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Anubis_GroundPunch_TextData",
+          "SourceString": "<characterName id=|Anubis|/>的专属技能。\r\n高高跃起后，对地面使出猛力一击。\r\n产生的衝击波将对大范围的目标造成伤害。",
+          "LocalizedString": "<characterName id=|Anubis|/>的专属技能。\r\n高高跃起后，对地面使出猛力一击。\r\n产生的衝击波将对大范围的目标造成伤害。"
+        }
+      },
+      "ACTION_SKILL_Unique_Anubis_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Anubis_Tackle_TextData",
+          "SourceString": "<characterName id=|Anubis|/>的专用技能。\r\n快速移动追击敌人，\r\n释放能量同时不断挥出强劲利拳。",
+          "LocalizedString": "<characterName id=|Anubis|/>的专用技能。\r\n快速移动追击敌人，\r\n释放能量同时不断挥出强劲利拳。"
+        }
+      },
+      "ACTION_SKILL_Unique_Deer_PushupHorn": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Deer_PushupHorn_TextData",
+          "SourceString": "紫霞鹿的专用技能。\r\n面向敌人冲刺，扬起尖角攻击敌人。\r\n如在骑乘时发动，可操控前进方向。",
+          "LocalizedString": "紫霞鹿的专用技能。\r\n面向敌人冲刺，扬起尖角攻击敌人。\r\n如在骑乘时发动，可操控前进方向。"
+        }
+      },
+      "ACTION_SKILL_Unique_Garm_Bite": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Garm_Bite_TextData",
+          "SourceString": "<characterName id=|Garm|/>的专用技能。\r\n快速地向敌人飞扑，咬住敌人进行攻击。",
+          "LocalizedString": "<characterName id=|Garm|/>的专用技能。\r\n快速地向敌人飞扑，咬住敌人进行攻击。"
+        }
+      },
+      "ACTION_SKILL_Unique_Boar_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Boar_Tackle_TextData",
+          "SourceString": "<characterName id=|Boar|/>的专用技能。\r\n瞄准敌人后，猛烈地冲向敌人。",
+          "LocalizedString": "<characterName id=|Boar|/>的专用技能。\r\n瞄准敌人后，猛烈地冲向敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_PinkCat_CatPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_PinkCat_CatPunch_TextData",
+          "SourceString": "<characterName id=|PinkCat|/>的专用技能。\r\n挥舞双臂追击敌人，\r\n连续挥出利拳。",
+          "LocalizedString": "<characterName id=|PinkCat|/>的专用技能。\r\n挥舞双臂追击敌人，\r\n连续挥出利拳。"
+        }
+      },
+      "ACTION_SKILL_Unique_FlowerDinosaur_Whip": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FlowerDinosaur_Whip_TextData",
+          "SourceString": "花冠龙的专用技能。\r\n使用巨大的尾巴拍打前方地面，\r\n造成大范围冲击。",
+          "LocalizedString": "花冠龙的专用技能。\r\n使用巨大的尾巴拍打前方地面，\r\n造成大范围冲击。"
+        }
+      },
+      "ACTION_SKILL_Unique_SheepBall_Roll": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SheepBall_Roll_TextData",
+          "SourceString": "<characterName id=|SheepBall|/>的专用技能。\r\n咕噜咕噜地滚动并追击敌人。\r\n攻击后会因晕眩而无法动弹。",
+          "LocalizedString": "<characterName id=|SheepBall|/>的专用技能。\r\n咕噜咕噜地滚动并追击敌人。\r\n攻击后会因晕眩而无法动弹。"
+        }
+      },
+      "ACTION_SKILL_Unique_ChickenPal_ChickenPeck": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ChickenPal_ChickenPeck_TextData",
+          "SourceString": "<characterName id=|ChickenPal|/>的专用技能。\r\n瞄准并飞扑向敌人后，用尖喙突袭敌人。",
+          "LocalizedString": "<characterName id=|ChickenPal|/>的专用技能。\r\n瞄准并飞扑向敌人后，用尖喙突袭敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_Horus_FlareBird": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Horus_FlareBird_TextData",
+          "SourceString": "<characterName id=|Horus|/>的专用技能。\r\n扇起炙热的龙卷风后，\r\n身体被狱火包围，一边滑翔一边突袭敌人。",
+          "LocalizedString": "<characterName id=|Horus|/>的专用技能。\r\n扇起炙热的龙卷风后，\r\n身体被狱火包围，一边滑翔一边突袭敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_ElecPanda_ElecScratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ElecPanda_ElecScratch_TextData",
+          "SourceString": "<characterName id=|ElecPanda|/>的专用技能。\r\n飞扑向敌人，并用带电流的爪子将其劈开。\r\n飞扑2次后，面向地面伸出爪子，\r\n大范围扩散电流。",
+          "LocalizedString": "<characterName id=|ElecPanda|/>的专用技能。\r\n飞扑向敌人，并用带电流的爪子将其劈开。\r\n飞扑2次后，面向地面伸出爪子，\r\n大范围扩散电流。"
+        }
+      },
+      "ACTION_SKILL_Unique_FairyDragon_FairyTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FairyDragon_FairyTornado_TextData",
+          "SourceString": "精灵龙的专用技能。\r\n发射2股蕴含不可思议能力的龙卷风，\r\n追击敌人。",
+          "LocalizedString": "精灵龙的专用技能。\r\n发射2股蕴含不可思议能力的龙卷风，\r\n追击敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_Gorilla_GroundPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Gorilla_GroundPunch_TextData",
+          "SourceString": "<characterName id=|Gorilla|/>的专用技能。\r\n猛击地面两次后高高跳起，\r\n再赏给对方强力的一拳。",
+          "LocalizedString": "<characterName id=|Gorilla|/>的专用技能。\r\n猛击地面两次后高高跳起，\r\n再赏给对方强力的一拳。"
+        }
+      },
+      "ACTION_SKILL_Unique_Grassmammoth_Earthquake": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Grassmammoth_Earthquake_TextData",
+          "SourceString": "森猛犸的专用技能。\r\n以巨大的身躯撼动大地，\r\n对四周大范围的目标造成伤害。",
+          "LocalizedString": "森猛犸的专用技能。\r\n以巨大的身躯撼动大地，\r\n对四周大范围的目标造成伤害。"
+        }
+      },
+      "ACTION_SKILL_Unique_GrassPanda_MusclePunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GrassPanda_MusclePunch_TextData",
+          "SourceString": "<characterName id=|GrassPanda|/>的专用技能。\r\n不停转动右臂，向前方猛力出拳攻击。",
+          "LocalizedString": "<characterName id=|GrassPanda|/>的专用技能。\r\n不停转动右臂，向前方猛力出拳攻击。"
+        }
+      },
+      "ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch_TextData",
+          "SourceString": "<characterName id=|GrassPanda_Electric|/>的专用技能。\r\n不停转动右臂，向前方挥出带电拳击。",
+          "LocalizedString": "<characterName id=|GrassPanda_Electric|/>的专用技能。\r\n不停转动右臂，向前方挥出带电拳击。"
+        }
+      },
+      "ACTION_SKILL_Unique_Alpaca_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Alpaca_Tackle_TextData",
+          "SourceString": "<characterName id=|Alpaca|/>的专用技能。\r\n散发出可爱的气场并朝向前方冲刺。",
+          "LocalizedString": "<characterName id=|Alpaca|/>的专用技能。\r\n散发出可爱的气场并朝向前方冲刺。"
+        }
+      },
+      "ACTION_SKILL_Unique_AmaterasuWolf_FireCharge": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_AmaterasuWolf_FireCharge_TextData",
+          "SourceString": "<characterName id=|AmaterasuWolf|/>的专用技能。\r\n带着缠绕全身的青蓝火焰，气势汹汹地向前猛冲。",
+          "LocalizedString": "<characterName id=|AmaterasuWolf|/>的专用技能。\r\n带着缠绕全身的青蓝火焰，气势汹汹地向前猛冲。"
+        }
+      },
+      "ACTION_SKILL_Unique_Baphomet_SwallowKite": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Baphomet_SwallowKite_TextData",
+          "SourceString": "炎魔羊的专用技能。\r\n在接近对象的同时，以左手爪子向上挥击后跳起，\r\n再用右手爪子多次迅速向下挥砍。",
+          "LocalizedString": "炎魔羊的专用技能。\r\n在接近对象的同时，以左手爪子向上挥击后跳起，\r\n再用右手爪子多次迅速向下挥砍。"
+        }
+      },
+      "ACTION_SKILL_Unique_BirdDragon_FireBreath": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BirdDragon_FireBreath_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes_TextData",
+          "SourceString": "<characterName id=|BlackCentaur|/>的专用技能。\r\n左右交替刺出双臂挟着旋风的长矛，\r\n并朝前方冲刺。",
+          "LocalizedString": "<characterName id=|BlackCentaur|/>的专用技能。\r\n左右交替刺出双臂挟着旋风的长矛，\r\n并朝前方冲刺。"
+        }
+      },
+      "ACTION_SKILL_Unique_BlackFurDragon_RotationalSlash": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackFurDragon_RotationalSlash_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_BlackGriffon_TackleLaser": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackGriffon_TackleLaser_TextData",
+          "SourceString": "<characterName id=|BlackGriffon|/>的专用技能。\r\n在向前猛冲的同时制造出光球。\r\n光球会自动捕捉敌人，并射出大量激光。",
+          "LocalizedString": "<characterName id=|BlackGriffon|/>的专用技能。\r\n在向前猛冲的同时制造出光球。\r\n光球会自动捕捉敌人，并射出大量激光。"
+        }
+      },
+      "ACTION_SKILL_Unique_BlackMetalDragon_FirePunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackMetalDragon_FirePunch_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_DarkCrow_TelePoke": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DarkCrow_TelePoke_TextData",
+          "SourceString": "<characterName id=|DarkCrow|/>的专用技能。\r\n瞬间移动至敌人身旁，\r\n再以鸟喙发动攻击。",
+          "LocalizedString": "<characterName id=|DarkCrow|/>的专用技能。\r\n瞬间移动至敌人身旁，\r\n再以鸟喙发动攻击。"
+        }
+      },
+      "ACTION_SKILL_Unique_DarkMutant_DarkTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DarkMutant_DarkTackle_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_DarkScorpion_Pierce": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DarkScorpion_Pierce_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_DrillGame_ShellAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DrillGame_ShellAttack_TextData",
+          "SourceString": "<characterName id=|DrillGame|/>的专用技能。\r\n以全身高速旋转的方式移动，\r\n并以钻头刨削敌人，持续造成对方伤害。",
+          "LocalizedString": "<characterName id=|DrillGame|/>的专用技能。\r\n以全身高速旋转的方式移动，\r\n并以钻头刨削敌人，持续造成对方伤害。"
+        }
+      },
+      "ACTION_SKILL_Unique_Eagle_GlidingNail": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Eagle_GlidingNail_TextData",
+          "SourceString": "<characterName id=|Eagle|/>的专用技能。\r\n向前伸出脚爪，\r\n以滑翔的姿态猛力冲向目标。",
+          "LocalizedString": "<characterName id=|Eagle|/>的专用技能。\r\n向前伸出脚爪，\r\n以滑翔的姿态猛力冲向目标。"
+        }
+      },
+      "ACTION_SKILL_Unique_FengyunDeeper_CloudTempest": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FengyunDeeper_CloudTempest_TextData",
+          "SourceString": "<characterName id=|FengyunDeeper|/>的专用技能。\r\n操控大气，借助风压向前猛冲。",
+          "LocalizedString": "<characterName id=|FengyunDeeper|/>的专用技能。\r\n操控大气，借助风压向前猛冲。"
+        }
+      },
+      "ACTION_SKILL_Unique_FireKirin_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FireKirin_Tackle_TextData",
+          "SourceString": "<characterName id=|FireKirin|/>的专用技能。\r\n带着缠绕全身的火焰向前猛冲。\r\n途经之处均会留下滚滚火焰。",
+          "LocalizedString": "<characterName id=|FireKirin|/>的专用技能。\r\n带着缠绕全身的火焰向前猛冲。\r\n途经之处均会留下滚滚火焰。"
+        }
+      },
+      "ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin_TextData",
+          "SourceString": "<characterName id=|FireKirin_Dark|/>的专用技能。\r\n带着缠绕全身的暗黑火焰向前猛冲。\r\n途经之处均会留下滚滚火焰。",
+          "LocalizedString": "<characterName id=|FireKirin_Dark|/>的专用技能。\r\n带着缠绕全身的暗黑火焰向前猛冲。\r\n途经之处均会留下滚滚火焰。"
+        }
+      },
+      "ACTION_SKILL_Unique_FlameBuffalo_FlameHorn": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FlameBuffalo_FlameHorn_TextData",
+          "SourceString": "<characterName id=|FlameBuffalo|/>的专用技能。\r\n锁定敌人后，\r\n以凶猛气势顶着锐利牛角冲向对方。",
+          "LocalizedString": "<characterName id=|FlameBuffalo|/>的专用技能。\r\n锁定敌人后，\r\n以凶猛气势顶着锐利牛角冲向对方。"
+        }
+      },
+      "ACTION_SKILL_Unique_GhostBeast_Tossin": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GhostBeast_Tossin_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_HawkBird_Storm": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_HawkBird_Storm_TextData",
+          "SourceString": "<characterName id=|HawkBird|/>的专用技能。\r\n在前方制造出龙卷风后，\r\n以滑翔的姿态冲向敌人。",
+          "LocalizedString": "<characterName id=|HawkBird|/>的专用技能。\r\n在前方制造出龙卷风后，\r\n以滑翔的姿态冲向敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle_TextData",
+          "SourceString": "<characterName id=|HerculesBeetle|/>的专用技能。\r\n以四支粗壮的角串起敌人。",
+          "LocalizedString": "<characterName id=|HerculesBeetle|/>的专用技能。\r\n以四支粗壮的角串起敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_IceDeer_IceHorn": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_IceDeer_IceHorn_TextData",
+          "SourceString": "<characterName id=|IceDeer|/>的专用技能。\r\n以雄伟的冰角刺穿敌人。",
+          "LocalizedString": "<characterName id=|IceDeer|/>的专用技能。\r\n以雄伟的冰角刺穿敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_IceHorse_IceBladeAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_IceHorse_IceBladeAttack_TextData",
+          "SourceString": "唤冬兽的专用技能。\r\n凝结冷空气，让翅膀覆上冰晶，\r\n并在全力奔跑的同时以冰翼撕裂敌人。",
+          "LocalizedString": "唤冬兽的专用技能。\r\n凝结冷空气，让翅膀覆上冰晶，\r\n并在全力奔跑的同时以冰翼撕裂敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_JetDragon_JumpBeam": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_JetDragon_JumpBeam_TextData",
+          "SourceString": "<characterName id=|JetDragon|/>的专用技能。\r\n展开发光的翅膀，\r\n并发射大量光束朝敌人飞去。\r\n光束命中目标便会引发爆炸。",
+          "LocalizedString": "<characterName id=|JetDragon|/>的专用技能。\r\n展开发光的翅膀，\r\n并发射大量光束朝敌人飞去。\r\n光束命中目标便会引发爆炸。"
+        }
+      },
+      "ACTION_SKILL_Unique_KingAlpaca_BodyPress": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_KingAlpaca_BodyPress_TextData",
+          "SourceString": "君王美露帕的专用技能。\r\n向上高高跳起后，\r\n用丰满的庞大身躯辗压敌人。",
+          "LocalizedString": "君王美露帕的专用技能。\r\n向上高高跳起后，\r\n用丰满的庞大身躯辗压敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_KingBahamut_AirCrash": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_KingBahamut_AirCrash_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_Kirin_LightningTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Kirin_LightningTackle_TextData",
+          "SourceString": "<characterName id=|Kirin|/>的专用技能。\r\n在自己的周围制造出落雷后，\r\n猛力冲向敌人。",
+          "LocalizedString": "<characterName id=|Kirin|/>的专用技能。\r\n在自己的周围制造出落雷后，\r\n猛力冲向敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_Manticore_InfernoStrike": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Manticore_InfernoStrike_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_NaughtyCat_CatPress": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_NaughtyCat_CatPress_TextData",
+          "SourceString": "<characterName id=|NaughtyCat|/>的专用技能。\r\n带着无所畏惧的笑容跳起，\r\n再用全身的力量辗压敌人。",
+          "LocalizedString": "<characterName id=|NaughtyCat|/>的专用技能。\r\n带着无所畏惧的笑容跳起，\r\n再用全身的力量辗压敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_QueenBee_SpinLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_QueenBee_SpinLance_TextData",
+          "SourceString": "<characterName id=|QueenBee|/>的专用技能。\r\n以法杖聚集力量后，再旋转法杖来释放能量。",
+          "LocalizedString": "<characterName id=|QueenBee|/>的专用技能。\r\n以法杖聚集力量后，再旋转法杖来释放能量。"
+        }
+      },
+      "ACTION_SKILL_Unique_RedArmorBird_RotarySkipping": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_RedArmorBird_RotarySkipping_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_RobinHood_BowSnipe": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_RobinHood_BowSnipe_TextData",
+          "SourceString": "羽箭射手的专用技能。\r\n拉满弓弦瞄准敌人，\r\n对敌人射出箭矢。",
+          "LocalizedString": "羽箭射手的专用技能。\r\n拉满弓弦瞄准敌人，\r\n对敌人射出箭矢。"
+        }
+      },
+      "ACTION_SKILL_Unique_Ronin_Iai": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Ronin_Iai_TextData",
+          "SourceString": "<characterName id=|Ronin|/>的专用技能。\r\n摆出迎战姿势后瞬间移动至敌人面前，\r\n并使出超高速的拔刀攻击。",
+          "LocalizedString": "<characterName id=|Ronin|/>的专用技能。\r\n摆出迎战姿势后瞬间移动至敌人面前，\r\n并使出超高速的拔刀攻击。"
+        }
+      },
+      "ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes_TextData",
+          "SourceString": "<characterName id=|SaintCentaur|/>的专用技能。\r\n让神圣的力量覆满自身，\r\n并以左手持长枪向前冲锋。\r\n右手的盾牌在冲锋时能挡下所有攻击。",
+          "LocalizedString": "<characterName id=|SaintCentaur|/>的专用技能。\r\n让神圣的力量覆满自身，\r\n并以左手持长枪向前冲锋。\r\n右手的盾牌在冲锋时能挡下所有攻击。"
+        }
+      },
+      "ACTION_SKILL_Unique_SakuraSaurus_SideTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SakuraSaurus_SideTackle_TextData",
+          "SourceString": "连理龙的专用技能。\r\n侧身站立，\r\n然后向前猛撞敌人，并将其击飞。",
+          "LocalizedString": "连理龙的专用技能。\r\n侧身站立，\r\n然后向前猛撞敌人，并将其击飞。"
+        }
+      },
+      "ACTION_SKILL_Unique_SoldierBee_NeedleLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SoldierBee_NeedleLance_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_ThunderBird_ThunderStorm": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ThunderBird_ThunderStorm_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_ThunderDog_InazumaShorai": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ThunderDog_InazumaShorai_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_Umihebi_WindingTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Umihebi_WindingTackle_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack_TextData",
+          "SourceString": "<characterName id=|VolcanicMonster|/>的专用技能。\r\n举起前脚猛击地面，\r\n使岩浆于敌人所在处喷发。\r\n喷发时四周更会有火山弹倾泻而下。",
+          "LocalizedString": "<characterName id=|VolcanicMonster|/>的专用技能。\r\n举起前脚猛击地面，\r\n使岩浆于敌人所在处喷发。\r\n喷发时四周更会有火山弹倾泻而下。"
+        }
+      },
+      "ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack_TextData",
+          "SourceString": "<characterName id=|VolcanicMonster_Ice|/>的专用技能。\r\n举起前脚猛击地面，\r\n使冰雪于敌人所在处喷发。\r\n喷发时四周更会有雪球倾泻而下。",
+          "LocalizedString": "<characterName id=|VolcanicMonster_Ice|/>的专用技能。\r\n举起前脚猛击地面，\r\n使冰雪于敌人所在处喷发。\r\n喷发时四周更会有雪球倾泻而下。"
+        }
+      },
+      "ACTION_SKILL_Unique_WeaselDragon_FlyingTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_WeaselDragon_FlyingTackle_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_Werewolf_Scratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Werewolf_Scratch_TextData",
+          "SourceString": "<characterName id=|Werewolf|/>的专用技能。\r\n向前一跃，迅速斩下两击。\r\n且每次斩击都充满了暗属性的力量。",
+          "LocalizedString": "<characterName id=|Werewolf|/>的专用技能。\r\n向前一跃，迅速斩下两击。\r\n且每次斩击都充满了暗属性的力量。"
+        }
+      },
+      "ACTION_SKILL_Unique_WhiteTiger_IceScratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_WhiteTiger_IceScratch_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_Yeti_SnowBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Yeti_SnowBall_TextData",
+          "SourceString": "▼独特的技能▼\r\n - 请设置技能解释 - ",
+          "LocalizedString": "▼独特的技能▼\r\n - 请设置技能解释 - "
+        }
+      },
+      "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack_TextData",
+          "SourceString": "<characterName id=|ThunderDragonMan|/>的专用技能。\r\n向上跳起后召唤雷剑，\r\n将之丢向敌人。",
+          "LocalizedString": "<characterName id=|ThunderDragonMan|/>的专用技能。\r\n向上跳起后召唤雷剑，\r\n将之丢向敌人。"
+        }
+      },
+      "ACTION_SKILL_Unique_CaptainPenguin_BodySlide": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_CaptainPenguin_BodySlide_TextData",
+          "SourceString": "<characterName id=|CaptainPenguin|/>的专用技能。\r\n全身散发寒气，并采用腹部着地之姿滑行，\r\n往敌人的方向用力撞去。",
+          "LocalizedString": "<characterName id=|CaptainPenguin|/>的专用技能。\r\n全身散发寒气，并采用腹部着地之姿滑行，\r\n往敌人的方向用力撞去。"
+        }
+      },
+      "ACTION_SKILL_PoisonFog": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PoisonFog_TextData",
+          "SourceString": "于前方制造毒雾，\r\n使目标陷入中毒状态。",
+          "LocalizedString": "于前方制造毒雾，\r\n使目标陷入中毒状态。"
+        }
+      },
+      "ACTION_SKILL_SelfDestruct": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SelfDestruct_TextData",
+          "SourceString": "赌上性命引发爆炸。\r\n使用后会陷入无法战斗的状态。",
+          "LocalizedString": "赌上性命引发爆炸。\r\n使用后会陷入无法战斗的状态。"
+        }
+      },
+      "ACTION_SKILL_SelfDestruct_Bee": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SelfDestruct_Bee_TextData",
+          "SourceString": "赌上性命引发爆炸。\r\n是种为了荣誉而牺牲自己的技能。",
+          "LocalizedString": "赌上性命引发爆炸。\r\n是种为了荣誉而牺牲自己的技能。"
+        }
+      },
+      "ACTION_SKILL_SelfExplosion": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SelfExplosion_TextData",
+          "SourceString": "赌上性命引发大爆炸。\r\n使用后便会化作夜空中闪耀的明星。",
+          "LocalizedString": "赌上性命引发大爆炸。\r\n使用后便会化作夜空中闪耀的明星。"
+        }
+      },
+      "ACTION_SKILL_FireBlast": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FireBlast_TextData",
+          "SourceString": "瞄准后发射可笔直飞向敌人\r\n的火焰弹。",
+          "LocalizedString": "瞄准后发射可笔直飞向敌人\r\n的火焰弹。"
+        }
+      },
+      "ACTION_SKILL_Flamethrower": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Flamethrower_TextData",
+          "SourceString": "面向敌人释放火焰，\r\n造成持续伤害。",
+          "LocalizedString": "面向敌人释放火焰，\r\n造成持续伤害。"
+        }
+      },
+      "ACTION_SKILL_FireBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FireBall_TextData",
+          "SourceString": "在头上生成巨大火球，并向敌人发射。\r\n中弹后会爆炸，造成大范围爆炸冲击波。",
+          "LocalizedString": "在头上生成巨大火球，并向敌人发射。\r\n中弹后会爆炸，造成大范围爆炸冲击波。"
+        }
+      },
+      "ACTION_SKILL_FlareArrow": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FlareArrow_TextData",
+          "SourceString": "连续发射3支高速火箭\r\n并追击敌人。",
+          "LocalizedString": "连续发射3支高速火箭\r\n并追击敌人。"
+        }
+      },
+      "ACTION_SKILL_FireSeed": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FireSeed_TextData",
+          "SourceString": "向敌人发射火球。\r\n稍作飞行后会破裂\r\n并向前方放射小型火球。",
+          "LocalizedString": "向敌人发射火球。\r\n稍作飞行后会破裂\r\n并向前方放射小型火球。"
+        }
+      },
+      "ACTION_SKILL_FlareTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FlareTornado_TextData",
+          "SourceString": "在左右两侧生成炙热的龙卷风，\r\n并扇向敌人。",
+          "LocalizedString": "在左右两侧生成炙热的龙卷风，\r\n并扇向敌人。"
+        }
+      },
+      "ACTION_SKILL_Inferno": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Inferno_TextData",
+          "SourceString": "使周围地面活性化，\r\n并在一定时间后爆炸。",
+          "LocalizedString": "使周围地面活性化，\r\n并在一定时间后爆炸。"
+        }
+      },
+      "ACTION_SKILL_WaterGun": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WaterGun_TextData",
+          "SourceString": "发射水弹\r\n笔直飞向对方。",
+          "LocalizedString": "发射水弹\r\n笔直飞向对方。"
+        }
+      },
+      "ACTION_SKILL_WaterWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WaterWave_TextData",
+          "SourceString": "用水之龙卷风在前方生成墙壁\r\n并使其缓慢前进。",
+          "LocalizedString": "用水之龙卷风在前方生成墙壁\r\n并使其缓慢前进。"
+        }
+      },
+      "ACTION_SKILL_HydroPump": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_HydroPump_TextData",
+          "SourceString": "猛烈地释放出水流\r\n并向前方大范围横扫。",
+          "LocalizedString": "猛烈地释放出水流\r\n并向前方大范围横扫。"
+        }
+      },
+      "ACTION_SKILL_WaterBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WaterBall_TextData",
+          "SourceString": "在头上生成巨大水球\r\n瞄准敌人并发射。",
+          "LocalizedString": "在头上生成巨大水球\r\n瞄准敌人并发射。"
+        }
+      },
+      "ACTION_SKILL_TidalWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_TidalWave_TextData",
+          "SourceString": "大范围掀起小波浪\r\n延缓敌人行动后，\r\n用大型波浪攻击敌人。",
+          "LocalizedString": "大范围掀起小波浪\r\n延缓敌人行动后，\r\n用大型波浪攻击敌人。"
+        }
+      },
+      "ACTION_SKILL_AquaJet": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_AquaJet_TextData",
+          "SourceString": "朝敌人发射高速水弹。",
+          "LocalizedString": "朝敌人发射高速水弹。"
+        }
+      },
+      "ACTION_SKILL_BubbleShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_BubbleShot_TextData",
+          "SourceString": "发射大量泡沫\r\n并缓慢追击敌人。",
+          "LocalizedString": "发射大量泡沫\r\n并缓慢追击敌人。"
+        }
+      },
+      "ACTION_SKILL_AcidRain": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_AcidRain_TextData",
+          "SourceString": "生成酸性云朵\r\n在敌人头上下酸雨。",
+          "LocalizedString": "生成酸性云朵\r\n在敌人头上下酸雨。"
+        }
+      },
+      "ACTION_SKILL_WindCutter": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WindCutter_TextData",
+          "SourceString": "发射超高速风刃\r\n瞄准后笔直飞向敌人。",
+          "LocalizedString": "发射超高速风刃\r\n瞄准后笔直飞向敌人。"
+        }
+      },
+      "ACTION_SKILL_GrassTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_GrassTornado_TextData",
+          "SourceString": "在左右两侧生成龙卷风，\r\n并扇向敌人。",
+          "LocalizedString": "在左右两侧生成龙卷风，\r\n并扇向敌人。"
+        }
+      },
+      "ACTION_SKILL_SolarBeam": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SolarBeam_TextData",
+          "SourceString": "积蓄太阳之力\r\n瞄准敌人发射强劲光线。",
+          "LocalizedString": "积蓄太阳之力\r\n瞄准敌人发射强劲光线。"
+        }
+      },
+      "ACTION_SKILL_SeedMachinegun": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SeedMachinegun_TextData",
+          "SourceString": "释放大量坚硬的种子\r\n攻击前方的敌人。",
+          "LocalizedString": "释放大量坚硬的种子\r\n攻击前方的敌人。"
+        }
+      },
+      "ACTION_SKILL_SeedMine": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SeedMine_TextData",
+          "SourceString": "发射危险的种子。\r\n碰到敌人会绽开并爆炸。",
+          "LocalizedString": "发射危险的种子。\r\n碰到敌人会绽开并爆炸。"
+        }
+      },
+      "ACTION_SKILL_SpecialCutter": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SpecialCutter_TextData",
+          "SourceString": "瞄准敌人发射\r\n3发直线飞行的超高速风刃。",
+          "LocalizedString": "瞄准敌人发射\r\n3发直线飞行的超高速风刃。"
+        }
+      },
+      "ACTION_SKILL_RootAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_RootAttack_TextData",
+          "SourceString": "用地下尖锐的根部追击敌人\r\n并从脚下贯穿敌人。",
+          "LocalizedString": "用地下尖锐的根部追击敌人\r\n并从脚下贯穿敌人。"
+        }
+      },
+      "ACTION_SKILL_ThunderRain": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThunderRain_TextData",
+          "SourceString": "召唤雷电\r\n在一定时间后生成大量落电。",
+          "LocalizedString": "召唤雷电\r\n在一定时间后生成大量落电。"
+        }
+      },
+      "ACTION_SKILL_ThunderBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThunderBall_TextData",
+          "SourceString": "发射雷电球\r\n并缓慢追击敌人。",
+          "LocalizedString": "发射雷电球\r\n并缓慢追击敌人。"
+        }
+      },
+      "ACTION_SKILL_LineThunder": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_LineThunder_TextData",
+          "SourceString": "生成可笔直前进的雷击。",
+          "LocalizedString": "生成可笔直前进的雷击。"
+        }
+      },
+      "ACTION_SKILL_CrossThunder": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_CrossThunder_TextData",
+          "SourceString": "堵住敌人的左右两侧\r\n生成可向两个方向前进的雷击。",
+          "LocalizedString": "堵住敌人的左右两侧\r\n生成可向两个方向前进的雷击。"
+        }
+      },
+      "ACTION_SKILL_ThreeThunder": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThreeThunder_TextData",
+          "SourceString": "在敌人头上生成3次落雷。",
+          "LocalizedString": "在敌人头上生成3次落雷。"
+        }
+      },
+      "ACTION_SKILL_ElecWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ElecWave_TextData",
+          "SourceString": "快速放电\r\n给周围造成冲击。",
+          "LocalizedString": "快速放电\r\n给周围造成冲击。"
+        }
+      },
+      "ACTION_SKILL_Thunderbolt": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Thunderbolt_TextData",
+          "SourceString": "积蓄雷电之力\r\n瞄准敌人释放强劲电击。",
+          "LocalizedString": "积蓄雷电之力\r\n瞄准敌人释放强劲电击。"
+        }
+      },
+      "ACTION_SKILL_ThunderFunnel": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThunderFunnel_TextData",
+          "SourceString": "生成两个蕴含雷电能量的球\r\n然后瞄准敌人，从中发射无数雷球。",
+          "LocalizedString": "生成两个蕴含雷电能量的球\r\n然后瞄准敌人，从中发射无数雷球。"
+        }
+      },
+      "ACTION_SKILL_SpreadPulse": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SpreadPulse_TextData",
+          "SourceString": "向前方发射呈放射状扩散的\r\n雷电球。",
+          "LocalizedString": "向前方发射呈放射状扩散的\r\n雷电球。"
+        }
+      },
+      "ACTION_SKILL_LockonLaser": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_LockonLaser_TextData",
+          "SourceString": "瞄准敌人后\r\n发射超高速的雷电激光。",
+          "LocalizedString": "瞄准敌人后\r\n发射超高速的雷电激光。"
+        }
+      },
+      "ACTION_SKILL_LightningStrike": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_LightningStrike_TextData",
+          "SourceString": "让自己化作避雷针引来雷电，\r\n并在原地引发闪电爆炸。",
+          "LocalizedString": "让自己化作避雷针引来雷电，\r\n并在原地引发闪电爆炸。"
+        }
+      },
+      "ACTION_SKILL_IceMissile": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_IceMissile_TextData",
+          "SourceString": "在上空生成尖锐的冰柱\r\n瞄准敌人后发射冰柱。",
+          "LocalizedString": "在上空生成尖锐的冰柱\r\n瞄准敌人后发射冰柱。"
+        }
+      },
+      "ACTION_SKILL_BlizzardLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_BlizzardLance_TextData",
+          "SourceString": "在敌人的脚边\r\n生成尖锐的冰刃。",
+          "LocalizedString": "在敌人的脚边\r\n生成尖锐的冰刃。"
+        }
+      },
+      "ACTION_SKILL_Snowstorm": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Snowstorm_TextData",
+          "SourceString": "将冰冻之力聚集四周\r\n攻击附近的敌人后\r\n瞄准敌人释放暴风雪。",
+          "LocalizedString": "将冰冻之力聚集四周\r\n攻击附近的敌人后\r\n瞄准敌人释放暴风雪。"
+        }
+      },
+      "ACTION_SKILL_IcicleThrow": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_IcicleThrow_TextData",
+          "SourceString": "生成巨大的冰块\r\n瞄准敌人后高速发射。\r\n中弹时，可同时给周围造成冲击。",
+          "LocalizedString": "生成巨大的冰块\r\n瞄准敌人后高速发射。\r\n中弹时，可同时给周围造成冲击。"
+        }
+      },
+      "ACTION_SKILL_IceBlade": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_IceBlade_TextData",
+          "SourceString": "制造出新月型的冰刃，\r\n将之射向前方。",
+          "LocalizedString": "制造出新月型的冰刃，\r\n将之射向前方。"
+        }
+      },
+      "ACTION_SKILL_FrostBreath": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FrostBreath_TextData",
+          "SourceString": "朝敌人喷出冰冷空气，\r\n持续造成对方伤害。",
+          "LocalizedString": "朝敌人喷出冰冷空气，\r\n持续造成对方伤害。"
+        }
+      },
+      "ACTION_SKILL_DiamondFall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DiamondFall_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_SandTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SandTornado_TextData",
+          "SourceString": "在左右两侧生成砂砾龙卷风，\r\n并扇向敌人。",
+          "LocalizedString": "在左右两侧生成砂砾龙卷风，\r\n并扇向敌人。"
+        }
+      },
+      "ACTION_SKILL_ThrowRock": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThrowRock_TextData",
+          "SourceString": "将岩石从眼前的地上吸附起来\r\n瞄准敌人并发射。",
+          "LocalizedString": "将岩石从眼前的地上吸附起来\r\n瞄准敌人并发射。"
+        }
+      },
+      "ACTION_SKILL_RockLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_RockLance_TextData",
+          "SourceString": "在敌人的脚边\r\n生成尖锐的岩石长矛。",
+          "LocalizedString": "在敌人的脚边\r\n生成尖锐的岩石长矛。"
+        }
+      },
+      "ACTION_SKILL_MudShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_MudShot_TextData",
+          "SourceString": "用黏糊糊的泥巴\r\n瞄准敌人并发射。",
+          "LocalizedString": "用黏糊糊的泥巴\r\n瞄准敌人并发射。"
+        }
+      },
+      "ACTION_SKILL_StoneShotgun": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_StoneShotgun_TextData",
+          "SourceString": "向前方射出大量的小石头碎屑。",
+          "LocalizedString": "向前方射出大量的小石头碎屑。"
+        }
+      },
+      "ACTION_SKILL_Tremor": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Tremor_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_DarkLaser": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkLaser_TextData",
+          "SourceString": "积蓄黑暗之力\r\n瞄准敌人发射强劲光线。",
+          "LocalizedString": "积蓄黑暗之力\r\n瞄准敌人发射强劲光线。"
+        }
+      },
+      "ACTION_SKILL_DarkWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkWave_TextData",
+          "SourceString": "快速释放黑暗之力\r\n给周围造成冲击。",
+          "LocalizedString": "快速释放黑暗之力\r\n给周围造成冲击。"
+        }
+      },
+      "ACTION_SKILL_Psychokinesis": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Psychokinesis_TextData",
+          "SourceString": "用念力剥夺周围敌人的行动自由\r\n并将其从高处锤入地面。",
+          "LocalizedString": "用念力剥夺周围敌人的行动自由\r\n并将其从高处锤入地面。"
+        }
+      },
+      "ACTION_SKILL_ShadowBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ShadowBall_TextData",
+          "SourceString": "生成巨大的黑暗之球\r\n瞄准敌人并高速发射。",
+          "LocalizedString": "生成巨大的黑暗之球\r\n瞄准敌人并高速发射。"
+        }
+      },
+      "ACTION_SKILL_GhostFlame": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_GhostFlame_TextData",
+          "SourceString": "发射3个怨念\r\n并执着追击敌人。",
+          "LocalizedString": "发射3个怨念\r\n并执着追击敌人。"
+        }
+      },
+      "ACTION_SKILL_PoisonShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PoisonShot_TextData",
+          "SourceString": "用蕴藏剧毒之力的淤泥\r\n瞄准敌人并发射。",
+          "LocalizedString": "用蕴藏剧毒之力的淤泥\r\n瞄准敌人并发射。"
+        }
+      },
+      "ACTION_SKILL_DarkBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkBall_TextData",
+          "SourceString": "发射黑暗之球，\r\n使其以缓慢速度追赶敌人。",
+          "LocalizedString": "发射黑暗之球，\r\n使其以缓慢速度追赶敌人。"
+        }
+      },
+      "ACTION_SKILL_DarkLegion": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkLegion_TextData",
+          "SourceString": "发射多个可以追击敌人的黑暗之球。",
+          "LocalizedString": "发射多个可以追击敌人的黑暗之球。"
+        }
+      },
+      "ACTION_SKILL_DarkFog": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkFog_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_DragonMeteor": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonMeteor_TextData",
+          "SourceString": "召唤大量小陨石\r\n瞄准敌人并发射。",
+          "LocalizedString": "召唤大量小陨石\r\n瞄准敌人并发射。"
+        }
+      },
+      "ACTION_SKILL_DragonBreath": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonBreath_TextData",
+          "SourceString": "向前方吹出蕴含龙之力的气息\r\n，持续造成伤害。",
+          "LocalizedString": "向前方吹出蕴含龙之力的气息\r\n，持续造成伤害。"
+        }
+      },
+      "ACTION_SKILL_DragonWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonWave_TextData",
+          "SourceString": "快速释放龙之力\r\n给周围造成冲击。",
+          "LocalizedString": "快速释放龙之力\r\n给周围造成冲击。"
+        }
+      },
+      "ACTION_SKILL_DragonCanon": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonCanon_TextData",
+          "SourceString": "用蕴藏龙之力的能量弹\r\n瞄准敌人并发射。",
+          "LocalizedString": "用蕴藏龙之力的能量弹\r\n瞄准敌人并发射。"
+        }
+      },
+      "ACTION_SKILL_BeamSlicer": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_BeamSlicer_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "ACTION_SKILL_Commet": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Commet_TextData",
+          "SourceString": "zh-Hans Text",
+          "LocalizedString": "zh-Hans Text"
+        }
+      },
+      "PASSIVE_TrainerATK_UP_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerATK_UP_1_TextData",
+          "SourceString": "玩家的攻击提升{EffectValue1}%",
+          "LocalizedString": "玩家的攻击提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerDEF_UP_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerDEF_UP_1_TextData",
+          "SourceString": "玩家的防御提升{EffectValue1}%",
+          "LocalizedString": "玩家的防御提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerWorkSpeed_UP_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerWorkSpeed_UP_1_TextData",
+          "SourceString": "玩家的工作速度提升{EffectValue1}%",
+          "LocalizedString": "玩家的工作速度提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerMining_up1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerMining_up1_TextData",
+          "SourceString": "玩家的挖掘速度提升{EffectValue1}%",
+          "LocalizedString": "玩家的挖掘速度提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerLogging_up1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerLogging_up1_TextData",
+          "SourceString": "玩家的采伐速度提升{EffectValue1}%",
+          "LocalizedString": "玩家的采伐速度提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Normal_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Normal_1_PAL_TextData",
+          "SourceString": "无属性伤害减少{EffectValue1}%",
+          "LocalizedString": "无属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Fire_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Fire_1_PAL_TextData",
+          "SourceString": "火属性伤害减少{EffectValue1}%",
+          "LocalizedString": "火属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Aqua_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Aqua_1_PAL_TextData",
+          "SourceString": "水属性伤害减少{EffectValue1}%",
+          "LocalizedString": "水属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Thunder_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Thunder_1_PAL_TextData",
+          "SourceString": "雷属性伤害减少{EffectValue1}%",
+          "LocalizedString": "雷属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Leaf_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Leaf_1_PAL_TextData",
+          "SourceString": "草属性伤害减少{EffectValue1}%",
+          "LocalizedString": "草属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Ice_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Ice_1_PAL_TextData",
+          "SourceString": "冰属性伤害减少{EffectValue1}%",
+          "LocalizedString": "冰属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Earth_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Earth_1_PAL_TextData",
+          "SourceString": "地属性伤害减少{EffectValue1}%",
+          "LocalizedString": "地属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Dark_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Dark_1_PAL_TextData",
+          "SourceString": "暗属性伤害减少{EffectValue1}%",
+          "LocalizedString": "暗属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Dragon_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Dragon_1_PAL_TextData",
+          "SourceString": "龙属性伤害减少{EffectValue1}%",
+          "LocalizedString": "龙属性伤害减少{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Normal_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Normal_1_PAL_TextData",
+          "SourceString": "无属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "无属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Fire_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Fire_1_PAL_TextData",
+          "SourceString": "火属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "火属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Aqua_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Aqua_1_PAL_TextData",
+          "SourceString": "水属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "水属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Thunder_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Thunder_1_PAL_TextData",
+          "SourceString": "雷属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "雷属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Leaf_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Leaf_1_PAL_TextData",
+          "SourceString": "草属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "草属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Ice_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Ice_1_PAL_TextData",
+          "SourceString": "冰属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "冰属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Earth_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Earth_1_PAL_TextData",
+          "SourceString": "地属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "地属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Dark_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Dark_1_PAL_TextData",
+          "SourceString": "暗属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "暗属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Dragon_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Dragon_1_PAL_TextData",
+          "SourceString": "龙属性攻击伤害增加{EffectValue1}%",
+          "LocalizedString": "龙属性攻击伤害增加{EffectValue1}%"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Up_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Up_1_TextData",
+          "SourceString": "增加饱腹度下降速度<NumRed_13>+10%</>",
+          "LocalizedString": "增加饱腹度下降速度<NumRed_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Up_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Up_2_TextData",
+          "SourceString": "增加饱腹度下降速度<NumRed_13>+15%</>",
+          "LocalizedString": "增加饱腹度下降速度<NumRed_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Down_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Down_1_TextData",
+          "SourceString": "减少饱腹度下降速度<NumRed_13>+10%</>",
+          "LocalizedString": "减少饱腹度下降速度<NumRed_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Down_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Down_2_TextData",
+          "SourceString": "减少饱腹度下降速度<NumRed_13>+15%</>",
+          "LocalizedString": "减少饱腹度下降速度<NumRed_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Up_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Up_1_TextData",
+          "SourceString": "增加SAN值下降速度<NumRed_13>+10%</>",
+          "LocalizedString": "增加SAN值下降速度<NumRed_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Up_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Up_2_TextData",
+          "SourceString": "增加SAN值下降速度<NumRed_13>+15%</>",
+          "LocalizedString": "增加SAN值下降速度<NumRed_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Down_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Down_1_TextData",
+          "SourceString": "减少SAN值下降速度<NumRed_13>+10%</>",
+          "LocalizedString": "减少SAN值下降速度<NumRed_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Down_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Down_2_TextData",
+          "SourceString": "减少SAN值下降速度<NumRed_13>+15%</>",
+          "LocalizedString": "减少SAN值下降速度<NumRed_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_MoveSpeed_up_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_MoveSpeed_up_1_TextData",
+          "SourceString": "移动速度提升{EffectValue1}%",
+          "LocalizedString": "移动速度提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_PAL_MoveSpeed_up_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_MoveSpeed_up_2_TextData",
+          "SourceString": "移动速度提升{EffectValue1}%",
+          "LocalizedString": "移动速度提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_PAL_MoveSpeed_up_3": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_MoveSpeed_up_3_TextData",
+          "SourceString": "移动速度提升{EffectValue1}%",
+          "LocalizedString": "移动速度提升{EffectValue1}%"
+        }
+      },
+      "PASSIVE_Legend_DESC": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_Legend_DESC_TextData",
+          "SourceString": "攻击+{EffectValue1}%\r\n防御+{EffectValue2}%\r\n移动速度提升{EffectValue3}%",
+          "LocalizedString": "攻击+{EffectValue1}%\r\n防御+{EffectValue2}%\r\n移动速度提升{EffectValue3}%"
+        }
+      }
+    }
+  }
+]

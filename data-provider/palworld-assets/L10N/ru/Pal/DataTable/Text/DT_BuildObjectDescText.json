@@ -1,0 +1,2239 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BuildObjectDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "BUILDOBJECT_DESC_BlastFurnace": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace_TextData",
+          "SourceString": "Позволяет создавать <itemName id=|CopperIngot|/>.\r\nКачество продукции не самое лучшее, скорость медленная.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Позволяет создавать <itemName id=|CopperIngot|/>.\r\nКачество продукции не самое лучшее, скорость медленная.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace2_TextData",
+          "SourceString": "Позволяет создавать <itemName id=|IronIngot|/>.\r\nКачество продукции несколько повысилось, но скорости еще не хватает.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Позволяет создавать <itemName id=|IronIngot|/>.\r\nКачество продукции несколько повысилось, но скорости еще не хватает.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace3": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace3_TextData",
+          "SourceString": "Позволяет создавать <itemName id=|StealIngot|/>.\r\nПотребляет электричество, но процесс выплавки происходит быстрее.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Позволяет создавать <itemName id=|StealIngot|/>.\r\nПотребляет электричество, но процесс выплавки происходит быстрее.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace4": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace4_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_BlastFurnace5": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BlastFurnace5_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_CampFire": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CampFire_TextData",
+          "SourceString": "Необходимое для приготовления пищи сооружение.\r\nПодходит только для жарки простых продуктов.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Необходимое для приготовления пищи сооружение.\r\nПодходит только для жарки простых продуктов.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_CharacterRankUp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CharacterRankUp_TextData",
+          "SourceString": "Сооружение для повышения ранга Палов.\r\nНасыщение Палов концентрированной эссенцией, извлеченной из Палов\r\nодного с ними типа, позволяет превзойти пределы физических возможностей.",
+          "LocalizedString": "Сооружение для повышения ранга Палов.\r\nНасыщение Палов концентрированной эссенцией, извлеченной из Палов\r\nодного с ними типа, позволяет превзойти пределы физических возможностей."
+        }
+      },
+      "BUILDOBJECT_DESC_CookingStove": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CookingStove_TextData",
+          "SourceString": "Необходимое для приготовления пищи сооружение.\r\nБлагодаря использованию котелка кулинарные возможности расширились.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Необходимое для приготовления пищи сооружение.\r\nБлагодаря использованию котелка кулинарные возможности расширились.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseGatlingGun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseGatlingGun_TextData",
+          "SourceString": "Оборонительное сооружение для защиты базы от врагов.\r\nОбладающая высокой огневой мощью картечница изрыгает пламя.\r\nРазместите здесь Пала и приготовьтесь к битве.",
+          "LocalizedString": "Оборонительное сооружение для защиты базы от врагов.\r\nОбладающая высокой огневой мощью картечница изрыгает пламя.\r\nРазместите здесь Пала и приготовьтесь к битве."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMachinegun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMachinegun_TextData",
+          "SourceString": "Оборонительная постройка.\r\nБоеприпасы: <itemName id=|RifleBullet|/>.\r\nПоместите боеприпасы в сундук, и прикрепленные Палы будут заряжать оружие автоматически.",
+          "LocalizedString": "Оборонительная постройка.\r\nБоеприпасы: <itemName id=|RifleBullet|/>.\r\nПоместите боеприпасы в сундук, и прикрепленные Палы будут заряжать оружие автоматически."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMinigun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMinigun_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseMissile": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseMissile_TextData",
+          "SourceString": "Оборонительная постройка.\r\nБоеприпасы: <itemName id=|ExplosiveBullet|/>.\r\nПоместите боеприпасы в сундук, и прикрепленные Палы будут заряжать оружие автоматически.",
+          "LocalizedString": "Оборонительная постройка.\r\nБоеприпасы: <itemName id=|ExplosiveBullet|/>.\r\nПоместите боеприпасы в сундук, и прикрепленные Палы будут заряжать оружие автоматически."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseBowGun": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseBowGun_TextData",
+          "SourceString": "Оборонительная постройка.\r\nБоеприпасы: <itemName id=|Arrow|/>.\r\nПоместите боеприпасы в сундук, и прикрепленные Палы будут заряжать оружие автоматически.",
+          "LocalizedString": "Оборонительная постройка.\r\nБоеприпасы: <itemName id=|Arrow|/>.\r\nПоместите боеприпасы в сундук, и прикрепленные Палы будут заряжать оружие автоматически."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWait": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWait_TextData",
+          "SourceString": "Оборонительная постройка для защиты базы от врагов.\r\nПрикрепленные сюда Палы оставят другие дела\r\nи будут вести дозор, готовые к бою.",
+          "LocalizedString": "Оборонительная постройка для защиты базы от врагов.\r\nПрикрепленные сюда Палы оставят другие дела\r\nи будут вести дозор, готовые к бою."
+        }
+      },
+      "BUILDOBJECT_DESC_DisplayCharacter": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DisplayCharacter_TextData",
+          "SourceString": "Место для демонстрации пойманных Палов.\r\nНаходящиеся внутри Палы не могут работать и участвовать в битвах,\r\nно зато не требуют пищи.",
+          "LocalizedString": "Место для демонстрации пойманных Палов.\r\nНаходящиеся внутри Палы не могут работать и участвовать в битвах,\r\nно зато не требуют пищи."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator_TextData",
+          "SourceString": "Это сооружение накапливает электричество, произведенное грозовым Палом.\r\nНеобходимо для работы потребляющих электричество сооружений.",
+          "LocalizedString": "Это сооружение накапливает электричество, произведенное грозовым Палом.\r\nНеобходимо для работы потребляющих электричество сооружений."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator_Slave": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator_Slave_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricGenerator3": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricGenerator3_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricKitchen": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricKitchen_TextData",
+          "SourceString": "Необходимое для приготовления пищи сооружение.\r\nПотребляет электричество, но зато способно быстро приготовить много продуктов.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Необходимое для приготовления пищи сооружение.\r\nПотребляет электричество, но зато способно быстро приготовить много продуктов.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Comfortable_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Comfortable_01_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Comfortable_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Comfortable_02_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_01_TextData",
+          "SourceString": "<mapObjectName id=|Factory_Hard_01|/> для создания предметов и снаряжения.\r\nПроизводственная площадь небольшая, изготовление идет медленно.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "<mapObjectName id=|Factory_Hard_01|/> для создания предметов и снаряжения.\r\nПроизводственная площадь небольшая, изготовление идет медленно.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_02_TextData",
+          "SourceString": "<mapObjectName id=|Factory_Hard_01|/> для создания предметов и снаряжения.\r\nБлагодаря разделению труда скорость производства увеличилась.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "<mapObjectName id=|Factory_Hard_01|/> для создания предметов и снаряжения.\r\nБлагодаря разделению труда скорость производства увеличилась.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_Factory_Hard_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Factory_Hard_03_TextData",
+          "SourceString": "<mapObjectName id=|Factory_Hard_01|/> для создания предметов и снаряжения.\r\nБлагодаря мелкому разделению труда скорость производства значительно увеличилась.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "<mapObjectName id=|Factory_Hard_01|/> для создания предметов и снаряжения.\r\nБлагодаря мелкому разделению труда скорость производства значительно увеличилась.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlock_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade01_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade02_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Grade03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Grade03_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_wheet": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_wheet_TextData",
+          "SourceString": "Плантация, на которой выращивается <itemName id=|Wheat|/>.\r\nВремя до созревания урожая среднее.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов.",
+          "LocalizedString": "Плантация, на которой выращивается <itemName id=|Wheat|/>.\r\nВремя до созревания урожая среднее.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_tomato": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_tomato_TextData",
+          "SourceString": "Плантация, на которой выращивается <itemName id=|Tomato|/>.\r\nДля созревания урожая требуется время, но кухня становится разнообразнее.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов.",
+          "LocalizedString": "Плантация, на которой выращивается <itemName id=|Tomato|/>.\r\nДля созревания урожая требуется время, но кухня становится разнообразнее.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Lettuce": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Lettuce_TextData",
+          "SourceString": "Плантация, на которой выращивается <itemName id=|Lettuce|/>.\r\nДля созревания урожая требуется время, но кухня становится разнообразнее.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов.",
+          "LocalizedString": "Плантация, на которой выращивается <itemName id=|Lettuce|/>.\r\nДля созревания урожая требуется время, но кухня становится разнообразнее.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_FarmBlockV2_Berries": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FarmBlockV2_Berries_TextData",
+          "SourceString": "Плантация, на которой выращивается <itemName id=|Berries|/>.\r\nУрожай созревает быстро, но наестся им сложно.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов.",
+          "LocalizedString": "Плантация, на которой выращивается <itemName id=|Berries|/>.\r\nУрожай созревает быстро, но наестся им сложно.\r\nДля осуществления посева, полива и сбора урожая требуется несколько Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_FastTravelPoint": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FastTravelPoint_TextData",
+          "SourceString": "Стелла, прототип формы которой - <characterName id=|ChickenPal|/>.\r\nРазмещение этого сооружения открывает возможность быстрого перемещения.",
+          "LocalizedString": "Стелла, прототип формы которой - <characterName id=|ChickenPal|/>.\r\nРазмещение этого сооружения открывает возможность быстрого перемещения."
+        }
+      },
+      "BUILDOBJECT_DESC_Floor": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Floor_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_Stone_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Floor_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Floor_Wood_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_HighTechKitchen": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_HighTechKitchen_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_TextData",
+          "SourceString": "Можно использовать для хранения предметов.\r\nНепрочный, поскольку сделан из дерева.\r\nНе лучший вариант для хранения ценных предметов.",
+          "LocalizedString": "Можно использовать для хранения предметов.\r\nНепрочный, поскольку сделан из дерева.\r\nНе лучший вариант для хранения ценных предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_02_TextData",
+          "SourceString": "Можно использовать для хранения предметов.\r\nБлагодаря укреплению металлом обладает некоторой прочностью.\r\nСпособен вместить больше предметов за счет увеличенного размера.",
+          "LocalizedString": "Можно использовать для хранения предметов.\r\nБлагодаря укреплению металлом обладает некоторой прочностью.\r\nСпособен вместить больше предметов за счет увеличенного размера."
+        }
+      },
+      "BUILDOBJECT_DESC_ItemChest_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ItemChest_03_TextData",
+          "SourceString": "Можно использовать для хранения предметов.\r\nСделан из стали, поэтому довольно крепкий.\r\nОбъемное и безопасное хранилище.",
+          "LocalizedString": "Можно использовать для хранения предметов.\r\nСделан из стали, поэтому довольно крепкий.\r\nОбъемное и безопасное хранилище."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_02_TextData",
+          "SourceString": "Соломенная кровать для Палов.\r\nИспользуется для отдыха раненых Палов и для ночного сна.\r\nЖесткая, но это лучше, чем ничего.",
+          "LocalizedString": "Соломенная кровать для Палов.\r\nИспользуется для отдыха раненых Палов и для ночного сна.\r\nЖесткая, но это лучше, чем ничего."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_03_TextData",
+          "SourceString": "Мягкая кровать для хорошего сна Палов.\r\nИспользуется для отдыха раненых Палов и для ночного сна.\r\nТакой воздушной кровати Палы будут рады.",
+          "LocalizedString": "Мягкая кровать для хорошего сна Палов.\r\nИспользуется для отдыха раненых Палов и для ночного сна.\r\nТакой воздушной кровати Палы будут рады."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed_04": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_04_TextData",
+          "SourceString": "Большая кровать для хорошего сна Палов.\r\nИспользуется для отдыха раненых Палов и для ночного сна.\r\nДаже габаритные Палы смогут разместиться на ней с комфортом.",
+          "LocalizedString": "Большая кровать для хорошего сна Палов.\r\nИспользуется для отдыха раненых Палов и для ночного сна.\r\nДаже габаритные Палы смогут разместиться на ней с комфортом."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicalPalBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicalPalBed_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_01_TextData",
+          "SourceString": "Сооружение для приготовления лекарств для заболевших Палов.\r\nПока что может производить только простые медикаменты.\r\nПроизводство стоит доверить Палам с навыком фармацевта.",
+          "LocalizedString": "Сооружение для приготовления лекарств для заболевших Палов.\r\nПока что может производить только простые медикаменты.\r\nПроизводство стоит доверить Палам с навыком фармацевта."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_02_TextData",
+          "SourceString": "Сооружение для приготовления лекарств для заболевших Палов.\r\nПотребляет электричество, но способно производить даже сложные медикаменты.\r\nПроизводство стоит доверить Палам с навыком фармацевта.",
+          "LocalizedString": "Сооружение для приготовления лекарств для заболевших Палов.\r\nПотребляет электричество, но способно производить даже сложные медикаменты.\r\nПроизводство стоит доверить Палам с навыком фармацевта."
+        }
+      },
+      "BUILDOBJECT_DESC_MedicineFacility_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MedicineFacility_03_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_PalFoodBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalFoodBox_TextData",
+          "SourceString": "Ящик для еды Палов.\r\nЗдесь проголодавшиеся Палы могут подкрепиться.\r\nСледите за тем, чтобы еда не заканчивалась.",
+          "LocalizedString": "Ящик для еды Палов.\r\nЗдесь проголодавшиеся Палы могут подкрепиться.\r\nСледите за тем, чтобы еда не заканчивалась."
+        }
+      },
+      "BUILDOBJECT_DESC_PalStorage": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalStorage_TextData",
+          "SourceString": "Сооружение для содержания пойманных Палов.\r\nОбласть вокруг этого сооружения становится базой.\r\nПостройте свою собственную базу вместе с Палами.",
+          "LocalizedString": "Сооружение для содержания пойманных Палов.\r\nОбласть вокруг этого сооружения становится базой.\r\nПостройте свою собственную базу вместе с Палами."
+        }
+      },
+      "BUILDOBJECT_DESC_PalBoxV2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PalBoxV2_TextData",
+          "SourceString": "Сооружение для хранения пойманных Палов.\r\nНаходящиеся внутри Палы постепенно восстанавливают здоровье.\r\nОбласть вокруг этой постройки становится базой.",
+          "LocalizedString": "Сооружение для хранения пойманных Палов.\r\nНаходящиеся внутри Палы постепенно восстанавливают здоровье.\r\nОбласть вокруг этой постройки становится базой."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_02_TextData",
+          "SourceString": "Потрепанная кровать для людей.\r\nИспользуется для отдыха раненых и для ночного сна.\r\nСпокойно уснуть можно только под крышей.",
+          "LocalizedString": "Потрепанная кровать для людей.\r\nИспользуется для отдыха раненых и для ночного сна.\r\nСпокойно уснуть можно только под крышей."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_03_TextData",
+          "SourceString": "Мягкая кровать для людей. Обеспечит хороший сон.\r\nИспользуется для отдыха раненых и для ночного сна.\r\nСпокойно уснуть можно только под крышей.",
+          "LocalizedString": "Мягкая кровать для людей. Обеспечит хороший сон.\r\nИспользуется для отдыха раненых и для ночного сна.\r\nСпокойно уснуть можно только под крышей."
+        }
+      },
+      "BUILDOBJECT_DESC_PlayerBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PlayerBed_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_ShippingItemBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ShippingItemBox_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_01_TextData",
+          "SourceString": "Фабрика сфер для поимки Палов.\r\nПроизводственная площадь небольшая, изготовление сфер идет не быстро.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "Фабрика сфер для поимки Палов.\r\nПроизводственная площадь небольшая, изготовление сфер идет не быстро.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_02_TextData",
+          "SourceString": "Фабрика сфер для поимки Палов.\r\nБлагодаря разделению труда скорость производства увеличилась.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "Фабрика сфер для поимки Палов.\r\nБлагодаря разделению труда скорость производства увеличилась.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_Black_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_Black_03_TextData",
+          "SourceString": "Фабрика сфер для поимки Палов.\r\nБлагодаря мелкому разделению труда производство сфер теперь идет быстрым темпом.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "Фабрика сфер для поимки Палов.\r\nБлагодаря мелкому разделению труда производство сфер теперь идет быстрым темпом.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_01_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_02_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_SphereFactory_White_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SphereFactory_White_03_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_StationDeforest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StationDeforest_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stonehouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stonehouse1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_StonePit": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StonePit_TextData",
+          "SourceString": "Сооружение, где производится <itemName id=|Stone|/>. Добыча \r\n<itemName id=|Stone|/> - это тяжелая работа, требующая выносливости.\r\nДоверьте эту задачу Палам, обладающим шахтерскими навыками.",
+          "LocalizedString": "Сооружение, где производится <itemName id=|Stone|/>. Добыча \r\n<itemName id=|Stone|/> - это тяжелая работа, требующая выносливости.\r\nДоверьте эту задачу Палам, обладающим шахтерскими навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_CopperMine": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CopperMine_TextData",
+          "SourceString": "Сооружение, где производится <itemName id=|CopperOre|/>. Добыча \r\n<itemName id=|CopperOre|/> - это еще более тяжелая работа, требующая выносливости.\r\nДоверьте эту задачу Палам, обладающим шахтерскими навыками.",
+          "LocalizedString": "Сооружение, где производится <itemName id=|CopperOre|/>. Добыча \r\n<itemName id=|CopperOre|/> - это еще более тяжелая работа, требующая выносливости.\r\nДоверьте эту задачу Палам, обладающим шахтерскими навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_SteelMine": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SteelMine_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Strawhouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Strawhouse1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_Stone_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wall_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wall_Wood_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_DUMMY": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DUMMY_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_01_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_02_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Clean_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Clean_03_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponChest": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponChest_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_01_TextData",
+          "SourceString": "Фабрика для производства оружия и снарядов.\r\nПроизводственная площадь пока небольшая, изготовление сложного оружия невозможно.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "Фабрика для производства оружия и снарядов.\r\nПроизводственная площадь пока небольшая, изготовление сложного оружия невозможно.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_02_TextData",
+          "SourceString": "Фабрика для производства оружия и снарядов.\r\nРазделение труда позволяет изготавливать более сложное оружие.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "Фабрика для производства оружия и снарядов.\r\nРазделение труда позволяет изготавливать более сложное оружие.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactory_Dirty_03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_03_TextData",
+          "SourceString": "Фабрика для производства оружия и снарядов.\r\nМелкое разделение труда позволяет быстро создавать сложное оружие.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "Фабрика для производства оружия и снарядов.\r\nМелкое разделение труда позволяет быстро создавать сложное оружие.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_WeaponFactry": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WeaponFactry_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Well": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Well_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Woodhouse1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Woodhouse1_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_TextData",
+          "SourceString": "<mapObjectName id=|WorkBench|/> для создания простых предметов.\r\nТребуются Палы с ремесленными навыками.",
+          "LocalizedString": "<mapObjectName id=|WorkBench|/> для создания простых предметов.\r\nТребуются Палы с ремесленными навыками."
+        }
+      },
+      "BUILDOBJECT_DESC_RecoverOtomo": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_RecoverOtomo_TextData",
+          "SourceString": "Устройство для восстановления здоровья Палов.\r\nНаполняет сферы силой палзиума, успокаивая душу.",
+          "LocalizedString": "Устройство для восстановления здоровья Палов.\r\nНаполняет сферы силой палзиума, успокаивая душу."
+        }
+      },
+      "BUILDOBJECT_DESC_HatchingPalEgg": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_HatchingPalEgg_TextData",
+          "SourceString": "Устройство, в котором проходит инкубацию Яйцо Пала.\r\nПоместите сюда Яйцо Пала, и по прошествии времени оно созреет само.",
+          "LocalizedString": "Устройство, в котором проходит инкубацию Яйцо Пала.\r\nПоместите сюда Яйцо Пала, и по прошествии времени оно созреет само."
+        }
+      },
+      "BUILDOBJECT_DESC_StationDeforest2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_StationDeforest2_TextData",
+          "SourceString": "Сооружение, где производится <itemName id=|Wood|/>.\r\nРубка деревьев требует большой выносливости.\r\nДоверьте эту задачу Палам, обладающим навыками лесозаготовки.",
+          "LocalizedString": "Сооружение, где производится <itemName id=|Wood|/>.\r\nРубка деревьев требует большой выносливости.\r\nДоверьте эту задачу Палам, обладающим навыками лесозаготовки."
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench_SkillUnlock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_SkillUnlock_TextData",
+          "SourceString": "<mapObjectName id=|WorkBench|/> для создания инструментов для Палов.\r\nИзготавливайте седла, чтобы ездить верхом на Палах,\r\nсоздавайте ружья, чтобы Палы могли стрелять.",
+          "LocalizedString": "<mapObjectName id=|WorkBench|/> для создания инструментов для Палов.\r\nИзготавливайте седла, чтобы ездить верхом на Палах,\r\nсоздавайте ружья, чтобы Палы могли стрелять."
+        }
+      },
+      "BUILDOBJECT_DESC_WorkBench_SkillCard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WorkBench_SkillCard_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Foundation_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Roof_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stairs": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stairs_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_foundation_TextData",
+          "SourceString": "Фундамент для строительства стен и сооружений.\r\nНепрочный, поскольку сделан из дерева.",
+          "LocalizedString": "Фундамент для строительства стен и сооружений.\r\nНепрочный, поскольку сделан из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_wall_TextData",
+          "SourceString": "Стена для предотвращения вторжения. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Стена для предотвращения вторжения. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_roof_TextData",
+          "SourceString": "Крыша для укрытия от непогоды. Строится поверх стен.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Крыша для укрытия от непогоды. Строится поверх стен.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_stair_TextData",
+          "SourceString": "Лестница для подъема. Ставится на фундамент под крышей.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Лестница для подъема. Ставится на фундамент под крышей.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Wooden_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wooden_DoorWall_TextData",
+          "SourceString": "Входная дверь. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Входная дверь. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_foundation_TextData",
+          "SourceString": "Фундамент для строительства стен и сооружений.\r\nДовольно прочный, поскольку сделан из камня.",
+          "LocalizedString": "Фундамент для строительства стен и сооружений.\r\nДовольно прочный, поскольку сделан из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_wall_TextData",
+          "SourceString": "Стена для предотвращения вторжения. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Стена для предотвращения вторжения. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_roof_TextData",
+          "SourceString": "Крыша для укрытия от непогоды. Строится поверх стен.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Крыша для укрытия от непогоды. Строится поверх стен.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_stair_TextData",
+          "SourceString": "Лестница для подъема. Ставится на фундамент под крышей.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Лестница для подъема. Ставится на фундамент под крышей.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_foundation": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_foundation_TextData",
+          "SourceString": "Фундамент для строительства стен и сооружений.\r\nОчень прочный, поскольку сделан из металла.",
+          "LocalizedString": "Фундамент для строительства стен и сооружений.\r\nОчень прочный, поскольку сделан из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_wall_TextData",
+          "SourceString": "Стена для предотвращения вторжения. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Стена для предотвращения вторжения. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_roof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_roof_TextData",
+          "SourceString": "Крыша для укрытия от непогоды. Строится поверх стен.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Крыша для укрытия от непогоды. Строится поверх стен.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_stair": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_stair_TextData",
+          "SourceString": "Лестница для подъема. Ставится на фундамент под крышей.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Лестница для подъема. Ставится на фундамент под крышей.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Heater": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Heater_TextData",
+          "SourceString": "Устройство для повышения температуры на базе, нагнетающее теплый воздух.\r\nСильно согреть не сможет, но от небольшого холода защитит.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Устройство для повышения температуры на базе, нагнетающее теплый воздух.\r\nСильно согреть не сможет, но от небольшого холода защитит.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricHeater": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricHeater_TextData",
+          "SourceString": "Устройство для повышения температуры на базе, нагнетающее теплый воздух.\r\nБлагодаря использованию электричества греет эффективно.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Устройство для повышения температуры на базе, нагнетающее теплый воздух.\r\nБлагодаря использованию электричества греет эффективно.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_Cooler": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Cooler_TextData",
+          "SourceString": "Устройство для снижения температуры на базе, нагнетающее прохладный воздух.\r\nСильно охладить не сможет, но от небольшой жары защитит.\r\nТребуется помощь Палов льда для охлаждения.",
+          "LocalizedString": "Устройство для снижения температуры на базе, нагнетающее прохладный воздух.\r\nСильно охладить не сможет, но от небольшой жары защитит.\r\nТребуется помощь Палов льда для охлаждения."
+        }
+      },
+      "BUILDOBJECT_DESC_ElectricCooler": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ElectricCooler_TextData",
+          "SourceString": "Устройство для снижения температуры на базе, нагнетающее прохладный воздух.\r\nБлагодаря использованию электричества охлаждает эффективно.\r\nТребуется помощь Палов льда для охлаждения.",
+          "LocalizedString": "Устройство для снижения температуры на базе, нагнетающее прохладный воздух.\r\nБлагодаря использованию электричества охлаждает эффективно.\r\nТребуется помощь Палов льда для охлаждения."
+        }
+      },
+      "BUILDOBJECT_DESC_Torch": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Torch_TextData",
+          "SourceString": "Источник света, освещающий базу даже темной ночью.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Источник света, освещающий базу даже темной ночью.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_WallTorch": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WallTorch_TextData",
+          "SourceString": "Источник света, освещающий базу даже темной ночью.\r\nМожно прикрепить на стену.\r\nТребуется помощь Палов пламени для разжигания огня.",
+          "LocalizedString": "Источник света, освещающий базу даже темной ночью.\r\nМожно прикрепить на стену.\r\nТребуется помощь Палов пламени для разжигания огня."
+        }
+      },
+      "BUILDOBJECT_DESC_Lamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Lamp_TextData",
+          "SourceString": "Источник света, освещающий базу даже темной ночью.\r\nПотребляет электричество, но может освещать большую площадь.",
+          "LocalizedString": "Источник света, освещающий базу даже темной ночью.\r\nПотребляет электричество, но может освещать большую площадь."
+        }
+      },
+      "BUILDOBJECT_DESC_CeilingLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CeilingLamp_TextData",
+          "SourceString": "Источник света, освещающий базу даже темной ночью.\r\nМожно прикрепить на потолок.\r\nПотребляет электричество, но может освещать большую площадь.",
+          "LocalizedString": "Источник света, освещающий базу даже темной ночью.\r\nМожно прикрепить на потолок.\r\nПотребляет электричество, но может освещать большую площадь."
+        }
+      },
+      "BUILDOBJECT_DESC_LargeLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_LargeLamp_TextData",
+          "SourceString": "Источник света, освещающий базу даже темной ночью.\r\nПотребляет электричество, но может освещать еще большую площадь.",
+          "LocalizedString": "Источник света, освещающий базу даже темной ночью.\r\nПотребляет электричество, но может освещать еще большую площадь."
+        }
+      },
+      "BUILDOBJECT_DESC_LargeCeilingLamp": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_LargeCeilingLamp_TextData",
+          "SourceString": "Источник света, освещающий базу даже темной ночью.\r\nМожно прикрепить на потолок.\r\nПотребляет электричество, но может освещать еще большую площадь.",
+          "LocalizedString": "Источник света, освещающий базу даже темной ночью.\r\nМожно прикрепить на потолок.\r\nПотребляет электричество, но может освещать еще большую площадь."
+        }
+      },
+      "BUILDOBJECT_DESC_BuildableGoddessStatue": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BuildableGoddessStatue_TextData",
+          "SourceString": "Каменное изваяние, оставившее след в преданиях острова Палпагос.\r\nДарует чудесную силу в обмен на подношение.\r\nПредмет для подношения: <itemName id=|Relic|/>.",
+          "LocalizedString": "Каменное изваяние, оставившее след в преданиях острова Палпагос.\r\nДарует чудесную силу в обмен на подношение.\r\nПредмет для подношения: <itemName id=|Relic|/>."
+        }
+      },
+      "BUILDOBJECT_DESC_Spa": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Spa_TextData",
+          "SourceString": "Здесь уставшие Палы-работники могут отдохнуть.\r\nСнимает накопившуюся усталость и восстанавливает рассудок.",
+          "LocalizedString": "Здесь уставшие Палы-работники могут отдохнуть.\r\nСнимает накопившуюся усталость и восстанавливает рассудок."
+        }
+      },
+      "BUILDOBJECT_DESC_Spa2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Spa2_TextData",
+          "SourceString": "Здесь уставшие Палы-работники могут отдохнуть.\r\nЕще лучше восстанавливает рассудок за счет увеличенного комфорта.",
+          "LocalizedString": "Здесь уставшие Палы-работники могут отдохнуть.\r\nЕще лучше восстанавливает рассудок за счет увеличенного комфорта."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_TextData",
+          "SourceString": "Огромная стена, защищающая от вторжения внешних врагов.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Огромная стена, защищающая от вторжения внешних врагов.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Crusher": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Crusher_TextData",
+          "SourceString": "Постройка, позволяющая измельчать <itemName id=|Stone|/> и <itemName id=|Wood|/>\r\nи превращать их в другие материалы.\r\nТребуется Пал с умением ｢Полив｣ для вращения водяной мельницы.",
+          "LocalizedString": "Постройка, позволяющая измельчать <itemName id=|Stone|/> и <itemName id=|Wood|/>\r\nи превращать их в другие материалы.\r\nТребуется Пал с умением ｢Полив｣ для вращения водяной мельницы."
+        }
+      },
+      "BUILDOBJECT_DESC_WoodCrusher": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_WoodCrusher_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_FlourMill": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FlourMill_TextData",
+          "SourceString": "Постройка, где путем перемола зерна производится <itemName id=|Flour|/>.\r\nСырье: <itemName id=|Wheat|/>.\r\nТребуется Пал с умением ｢Полив｣ для вращения водяной мельницы.",
+          "LocalizedString": "Постройка, где путем перемола зерна производится <itemName id=|Flour|/>.\r\nСырье: <itemName id=|Wheat|/>.\r\nТребуется Пал с умением ｢Полив｣ для вращения водяной мельницы."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_LegHold": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_LegHold_TextData",
+          "SourceString": "Ловушка, обездвиживающая наступивших на нее Палов.\r\nШанс поимки попавших в ловушку Палов повышается.\r\nДействует только на маленьких Палов.",
+          "LocalizedString": "Ловушка, обездвиживающая наступивших на нее Палов.\r\nШанс поимки попавших в ловушку Палов повышается.\r\nДействует только на маленьких Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_LegHold_Big": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_LegHold_Big_TextData",
+          "SourceString": "Капкан для обездвиживания больших Палов.\r\nШанс поимки попавших в ловушку Палов повышается.\r\nДействует только на больших Палов.",
+          "LocalizedString": "Капкан для обездвиживания больших Палов.\r\nШанс поимки попавших в ловушку Палов повышается.\r\nДействует только на больших Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MovingPanel": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MovingPanel_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineElecShock": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineElecShock_TextData",
+          "SourceString": "Ловушка, поражающая током наступивших на нее Палов.\r\nШанс поимки пораженных током Палов повышается.",
+          "LocalizedString": "Ловушка, поражающая током наступивших на нее Палов.\r\nШанс поимки пораженных током Палов повышается."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineFreeze": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineFreeze_TextData",
+          "SourceString": "Ловушка, замораживающая наступивших на нее Палов.\r\nШанс поимки замороженных Палов повышается.",
+          "LocalizedString": "Ловушка, замораживающая наступивших на нее Палов.\r\nШанс поимки замороженных Палов повышается."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_MineAttack": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_MineAttack_TextData",
+          "SourceString": "Ловушка для Палов, взрывающаяся при активации.\r\nНаносит урон по большой площади.",
+          "LocalizedString": "Ловушка для Палов, взрывающаяся при активации.\r\nНаносит урон по большой площади."
+        }
+      },
+      "BUILDOBJECT_DESC_BreedFarm": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BreedFarm_TextData",
+          "SourceString": "Поместите сюда по одному ♂ и ♀ Палу,\r\nчтобы получить яйцо.\r\nЧтобы процесс прошел успешно, требуется <itemName id=|Cake|/>.",
+          "LocalizedString": "Поместите сюда по одному ♂ и ♀ Палу,\r\nчтобы получить яйцо.\r\nЧтобы процесс прошел успешно, требуется <itemName id=|Cake|/>."
+        }
+      },
+      "BUILDOBJECT_DESC_ToolBoxV1": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToolBoxV1_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость ручного труда.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость ручного труда.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_ToolBoxV2": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToolBoxV2_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_BaseCampWorkHard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BaseCampWorkHard_TextData",
+          "SourceString": "Позволяет регулировать темп работы Палов на базе.\r\nСледите за тем, чтобы не уморить своих работников.",
+          "LocalizedString": "Позволяет регулировать темп работы Палов на базе.\r\nСледите за тем, чтобы не уморить своих работников."
+        }
+      },
+      "BUILDOBJECT_DESC_OlympicCauldron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_OlympicCauldron_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость разжигания огня.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость разжигания огня.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_Fountain": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Fountain_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость полива.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость полива.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_Silo": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Silo_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость посева семян.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость посева семян.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_TransmissionTower": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TransmissionTower_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость выработки электричества.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость выработки электричества.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_FlowerBed": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_FlowerBed_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость сбора.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость сбора.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_Stump": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stump_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость рубки деревьев.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость рубки деревьев.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_MiningTool": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MiningTool_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость добычи ископаемых.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость добычи ископаемых.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_Cauldron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Cauldron_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость производства снадобий.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость производства снадобий.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_Snowman": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Snowman_TextData",
+          "SourceString": "Разместите на базе,\r\nчтобы повысить скорость охлаждения.\r\nЭффект от нескольких построек не суммируется.",
+          "LocalizedString": "Разместите на базе,\r\nчтобы повысить скорость охлаждения.\r\nЭффект от нескольких построек не суммируется."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_DoorWall_TextData",
+          "SourceString": "Входная дверь. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Входная дверь. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_DoorWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_DoorWall_TextData",
+          "SourceString": "Входная дверь. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Входная дверь. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_CoolerBox": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CoolerBox_TextData",
+          "SourceString": "Небольшой контейнер для хранения продуктов.\r\nПрикрепите сюда ледяного Пала,\r\nчтобы замедлить порчу продуктов.",
+          "LocalizedString": "Небольшой контейнер для хранения продуктов.\r\nПрикрепите сюда ледяного Пала,\r\nчтобы замедлить порчу продуктов."
+        }
+      },
+      "BUILDOBJECT_DESC_Refrigerator": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Refrigerator_TextData",
+          "SourceString": "Большой контейнер для хранения продуктов.\r\nПрикрепите сюда ледяного Пала,\r\nчтобы замедлить порчу продуктов.",
+          "LocalizedString": "Большой контейнер для хранения продуктов.\r\nПрикрепите сюда ледяного Пала,\r\nчтобы замедлить порчу продуктов."
+        }
+      },
+      "BUILDOBJECT_DESC_MonsterFarm": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MonsterFarm_TextData",
+          "SourceString": "Пастбище для выпаса Палов-овец и Палов-куриц.\r\nПрикрепите сюда Палов с особым навыком спутника,\r\nи они будут производить предметы.",
+          "LocalizedString": "Пастбище для выпаса Палов-овец и Палов-куриц.\r\nПрикрепите сюда Палов с особым навыком спутника,\r\nи они будут производить предметы."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_Gate_TextData",
+          "SourceString": "Ворота, через которые могут пройти даже большие Палы.\r\nНепрочные, поскольку сделаны из дерева.",
+          "LocalizedString": "Ворота, через которые могут пройти даже большие Палы.\r\nНепрочные, поскольку сделаны из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_Gate_TextData",
+          "SourceString": "Ворота, через которые могут пройти даже большие Палы.\r\nДовольно прочные, поскольку сделаны из камня.",
+          "LocalizedString": "Ворота, через которые могут пройти даже большие Палы.\r\nДовольно прочные, поскольку сделаны из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_Gate": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_Gate_TextData",
+          "SourceString": "Ворота, через которые могут пройти даже большие Палы.\r\nОчень прочные, поскольку сделаны из металла.",
+          "LocalizedString": "Ворота, через которые могут пройти даже большие Палы.\r\nОчень прочные, поскольку сделаны из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Trap_Noose": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Trap_Noose_TextData",
+          "SourceString": "Ловушка для ловли проходящих мимо Палов.\r\nШанс поимки попавших в ловушку Палов повышается.\r\nДействует только на маленьких Палов.",
+          "LocalizedString": "Ловушка для ловли проходящих мимо Палов.\r\nШанс поимки попавших в ловушку Палов повышается.\r\nДействует только на маленьких Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_RepairBench": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_RepairBench_TextData",
+          "SourceString": "Верстак для починки сломанных предметов.\r\nРемонт расходует материалы.",
+          "LocalizedString": "Верстак для починки сломанных предметов.\r\nРемонт расходует материалы."
+        }
+      },
+      "BUILDOBJECT_DESC_DamagedScarecrow": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DamagedScarecrow_TextData",
+          "SourceString": "Чучело для тренировок, сделанное в виде Пала <characterName id=|Penguin|/>.\r\nМожно разместить только в просторном месте.",
+          "LocalizedString": "Чучело для тренировок, сделанное в виде Пала <characterName id=|Penguin|/>.\r\nМожно разместить только в просторном месте."
+        }
+      },
+      "BUILDOBJECT_DESC_Signboard": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Signboard_TextData",
+          "SourceString": "Доска, на которой можно писать.\r\nИспользуйте для заметок и общения.",
+          "LocalizedString": "Доска, на которой можно писать.\r\nИспользуйте для заметок и общения."
+        }
+      },
+      "BUILDOBJECT_DESC_BaseCampBattleDirector": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BaseCampBattleDirector_TextData",
+          "SourceString": "Колокол для перевода Палов на базе в состояние тревоги.\r\nВы можете переключаться между режимом обороны и\r\nрежимом работы в любое время.",
+          "LocalizedString": "Колокол для перевода Палов на базе в состояние тревоги.\r\nВы можете переключаться между режимом обороны и\r\nрежимом работы в любое время."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_Wood_TextData",
+          "SourceString": "Огромная стена, защищающая от вторжения внешних врагов.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Огромная стена, защищающая от вторжения внешних врагов.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_DefenseWall_Metal": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_DefenseWall_Metal_TextData",
+          "SourceString": "Огромная стена, защищающая от вторжения внешних врагов.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Огромная стена, защищающая от вторжения внешних врагов.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare_Wood_TextData",
+          "SourceString": "Декоративный квадратный стол.\r\n",
+          "LocalizedString": "Декоративный квадратный стол.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular_Wood_TextData",
+          "SourceString": "Декоративный круглый стол.\r\n",
+          "LocalizedString": "Декоративный круглый стол.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Bench_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Bench_Wood_TextData",
+          "SourceString": "Декоративная деревянная скамейка.\r\n",
+          "LocalizedString": "Декоративная деревянная скамейка.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool_Wood_TextData",
+          "SourceString": "Декоративный деревянный табурет.\r\n",
+          "LocalizedString": "Декоративный деревянный табурет.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Decal_PalSticker_PinkCat": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Decal_PalSticker_PinkCat_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool_High_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool_High_Wood_TextData",
+          "SourceString": "Декоративный деревянный барный стул.\r\n",
+          "LocalizedString": "Декоративный деревянный барный стул.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel_Wood_TextData",
+          "SourceString": "Деревянный бочонок для хранения предметов.",
+          "LocalizedString": "Деревянный бочонок для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Box_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box_Wood_TextData",
+          "SourceString": "Деревянный ящик для хранения предметов.",
+          "LocalizedString": "Деревянный ящик для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Wood_TextData",
+          "SourceString": "Деревянный стеллаж для хранения предметов.",
+          "LocalizedString": "Деревянный стеллаж для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Cask_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Cask_Wood_TextData",
+          "SourceString": "Деревянные винные полки для хранения предметов.",
+          "LocalizedString": "Деревянные винные полки для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Hang01_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Hang01_Wood_TextData",
+          "SourceString": "Деревянный стеллаж для хранения предметов.\r\nМожно прикрепить к стене.",
+          "LocalizedString": "Деревянный стеллаж для хранения предметов.\r\nМожно прикрепить к стене."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf_Hang02_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf_Hang02_Wood_TextData",
+          "SourceString": "Декоративный деревянный стеллаж.\r\nМожно прикрепить к стене.",
+          "LocalizedString": "Декоративный деревянный стеллаж.\r\nМожно прикрепить к стене."
+        }
+      },
+      "BUILDOBJECT_DESC_Counter_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Counter_Wood_TextData",
+          "SourceString": "Декоративная деревянная стойка.\r\n",
+          "LocalizedString": "Декоративная деревянная стойка.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug_Wood_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy01_TextData",
+          "SourceString": "Большая декоративная лоза.\r\nМожно прикрепить к стене.\r\n",
+          "LocalizedString": "Большая декоративная лоза.\r\nМожно прикрепить к стене.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy02_TextData",
+          "SourceString": "Небольшая декоративная лоза.\r\nМожно прикрепить к стене.\r\n",
+          "LocalizedString": "Небольшая декоративная лоза.\r\nМожно прикрепить к стене.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Ivy03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Ivy03_TextData",
+          "SourceString": "Декоративная горизонтальная лоза.\r\nМожно прикрепить к стене.\r\n",
+          "LocalizedString": "Декоративная горизонтальная лоза.\r\nМожно прикрепить к стене.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Wood": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Wood_TextData",
+          "SourceString": "Декоративный деревянный стул.\r\n",
+          "LocalizedString": "Декоративный деревянный стул.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel01_Iron_TextData",
+          "SourceString": "Декоративная красная бочка.\r\n",
+          "LocalizedString": "Декоративная красная бочка.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel02_Iron_TextData",
+          "SourceString": "Декоративная синяя бочка.\r\n",
+          "LocalizedString": "Декоративная синяя бочка.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Barrel03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Barrel03_Iron_TextData",
+          "SourceString": "Декоративная зеленая бочка.\r\n",
+          "LocalizedString": "Декоративная зеленая бочка.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Box01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box01_Iron_TextData",
+          "SourceString": "Небольшой контейнер для хранения предметов.",
+          "LocalizedString": "Небольшой контейнер для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Box02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box02_Iron_TextData",
+          "SourceString": "Обитый тканью контейнер для хранения предметов.",
+          "LocalizedString": "Обитый тканью контейнер для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_CableCoil01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_CableCoil01_Iron_TextData",
+          "SourceString": "Декоративная катушка.\r\n",
+          "LocalizedString": "Декоративная катушка.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Iron_TextData",
+          "SourceString": "Обитый кожей декоративный стул.\r\n",
+          "LocalizedString": "Обитый кожей декоративный стул.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair02_Iron_TextData",
+          "SourceString": "Декоративный железный стул.\r\n",
+          "LocalizedString": "Декоративный железный стул.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Clock01_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Clock01_Wall_Iron_TextData",
+          "SourceString": "Декоративные настенные часы.\r\nВы не сможете узнать по ним время — они сломаны.",
+          "LocalizedString": "Декоративные настенные часы.\r\nВы не сможете узнать по ним время — они сломаны."
+        }
+      },
+      "BUILDOBJECT_DESC_Container01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Container01_Iron_TextData",
+          "SourceString": "Большой контейнер для хранения предметов.\r\nВыполнен в стиле процветавшей в древности цивилизации.",
+          "LocalizedString": "Большой контейнер для хранения предметов.\r\nВыполнен в стиле процветавшей в древности цивилизации."
+        }
+      },
+      "BUILDOBJECT_DESC_GarbageBag_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_GarbageBag_Iron_TextData",
+          "SourceString": "Декоративный мешок для мусора.\r\n",
+          "LocalizedString": "Декоративный мешок для мусора.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_GoalSoccer_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_GoalSoccer_Iron_TextData",
+          "SourceString": "Декоративные футбольные ворота.\r\n<characterName id=|SheepBall|/> не поможет вам набрать счет — голы не учитываются.",
+          "LocalizedString": "Декоративные футбольные ворота.\r\n<characterName id=|SheepBall|/> не поможет вам набрать счет — голы не учитываются."
+        }
+      },
+      "BUILDOBJECT_DESC_MachineGame01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MachineGame01_Iron_TextData",
+          "SourceString": "Декоративный игровой автомат.\r\nПоиграть в него не удастся — он сломан.",
+          "LocalizedString": "Декоративный игровой автомат.\r\nПоиграть в него не удастся — он сломан."
+        }
+      },
+      "BUILDOBJECT_DESC_MachineVending01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_MachineVending01_Iron_TextData",
+          "SourceString": "Декоративный торговый автомат с колой.\r\nНичего не продает.",
+          "LocalizedString": "Декоративный торговый автомат с колой.\r\nНичего не продает."
+        }
+      },
+      "BUILDOBJECT_DESC_PipeClay01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_PipeClay01_Iron_TextData",
+          "SourceString": "Декоративная глиняная труба.\r\n",
+          "LocalizedString": "Декоративная глиняная труба.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Iron_TextData",
+          "SourceString": "Металлический стеллаж для хранения предметов.",
+          "LocalizedString": "Металлический стеллаж для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf02_Iron_TextData",
+          "SourceString": "Длинный металлический стеллаж для хранения предметов.",
+          "LocalizedString": "Длинный металлический стеллаж для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf03_Iron_TextData",
+          "SourceString": "Оранжевый шкафчик для хранения предметов.\r\nОбклеен наклейками с Палами.",
+          "LocalizedString": "Оранжевый шкафчик для хранения предметов.\r\nОбклеен наклейками с Палами."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf04_Iron_TextData",
+          "SourceString": "Шкафчик для хранения предметов.\r\nОбклеен наклейками с Палами.",
+          "LocalizedString": "Шкафчик для хранения предметов.\r\nОбклеен наклейками с Палами."
+        }
+      },
+      "BUILDOBJECT_DESC_SignExit_Ceiling_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SignExit_Ceiling_Iron_TextData",
+          "SourceString": "Декоративный знак |Аварийный выход|.\r\nМожно прикрепить к потолку.\r\n",
+          "LocalizedString": "Декоративный знак |Аварийный выход|.\r\nМожно прикрепить к потолку.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_SignExit_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_SignExit_Wall_Iron_TextData",
+          "SourceString": "Декоративный знак |Аварийный выход|.\r\nМожно прикрепить к стене.\r\n",
+          "LocalizedString": "Декоративный знак |Аварийный выход|.\r\nМожно прикрепить к стене.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa01_Iron_TextData",
+          "SourceString": "Обитый кожей декоративный диван для одного.\r\n",
+          "LocalizedString": "Обитый кожей декоративный диван для одного.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa02_Iron_TextData",
+          "SourceString": "Обитый кожей декоративный диван для двоих.\r\n",
+          "LocalizedString": "Обитый кожей декоративный диван для двоих.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool01_Iron_TextData",
+          "SourceString": "Декоративный металлический табурет.\r\n",
+          "LocalizedString": "Декоративный металлический табурет.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular01_Iron_TextData",
+          "SourceString": "Декоративный круглый стол из металла.\r\n",
+          "LocalizedString": "Декоративный круглый стол из металла.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSide01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSide01_Iron_TextData",
+          "SourceString": "Декоративный боковой столик из железного дерева.\r\n",
+          "LocalizedString": "Декоративный боковой столик из железного дерева.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare01_Iron_TextData",
+          "SourceString": "Декоративный стол из железного дерева.\r\n",
+          "LocalizedString": "Декоративный стол из железного дерева.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSquare02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSquare02_Iron_TextData",
+          "SourceString": "Декоративный низкий стол из железного дерева.\r\n",
+          "LocalizedString": "Декоративный низкий стол из железного дерева.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Tire01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Tire01_Iron_TextData",
+          "SourceString": "Декоративная шина.\r\n",
+          "LocalizedString": "Декоративная шина.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade01_Iron_TextData",
+          "SourceString": "Декоративное заграждение.\r\n",
+          "LocalizedString": "Декоративное заграждение.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade02_Iron_TextData",
+          "SourceString": "Декоративное оранжевое заграждение.\r\n",
+          "LocalizedString": "Декоративное оранжевое заграждение.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade03_Iron_TextData",
+          "SourceString": "Декоративное красное железное заграждение.\r\n",
+          "LocalizedString": "Декоративное красное железное заграждение.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade04_Iron_TextData",
+          "SourceString": "Декоративное белое железное заграждение.\r\n",
+          "LocalizedString": "Декоративное белое железное заграждение.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficBarricade05_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficBarricade05_Iron_TextData",
+          "SourceString": "Декоративный металлический забор.\r\n",
+          "LocalizedString": "Декоративный металлический забор.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone01_Iron_TextData",
+          "SourceString": "Декоративный конус.\r\n",
+          "LocalizedString": "Декоративный конус.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone02_Iron_TextData",
+          "SourceString": "Декоративный толстый дорожный конус.\r\n",
+          "LocalizedString": "Декоративный толстый дорожный конус.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficCone03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficCone03_Iron_TextData",
+          "SourceString": "Декоративный тонкий дорожный конус.\r\n",
+          "LocalizedString": "Декоративный тонкий дорожный конус.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficLight01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficLight01_Iron_TextData",
+          "SourceString": "Декоративный светофор.\r\n",
+          "LocalizedString": "Декоративный светофор.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_BathTub_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_BathTub_Stone_TextData",
+          "SourceString": "Декоративная антикварная ванна.\r\n",
+          "LocalizedString": "Декоративная антикварная ванна.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Box01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Box01_Stone_TextData",
+          "SourceString": "Декоративная антикварная плетеная корзина.\r\n",
+          "LocalizedString": "Декоративная антикварная плетеная корзина.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Stone_TextData",
+          "SourceString": "Декоративный антикварный стул из дерева.\r\n",
+          "LocalizedString": "Декоративный антикварный стул из дерева.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Chair02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair02_Stone_TextData",
+          "SourceString": "Декоративный зеленый антикварный стул из дерева.\r\n",
+          "LocalizedString": "Декоративный зеленый антикварный стул из дерева.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Clock01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Clock01_Stone_TextData",
+          "SourceString": "Декоративные антикварные часы с маятником.\r\nВы не сможете узнать по ним время — они сломаны.",
+          "LocalizedString": "Декоративные антикварные часы с маятником.\r\nВы не сможете узнать по ним время — они сломаны."
+        }
+      },
+      "BUILDOBJECT_DESC_Curtain01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Curtain01_Wall_Stone_TextData",
+          "SourceString": "Декоративные антикварные занавески.\r\nМожно прикрепить к стене.\r\n",
+          "LocalizedString": "Декоративные антикварные занавески.\r\nМожно прикрепить к стене.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Desk01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Desk01_Stone_TextData",
+          "SourceString": "Декоративный антикварный письменный стол.\r\n",
+          "LocalizedString": "Декоративный антикварный письменный стол.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Globe01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Globe01_Stone_TextData",
+          "SourceString": "Декоративный антикварный макет земного шара.\r\n",
+          "LocalizedString": "Декоративный антикварный макет земного шара.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror01_Stone_TextData",
+          "SourceString": "Декоративное антикварное зеркало овальной формы.\r\n",
+          "LocalizedString": "Декоративное антикварное зеркало овальной формы.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror02_Stone_TextData",
+          "SourceString": "Декоративное антикварное зеркало.\r\n",
+          "LocalizedString": "Декоративное антикварное зеркало.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Mirror01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Mirror01_Wall_Stone_TextData",
+          "SourceString": "Декоративное антикварное настенное зеркало.\r\nМожно прикрепить к стене.\r\n",
+          "LocalizedString": "Декоративное антикварное настенное зеркало.\r\nМожно прикрепить к стене.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Partition_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Partition_Stone_TextData",
+          "SourceString": "Декоративная антикварная ширма.\r\n",
+          "LocalizedString": "Декоративная антикварная ширма.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Piano01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Piano01_Stone_TextData",
+          "SourceString": "Декоративный рояль.\r\nСыграть на нем не получится.",
+          "LocalizedString": "Декоративный рояль.\r\nСыграть на нем не получится."
+        }
+      },
+      "BUILDOBJECT_DESC_Piano02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Piano02_Stone_TextData",
+          "SourceString": "Декоративное пианино.\r\nСыграть на нем не получится.",
+          "LocalizedString": "Декоративное пианино.\r\nСыграть на нем не получится."
+        }
+      },
+      "BUILDOBJECT_DESC_Rug01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug01_Stone_TextData",
+          "SourceString": "Декоративный антикварный ковер.\r\n",
+          "LocalizedString": "Декоративный антикварный ковер.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug02_Stone_TextData",
+          "SourceString": "Декоративный красный антикварный ковер.\r\n",
+          "LocalizedString": "Декоративный красный антикварный ковер.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug03_Stone_TextData",
+          "SourceString": "Декоративный зеленый антикварный ковер.\r\n",
+          "LocalizedString": "Декоративный зеленый антикварный ковер.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Rug04_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Rug04_Stone_TextData",
+          "SourceString": "Декоративный узкий антикварный ковер.\r\n",
+          "LocalizedString": "Декоративный узкий антикварный ковер.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Stone_TextData",
+          "SourceString": "Антикварный книжный шкаф для хранения предметов.",
+          "LocalizedString": "Антикварный книжный шкаф для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf02_Stone_TextData",
+          "SourceString": "Антикварный гардероб для хранения предметов.",
+          "LocalizedString": "Антикварный гардероб для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf03_Stone_TextData",
+          "SourceString": "Антикварный сундук для хранения предметов.\r\nУкрашен фотографиями Палов.",
+          "LocalizedString": "Антикварный сундук для хранения предметов.\r\nУкрашен фотографиями Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf04_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf04_Stone_TextData",
+          "SourceString": "Антикварная тумба для хранения предметов.\r\nУкрашена фотографиями Палов.",
+          "LocalizedString": "Антикварная тумба для хранения предметов.\r\nУкрашена фотографиями Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf05_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf05_Stone_TextData",
+          "SourceString": "Антикварный комод для хранения предметов.",
+          "LocalizedString": "Антикварный комод для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf06_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf06_Stone_TextData",
+          "SourceString": "Антикварный комод продолговатой формы для хранения предметов.\r\nУкрашен фотографиями Палов.",
+          "LocalizedString": "Антикварный комод продолговатой формы для хранения предметов.\r\nУкрашен фотографиями Палов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf07_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf07_Stone_TextData",
+          "SourceString": "Большой антикварный комод для хранения предметов.",
+          "LocalizedString": "Большой антикварный комод для хранения предметов."
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Wall_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Wall_Stone_TextData",
+          "SourceString": "Антикварный комод для хранения предметов.\r\nМожно прикрепить к стене.",
+          "LocalizedString": "Антикварный комод для хранения предметов.\r\nМожно прикрепить к стене."
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa01_Stone_TextData",
+          "SourceString": "Декоративный антикварный диван для одного.\r\n",
+          "LocalizedString": "Декоративный антикварный диван для одного.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa02_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa02_Stone_TextData",
+          "SourceString": "Декоративный антикварный диван для двоих.\r\n",
+          "LocalizedString": "Декоративный антикварный диван для двоих.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Sofa03_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Sofa03_Stone_TextData",
+          "SourceString": "Декоративная антикварная оттоманка.\r\n",
+          "LocalizedString": "Декоративная антикварная оттоманка.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stool01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stool01_Stone_TextData",
+          "SourceString": "Декоративный антикварный табурет.\r\n",
+          "LocalizedString": "Декоративный антикварный табурет.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Stove01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stove01_Stone_TextData",
+          "SourceString": "Декоративный антикварный обогреватель.\r\n",
+          "LocalizedString": "Декоративный антикварный обогреватель.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableCircular01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableCircular01_Stone_TextData",
+          "SourceString": "Декоративный круглый антикварный стол.\r\n",
+          "LocalizedString": "Декоративный круглый антикварный стол.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableDresser01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableDresser01_Stone_TextData",
+          "SourceString": "Декоративный антикварный туалетный столик.\r\n",
+          "LocalizedString": "Декоративный антикварный туалетный столик.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TableSink01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TableSink01_Stone_TextData",
+          "SourceString": "Декоративный антикварный умывальник.\r\n",
+          "LocalizedString": "Декоративный антикварный умывальник.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Toilet01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Toilet01_Stone_TextData",
+          "SourceString": "Декоративный антикварный унитаз.\r\nПо назначению не использовать.",
+          "LocalizedString": "Декоративный антикварный унитаз.\r\nПо назначению не использовать."
+        }
+      },
+      "BUILDOBJECT_DESC_ToiletHolder01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_ToiletHolder01_Stone_TextData",
+          "SourceString": "Декоративный антикварный держатель для туалетной бумаги.\r\n",
+          "LocalizedString": "Декоративный антикварный держатель для туалетной бумаги.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_TowlRack01_Stone": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TowlRack01_Stone_TextData",
+          "SourceString": "Декоративный антикварный держатель для полотенец.\r\n",
+          "LocalizedString": "Декоративный антикварный держатель для полотенец.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant01_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant01_Plant_TextData",
+          "SourceString": "Декоративное растение для украшения интерьера.\r\n",
+          "LocalizedString": "Декоративное растение для украшения интерьера.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant02_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant02_Plant_TextData",
+          "SourceString": "Декоративное растение на стуле для украшения интерьера.\r\n",
+          "LocalizedString": "Декоративное растение на стуле для украшения интерьера.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant03_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant03_Plant_TextData",
+          "SourceString": "Декоративное растение на стол для украшения интерьера.\r\n",
+          "LocalizedString": "Декоративное растение на стол для украшения интерьера.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Plant04_Plant": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Plant04_Plant_TextData",
+          "SourceString": "Декоративное растение в горшке для украшения интерьера.\r\n",
+          "LocalizedString": "Декоративное растение в горшке для украшения интерьера.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FloorLamp01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FloorLamp01_TextData",
+          "SourceString": "Бежевая антикварная напольная лампа для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Бежевая антикварная напольная лампа для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FloorLamp02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FloorLamp02_TextData",
+          "SourceString": "Красная антикварная напольная лампа для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Красная антикварная напольная лампа для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole01_TextData",
+          "SourceString": "Простой уличный фонарь для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Простой уличный фонарь для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole02_TextData",
+          "SourceString": "Двойной уличный фонарь для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Двойной уличный фонарь для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole03": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole03_TextData",
+          "SourceString": "Старомодный уличный фонарь для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Старомодный уличный фонарь для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_LightPole04": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_LightPole04_TextData",
+          "SourceString": "Роскошный уличный фонарь для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Роскошный уличный фонарь для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FirePlace01": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FirePlace01_TextData",
+          "SourceString": "Кирпичный камин, служащий источником света.\r\nДля разжигания огня требуется огненный Пал.",
+          "LocalizedString": "Кирпичный камин, служащий источником света.\r\nДля разжигания огня требуется огненный Пал."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_FirePlace02": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_FirePlace02_TextData",
+          "SourceString": "Камин, служащий источником света.\r\nДля разжигания огня требуется огненный Пал.",
+          "LocalizedString": "Камин, служащий источником света.\r\nДля разжигания огня требуется огненный Пал."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_CandleSticks_Top": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_CandleSticks_Top_TextData",
+          "SourceString": "Канделябр для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Канделябр для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Light_CandleSticks_Wall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Light_CandleSticks_Wall_TextData",
+          "SourceString": "Настенная лампа для освещения.\r\nДля работы требуется электроэнергия.",
+          "LocalizedString": "Настенная лампа для освещения.\r\nДля работы требуется электроэнергия."
+        }
+      },
+      "BUILDOBJECT_DESC_Television01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Television01_Iron_TextData",
+          "SourceString": "Декоративный старый телевизор.\r\nСейчас этот артефакт древней цивилизации\r\nпоказывает лишь изображения Пенгуллетов.",
+          "LocalizedString": "Декоративный старый телевизор.\r\nСейчас этот артефакт древней цивилизации\r\nпоказывает лишь изображения Пенгуллетов."
+        }
+      },
+      "BUILDOBJECT_DESC_Desk01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Desk01_Iron_TextData",
+          "SourceString": "Декоративный письменный стол из металла.\r\n",
+          "LocalizedString": "Декоративный письменный стол из металла.\r\n"
+        }
+      },
+      "BUILDOBJECT_DESC_Shelf01_Wall_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Shelf01_Wall_Iron_TextData",
+          "SourceString": "Металлическая навесная полка для хранения предметов.\r\nМожно прикрепить к стене.",
+          "LocalizedString": "Металлическая навесная полка для хранения предметов.\r\nМожно прикрепить к стене."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign01_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign01_Iron_TextData",
+          "SourceString": "Декоративный дорожный знак |Проход для Палов запрещен|.\r\nИспользовался в древние времена, но сейчас пришел в негодность.",
+          "LocalizedString": "Декоративный дорожный знак |Проход для Палов запрещен|.\r\nИспользовался в древние времена, но сейчас пришел в негодность."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign02_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign02_Iron_TextData",
+          "SourceString": "Декоративный дорожный знак |Стоп|.\r\nИспользовался в древние времена, но сейчас пришел в негодность.",
+          "LocalizedString": "Декоративный дорожный знак |Стоп|.\r\nИспользовался в древние времена, но сейчас пришел в негодность."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign03_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign03_Iron_TextData",
+          "SourceString": "Декоративный предупредительный знак |Осторожно, Иктирдир!|.\r\nВо времена древней цивилизации были нередки\r\nстолкновения Иктирдиров с другими Палами.",
+          "LocalizedString": "Декоративный предупредительный знак |Осторожно, Иктирдир!|.\r\nВо времена древней цивилизации были нередки\r\nстолкновения Иктирдиров с другими Палами."
+        }
+      },
+      "BUILDOBJECT_DESC_TrafficSign04_Iron": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_TrafficSign04_Iron_TextData",
+          "SourceString": "Декоративный предупредительный знак |Осторожно, Мамморест!|.\r\nВо времена древней цивилизации было много\r\nслучаев гибели пострадавших от гнева Маммореста.",
+          "LocalizedString": "Декоративный предупредительный знак |Осторожно, Мамморест!|.\r\nВо времена древней цивилизации было много\r\nслучаев гибели пострадавших от гнева Маммореста."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_WindowWall_TextData",
+          "SourceString": "Стена с окном, защищающая от вторжения врагов. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Стена с окном, защищающая от вторжения врагов. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_WindowWall_TextData",
+          "SourceString": "Стена с окном, защищающая от вторжения врагов. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Стена с окном, защищающая от вторжения врагов. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_WindowWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_WindowWall_TextData",
+          "SourceString": "Стена с окном, защищающая от вторжения врагов. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Стена с окном, защищающая от вторжения врагов. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_TriangleWall_TextData",
+          "SourceString": "Треугольная стена, защищающая от вторжения врагов. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Треугольная стена, защищающая от вторжения врагов. Ставится на фундамент.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_TriangleWall_TextData",
+          "SourceString": "Треугольная стена, защищающая от вторжения врагов. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Треугольная стена, защищающая от вторжения врагов. Ставится на фундамент.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_TriangleWall": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_TriangleWall_TextData",
+          "SourceString": "Треугольная стена, защищающая от вторжения врагов. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Треугольная стена, защищающая от вторжения врагов. Ставится на фундамент.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Wood_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Wood_SlantedRoof_TextData",
+          "SourceString": "Наклонная крыша, защищающая от непогоды. Строится поверх стен.\r\nНепрочная, поскольку сделана из дерева.",
+          "LocalizedString": "Наклонная крыша, защищающая от непогоды. Строится поверх стен.\r\nНепрочная, поскольку сделана из дерева."
+        }
+      },
+      "BUILDOBJECT_DESC_Stone_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Stone_SlantedRoof_TextData",
+          "SourceString": "Наклонная крыша, защищающая от непогоды. Строится поверх стен.\r\nДовольно прочная, поскольку сделана из камня.",
+          "LocalizedString": "Наклонная крыша, защищающая от непогоды. Строится поверх стен.\r\nДовольно прочная, поскольку сделана из камня."
+        }
+      },
+      "BUILDOBJECT_DESC_Metal_SlantedRoof": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Metal_SlantedRoof_TextData",
+          "SourceString": "Наклонная крыша, защищающая от непогоды. Строится поверх стен.\r\nОчень прочная, поскольку сделана из металла.",
+          "LocalizedString": "Наклонная крыша, защищающая от непогоды. Строится поверх стен.\r\nОчень прочная, поскольку сделана из металла."
+        }
+      },
+      "BUILDOBJECT_DESC_Chair01_Pal": {
+        "TextData": {
+          "Namespace": "DT_BuildObjectDescText",
+          "Key": "BUILDOBJECT_DESC_Chair01_Pal_TextData",
+          "SourceString": "Симпатичный стул для украшения интерьера.",
+          "LocalizedString": "Симпатичный стул для украшения интерьера."
+        }
+      }
+    }
+  }
+]

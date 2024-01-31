@@ -1,0 +1,479 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_WorldMap_Common_Text",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "REGION_Grass_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_TextData",
+          "SourceString": "바람 부는 언덕",
+          "LocalizedString": "바람 부는 언덕"
+        }
+      },
+      "REGION_Grass_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_2_TextData",
+          "SourceString": "대나무숲 계곡",
+          "LocalizedString": "대나무숲 계곡"
+        }
+      },
+      "REGION_Forest_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_1_TextData",
+          "SourceString": "이지러진 달의 호숫가",
+          "LocalizedString": "이지러진 달의 호숫가"
+        }
+      },
+      "REGION_Forest_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_2_TextData",
+          "SourceString": "신록의 계류",
+          "LocalizedString": "신록의 계류"
+        }
+      },
+      "REGION_Volcano_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_1_TextData",
+          "SourceString": "흑요 화산",
+          "LocalizedString": "흑요 화산"
+        }
+      },
+      "REGION_Desert_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_1_TextData",
+          "SourceString": "갈증의 모래 언덕",
+          "LocalizedString": "갈증의 모래 언덕"
+        }
+      },
+      "REGION_Frost_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_1_TextData",
+          "SourceString": "백은의 영봉",
+          "LocalizedString": "백은의 영봉"
+        }
+      },
+      "REGION_Frost_small": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_small_TextData",
+          "SourceString": "얼어붙은 산",
+          "LocalizedString": "얼어붙은 산"
+        }
+      },
+      "REGION_Desert_Small": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_Small_TextData",
+          "SourceString": "황혼의 모래벌판",
+          "LocalizedString": "황혼의 모래벌판"
+        }
+      },
+      "REGION_Grass_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_Boss_TextData",
+          "SourceString": "레인 밀렵단의 탑",
+          "LocalizedString": "레인 밀렵단의 탑"
+        }
+      },
+      "REGION_Forest_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_Boss_TextData",
+          "SourceString": "팰 애호 단체의 탑",
+          "LocalizedString": "팰 애호 단체의 탑"
+        }
+      },
+      "REGION_Desert_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_Boss_TextData",
+          "SourceString": "자경단의 탑",
+          "LocalizedString": "자경단의 탑"
+        }
+      },
+      "REGION_Volcano_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_Boss_TextData",
+          "SourceString": "영원한 불꽃의 동지의 탑",
+          "LocalizedString": "영원한 불꽃의 동지의 탑"
+        }
+      },
+      "REGION_Frost_Boss": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Frost_Boss_TextData",
+          "SourceString": "유전자 연구 부대의 탑",
+          "LocalizedString": "유전자 연구 부대의 탑"
+        }
+      },
+      "REGION_TEST_CHICKEN": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_TEST_CHICKEN_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "REGION_Grass_1_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_Church_TextData",
+          "SourceString": "쇠락한 교회",
+          "LocalizedString": "쇠락한 교회"
+        }
+      },
+      "REGION_Grass_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Grass_1_Village_TextData",
+          "SourceString": "작은 부락",
+          "LocalizedString": "작은 부락"
+        }
+      },
+      "REGION_Desert_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Desert_1_Village_TextData",
+          "SourceString": "사막 마을",
+          "LocalizedString": "사막 마을"
+        }
+      },
+      "REGION_Volcano_1_Village": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Volcano_1_Village_TextData",
+          "SourceString": "끝자락 어촌",
+          "LocalizedString": "끝자락 어촌"
+        }
+      },
+      "REGION_Preserve1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve1_TextData",
+          "SourceString": "제1 사냥 금지 구역",
+          "LocalizedString": "제1 사냥 금지 구역"
+        }
+      },
+      "REGION_Preserve2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve2_TextData",
+          "SourceString": "제2 사냥 금지 구역",
+          "LocalizedString": "제2 사냥 금지 구역"
+        }
+      },
+      "REGION_Preserve3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Preserve3_TextData",
+          "SourceString": "제3 사냥 금지 구역",
+          "LocalizedString": "제3 사냥 금지 구역"
+        }
+      },
+      "REGION_Statue1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue1_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "REGION_Statue2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue2_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "REGION_Statue3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Statue3_TextData",
+          "SourceString": "ko_Text",
+          "LocalizedString": "ko_Text"
+        }
+      },
+      "REGION_Forest_Ruin": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_Forest_Ruin_TextData",
+          "SourceString": "오래된 제사장",
+          "LocalizedString": "오래된 제사장"
+        }
+      },
+      "REGION_FixedDungeon_grass_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_1_TextData",
+          "SourceString": "빙조의 영역",
+          "LocalizedString": "빙조의 영역"
+        }
+      },
+      "REGION_FixedDungeon_grass_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_2_TextData",
+          "SourceString": "검호의 영역",
+          "LocalizedString": "검호의 영역"
+        }
+      },
+      "REGION_FixedDungeon_grass_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_3_TextData",
+          "SourceString": "익룡의 영역",
+          "LocalizedString": "익룡의 영역"
+        }
+      },
+      "REGION_FixedDungeon_grass_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_4_TextData",
+          "SourceString": "천둥용의 영역",
+          "LocalizedString": "천둥용의 영역"
+        }
+      },
+      "REGION_FixedDungeon_grass_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_5_TextData",
+          "SourceString": "어둠의 영역",
+          "LocalizedString": "어둠의 영역"
+        }
+      },
+      "REGION_FixedDungeon_grass_6": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_6_TextData",
+          "SourceString": "대담함의 영역",
+          "LocalizedString": "대담함의 영역"
+        }
+      },
+      "REGION_FixedDungeon_grass_7": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_grass_7_TextData",
+          "SourceString": "신비의 영역",
+          "LocalizedString": "신비의 영역"
+        }
+      },
+      "REGION_FixedDungeon_forest_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_1_TextData",
+          "SourceString": "강직함의 영역",
+          "LocalizedString": "강직함의 영역"
+        }
+      },
+      "REGION_FixedDungeon_forest_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_2_TextData",
+          "SourceString": "정령의 영역",
+          "LocalizedString": "정령의 영역"
+        }
+      },
+      "REGION_FixedDungeon_forest_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_3_TextData",
+          "SourceString": "신속의 영역",
+          "LocalizedString": "신속의 영역"
+        }
+      },
+      "REGION_FixedDungeon_forest_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_4_TextData",
+          "SourceString": "수호자의 영역",
+          "LocalizedString": "수호자의 영역"
+        }
+      },
+      "REGION_FixedDungeon_forest_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_FixedDungeon_forest_5_TextData",
+          "SourceString": "순백의 영역",
+          "LocalizedString": "순백의 영역"
+        }
+      },
+      "REGION_UndergroundCave_grass01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass01_TextData",
+          "SourceString": "폐기된 갱도",
+          "LocalizedString": "폐기된 갱도"
+        }
+      },
+      "REGION_UndergroundCave_grass02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass02_TextData",
+          "SourceString": "얕은 여울의 갱도",
+          "LocalizedString": "얕은 여울의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_grass03": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass03_TextData",
+          "SourceString": "폭포 뒤의 갱도",
+          "LocalizedString": "폭포 뒤의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_grass04": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_grass04_TextData",
+          "SourceString": "후미진 갱도",
+          "LocalizedString": "후미진 갱도"
+        }
+      },
+      "REGION_UndergroundCave_forest01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_forest01_TextData",
+          "SourceString": "신앙자의 갱도",
+          "LocalizedString": "신앙자의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_dessert01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert01_TextData",
+          "SourceString": "갈증의 갱도",
+          "LocalizedString": "갈증의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_dessert02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert02_TextData",
+          "SourceString": "비밀의 갱도",
+          "LocalizedString": "비밀의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_dessert03": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_dessert03_TextData",
+          "SourceString": "땅 끝 갱도",
+          "LocalizedString": "땅 끝 갱도"
+        }
+      },
+      "REGION_UndergroundCave_volcano01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_volcano01_TextData",
+          "SourceString": "작열의 갱도",
+          "LocalizedString": "작열의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_volcano02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_volcano02_TextData",
+          "SourceString": "파멸의 갱도",
+          "LocalizedString": "파멸의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_snow01": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_snow01_TextData",
+          "SourceString": "빙산의 갱도",
+          "LocalizedString": "빙산의 갱도"
+        }
+      },
+      "REGION_UndergroundCave_snow02": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_UndergroundCave_snow02_TextData",
+          "SourceString": "잊힌 갱도",
+          "LocalizedString": "잊힌 갱도"
+        }
+      },
+      "REGION_PvP_1": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_1_TextData",
+          "SourceString": "바닷바람 군도",
+          "LocalizedString": "바닷바람 군도"
+        }
+      },
+      "REGION_PvP_2": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_2_TextData",
+          "SourceString": "잊힌 섬",
+          "LocalizedString": "잊힌 섬"
+        }
+      },
+      "REGION_PvP_3": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_3_TextData",
+          "SourceString": "찬 바람이 부는 섬",
+          "LocalizedString": "찬 바람이 부는 섬"
+        }
+      },
+      "REGION_PvP_4": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_4_TextData",
+          "SourceString": "동쪽의 황량한 섬",
+          "LocalizedString": "동쪽의 황량한 섬"
+        }
+      },
+      "REGION_PvP_5": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_5_TextData",
+          "SourceString": "습원지 섬",
+          "LocalizedString": "습원지 섬"
+        }
+      },
+      "REGION_PvP_1_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_1_Church_TextData",
+          "SourceString": "바닷바람 군도의 교회",
+          "LocalizedString": "바닷바람 군도의 교회"
+        }
+      },
+      "REGION_PvP_2_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_2_Church_TextData",
+          "SourceString": "잊힌 섬의 교회 유적지",
+          "LocalizedString": "잊힌 섬의 교회 유적지"
+        }
+      },
+      "REGION_PvP_3_Church": {
+        "TextData": {
+          "Namespace": "DT_WorldMap_Common_Text",
+          "Key": "REGION_PvP_3_Church_TextData",
+          "SourceString": "습원지의 교회 유적지",
+          "LocalizedString": "습원지의 교회 유적지"
+        }
+      }
+    }
+  }
+]

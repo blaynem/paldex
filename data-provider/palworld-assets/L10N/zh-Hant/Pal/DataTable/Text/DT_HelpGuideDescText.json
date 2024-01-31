@@ -1,0 +1,343 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HelpGuideDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "Help_1": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_1_TextData",
+          "SourceString": "操作方法（鍵盤）\r\n\r\n鼠標 控製攝像頭\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/> 移動\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/> 投擲帕魯\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/> 投擲帕魯球\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/> 建築菜單\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/> 跳躍\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/> 瞄準\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/> 攻擊\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/> 夥伴技能\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/> 重新裝填\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/> 武器切換\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/> 下蹲\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/> 翻滾\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/> 沖刺\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/> 帕魯指令\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/> 切換帕魯\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/> 切換帕魯球",
+          "LocalizedString": "操作方法（鍵盤）\r\n\r\n鼠標 控製攝像頭\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/> 移動\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/> 投擲帕魯\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/> 投擲帕魯球\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/> 建築菜單\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/> 跳躍\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/> 瞄準\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/> 攻擊\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/> 夥伴技能\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/> 重新裝填\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/> 武器切換\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/> 下蹲\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/> 翻滾\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/> 沖刺\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/> 帕魯指令\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/> 切換帕魯\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/> 切換帕魯球"
+        }
+      },
+      "Help_2": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_2_TextData",
+          "SourceString": "操作方法（控製器）\r\n左搖桿 移動\r\n右搖桿 攝像頭操作\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> 投擲帕魯\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> 投擲帕魯球\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> 建造菜單\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> 跳躍\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> 瞄準\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> 攻擊\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> 夥伴技能\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|2|/> 切換武器\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> 下蹲/翻滾\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> 沖刺\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> 帕魯指令\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> 切換帕魯\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> 切換帕魯球",
+          "LocalizedString": "操作方法（控製器）\r\n左搖桿 移動\r\n右搖桿 攝像頭操作\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> 投擲帕魯\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> 投擲帕魯球\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> 建造菜單\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> 跳躍\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> 瞄準\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> 攻擊\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> 夥伴技能\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|2|/> 切換武器\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> 下蹲/翻滾\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> 沖刺\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> 帕魯指令\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> 切換帕魯\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> 切換帕魯球"
+        }
+      },
+      "Help_3": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_3_TextData",
+          "SourceString": "遊戲目標\r\n\r\n打倒所有地區的高塔頭目，成為最強的帕魯訓練家！\r\n想穩紮穩打地強化自己的據點也好，收集所有帕魯也好，\r\n要透過配種與強化來打造最強的帕魯當然也沒問題。\r\n\r\n與帕魯齊心協力，盡情探索這片廣闊的大地吧！",
+          "LocalizedString": "遊戲目標\r\n\r\n打倒所有地區的高塔頭目，成為最強的帕魯訓練家！\r\n想穩紮穩打地強化自己的據點也好，收集所有帕魯也好，\r\n要透過配種與強化來打造最強的帕魯當然也沒問題。\r\n\r\n與帕魯齊心協力，盡情探索這片廣闊的大地吧！"
+        }
+      },
+      "Help_4": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_4_TextData",
+          "SourceString": "一開始該做些什麼好呢？\r\n\r\n先撿些掉在地上的樹枝與小石頭，這樣就有木材與石頭的來源了。\r\n空手毆打大樹與岩石同樣也能取得木材與石頭。\r\n建造工作臺並製作斧頭，就能提升採集的效率。\r\n\r\n收集到一定素材並選好據點位置後，就來建造「帕魯終端」吧。\r\n「帕魯終端」所在的地方就是你的據點。\r\n\r\n提升等級後就能製作武器與「帕魯球」，削弱帕魯的體力並捕捉牠們。\r\n帕魯不但能成為戰力，也能把牠們送進據點當做勞動力。\r\n\r\n這個世界的夜晚是很危險的。別忘了製作「床鋪」以及「營火」或「火炬」，才能平安度過第一晚。",
+          "LocalizedString": "一開始該做些什麼好呢？\r\n\r\n先撿些掉在地上的樹枝與小石頭，這樣就有木材與石頭的來源了。\r\n空手毆打大樹與岩石同樣也能取得木材與石頭。\r\n建造工作臺並製作斧頭，就能提升採集的效率。\r\n\r\n收集到一定素材並選好據點位置後，就來建造「帕魯終端」吧。\r\n「帕魯終端」所在的地方就是你的據點。\r\n\r\n提升等級後就能製作武器與「帕魯球」，削弱帕魯的體力並捕捉牠們。\r\n帕魯不但能成為戰力，也能把牠們送進據點當做勞動力。\r\n\r\n這個世界的夜晚是很危險的。別忘了製作「床鋪」以及「營火」或「火炬」，才能平安度過第一晚。"
+        }
+      },
+      "Help_5": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_5_TextData",
+          "SourceString": "關於帕魯\r\n\r\n此地區有許多不可思議的生物棲息，統稱為「帕魯」。\r\n用帕魯球捕捉牠們，就能把牠們變成夥伴，\r\n按下<keyGuideIcon id=|ThrowPal|/>就能把隊伍裡的帕魯從帕魯球裡放出來。\r\n\r\n可以帶在身上的帕魯最多5隻，超過上限後，捕捉到的帕魯會被自動傳送至帕魯箱子，\r\n只要建造帕魯終端就能把牠們放出來。",
+          "LocalizedString": "關於帕魯\r\n\r\n此地區有許多不可思議的生物棲息，統稱為「帕魯」。\r\n用帕魯球捕捉牠們，就能把牠們變成夥伴，\r\n按下<keyGuideIcon id=|ThrowPal|/>就能把隊伍裡的帕魯從帕魯球裡放出來。\r\n\r\n可以帶在身上的帕魯最多5隻，超過上限後，捕捉到的帕魯會被自動傳送至帕魯箱子，\r\n只要建造帕魯終端就能把牠們放出來。"
+        }
+      },
+      "Help_6": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_6_TextData",
+          "SourceString": "HUD\r\n\r\n左下方顯示的是隊伍裡的帕魯及玩家的生命值與飽足度。\r\n該資訊右側為目前氣溫，在高溫／低溫環境下將會受到傷害。\r\n右下方顯示的則是目前裝備的帕魯球與武器，以及其剩餘子彈數量。",
+          "LocalizedString": "HUD\r\n\r\n左下方顯示的是隊伍裡的帕魯及玩家的生命值與飽足度。\r\n該資訊右側為目前氣溫，在高溫／低溫環境下將會受到傷害。\r\n右下方顯示的則是目前裝備的帕魯球與武器，以及其剩餘子彈數量。"
+        }
+      },
+      "Help_7": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_7_TextData",
+          "SourceString": "如何取得道具\r\n\r\n按下<keyGuideIcon id=|Interact_1|/>即可撿起掉在地上的道具。\r\n用斧頭、十字鎬破壞樹木與岩石等也能取得素材。\r\n打倒帕魯時也能取得帕魯掉落的道具。",
+          "LocalizedString": "如何取得道具\r\n\r\n按下<keyGuideIcon id=|Interact_1|/>即可撿起掉在地上的道具。\r\n用斧頭、十字鎬破壞樹木與岩石等也能取得素材。\r\n打倒帕魯時也能取得帕魯掉落的道具。"
+        }
+      },
+      "Help_8": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_8_TextData",
+          "SourceString": "建造\r\n\r\n按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>即可開啟建築選單進行建造。\r\n透過建築選單決定建造地點，並在該處執行作業即可完成建造。\r\n若隊伍或據點裡有帕魯，也能找牠們來協助建造。",
+          "LocalizedString": "建造\r\n\r\n按下<keyGuideIcon id=|OpenConstructionRadialMenu|/>即可開啟建築選單進行建造。\r\n透過建築選單決定建造地點，並在該處執行作業即可完成建造。\r\n若隊伍或據點裡有帕魯，也能找牠們來協助建造。"
+        }
+      },
+      "Help_9": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_9_TextData",
+          "SourceString": "製作\r\n\r\n建造工作臺等，即可利用其功能來製作道具。\r\n玩家可使用科技點來解鎖新的配方或建造其他工作設施，\r\n如此便能習得新道具的製作方法。",
+          "LocalizedString": "製作\r\n\r\n建造工作臺等，即可利用其功能來製作道具。\r\n玩家可使用科技點來解鎖新的配方或建造其他工作設施，\r\n如此便能習得新道具的製作方法。"
+        }
+      },
+      "Help_10": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_10_TextData",
+          "SourceString": "技術\r\n\r\n開啟選單中的「技術」分頁並使用科技點，\r\n就能解鎖新的建築或道具配方。\r\n升級或解鎖巨鷲之像等便可獲得技術點。",
+          "LocalizedString": "技術\r\n\r\n開啟選單中的「技術」分頁並使用科技點，\r\n就能解鎖新的建築或道具配方。\r\n升級或解鎖巨鷲之像等便可獲得技術點。"
+        }
+      },
+      "Help_11": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_11_TextData",
+          "SourceString": "古代技術\r\n\r\n打倒強大的敵人將可獲得古代科技點，\r\n使用它便可解鎖古代技術。\r\n\r\n古代技術是已消亡的文明發展出的先進技術，\r\n其效果通常既獨特且強大。",
+          "LocalizedString": "古代技術\r\n\r\n打倒強大的敵人將可獲得古代科技點，\r\n使用它便可解鎖古代技術。\r\n\r\n古代技術是已消亡的文明發展出的先進技術，\r\n其效果通常既獨特且強大。"
+        }
+      },
+      "Help_12": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_12_TextData",
+          "SourceString": "等級\r\n\r\n玩家與帕魯獲得一定經驗值後，等級便會提升。\r\n討伐或捕獲帕魯皆可獲得經驗值。\r\n\r\n玩家無法讓等級高於自己的帕魯聽話，\r\n此時等級同步機制會生效，使牠的能力降低至與玩家相同等級。",
+          "LocalizedString": "等級\r\n\r\n玩家與帕魯獲得一定經驗值後，等級便會提升。\r\n討伐或捕獲帕魯皆可獲得經驗值。\r\n\r\n玩家無法讓等級高於自己的帕魯聽話，\r\n此時等級同步機制會生效，使牠的能力降低至與玩家相同等級。"
+        }
+      },
+      "Help_13": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_13_TextData",
+          "SourceString": "強化玩家能力值\r\n\r\n打開菜單「物品欄」分頁並分配屬性點，\r\n即可提升玩家本身的各項數值。\r\n提升玩家的等級便可獲得屬性點。",
+          "LocalizedString": "強化玩家能力值\r\n\r\n打開菜單「物品欄」分頁並分配屬性點，\r\n即可提升玩家本身的各項數值。\r\n提升玩家的等級便可獲得屬性點。"
+        }
+      },
+      "Help_14": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_14_TextData",
+          "SourceString": "據點\r\n\r\n建造帕魯終端後，箱子周邊區域便會被認定為據點。\r\n利用帕魯終端的功能即可將帕魯召喚到據點內，\r\n而帕魯來到據點後，便會依照自己的工作適應性主動執行工作。\r\n\r\n在據點內建造建築，即可讓帕魯協助工作。\r\n但位於據點內的帕魯也將面臨外敵的威脅，不能掉以輕心。",
+          "LocalizedString": "據點\r\n\r\n建造帕魯終端後，箱子周邊區域便會被認定為據點。\r\n利用帕魯終端的功能即可將帕魯召喚到據點內，\r\n而帕魯來到據點後，便會依照自己的工作適應性主動執行工作。\r\n\r\n在據點內建造建築，即可讓帕魯協助工作。\r\n但位於據點內的帕魯也將面臨外敵的威脅，不能掉以輕心。"
+        }
+      },
+      "Help_15": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_15_TextData",
+          "SourceString": "帕魯終端\r\n\r\n帕魯終端周邊的一定範圍將成為你目前公會的據點領地，位於領地上的建築也將成為該公會之所有物。\r\n利用帕魯終端的功能即可確認「任務」內容，完成任務便能讓公會據點更進一步發展，並增加可召喚至據點的帕魯數量。\r\n\r\n將帕魯放入帕魯箱子內，就能讓牠們休息並回復生命值。\r\n此回復功能對陷入瀕死狀況的帕魯同樣有效。\r\n\r\n帕魯終端附有快速傳送功能，可以讓玩家瞬間移動至旅途中解鎖的巨鷲之像所在地。\r\n※需於世界設定中啟用快速傳送，才能使用快速傳送功能。",
+          "LocalizedString": "帕魯終端\r\n\r\n帕魯終端周邊的一定範圍將成為你目前公會的據點領地，位於領地上的建築也將成為該公會之所有物。\r\n利用帕魯終端的功能即可確認「任務」內容，完成任務便能讓公會據點更進一步發展，並增加可召喚至據點的帕魯數量。\r\n\r\n將帕魯放入帕魯箱子內，就能讓牠們休息並回復生命值。\r\n此回復功能對陷入瀕死狀況的帕魯同樣有效。\r\n\r\n帕魯終端附有快速傳送功能，可以讓玩家瞬間移動至旅途中解鎖的巨鷲之像所在地。\r\n※需於世界設定中啟用快速傳送，才能使用快速傳送功能。"
+        }
+      },
+      "Help_16": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_16_TextData",
+          "SourceString": "捕獲\r\n\r\n按下<keyGuideIcon id=|ThrowObject|/>即可丟出帕魯球，丟中帕魯便能嘗試捕捉帕魯。\r\n生命值有所降低、處於異常狀態或落入陷阱之中的帕魯較容易捕獲。\r\n另外也可趁帕魯不注意時從後方丟出帕魯球，提高成功捕獲的機率。\r\n製作更強的帕魯球，就能捕捉有一定強度的帕魯。",
+          "LocalizedString": "捕獲\r\n\r\n按下<keyGuideIcon id=|ThrowObject|/>即可丟出帕魯球，丟中帕魯便能嘗試捕捉帕魯。\r\n生命值有所降低、處於異常狀態或落入陷阱之中的帕魯較容易捕獲。\r\n另外也可趁帕魯不注意時從後方丟出帕魯球，提高成功捕獲的機率。\r\n製作更強的帕魯球，就能捕捉有一定強度的帕魯。"
+        }
+      },
+      "Help_17": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_17_TextData",
+          "SourceString": "隊伍中的帕魯\r\n\r\n你可以同時攜帶的帕魯數量最多為5只，如果捕獲了6只或更多，多余的帕魯將會被自動送至帕魯箱。\r\n你攜帶的這最多5只帕魯就組成了你的隊伍。\r\n\r\n打開菜單後即可打開「隊伍」分頁，\r\n確認隊伍內帕魯的生命值及飽腹度等數值。\r\n此外，還可以查看帕魯目前學會的技能，\r\n並替換帕魯已學會的主動技能等。",
+          "LocalizedString": "隊伍中的帕魯\r\n\r\n你可以同時攜帶的帕魯數量最多為5只，如果捕獲了6只或更多，多余的帕魯將會被自動送至帕魯箱。\r\n你攜帶的這最多5只帕魯就組成了你的隊伍。\r\n\r\n打開菜單後即可打開「隊伍」分頁，\r\n確認隊伍內帕魯的生命值及飽腹度等數值。\r\n此外，還可以查看帕魯目前學會的技能，\r\n並替換帕魯已學會的主動技能等。"
+        }
+      },
+      "Help_18": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_18_TextData",
+          "SourceString": "飽足度\r\n\r\n玩家與帕魯的活動會導致飽足度下降。\r\n飽足度降低會導致各項數值下降等負面影響。\r\n\r\n開啟物品欄使用食物類道具，\r\n便可回復玩家或帕魯的飽足度。",
+          "LocalizedString": "飽足度\r\n\r\n玩家與帕魯的活動會導致飽足度下降。\r\n飽足度降低會導致各項數值下降等負面影響。\r\n\r\n開啟物品欄使用食物類道具，\r\n便可回復玩家或帕魯的飽足度。"
+        }
+      },
+      "Help_19": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_19_TextData",
+          "SourceString": "SAN值\r\n\r\n在據點工作會導致帕魯的SAN值下降。\r\nSAN值降低會導致帕魯偷懶或生病。\r\n且飽足度降低時，SAN值下降的速度會更快。\r\n給予美味的餐點或讓牠們到溫泉休養，即可回復帕魯的SAN値。",
+          "LocalizedString": "SAN值\r\n\r\n在據點工作會導致帕魯的SAN值下降。\r\nSAN值降低會導致帕魯偷懶或生病。\r\n且飽足度降低時，SAN值下降的速度會更快。\r\n給予美味的餐點或讓牠們到溫泉休養，即可回復帕魯的SAN値。"
+        }
+      },
+      "Help_20": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_20_TextData",
+          "SourceString": "夥伴技能\r\n\r\n帕魯的固有能力，依其種族有所不同。\r\n夥伴技能效果包含可讓玩家騎乘帕魯，或讓帕魯能夠持槍射擊等。\r\n\r\n部分帕魯需有「帕魯裝備」才能解鎖夥伴技能，而帕魯裝備可於帕魯裝備工作臺製作。\r\n\r\n亦有部分帕魯位於隊伍內便能發動夥伴技能的效果。開啟隊伍畫面即可查看夥伴技能的效果。",
+          "LocalizedString": "夥伴技能\r\n\r\n帕魯的固有能力，依其種族有所不同。\r\n夥伴技能效果包含可讓玩家騎乘帕魯，或讓帕魯能夠持槍射擊等。\r\n\r\n部分帕魯需有「帕魯裝備」才能解鎖夥伴技能，而帕魯裝備可於帕魯裝備工作臺製作。\r\n\r\n亦有部分帕魯位於隊伍內便能發動夥伴技能的效果。開啟隊伍畫面即可查看夥伴技能的效果。"
+        }
+      },
+      "Help_21": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_21_TextData",
+          "SourceString": "帕魯圖鑑\r\n\r\n可透過選單開啟帕魯圖鑑。\r\n圖鑑會自動記錄曾目擊或捕獲的帕魯資訊，\r\n查閱圖鑑即可確認其棲息地等資訊。",
+          "LocalizedString": "帕魯圖鑑\r\n\r\n可透過選單開啟帕魯圖鑑。\r\n圖鑑會自動記錄曾目擊或捕獲的帕魯資訊，\r\n查閱圖鑑即可確認其棲息地等資訊。"
+        }
+      },
+      "Help_22": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_22_TextData",
+          "SourceString": "圖鑑獎勵\r\n\r\n捕獲新品種的帕魯時，玩家將能獲得經驗值獎勵。\r\n且在抓到10隻該種族帕魯前，每次捕獲皆可獲得經驗值獎勵。",
+          "LocalizedString": "圖鑑獎勵\r\n\r\n捕獲新品種的帕魯時，玩家將能獲得經驗值獎勵。\r\n且在抓到10隻該種族帕魯前，每次捕獲皆可獲得經驗值獎勵。"
+        }
+      },
+      "Help_23": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_23_TextData",
+          "SourceString": "公會\r\n\r\n接近其他玩家，即可申請加入對方的公會。\r\n此外，開啟選單後可點選公會分頁，\r\n該分頁內會顯示目前公會的資訊，並可查看公會成員的狀況等。\r\n同一公會的玩家將共享據點，\r\n並可自由共享、分派於據點內工作的帕魯。",
+          "LocalizedString": "公會\r\n\r\n接近其他玩家，即可申請加入對方的公會。\r\n此外，開啟選單後可點選公會分頁，\r\n該分頁內會顯示目前公會的資訊，並可查看公會成員的狀況等。\r\n同一公會的玩家將共享據點，\r\n並可自由共享、分派於據點內工作的帕魯。"
+        }
+      },
+      "Help_24": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_24_TextData",
+          "SourceString": "地圖\r\n\r\n按下<keyGuideIcon id=|OpenWorldMap|/>即可開啟地圖。\r\n地圖上會標示各區域之資訊等。",
+          "LocalizedString": "地圖\r\n\r\n按下<keyGuideIcon id=|OpenWorldMap|/>即可開啟地圖。\r\n地圖上會標示各區域之資訊等。"
+        }
+      },
+      "Help_25": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_25_TextData",
+          "SourceString": "巨鷲之像\r\n\r\n與之互動即可解鎖，\r\n並可快速傳送至其他巨鷲之像或自己的帕魯終端的所在地。\r\n\r\n解鎖巨鷲之像時亦可獲得科技點。\r\n巨鷲之像遍布於各地，冒險時別忘了找找它的蹤跡。\r\n\r\n※需於世界設定中啟用快速傳送，才能使用快速傳送功能。",
+          "LocalizedString": "巨鷲之像\r\n\r\n與之互動即可解鎖，\r\n並可快速傳送至其他巨鷲之像或自己的帕魯終端的所在地。\r\n\r\n解鎖巨鷲之像時亦可獲得科技點。\r\n巨鷲之像遍布於各地，冒險時別忘了找找它的蹤跡。\r\n\r\n※需於世界設定中啟用快速傳送，才能使用快速傳送功能。"
+        }
+      },
+      "Help_26": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_26_TextData",
+          "SourceString": "環形選單\r\n\r\n按下<keyGuideIcon id=|PartnerPalInstructions|/>鍵後即可叫出這個選單。\r\n透過此選單可對隊伍內的帕魯下達作戰命令，或餵飼料給隊伍內的帕魯吃等。",
+          "LocalizedString": "環形選單\r\n\r\n按下<keyGuideIcon id=|PartnerPalInstructions|/>鍵後即可叫出這個選單。\r\n透過此選單可對隊伍內的帕魯下達作戰命令，或餵飼料給隊伍內的帕魯吃等。"
+        }
+      },
+      "Help_27": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_27_TextData",
+          "SourceString": "關於夜晚\r\n\r\n夜晚會隨著時間的流逝到來，屆時四周會變暗、氣溫下降，夜行性的危險帕魯也會開始出沒。\r\n和大家一起待在安全的地點圍著營火取暖，或者建造床鋪一覺睡到天亮會是比較安全的做法。",
+          "LocalizedString": "關於夜晚\r\n\r\n夜晚會隨著時間的流逝到來，屆時四周會變暗、氣溫下降，夜行性的危險帕魯也會開始出沒。\r\n和大家一起待在安全的地點圍著營火取暖，或者建造床鋪一覺睡到天亮會是比較安全的做法。"
+        }
+      },
+      "Help_28": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_28_TextData",
+          "SourceString": "高塔頭目\r\n\r\n每個區域都矗立著一座高塔，由控製該地區的組織首領負責守衛。\r\n他們通常對來自島外的帕魯訓練家抱有敵意，一旦進入塔內便會立即戰鬥。\r\n塔內的頭目戰有時間限製，未能在規定時間內擊敗敵人即算失敗。\r\n但只要沒有其他人正在挑戰，便可以無限次嘗試。",
+          "LocalizedString": "高塔頭目\r\n\r\n每個區域都矗立著一座高塔，由控製該地區的組織首領負責守衛。\r\n他們通常對來自島外的帕魯訓練家抱有敵意，一旦進入塔內便會立即戰鬥。\r\n塔內的頭目戰有時間限製，未能在規定時間內擊敗敵人即算失敗。\r\n但只要沒有其他人正在挑戰，便可以無限次嘗試。"
+        }
+      },
+      "Help_29": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_29_TextData",
+          "SourceString": "犯罪\r\n\r\n若攻擊野外或村子裏的善良NPC，就會被檢舉並列為犯罪分子。\r\n此外，踏進禁止進入的部分島嶼也會讓你被視為犯罪分子。\r\n犯罪行為一旦被人發現，就會遭帕洛斯群島自衛隊通緝，請務必註意。",
+          "LocalizedString": "犯罪\r\n\r\n若攻擊野外或村子裏的善良NPC，就會被檢舉並列為犯罪分子。\r\n此外，踏進禁止進入的部分島嶼也會讓你被視為犯罪分子。\r\n犯罪行為一旦被人發現，就會遭帕洛斯群島自衛隊通緝，請務必註意。"
+        }
+      },
+      "Help_30": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_30_TextData",
+          "SourceString": "裝備的耐久值\r\n\r\n使用裝備會使其耐久值降低，而耐久值歸零時裝備便會損壞。\r\n於修理工作臺使用素材即可修理耐久值降低的裝備。",
+          "LocalizedString": "裝備的耐久值\r\n\r\n使用裝備會使其耐久值降低，而耐久值歸零時裝備便會損壞。\r\n於修理工作臺使用素材即可修理耐久值降低的裝備。"
+        }
+      },
+      "Help_31": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_31_TextData",
+          "SourceString": "道具的腐敗機制\r\n\r\n食物等部分道具會隨時間經過而腐敗，而道具腐敗後便會消失。\r\n將這類道具放進保冷箱或冰箱等即可抑制腐敗。",
+          "LocalizedString": "道具的腐敗機制\r\n\r\n食物等部分道具會隨時間經過而腐敗，而道具腐敗後便會消失。\r\n將這類道具放進保冷箱或冰箱等即可抑制腐敗。"
+        }
+      },
+      "Help_32": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_32_TextData",
+          "SourceString": "屬性\r\n\r\n帕魯可分為不同屬性，每種屬性均有各自的優勢屬性與弱點屬性。\r\n攻擊優勢屬性的帕魯可造成更多傷害，而攻擊弱點屬性的帕魯造成的傷害會較少。",
+          "LocalizedString": "屬性\r\n\r\n帕魯可分為不同屬性，每種屬性均有各自的優勢屬性與弱點屬性。\r\n攻擊優勢屬性的帕魯可造成更多傷害，而攻擊弱點屬性的帕魯造成的傷害會較少。"
+        }
+      },
+      "Help_33": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_33_TextData",
+          "SourceString": "異常狀態\r\n\r\n帕魯與玩家會因周遭環境或技能效果而陷入異常狀態。\r\n異常狀態可能會使移動速度減緩，或對帕魯與玩家造成持續傷害。\r\n陷入異常狀態的帕魯較容易捕獲。",
+          "LocalizedString": "異常狀態\r\n\r\n帕魯與玩家會因周遭環境或技能效果而陷入異常狀態。\r\n異常狀態可能會使移動速度減緩，或對帕魯與玩家造成持續傷害。\r\n陷入異常狀態的帕魯較容易捕獲。"
+        }
+      },
+      "Help_34": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_34_TextData",
+          "SourceString": "帕魯蛋\r\n\r\n在野外探索時有時能夠找到帕魯蛋。\r\n將帕魯蛋置於帕魯蛋孵化臺，就能使之孵化。\r\n將周遭環境調整為適合該帕魯蛋的溫度，就能加快孵化速度。",
+          "LocalizedString": "帕魯蛋\r\n\r\n在野外探索時有時能夠找到帕魯蛋。\r\n將帕魯蛋置於帕魯蛋孵化臺，就能使之孵化。\r\n將周遭環境調整為適合該帕魯蛋的溫度，就能加快孵化速度。"
+        }
+      },
+      "Help_35": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_35_TextData",
+          "SourceString": "帕魯配種牧場\r\n\r\n將雌性與雄性的帕魯分派至配種牧場，並在牧場內放置蛋糕，\r\n就有機會獲得帕魯蛋。\r\n某些特殊的帕魯組合將會生下特殊的帕魯蛋。",
+          "LocalizedString": "帕魯配種牧場\r\n\r\n將雌性與雄性的帕魯分派至配種牧場，並在牧場內放置蛋糕，\r\n就有機會獲得帕魯蛋。\r\n某些特殊的帕魯組合將會生下特殊的帕魯蛋。"
+        }
+      },
+      "Help_36": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_36_TextData",
+          "SourceString": "帕魯等級與濃縮機\r\n\r\n每隻帕魯皆有各自的等級，等級越高，其素質也越高。\r\n且部分帕魯的等級越高，其夥伴技能的效果越強。\r\n玩家可透過濃縮機設施來提升帕魯的等級，但需先用濃縮機將大量的同品種帕魯濃縮成精華。",
+          "LocalizedString": "帕魯等級與濃縮機\r\n\r\n每隻帕魯皆有各自的等級，等級越高，其素質也越高。\r\n且部分帕魯的等級越高，其夥伴技能的效果越強。\r\n玩家可透過濃縮機設施來提升帕魯的等級，但需先用濃縮機將大量的同品種帕魯濃縮成精華。"
+        }
+      },
+      "Help_37": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_37_TextData",
+          "SourceString": "翠葉鼠雕像\r\n\r\n將在野外找到的翠葉鼠雕像獻給力量石像，\r\n便能強化玩家的力量，提高玩家捕獲帕魯的能力。",
+          "LocalizedString": "翠葉鼠雕像\r\n\r\n將在野外找到的翠葉鼠雕像獻給力量石像，\r\n便能強化玩家的力量，提高玩家捕獲帕魯的能力。"
+        }
+      },
+      "Help_38": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_38_TextData",
+          "SourceString": "帕魯之魂\r\n\r\n將從寶箱等找到的帕魯之魂獻給力量之像，\r\n便能強化帕魯的力量，提高帕魯的能力值。",
+          "LocalizedString": "帕魯之魂\r\n\r\n將從寶箱等找到的帕魯之魂獻給力量之像，\r\n便能強化帕魯的力量，提高帕魯的能力值。"
+        }
+      },
+      "Help_39": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_39_TextData",
+          "SourceString": "帕魯的亞種\r\n\r\n根據觀察結果，部分帕魯為了適應棲息環境而發展出不同的形態，這類形態稱為「亞種」。\r\n亞種擁有與原種不同的屬性，且其素質也會稍微高出一些。\r\n\r\n此外，為帕魯配種時，部分帕魯組合有可能會生出亞種。\r\n\r\n亞種的圖鑑獎勵與原種分開計算，因此捕獲前10隻亞種時亦可獲得更多經驗值。",
+          "LocalizedString": "帕魯的亞種\r\n\r\n根據觀察結果，部分帕魯為了適應棲息環境而發展出不同的形態，這類形態稱為「亞種」。\r\n亞種擁有與原種不同的屬性，且其素質也會稍微高出一些。\r\n\r\n此外，為帕魯配種時，部分帕魯組合有可能會生出亞種。\r\n\r\n亞種的圖鑑獎勵與原種分開計算，因此捕獲前10隻亞種時亦可獲得更多經驗值。"
+        }
+      },
+      "Help_40": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_40_TextData",
+          "SourceString": "幸運帕魯\r\n\r\n有時能在野外發現稱為「幸運帕魯」的罕見帕魯。\r\n這種帕魯的特徵是體型較大，且身體會散發光芒。\r\n牠們擁有特殊的被動技能與主動技能，且能力值通常也較高。",
+          "LocalizedString": "幸運帕魯\r\n\r\n有時能在野外發現稱為「幸運帕魯」的罕見帕魯。\r\n這種帕魯的特徵是體型較大，且身體會散發光芒。\r\n牠們擁有特殊的被動技能與主動技能，且能力值通常也較高。"
+        }
+      },
+      "Help_41": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_41_TextData",
+          "SourceString": "死亡懲罰機制\r\n\r\n玩家死亡時，持有的道具與帕魯將會掉落在死亡地點。\r\n復活後再次回到該地即可撿回掉落物。\r\n\r\n※可於世界設定中調整懲罰機制的有無及其內容。",
+          "LocalizedString": "死亡懲罰機制\r\n\r\n玩家死亡時，持有的道具與帕魯將會掉落在死亡地點。\r\n復活後再次回到該地即可撿回掉落物。\r\n\r\n※可於世界設定中調整懲罰機制的有無及其內容。"
+        }
+      }
+    }
+  }
+]

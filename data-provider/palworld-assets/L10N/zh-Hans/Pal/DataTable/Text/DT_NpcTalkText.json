@@ -1,0 +1,1231 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NpcTalkText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "CHOICE_YES": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_YES_TextData",
+          "SourceString": "是",
+          "LocalizedString": "是"
+        }
+      },
+      "CHOICE_NO": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_NO_TextData",
+          "SourceString": "否",
+          "LocalizedString": "否"
+        }
+      },
+      "CHOICE_SHOP_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_BUY_TextData",
+          "SourceString": "我来买东西",
+          "LocalizedString": "我来买东西"
+        }
+      },
+      "CHOICE_SHOP_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_SELL_TextData",
+          "SourceString": "我来卖东西",
+          "LocalizedString": "我来卖东西"
+        }
+      },
+      "CHOICE_SHOP_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_CANCEL_TextData",
+          "SourceString": "离开",
+          "LocalizedString": "离开"
+        }
+      },
+      "CHOICE_SHOP_DARK_BUY": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_BUY_TextData",
+          "SourceString": "找好货",
+          "LocalizedString": "找好货"
+        }
+      },
+      "CHOICE_SHOP_DARK_SELL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_SELL_TextData",
+          "SourceString": "处理违禁品",
+          "LocalizedString": "处理违禁品"
+        }
+      },
+      "CHOICE_SHOP_DARK_CANCEL": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "CHOICE_SHOP_DARK_CANCEL_TextData",
+          "SourceString": "离开",
+          "LocalizedString": "离开"
+        }
+      },
+      "SHOP_CHOICE_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_CHOICE_TEST_TextData",
+          "SourceString": "吵死了",
+          "LocalizedString": "吵死了"
+        }
+      },
+      "SHOP_WELCOME_COMMON": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_WELCOME_COMMON_TextData",
+          "SourceString": "欢迎光临。\r\n我们进了些不错的道具哟。",
+          "LocalizedString": "欢迎光临。\r\n我们进了些不错的道具哟。"
+        }
+      },
+      "SHOP_EXIT_TEST": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_EXIT_TEST_TextData",
+          "SourceString": "谢谢惠顾，要再来哟~",
+          "LocalizedString": "谢谢惠顾，要再来哟~"
+        }
+      },
+      "SHOP_PAL_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_WELCOME_TextData",
+          "SourceString": "嘿，我们进了批挺不赖的帕鲁哟。\r\n这些帕鲁都是合法渠道进来的，别担心！",
+          "LocalizedString": "嘿，我们进了批挺不赖的帕鲁哟。\r\n这些帕鲁都是合法渠道进来的，别担心！"
+        }
+      },
+      "SHOP_PALDARK_WELCOME_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_WELCOME_1_1_TextData",
+          "SourceString": "赃物也好，禁猎品种也好……\r\n只要是帕鲁我们都有经手……\r\n你慢慢看啊……",
+          "LocalizedString": "赃物也好，禁猎品种也好……\r\n只要是帕鲁我们都有经手……\r\n你慢慢看啊……"
+        }
+      },
+      "SHOP_PALDARK_EXIT_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PALDARK_EXIT_1_1_TextData",
+          "SourceString": "呵呵呵，看来今天能吃上美味的肉了……",
+          "LocalizedString": "呵呵呵，看来今天能吃上美味的肉了……"
+        }
+      },
+      "SHOP_PAL_RANDOMEVENT_WELCOME": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SHOP_PAL_RANDOMEVENT_WELCOME_TextData",
+          "SourceString": "谢谢你帮忙。\r\n顺便再买点什么吧。\r\n我们店里的帕鲁都是合法的，放心吧。",
+          "LocalizedString": "谢谢你帮忙。\r\n顺便再买点什么吧。\r\n我们店里的帕鲁都是合法的，放心吧。"
+        }
+      },
+      "JOHNSON_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A1_TextData",
+          "SourceString": "我的名字是约翰逊...",
+          "LocalizedString": "我的名字是约翰逊..."
+        }
+      },
+      "JOHNSON_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_A2_TextData",
+          "SourceString": "如果你想过这座桥，就必须支付通行费...",
+          "LocalizedString": "如果你想过这座桥，就必须支付通行费..."
+        }
+      },
+      "JOHNSON_B1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_B1_TextData",
+          "SourceString": "从这里开始，跳跃是有效的。",
+          "LocalizedString": "从这里开始，跳跃是有效的。"
+        }
+      },
+      "JOHNSON_C1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "JOHNSON_C1_TextData",
+          "SourceString": "科学的力量真是太棒了",
+          "LocalizedString": "科学的力量真是太棒了"
+        }
+      },
+      "TEST_ATTACKER": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TEST_ATTACKER_TextData",
+          "SourceString": "事件文本（袭击过来）",
+          "LocalizedString": "事件文本（袭击过来）"
+        }
+      },
+      "VILLAGELEADER01_A1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A1_TextData",
+          "SourceString": "你，<パルテイマー>吗？",
+          "LocalizedString": "你，<パルテイマー>吗？"
+        }
+      },
+      "VILLAGELEADER01_A2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A2_TextData",
+          "SourceString": "我孙子也是兼职工作，但是...",
+          "LocalizedString": "我孙子也是兼职工作，但是..."
+        }
+      },
+      "VILLAGELEADER01_A3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A3_TextData",
+          "SourceString": "最近，总是带着一些危险的人在一起的说……",
+          "LocalizedString": "最近，总是带着一些危险的人在一起的说……"
+        }
+      },
+      "VILLAGELEADER01_A4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A4_TextData",
+          "SourceString": "不回家，似乎一直在那座塔里进出。",
+          "LocalizedString": "不回家，似乎一直在那座塔里进出。"
+        }
+      },
+      "VILLAGELEADER01_A5": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VILLAGELEADER01_A5_TextData",
+          "SourceString": "希望不要卷入不好的事情就好了…",
+          "LocalizedString": "希望不要卷入不好的事情就好了…"
+        }
+      },
+      "NOVICE_PALTIMER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_1_TextData",
+          "SourceString": "……你是遇难者吗？\r\n我已经好久没见过身上没有帕鲁味道的人了……",
+          "LocalizedString": "……你是遇难者吗？\r\n我已经好久没见过身上没有帕鲁味道的人了……"
+        }
+      },
+      "NOVICE_PALTIMER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_2_TextData",
+          "SourceString": "这座岛就是个地狱……和我一起来的人都已经不在这个世界上了。\r\n……他们全都被凶猛的帕鲁夺走了生命。\r\n你也别掉以轻心。",
+          "LocalizedString": "这座岛就是个地狱……和我一起来的人都已经不在这个世界上了。\r\n……他们全都被凶猛的帕鲁夺走了生命。\r\n你也别掉以轻心。"
+        }
+      },
+      "NOVICE_PALTIMER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_1_3_TextData",
+          "SourceString": "我可以分给你最基本的物资……\r\n但想生存下去的话，你需要变得更强大。",
+          "LocalizedString": "我可以分给你最基本的物资……\r\n但想生存下去的话，你需要变得更强大。"
+        }
+      },
+      "NOVICE_PALTIMER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_1_TextData",
+          "SourceString": "……我已经累了。\r\n我一开始还会帮每个人修建坟墓，\r\n但坟墓超过100座时，我就彻底放弃了。",
+          "LocalizedString": "……我已经累了。\r\n我一开始还会帮每个人修建坟墓，\r\n但坟墓超过100座时，我就彻底放弃了。"
+        }
+      },
+      "NOVICE_PALTIMER_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_2_TextData",
+          "SourceString": "在这个地方，缺乏知识很快就会导致死亡。\r\n虽说如果能驯服帕鲁就还有一丝希望，\r\n但我的夥伴們却没有一个人能成功……",
+          "LocalizedString": "在这个地方，缺乏知识很快就会导致死亡。\r\n虽说如果能驯服帕鲁就还有一丝希望，\r\n但我的夥伴們却没有一个人能成功……"
+        }
+      },
+      "NOVICE_PALTIMER_2_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_2_3_TextData",
+          "SourceString": "喂，那是……你手里竟然有古代装置！？\r\n有了那个，应该就可以制作帕鲁球了。\r\n有了帕鲁球，就能捕捉帕鲁了。",
+          "LocalizedString": "喂，那是……你手里竟然有古代装置！？\r\n有了那个，应该就可以制作帕鲁球了。\r\n有了帕鲁球，就能捕捉帕鲁了。"
+        }
+      },
+      "NOVICE_PALTIMER_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_1_TextData",
+          "SourceString": "看来你有成为帕鲁训练家的潜质呢。\r\n制作帕鲁球，捕捉帕鲁让它变成你的战力吧。\r\n帕鲁训练家捕捉到的帕鲁越多，等级就会越高哦……",
+          "LocalizedString": "看来你有成为帕鲁训练家的潜质呢。\r\n制作帕鲁球，捕捉帕鲁让它变成你的战力吧。\r\n帕鲁训练家捕捉到的帕鲁越多，等级就会越高哦……"
+        }
+      },
+      "NOVICE_PALTIMER_3_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "NOVICE_PALTIMER_3_2_TextData",
+          "SourceString": "在你变强之前，最好不要靠近那座塔。\r\n……那里被凶恶的「雷恩盗猎集团」所控制。\r\n去了就是送死。就像我的同伴一样。",
+          "LocalizedString": "在你变强之前，最好不要靠近那座塔。\r\n……那里被凶恶的「雷恩盗猎集团」所控制。\r\n去了就是送死。就像我的同伴一样。"
+        }
+      },
+      "SKILLED_PALTAMIER_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_1_TextData",
+          "SourceString": "嗯？我好像没看过你。\r\n你该不会是……外地来的？",
+          "LocalizedString": "嗯？我好像没看过你。\r\n你该不会是……外地来的？"
+        }
+      },
+      "SKILLED_PALTAMIER_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_2_TextData",
+          "SourceString": "算了算了没事。我反正不在意这些。\r\n既然你都来到这座岛了，不如多抓点帕鲁吧。\r\n即使是同个物种，前10只都能获得更多经验值哦。",
+          "LocalizedString": "算了算了没事。我反正不在意这些。\r\n既然你都来到这座岛了，不如多抓点帕鲁吧。\r\n即使是同个物种，前10只都能获得更多经验值哦。"
+        }
+      },
+      "SKILLED_PALTAMIER_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_1_3_TextData",
+          "SourceString": "「帕鲁训练家的实力与捕捉量成正比。。」\r\n这些就送你了，加油啊。",
+          "LocalizedString": "「帕鲁训练家的实力与捕捉量成正比。。」\r\n这些就送你了，加油啊。"
+        }
+      },
+      "SKILLED_PALTAMIER_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "SKILLED_PALTAMIER_2_1_TextData",
+          "SourceString": "「帕鲁训练家的实力与捕捉量成正比。。」\r\n多抓点帕鲁，让自己变得更强吧。",
+          "LocalizedString": "「帕鲁训练家的实力与捕捉量成正比。。」\r\n多抓点帕鲁，让自己变得更强吧。"
+        }
+      },
+      "Vigilante_lackey_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_1_TextData",
+          "SourceString": "这附近是你第一次来吗？",
+          "LocalizedString": "这附近是你第一次来吗？"
+        }
+      },
+      "Vigilante_lackey_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_2_TextData",
+          "SourceString": "首先，你可以去附近的村落看看。\r\n　村落里有卫兵，他们会赶走野生<パル>，所以很安全。",
+          "LocalizedString": "首先，你可以去附近的村落看看。\r\n　村落里有卫兵，他们会赶走野生<パル>，所以很安全。"
+        }
+      },
+      "Vigilante_lackey_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_3_TextData",
+          "SourceString": "你看到那边有个塔了吗？",
+          "LocalizedString": "你看到那边有个塔了吗？"
+        }
+      },
+      "Vigilante_lackey_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_1_4_TextData",
+          "SourceString": "只要朝那座塔前进，就应该能看见集落了。",
+          "LocalizedString": "只要朝那座塔前进，就应该能看见集落了。"
+        }
+      },
+      "Vigilante_lackey_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_1_TextData",
+          "SourceString": "我是自卫队，所以我在巡逻这一带。",
+          "LocalizedString": "我是自卫队，所以我在巡逻这一带。"
+        }
+      },
+      "Vigilante_lackey_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Vigilante_lackey_2_2_TextData",
+          "SourceString": "有什么困扰你的事情都可以来找我商量哦。价格我会给你便宜些的。",
+          "LocalizedString": "有什么困扰你的事情都可以来找我商量哦。价格我会给你便宜些的。"
+        }
+      },
+      "Head_of_Village_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_1_TextData",
+          "SourceString": "你有遭遇过敌人袭击而和帕鲁走失过吗？\r\n如果你有走失的帕鲁、就去找那边的帕鲁商人吧。",
+          "LocalizedString": "你有遭遇过敌人袭击而和帕鲁走失过吗？\r\n如果你有走失的帕鲁、就去找那边的帕鲁商人吧。"
+        }
+      },
+      "Head_of_Village_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_2_TextData",
+          "SourceString": "如果你的帕鲁被在市场上出售的话，是能够买回来的。\r\n雷恩盗猎集团那伙人会把盗猎的帕鲁和抢夺他人的帕鲁转卖给商人。",
+          "LocalizedString": "如果你的帕鲁被在市场上出售的话，是能够买回来的。\r\n雷恩盗猎集团那伙人会把盗猎的帕鲁和抢夺他人的帕鲁转卖给商人。"
+        }
+      },
+      "Head_of_Village_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Head_of_Village_1_3_TextData",
+          "SourceString": "真是一群过分的家伙啊。\r\n如果谁能打到他们老大就好了...",
+          "LocalizedString": "真是一群过分的家伙啊。\r\n如果谁能打到他们老大就好了..."
+        }
+      },
+      "Police_dependable_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_1_TextData",
+          "SourceString": "喂，帕鲁训练家！",
+          "LocalizedString": "喂，帕鲁训练家！"
+        }
+      },
+      "Police_dependable_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_2_TextData",
+          "SourceString": "在雷恩盗猎集团出现前，这地方的人口可不少哦。\r\n但现在却几乎没什么人烟了。",
+          "LocalizedString": "在雷恩盗猎集团出现前，这地方的人口可不少哦。\r\n但现在却几乎没什么人烟了。"
+        }
+      },
+      "Police_dependable_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_3_TextData",
+          "SourceString": "因此我也赚不到什么伙食费，生活挺拮据的。",
+          "LocalizedString": "因此我也赚不到什么伙食费，生活挺拮据的。"
+        }
+      },
+      "Police_dependable_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police_dependable_1_4_TextData",
+          "SourceString": "所以你有什么需要帮忙的尽管开口，\r\n只要有钱，我什么都做。",
+          "LocalizedString": "所以你有什么需要帮忙的尽管开口，\r\n只要有钱，我什么都做。"
+        }
+      },
+      "Shabby-looking_merchant_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_1_TextData",
+          "SourceString": "哎哟，你是不是<パルテイマー>先生啊？\r\n这附近有偷猎团在四处转悠，十分危险，你要小心哦。",
+          "LocalizedString": "哎哟，你是不是<パルテイマー>先生啊？\r\n这附近有偷猎团在四处转悠，十分危险，你要小心哦。"
+        }
+      },
+      "Shabby-looking_merchant_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Shabby-looking_merchant_1_2_TextData",
+          "SourceString": "常说有备无患嘛，要不要买点什么啊？",
+          "LocalizedString": "常说有备无患嘛，要不要买点什么啊？"
+        }
+      },
+      "InnkeeperA_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_1_TextData",
+          "SourceString": "欢迎光临，生面孔啊。",
+          "LocalizedString": "欢迎光临，生面孔啊。"
+        }
+      },
+      "InnkeeperA_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_2_TextData",
+          "SourceString": "你是从远方来的吗？\r\n长途跋涉一定很累吧，快去好好休息吧。",
+          "LocalizedString": "你是从远方来的吗？\r\n长途跋涉一定很累吧，快去好好休息吧。"
+        }
+      },
+      "InnkeeperA_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "InnkeeperA_1_3_TextData",
+          "SourceString": "虽然已经距离灾难过去了相当长的一段时间，但恢复情况还远未达到最佳……\r\n　实在抱歉，这里的设施真的不怎么样。",
+          "LocalizedString": "虽然已经距离灾难过去了相当长的一段时间，但恢复情况还远未达到最佳……\r\n　实在抱歉，这里的设施真的不怎么样。"
+        }
+      },
+      "Rumor-loving_villagers_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_1_TextData",
+          "SourceString": "你有在哪里看到过洞窟吗？",
+          "LocalizedString": "你有在哪里看到过洞窟吗？"
+        }
+      },
+      "Rumor-loving_villagers_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_2_TextData",
+          "SourceString": "听说洞窟里有很多罕见的帕鲁哦。",
+          "LocalizedString": "听说洞窟里有很多罕见的帕鲁哦。"
+        }
+      },
+      "Rumor-loving_villagers_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_3_TextData",
+          "SourceString": "而且有囤积物品习性的帕鲁，常会把宝物藏在洞窟里呢。",
+          "LocalizedString": "而且有囤积物品习性的帕鲁，常会把宝物藏在洞窟里呢。"
+        }
+      },
+      "Rumor-loving_villagers_1_4": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Rumor-loving_villagers_1_4_TextData",
+          "SourceString": "要是你在哪发现了洞窟，一定要告诉我哦！",
+          "LocalizedString": "要是你在哪发现了洞窟，一定要告诉我哦！"
+        }
+      },
+      "Research-oriented_scholar_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_1_TextData",
+          "SourceString": "你有遇到过极为高大、强壮的帕鲁吗？",
+          "LocalizedString": "你有遇到过极为高大、强壮的帕鲁吗？"
+        }
+      },
+      "Research-oriented_scholar_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_2_TextData",
+          "SourceString": "虽然这只是我的假说，但这种帕鲁常能号召附近的帕鲁，就像首领一样！",
+          "LocalizedString": "虽然这只是我的假说，但这种帕鲁常能号召附近的帕鲁，就像首领一样！"
+        }
+      },
+      "Research-oriented_scholar_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Research-oriented_scholar_1_3_TextData",
+          "SourceString": "要是能把它变成伙伴应该很可靠吧，但那么强一定不好对付，要小心哦！",
+          "LocalizedString": "要是能把它变成伙伴应该很可靠吧，但那么强一定不好对付，要小心哦！"
+        }
+      },
+      "People_cant_leave_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_1_TextData",
+          "SourceString": "我住在河的对面，但是...",
+          "LocalizedString": "我住在河的对面，但是..."
+        }
+      },
+      "People_cant_leave_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "People_cant_leave_1_2_TextData",
+          "SourceString": "那座桥坏了，我不能回去了…\r\n有没有人能修一下呢…",
+          "LocalizedString": "那座桥坏了，我不能回去了…\r\n有没有人能修一下呢…"
+        }
+      },
+      "Sweaty_paltimer_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_1_TextData",
+          "SourceString": "这可能是键盘错乱，暂时无法译文。",
+          "LocalizedString": "这可能是键盘错乱，暂时无法译文。"
+        }
+      },
+      "Sweaty_paltimer_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_2_TextData",
+          "SourceString": "你看到那边的大火山了吗？",
+          "LocalizedString": "你看到那边的大火山了吗？"
+        }
+      },
+      "Sweaty_paltimer_1_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Sweaty_paltimer_1_3_TextData",
+          "SourceString": "我听说有珍贵的珍珠在这里生存，所以想要去看看…\r\n　但是太热了，我的重要的珍珠们全都融化了…",
+          "LocalizedString": "我听说有珍贵的珍珠在这里生存，所以想要去看看…\r\n　但是太热了，我的重要的珍珠们全都融化了…"
+        }
+      },
+      "Visitor_Hunter_Rifle_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_1_1_TextData",
+          "SourceString": "(假设)把{ItemName}交给我",
+          "LocalizedString": "(假设)把{ItemName}交给我"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_1_TextData",
+          "SourceString": "(临时){ItemName}被夺走了{ItemNum}个！",
+          "LocalizedString": "(临时){ItemName}被夺走了{ItemNum}个！"
+        }
+      },
+      "Visitor_Hunter_Rifle_2_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_2_2_TextData",
+          "SourceString": "(假)我会再来的",
+          "LocalizedString": "(假)我会再来的"
+        }
+      },
+      "Visitor_Hunter_Rifle_3_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_3_1_TextData",
+          "SourceString": "(假设)这是什么",
+          "LocalizedString": "(假设)这是什么"
+        }
+      },
+      "Visitor_Hunter_Rifle_4_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Hunter_Rifle_4_1_TextData",
+          "SourceString": "(假设)你不是没有带吗",
+          "LocalizedString": "(假设)你不是没有带吗"
+        }
+      },
+      "Visitor_Present_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Visitor_Present_1_1_TextData",
+          "SourceString": "（暂定）送你一份礼物",
+          "LocalizedString": "（暂定）送你一份礼物"
+        }
+      },
+      "TestGift_1_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_1_TextData",
+          "SourceString": "(临)我要给你<item>。",
+          "LocalizedString": "(临)我要给你<item>。"
+        }
+      },
+      "TestGift_1_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "TestGift_1_2_TextData",
+          "SourceString": "(假)我再也不做了",
+          "LocalizedString": "(假)我再也不做了"
+        }
+      },
+      "DesertVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_1_TextData",
+          "SourceString": "真亏你能找到这里来，虽然没什么新奇玩意，你还是可以慢慢逛逛。\r\n入夜后气温会急遽下降，别忘了做好防寒措施喔。",
+          "LocalizedString": "真亏你能找到这里来，虽然没什么新奇玩意，你还是可以慢慢逛逛。\r\n入夜后气温会急遽下降，别忘了做好防寒措施喔。"
+        }
+      },
+      "DesertVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_2_TextData",
+          "SourceString": "这个村子有自卫队的老大马库斯保护，所以可以放心。\r\n我们能安稳地生活，全靠他的威望呢。",
+          "LocalizedString": "这个村子有自卫队的老大马库斯保护，所以可以放心。\r\n我们能安稳地生活，全靠他的威望呢。"
+        }
+      },
+      "DesertVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_3_TextData",
+          "SourceString": "但也因为这样啦，在这里最好避免太引人注目的行为。\r\n要是你想活久一点的话就更该如此。\r\n像我这样接受自卫队的保护，好好活过每一天才是明智之举。",
+          "LocalizedString": "但也因为这样啦，在这里最好避免太引人注目的行为。\r\n要是你想活久一点的话就更该如此。\r\n像我这样接受自卫队的保护，好好活过每一天才是明智之举。"
+        }
+      },
+      "DesertVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage001_Loop_TextData",
+          "SourceString": "今天也是多亏了马库斯先生，才能够和平安宁。\r\n对了，晚上要注意降温哦。\r\n这里的气温变化极大。",
+          "LocalizedString": "今天也是多亏了马库斯先生，才能够和平安宁。\r\n对了，晚上要注意降温哦。\r\n这里的气温变化极大。"
+        }
+      },
+      "DesertVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_1_TextData",
+          "SourceString": "咦，是新面孔呢。第一次来沙漠吗？\r\n给你个忠告，要去深处的话最好做好防暑措施。",
+          "LocalizedString": "咦，是新面孔呢。第一次来沙漠吗？\r\n给你个忠告，要去深处的话最好做好防暑措施。"
+        }
+      },
+      "DesertVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_2_TextData",
+          "SourceString": "传闻沙漠里有传说中的帕鲁……\r\n那些轻率前往沙漠深处而没再回来的人不在少数，所以要小心啊。",
+          "LocalizedString": "传闻沙漠里有传说中的帕鲁……\r\n那些轻率前往沙漠深处而没再回来的人不在少数，所以要小心啊。"
+        }
+      },
+      "DesertVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_3_TextData",
+          "SourceString": "我倒不是讨厌鲁莽的帕鲁训练家，不过你呢？\r\n如果要挑战，最好做好充分准备，不要重蹈覆辙哦。\r\n来，不介意的话这东西拿去用吧！",
+          "LocalizedString": "我倒不是讨厌鲁莽的帕鲁训练家，不过你呢？\r\n如果要挑战，最好做好充分准备，不要重蹈覆辙哦。\r\n来，不介意的话这东西拿去用吧！"
+        }
+      },
+      "DesertVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage002_Loop_TextData",
+          "SourceString": "传闻沙漠里有传说中的帕鲁……\r\n但因为没有人活着回来，所以谁知道是不是真的存在……\r\n如果你要去的话，记得做好防暑措施。",
+          "LocalizedString": "传闻沙漠里有传说中的帕鲁……\r\n但因为没有人活着回来，所以谁知道是不是真的存在……\r\n如果你要去的话，记得做好防暑措施。"
+        }
+      },
+      "DesertVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_1_TextData",
+          "SourceString": "你哪混的……看样子，是流浪的帕鲁训练家吗……？\r\n来到这沙漠吃了不少苦头吧，是要来干啥？",
+          "LocalizedString": "你哪混的……看样子，是流浪的帕鲁训练家吗……？\r\n来到这沙漠吃了不少苦头吧，是要来干啥？"
+        }
+      },
+      "DesertVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_2_TextData",
+          "SourceString": "看你的眼神就知道了，你是来抓传说中的帕鲁的吧？\r\n劝你死心吧，命可不是用来挥霍的。\r\n我在这个村子里住了这么久，从没见过那种东西。",
+          "LocalizedString": "看你的眼神就知道了，你是来抓传说中的帕鲁的吧？\r\n劝你死心吧，命可不是用来挥霍的。\r\n我在这个村子里住了这么久，从没见过那种东西。"
+        }
+      },
+      "DesertVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_3_TextData",
+          "SourceString": "那种帕鲁要嘛出没在超级偏僻的地方……要嘛这传说从一开始就是唬人的。\r\n如果即使这样你也要去的话，我不会拦著……\r\n但至少带上这个吧。",
+          "LocalizedString": "那种帕鲁要嘛出没在超级偏僻的地方……要嘛这传说从一开始就是唬人的。\r\n如果即使这样你也要去的话，我不会拦著……\r\n但至少带上这个吧。"
+        }
+      },
+      "DesertVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertVillage003_Loop_TextData",
+          "SourceString": "传说中的帕鲁啊……到底在不在沙漠深处呢。\r\n啊，说了这么多好渴啊……\r\n话说，海水能喝吗？",
+          "LocalizedString": "传说中的帕鲁啊……到底在不在沙漠深处呢。\r\n啊，说了这么多好渴啊……\r\n话说，海水能喝吗？"
+        }
+      },
+      "DesertPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_1_TextData",
+          "SourceString": "哦，你新来的？你是明知这里是马库斯大人的地盘，还敢来的？\r\n别以为自己是旅人就可以得意忘形，为所欲为。",
+          "LocalizedString": "哦，你新来的？你是明知这里是马库斯大人的地盘，还敢来的？\r\n别以为自己是旅人就可以得意忘形，为所欲为。"
+        }
+      },
+      "DesertPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_2_TextData",
+          "SourceString": "你只要老实一点就可以了。这要求不难吧？\r\n我们都宣誓效忠马库斯大人，并接受他的自卫队的保护，就这么简单。",
+          "LocalizedString": "你只要老实一点就可以了。这要求不难吧？\r\n我们都宣誓效忠马库斯大人，并接受他的自卫队的保护，就这么简单。"
+        }
+      },
+      "DesertPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice001_Loop_TextData",
+          "SourceString": "是！报告！一切正常！\r\n……什么嘛，原来是你，别吓人好吗。",
+          "LocalizedString": "是！报告！一切正常！\r\n……什么嘛，原来是你，别吓人好吗。"
+        }
+      },
+      "DesertPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_1_TextData",
+          "SourceString": "等等，你想进村子是吧？\r\n只要你不和我们的老大作对，放你进去也不是不行。",
+          "LocalizedString": "等等，你想进村子是吧？\r\n只要你不和我们的老大作对，放你进去也不是不行。"
+        }
+      },
+      "DesertPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_2_TextData",
+          "SourceString": "我们老大对待听话的人可是很照顾的。\r\n他甚至组建了自卫队来保护我们，因此大部分人都非常感激他。\r\n托老大的福，这里的秩序才能得以维持……",
+          "LocalizedString": "我们老大对待听话的人可是很照顾的。\r\n他甚至组建了自卫队来保护我们，因此大部分人都非常感激他。\r\n托老大的福，这里的秩序才能得以维持……"
+        }
+      },
+      "DesertPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_3_TextData",
+          "SourceString": "不过，老大和高层们通常都待在高塔附近。\r\n他们在那种地方到底在做什么啊？",
+          "LocalizedString": "不过，老大和高层们通常都待在高塔附近。\r\n他们在那种地方到底在做什么啊？"
+        }
+      },
+      "DesertPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice002_Loop_TextData",
+          "SourceString": "你要找我们老大的话，他在高塔附近。\r\n自卫队只要能把古代技术搞到手，就所向无敌了。\r\n老大的统治地位会越来越巩固……",
+          "LocalizedString": "你要找我们老大的话，他在高塔附近。\r\n自卫队只要能把古代技术搞到手，就所向无敌了。\r\n老大的统治地位会越来越巩固……"
+        }
+      },
+      "DesertPolice003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_1_TextData",
+          "SourceString": "火真是好东西……劈啪声听起来也别有一番风情。\r\n你不觉得吗？",
+          "LocalizedString": "火真是好东西……劈啪声听起来也别有一番风情。\r\n你不觉得吗？"
+        }
+      },
+      "DesertPolice003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_2_TextData",
+          "SourceString": "这种让人昏昏欲睡的话题啊，很久以前我是说不出口的。\r\n那个时候，大家都日复一日地过着走在刀尖上的生活……直到他来了以后，一切都不同了。\r\n我们总算能过上像人的日子了。",
+          "LocalizedString": "这种让人昏昏欲睡的话题啊，很久以前我是说不出口的。\r\n那个时候，大家都日复一日地过着走在刀尖上的生活……直到他来了以后，一切都不同了。\r\n我们总算能过上像人的日子了。"
+        }
+      },
+      "DesertPolice003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_3_TextData",
+          "SourceString": "现在我可以这样燃起火堆，而不必担心失去什么……\r\n连这种平常小事都能让我感到幸福，真是谢天谢地。\r\n嗯哼……火候差不多了，要吃吗？",
+          "LocalizedString": "现在我可以这样燃起火堆，而不必担心失去什么……\r\n连这种平常小事都能让我感到幸福，真是谢天谢地。\r\n嗯哼……火候差不多了，要吃吗？"
+        }
+      },
+      "DesertPolice003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "DesertPolice003_Loop_TextData",
+          "SourceString": "其实，拿原木当柴火烧本不是什么好做法。\r\n但有时候，就连这种东西也不得不拿来烧……\r\n毕竟没有火，就没法生存下去嘛。",
+          "LocalizedString": "其实，拿原木当柴火烧本不是什么好做法。\r\n但有时候，就连这种东西也不得不拿来烧……\r\n毕竟没有火，就没法生存下去嘛。"
+        }
+      },
+      "Police001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_1_TextData",
+          "SourceString": "别用那种奇怪的眼神看我啊。难道我是做了什么坏事吗？\r\n我现在可不是警察了。",
+          "LocalizedString": "别用那种奇怪的眼神看我啊。难道我是做了什么坏事吗？\r\n我现在可不是警察了。"
+        }
+      },
+      "Police001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_2_TextData",
+          "SourceString": "这之前我人应该是在另一个地方的。\r\n我本来以为我在工作中被一辆卡车撞死了。\r\n结果，回过神来的时候人已经在这座岛上了。",
+          "LocalizedString": "这之前我人应该是在另一个地方的。\r\n我本来以为我在工作中被一辆卡车撞死了。\r\n结果，回过神来的时候人已经在这座岛上了。"
+        }
+      },
+      "Police001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_3_TextData",
+          "SourceString": "我死后向神说，我想吃<itemName id=|Pizza|/>。\r\n结果我就能从手里变出<itemName id=|Pizza|/>了。超级作弊的技能对吧？\r\n来，给你。",
+          "LocalizedString": "我死后向神说，我想吃<itemName id=|Pizza|/>。\r\n结果我就能从手里变出<itemName id=|Pizza|/>了。超级作弊的技能对吧？\r\n来，给你。"
+        }
+      },
+      "Police001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "Police001_Loop_TextData",
+          "SourceString": "你还想吃<itemName id=|Pizza|/>？\r\n够了吧。再给你的话我就要饿肚子了。",
+          "LocalizedString": "你还想吃<itemName id=|Pizza|/>？\r\n够了吧。再给你的话我就要饿肚子了。"
+        }
+      },
+      "VolcanoVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_1_TextData",
+          "SourceString": "哦？你钓到了什么吗？\r\n我这边是颗粒无收呢。\r\n要是我再空手而归，肯定要被孩子的妈臭骂一顿。",
+          "LocalizedString": "哦？你钓到了什么吗？\r\n我这边是颗粒无收呢。\r\n要是我再空手而归，肯定要被孩子的妈臭骂一顿。"
+        }
+      },
+      "VolcanoVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_2_TextData",
+          "SourceString": "这种时候要是有可靠的帕鲁就好了～\r\n只要让它们帮我钓几条鱼，我就能悠哉过日子了。",
+          "LocalizedString": "这种时候要是有可靠的帕鲁就好了～\r\n只要让它们帮我钓几条鱼，我就能悠哉过日子了。"
+        }
+      },
+      "VolcanoVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_3_TextData",
+          "SourceString": "「帕鲁好兄弟！今天钓上来了什么呀！？」就像这样。",
+          "LocalizedString": "「帕鲁好兄弟！今天钓上来了什么呀！？」就像这样。"
+        }
+      },
+      "VolcanoVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage001_Loop_TextData",
+          "SourceString": "我是因为想让孩子的妈开心，才有干劲儿来钓鱼的。\r\n要是我能多钓几条，就分你一些。",
+          "LocalizedString": "我是因为想让孩子的妈开心，才有干劲儿来钓鱼的。\r\n要是我能多钓几条，就分你一些。"
+        }
+      },
+      "VolcanoVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_1_TextData",
+          "SourceString": "老公！你今天钓到鱼了吗！？\r\n……哎呀，原来是客人啊。\r\n你是从哪里来的啊？这身衣服可真漂亮呢。",
+          "LocalizedString": "老公！你今天钓到鱼了吗！？\r\n……哎呀，原来是客人啊。\r\n你是从哪里来的啊？这身衣服可真漂亮呢。"
+        }
+      },
+      "VolcanoVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_2_TextData",
+          "SourceString": "哈哈我知道了，你一定是帕……帕……帕鲁训……养帕鲁的人吧！\r\n你也是要去火山山顶的，是不是？\r\n什么塔什么的，大家都说着跑那去了。",
+          "LocalizedString": "哈哈我知道了，你一定是帕……帕……帕鲁训……养帕鲁的人吧！\r\n你也是要去火山山顶的，是不是？\r\n什么塔什么的，大家都说着跑那去了。"
+        }
+      },
+      "VolcanoVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_3_TextData",
+          "SourceString": "爬山不是什么坏事，但是要做好充分的准备才行。\r\n别小看那边的炎热程度，跟这边可完全不一样。\r\n把这个吃了，增强一下体力吧！",
+          "LocalizedString": "爬山不是什么坏事，但是要做好充分的准备才行。\r\n别小看那边的炎热程度，跟这边可完全不一样。\r\n把这个吃了，增强一下体力吧！"
+        }
+      },
+      "VolcanoVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage002_Loop_TextData",
+          "SourceString": "你要去火山山顶的高塔也不是不可以，但那里可是超级热的哦。\r\n遇到危险就撤！免得在半路就耗尽体力了。",
+          "LocalizedString": "你要去火山山顶的高塔也不是不可以，但那里可是超级热的哦。\r\n遇到危险就撤！免得在半路就耗尽体力了。"
+        }
+      },
+      "VolcanoVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_1_TextData",
+          "SourceString": "老、老子我看见了！\r\n夜里有流星划过，我看着它，心里想着真美啊……然后它就转弯了！",
+          "LocalizedString": "老、老子我看见了！\r\n夜里有流星划过，我看着它，心里想着真美啊……然后它就转弯了！"
+        }
+      },
+      "VolcanoVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_2_TextData",
+          "SourceString": "而且那速度简直快得惊人～那可真是，怎么看都不像是普通的流星。\r\n老子许了个想吃好吃的东西吃到撑的愿望……但应该实现不了吧。",
+          "LocalizedString": "而且那速度简直快得惊人～那可真是，怎么看都不像是普通的流星。\r\n老子许了个想吃好吃的东西吃到撑的愿望……但应该实现不了吧。"
+        }
+      },
+      "VolcanoVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_3_TextData",
+          "SourceString": "我好像看到那颗流星隐隐约约有对像翅膀的东西。\r\n搞不好，它现在还在火山深处也说不定呢。",
+          "LocalizedString": "我好像看到那颗流星隐隐约约有对像翅膀的东西。\r\n搞不好，它现在还在火山深处也说不定呢。"
+        }
+      },
+      "VolcanoVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage003_Loop_TextData",
+          "SourceString": "说了也没人会相信我……\r\n不过我跟你说，那个像流星一样的东西，朝着火山的深处去了。\r\n如果那是帕鲁……那也太可怕了吧……",
+          "LocalizedString": "说了也没人会相信我……\r\n不过我跟你说，那个像流星一样的东西，朝着火山的深处去了。\r\n如果那是帕鲁……那也太可怕了吧……"
+        }
+      },
+      "VolcanoVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_1_TextData",
+          "SourceString": "哎呀……帕鲁训练家也会来这种渔村，真是稀客啊。\r\n不介意的话，要不要用火来净化一下身心呢？\r\n对我们「永炎同心会」来说，火可是极其神圣的东西呢……",
+          "LocalizedString": "哎呀……帕鲁训练家也会来这种渔村，真是稀客啊。\r\n不介意的话，要不要用火来净化一下身心呢？\r\n对我们「永炎同心会」来说，火可是极其神圣的东西呢……"
+        }
+      },
+      "VolcanoVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_2_TextData",
+          "SourceString": "火会将一切烧为灰烬……虽然残酷但却美丽。\r\n无论是悲伤还是痛苦，亦或是衍生出那些情感的爱都统统丢进火里烧掉就好。\r\n这便是「永炎同心会」的教义……呵呵……",
+          "LocalizedString": "火会将一切烧为灰烬……虽然残酷但却美丽。\r\n无论是悲伤还是痛苦，亦或是衍生出那些情感的爱都统统丢进火里烧掉就好。\r\n这便是「永炎同心会」的教义……呵呵……"
+        }
+      },
+      "VolcanoVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_3_TextData",
+          "SourceString": "不过最近，我们的教主大人换成了一个不好捉摸的人。\r\n他好像和教徒们一直待在高塔里。\r\n如果是在祈祷的话，那时间也太长了吧……",
+          "LocalizedString": "不过最近，我们的教主大人换成了一个不好捉摸的人。\r\n他好像和教徒们一直待在高塔里。\r\n如果是在祈祷的话，那时间也太长了吧……"
+        }
+      },
+      "VolcanoVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoVillage004_Loop_TextData",
+          "SourceString": "新教主大人是怎样的人？\r\n去高塔那里也许就能知道答案了吧。\r\n对了，你要不要也加入我们「永炎同心会」呢？",
+          "LocalizedString": "新教主大人是怎样的人？\r\n去高塔那里也许就能知道答案了吧。\r\n对了，你要不要也加入我们「永炎同心会」呢？"
+        }
+      },
+      "VolcanoPolice001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_1_TextData",
+          "SourceString": "唉，好无聊啊……\r\n嗯？以前没见过你啊……虽然不知道你是谁，但是你可以过去。\r\n别让我惹上麻烦就好。",
+          "LocalizedString": "唉，好无聊啊……\r\n嗯？以前没见过你啊……虽然不知道你是谁，但是你可以过去。\r\n别让我惹上麻烦就好。"
+        }
+      },
+      "VolcanoPolice001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_2_TextData",
+          "SourceString": "你叫我好好守门？\r\n不是不是，这种偏僻的地方有什么好守的啊。",
+          "LocalizedString": "你叫我好好守门？\r\n不是不是，这种偏僻的地方有什么好守的啊。"
+        }
+      },
+      "VolcanoPolice001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_3_TextData",
+          "SourceString": "我只是遵照合约，老老实实地站在门口而已。\r\n真是的，居然被分配到这种渔村，真倒霉啊……",
+          "LocalizedString": "我只是遵照合约，老老实实地站在门口而已。\r\n真是的，居然被分配到这种渔村，真倒霉啊……"
+        }
+      },
+      "VolcanoPolice001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice001_Loop_TextData",
+          "SourceString": "呼～哎呀，今天也够无聊啊……\r\n是是是，我有在认真守卫啊……",
+          "LocalizedString": "呼～哎呀，今天也够无聊啊……\r\n是是是，我有在认真守卫啊……"
+        }
+      },
+      "VolcanoPolice002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_1_TextData",
+          "SourceString": "谁啊？算了，谁都不重要。\r\n这里就是个平平无奇的渔村。\r\n你就慢慢随便逛吧。",
+          "LocalizedString": "谁啊？算了，谁都不重要。\r\n这里就是个平平无奇的渔村。\r\n你就慢慢随便逛吧。"
+        }
+      },
+      "VolcanoPolice002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_2_TextData",
+          "SourceString": "这地方出乎意料地舒适，还挺适合放松身心的。\r\n「什么都没有」是这里的优点也是缺点，反正就是这种地方啦。",
+          "LocalizedString": "这地方出乎意料地舒适，还挺适合放松身心的。\r\n「什么都没有」是这里的优点也是缺点，反正就是这种地方啦。"
+        }
+      },
+      "VolcanoPolice002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_3_TextData",
+          "SourceString": "啊对了，我刚刚捡到了这个东西……你要吗？\r\n总感觉有股类似使用过的弹药的味道。",
+          "LocalizedString": "啊对了，我刚刚捡到了这个东西……你要吗？\r\n总感觉有股类似使用过的弹药的味道。"
+        }
+      },
+      "VolcanoPolice002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "VolcanoPolice002_Loop_TextData",
+          "SourceString": "那东西叫<itemName id=|Sulfur|/>吗，这样啊。\r\n我印象里火山那边好像也有类似的东西。\r\n你不觉得这东西怎么闻都有种弹药的味儿吗？",
+          "LocalizedString": "那东西叫<itemName id=|Sulfur|/>吗，这样啊。\r\n我印象里火山那边好像也有类似的东西。\r\n你不觉得这东西怎么闻都有种弹药的味儿吗？"
+        }
+      },
+      "RandomBattle_PalTamer_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_PalTamer_Loop_TextData",
+          "SourceString": "谢谢你的支援。最近治安好差，真让人伤脑筋啊。",
+          "LocalizedString": "谢谢你的支援。最近治安好差，真让人伤脑筋啊。"
+        }
+      },
+      "RandomBattle_Police_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "RandomBattle_Police_Loop_TextData",
+          "SourceString": "感谢你出手相助。要小心盗猎集团哦。",
+          "LocalizedString": "感谢你出手相助。要小心盗猎集团哦。"
+        }
+      },
+      "PvPVillage001_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_1_TextData",
+          "SourceString": "我好不容易才从那个恐怖的沙漠逃出来，\r\n没想到这座岛上竟然也有那么大的帕鲁……",
+          "LocalizedString": "我好不容易才从那个恐怖的沙漠逃出来，\r\n没想到这座岛上竟然也有那么大的帕鲁……"
+        }
+      },
+      "PvPVillage001_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_2_TextData",
+          "SourceString": "可恶……真希望我也有帕鲁训练家的潜质……\r\n这样就能捕捉帕鲁建立据点，以此生存下去了……！",
+          "LocalizedString": "可恶……真希望我也有帕鲁训练家的潜质……\r\n这样就能捕捉帕鲁建立据点，以此生存下去了……！"
+        }
+      },
+      "PvPVillage001_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_3_TextData",
+          "SourceString": "你也一样，别死在这里啊……\r\n这个给你，赶快做好应对外敌的准备吧。\r\n不然到了夜里，可是会被吃掉的。",
+          "LocalizedString": "你也一样，别死在这里啊……\r\n这个给你，赶快做好应对外敌的准备吧。\r\n不然到了夜里，可是会被吃掉的。"
+        }
+      },
+      "PvPVillage001_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage001_Loop_TextData",
+          "SourceString": "尤其要小心那些巨大的帕鲁。\r\n只有轻装备的话，立刻就会没命的。",
+          "LocalizedString": "尤其要小心那些巨大的帕鲁。\r\n只有轻装备的话，立刻就会没命的。"
+        }
+      },
+      "PvPVillage002_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_1_TextData",
+          "SourceString": "喂，没见过的生面孔嘛？\r\n你和我一样也是流浪者吗……\r\n真是的，你是怎么流落到来这种鬼地方的。",
+          "LocalizedString": "喂，没见过的生面孔嘛？\r\n你和我一样也是流浪者吗……\r\n真是的，你是怎么流落到来这种鬼地方的。"
+        }
+      },
+      "PvPVillage002_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_2_TextData",
+          "SourceString": "你也是想靠抓帕鲁赚上一大笔的吧？\r\n真可惜，帕鲁都是些既狂暴又充满危险的生物。\r\n我的伙伴们都被它们三两下给解决掉了……",
+          "LocalizedString": "你也是想靠抓帕鲁赚上一大笔的吧？\r\n真可惜，帕鲁都是些既狂暴又充满危险的生物。\r\n我的伙伴们都被它们三两下给解决掉了……"
+        }
+      },
+      "PvPVillage002_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_3_TextData",
+          "SourceString": "如果你看到帕鲁，尤其是巨大帕鲁的话，可千万别靠近。\r\n等做好所有充足的准备之后再去挑战。\r\n先捕获大量的帕鲁，把等级提升上去后再说。",
+          "LocalizedString": "如果你看到帕鲁，尤其是巨大帕鲁的话，可千万别靠近。\r\n等做好所有充足的准备之后再去挑战。\r\n先捕获大量的帕鲁，把等级提升上去后再说。"
+        }
+      },
+      "PvPVillage002_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage002_Loop_TextData",
+          "SourceString": "如果遇到了巨大的帕鲁一定要千万小心哦。\r\n首先要做的是去尽可能地捕获帕鲁，\r\n慢慢积累经验后再去挑战。",
+          "LocalizedString": "如果遇到了巨大的帕鲁一定要千万小心哦。\r\n首先要做的是去尽可能地捕获帕鲁，\r\n慢慢积累经验后再去挑战。"
+        }
+      },
+      "PvPVillage003_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_1_TextData",
+          "SourceString": "哎呀，居然会有人漂流到这里，真是罕见呀。\r\n……这里可是什么都没有的哦。\r\n因为全都被盗猎集团抢走了……",
+          "LocalizedString": "哎呀，居然会有人漂流到这里，真是罕见呀。\r\n……这里可是什么都没有的哦。\r\n因为全都被盗猎集团抢走了……"
+        }
+      },
+      "PvPVillage003_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_2_TextData",
+          "SourceString": "如果你会制作帕鲁球的话，\r\n就应该先去抓几只帕鲁，训练它们来保护你。\r\n这座岛的法则就是弱肉强食……",
+          "LocalizedString": "如果你会制作帕鲁球的话，\r\n就应该先去抓几只帕鲁，训练它们来保护你。\r\n这座岛的法则就是弱肉强食……"
+        }
+      },
+      "PvPVillage003_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_3_TextData",
+          "SourceString": "我已经累了……也没有什么可以留恋的了……\r\n这些物资分给你吧。\r\n我已经用不上这些东西了……",
+          "LocalizedString": "我已经累了……也没有什么可以留恋的了……\r\n这些物资分给你吧。\r\n我已经用不上这些东西了……"
+        }
+      },
+      "PvPVillage003_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage003_Loop_TextData",
+          "SourceString": "我以前也是很能打的……\r\n但却被那里的大型帕鲁给弄伤了膝盖。\r\n在这座岛上，如果不能继续战斗了……就只能等死了。",
+          "LocalizedString": "我以前也是很能打的……\r\n但却被那里的大型帕鲁给弄伤了膝盖。\r\n在这座岛上，如果不能继续战斗了……就只能等死了。"
+        }
+      },
+      "PvPVillage004_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_1_TextData",
+          "SourceString": "帮、帮帮我……！我不想再待在这里了！\r\n我被一只巨大又可怕的帕鲁给袭击了……！\r\n它随随便便就能将人类撕碎……",
+          "LocalizedString": "帮、帮帮我……！我不想再待在这里了！\r\n我被一只巨大又可怕的帕鲁给袭击了……！\r\n它随随便便就能将人类撕碎……"
+        }
+      },
+      "PvPVillage004_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_2_TextData",
+          "SourceString": "一定要赶在夜晚降临前捕获帕鲁，然后建造据点……！\r\n在黑夜里我们是完全没有胜算的……！\r\n只能燃起火堆，然后躲起来一边祈祷一边等待黎明的到来。",
+          "LocalizedString": "一定要赶在夜晚降临前捕获帕鲁，然后建造据点……！\r\n在黑夜里我们是完全没有胜算的……！\r\n只能燃起火堆，然后躲起来一边祈祷一边等待黎明的到来。"
+        }
+      },
+      "PvPVillage004_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_3_TextData",
+          "SourceString": "也不知道这些能不能帮助到你……\r\n一定要想方设法活下去，然后活着离开这座岛……！",
+          "LocalizedString": "也不知道这些能不能帮助到你……\r\n一定要想方设法活下去，然后活着离开这座岛……！"
+        }
+      },
+      "PvPVillage004_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage004_Loop_TextData",
+          "SourceString": "如果在黑夜里遇到了狂暴的帕鲁，那就完蛋了……\r\n赶快制造携带火把还有建造据点，\r\n做好所有能安全度过夜晚的准备……",
+          "LocalizedString": "如果在黑夜里遇到了狂暴的帕鲁，那就完蛋了……\r\n赶快制造携带火把还有建造据点，\r\n做好所有能安全度过夜晚的准备……"
+        }
+      },
+      "PvPVillage005_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_1_TextData",
+          "SourceString": "你是……漂流者吗？来到这里可真是太不幸运了。\r\n这边一带被称为「帕洛斯群岛」。\r\n是一个用暴力来解决所有问题的可怕地方……",
+          "LocalizedString": "你是……漂流者吗？来到这里可真是太不幸运了。\r\n这边一带被称为「帕洛斯群岛」。\r\n是一个用暴力来解决所有问题的可怕地方……"
+        }
+      },
+      "PvPVillage005_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_2_TextData",
+          "SourceString": "从外面跑来这里抓帕鲁的人不少，\r\n但是最后基本都下落不明了……\r\n也不知道是被野生帕鲁给吃了呢，还是被雷恩盗猎集团给干掉了……",
+          "LocalizedString": "从外面跑来这里抓帕鲁的人不少，\r\n但是最后基本都下落不明了……\r\n也不知道是被野生帕鲁给吃了呢，还是被雷恩盗猎集团给干掉了……"
+        }
+      },
+      "PvPVillage005_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_3_TextData",
+          "SourceString": "如果你是帕鲁训练家的话，那就赶快多去抓一些帕鲁吧。\r\n帕鲁训练家抓的帕鲁越多就会变得越强。\r\n这样或许就能提高在这里的生存几率了。",
+          "LocalizedString": "如果你是帕鲁训练家的话，那就赶快多去抓一些帕鲁吧。\r\n帕鲁训练家抓的帕鲁越多就会变得越强。\r\n这样或许就能提高在这里的生存几率了。"
+        }
+      },
+      "PvPVillage005_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage005_Loop_TextData",
+          "SourceString": "帕鲁训练家的话，抓的帕鲁越多就会变得越强。\r\n在这地狱般的环境中，\r\n必须尽可能提高生存几率才行呢……",
+          "LocalizedString": "帕鲁训练家的话，抓的帕鲁越多就会变得越强。\r\n在这地狱般的环境中，\r\n必须尽可能提高生存几率才行呢……"
+        }
+      },
+      "PvPVillage006_1": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_1_TextData",
+          "SourceString": "上次有人漂流到这里是几年前的事了啊……\r\n之前那个人好像还是个很有名的佣兵，\r\n结果随随便便就被<characterName id=|Garm|/>吃掉了。",
+          "LocalizedString": "上次有人漂流到这里是几年前的事了啊……\r\n之前那个人好像还是个很有名的佣兵，\r\n结果随随便便就被<characterName id=|Garm|/>吃掉了。"
+        }
+      },
+      "PvPVillage006_2": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_2_TextData",
+          "SourceString": "帕鲁这种生物比外表看起来要凶残得多。\r\n尤其是肉食性的野生帕鲁，遇上了就赶紧跑吧。\r\n可千万别回头。",
+          "LocalizedString": "帕鲁这种生物比外表看起来要凶残得多。\r\n尤其是肉食性的野生帕鲁，遇上了就赶紧跑吧。\r\n可千万别回头。"
+        }
+      },
+      "PvPVillage006_3": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_3_TextData",
+          "SourceString": "这个给你了。\r\n祝福你可以在这个严酷的环境中生存下去。",
+          "LocalizedString": "这个给你了。\r\n祝福你可以在这个严酷的环境中生存下去。"
+        }
+      },
+      "PvPVillage006_Loop": {
+        "TextData": {
+          "Namespace": "DT_NpcTalkText",
+          "Key": "PvPVillage006_Loop_TextData",
+          "SourceString": "这里离雪山很近，所以气候有些寒冷。\r\n你也快点制作火堆或是搭个小屋吧。\r\n还是让自己能躺在床铺上过夜比较好哦。",
+          "LocalizedString": "这里离雪山很近，所以气候有些寒冷。\r\n你也快点制作火堆或是搭个小屋吧。\r\n还是让自己能躺在床铺上过夜比较好哦。"
+        }
+      }
+    }
+  }
+]

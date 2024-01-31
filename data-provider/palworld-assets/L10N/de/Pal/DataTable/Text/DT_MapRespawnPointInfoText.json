@@ -1,0 +1,639 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapRespawnPointInfoText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "SpawnPoint_1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_TextData",
+          "SourceString": "Kuppe eines kleinen Hügels.\r\nAufgrund der guten Übersichtlichkeit und der reichhaltigen\r\nRessourcen für Einsteiger zu empfehlen.",
+          "LocalizedString": "Kuppe eines kleinen Hügels.\r\nAufgrund der guten Übersichtlichkeit und der reichhaltigen\r\nRessourcen für Einsteiger zu empfehlen."
+        }
+      },
+      "SpawnPoint_1_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_Title_TextData",
+          "SourceString": "Windstieghügel – Ebene des Aufbruchs",
+          "LocalizedString": "Windstieghügel – Ebene des Aufbruchs"
+        }
+      },
+      "SpawnPoint_2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_TextData",
+          "SourceString": "Sandstrand am Meer.\r\nHier gibt es kaum Bäume, aber ordentlich viele Pals, besonders Wasserspezies.",
+          "LocalizedString": "Sandstrand am Meer.\r\nHier gibt es kaum Bäume, aber ordentlich viele Pals, besonders Wasserspezies."
+        }
+      },
+      "SpawnPoint_2_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_Title_TextData",
+          "SourceString": "Windstieghügel – Küste der fliegenden Fische",
+          "LocalizedString": "Windstieghügel – Küste der fliegenden Fische"
+        }
+      },
+      "SpawnPoint_3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_TextData",
+          "SourceString": "Eine abseits gelegene Insel.\r\nDank des nahegelegenen Vulkans ist das Klima angenehm mild.\r\nHier kann man allerlei Abenteuer erleben, und auch die Hauptinsel ist nicht weit.",
+          "LocalizedString": "Eine abseits gelegene Insel.\r\nDank des nahegelegenen Vulkans ist das Klima angenehm mild.\r\nHier kann man allerlei Abenteuer erleben, und auch die Hauptinsel ist nicht weit."
+        }
+      },
+      "SpawnPoint_3_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_Title_TextData",
+          "SourceString": "Windhauchinseln – Felsenriff",
+          "LocalizedString": "Windhauchinseln – Felsenriff"
+        }
+      },
+      "SpawnPoint_4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_TextData",
+          "SourceString": "Ein felsiger Küstenstreifen.\r\nHier gibt es durchschnittlich viele Ressourcen und Pals.\r\nDie Gegend ist etwas rau, bietet aber viel Platz.",
+          "LocalizedString": "Ein felsiger Küstenstreifen.\r\nHier gibt es durchschnittlich viele Ressourcen und Pals.\r\nDie Gegend ist etwas rau, bietet aber viel Platz."
+        }
+      },
+      "SpawnPoint_4_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_Title_TextData",
+          "SourceString": "Windhauchinseln – Strand der Schiffbrüchigen",
+          "LocalizedString": "Windhauchinseln – Strand der Schiffbrüchigen"
+        }
+      },
+      "SpawnPoint_5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_TextData",
+          "SourceString": "Weit ab von der Hauptinsel, daher ist hier keine Menschenseele.\r\nDurch die nördliche Lage sind die Temperaturen niedriger.\r\nEs gibt nur wenige Rohstoffe und Pals, was das Leben erschwert.",
+          "LocalizedString": "Weit ab von der Hauptinsel, daher ist hier keine Menschenseele.\r\nDurch die nördliche Lage sind die Temperaturen niedriger.\r\nEs gibt nur wenige Rohstoffe und Pals, was das Leben erschwert."
+        }
+      },
+      "SpawnPoint_5_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_Title_TextData",
+          "SourceString": "Vergessene Insel",
+          "LocalizedString": "Vergessene Insel"
+        }
+      },
+      "SpawnPoint_6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_TextData",
+          "SourceString": "Von den Schneegipfeln her weht ein kalter Wind über diese Insel.\r\nBesonders nachts friert es einen bis in die Knochen,\r\nund sogar die Ureinwohner würden lieber woanders hinziehen.",
+          "LocalizedString": "Von den Schneegipfeln her weht ein kalter Wind über diese Insel.\r\nBesonders nachts friert es einen bis in die Knochen,\r\nund sogar die Ureinwohner würden lieber woanders hinziehen."
+        }
+      },
+      "SpawnPoint_6_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_Title_TextData",
+          "SourceString": "Eiswindinsel",
+          "LocalizedString": "Eiswindinsel"
+        }
+      },
+      "SpawnPoint_7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_TextData",
+          "SourceString": "Eine wilde Insel im Osten.\r\nIst ganz am Rande des Archipels und vollkommen unerschlossen.\r\nNichts für ungeübte Survivalisten.",
+          "LocalizedString": "Eine wilde Insel im Osten.\r\nIst ganz am Rande des Archipels und vollkommen unerschlossen.\r\nNichts für ungeübte Survivalisten."
+        }
+      },
+      "SpawnPoint_7_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_Title_TextData",
+          "SourceString": "Östliche Wildnisinsel",
+          "LocalizedString": "Östliche Wildnisinsel"
+        }
+      },
+      "SpawnPoint_8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_TextData",
+          "SourceString": "Eine Insel mit weitläufigen Mooren.\r\nDank der maßvollen Feuchtigkeit wachsen hier Beeren in Hülle und Fülle.\r\nAuch die Hauptinsel ist gut zu erreichen.",
+          "LocalizedString": "Eine Insel mit weitläufigen Mooren.\r\nDank der maßvollen Feuchtigkeit wachsen hier Beeren in Hülle und Fülle.\r\nAuch die Hauptinsel ist gut zu erreichen."
+        }
+      },
+      "SpawnPoint_8_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_Title_TextData",
+          "SourceString": "Moorinsel",
+          "LocalizedString": "Moorinsel"
+        }
+      },
+      "FTPoint1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint1_TextData",
+          "SourceString": "Obsidiankrater – Berghang",
+          "LocalizedString": "Obsidiankrater – Berghang"
+        }
+      },
+      "FTPoint2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint2_TextData",
+          "SourceString": "Turm der Kameraden von Eiren",
+          "LocalizedString": "Turm der Kameraden von Eiren"
+        }
+      },
+      "FTPoint3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint3_TextData",
+          "SourceString": "Turm der Bruderschaft der ewigen Lohe – Eingang",
+          "LocalizedString": "Turm der Bruderschaft der ewigen Lohe – Eingang"
+        }
+      },
+      "FTPoint4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint4_TextData",
+          "SourceString": "Ruinen der antiken Zivilisation",
+          "LocalizedString": "Ruinen der antiken Zivilisation"
+        }
+      },
+      "FTPoint5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint5_TextData",
+          "SourceString": "Abgelegenes Fischerdorf",
+          "LocalizedString": "Abgelegenes Fischerdorf"
+        }
+      },
+      "FTPoint6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint6_TextData",
+          "SourceString": "Obsidiankrater – Anubisstatue",
+          "LocalizedString": "Obsidiankrater – Anubisstatue"
+        }
+      },
+      "FTPoint7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint7_TextData",
+          "SourceString": "Ewiger Sommerstrand",
+          "LocalizedString": "Ewiger Sommerstrand"
+        }
+      },
+      "FTPoint8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint8_TextData",
+          "SourceString": "Verfallene Festungsstadt",
+          "LocalizedString": "Verfallene Festungsstadt"
+        }
+      },
+      "FTPoint9": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint9_TextData",
+          "SourceString": "Turm der Miliz – Eingang",
+          "LocalizedString": "Turm der Miliz – Eingang"
+        }
+      },
+      "FTPoint10": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint10_TextData",
+          "SourceString": "Wachter Turm",
+          "LocalizedString": "Wachter Turm"
+        }
+      },
+      "FTPoint11": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint11_TextData",
+          "SourceString": "Sandige Dünen – Eingang",
+          "LocalizedString": "Sandige Dünen – Eingang"
+        }
+      },
+      "FTPoint12": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint12_TextData",
+          "SourceString": "Wüstenstadt",
+          "LocalizedString": "Wüstenstadt"
+        }
+      },
+      "FTPoint13": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint13_TextData",
+          "SourceString": "Sandige Dünen – Hinterland",
+          "LocalizedString": "Sandige Dünen – Hinterland"
+        }
+      },
+      "FTPoint14": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint14_TextData",
+          "SourceString": "Kaltwasserküste",
+          "LocalizedString": "Kaltwasserküste"
+        }
+      },
+      "FTPoint15": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint15_TextData",
+          "SourceString": "Beschwerlicher Bergpfad",
+          "LocalizedString": "Beschwerlicher Bergpfad"
+        }
+      },
+      "FTPoint16": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint16_TextData",
+          "SourceString": "Eiswieselhügel",
+          "LocalizedString": "Eiswieselhügel"
+        }
+      },
+      "FTPoint17": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint17_TextData",
+          "SourceString": "Ewiger Eissee",
+          "LocalizedString": "Ewiger Eissee"
+        }
+      },
+      "FTPoint18": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint18_TextData",
+          "SourceString": "Absolute Nullpunktzone",
+          "LocalizedString": "Absolute Nullpunktzone"
+        }
+      },
+      "FTPoint19": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint19_TextData",
+          "SourceString": "Turm der genetischen Forschungseinheit",
+          "LocalizedString": "Turm der genetischen Forschungseinheit"
+        }
+      },
+      "FTPoint20": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint20_TextData",
+          "SourceString": "Turm des Instituts für Genforschung – Eingang",
+          "LocalizedString": "Turm des Instituts für Genforschung – Eingang"
+        }
+      },
+      "FTPoint21": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint21_TextData",
+          "SourceString": "Hochland des Grasriesen",
+          "LocalizedString": "Hochland des Grasriesen"
+        }
+      },
+      "FTPoint22": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint22_TextData",
+          "SourceString": "Verlassene Kirche",
+          "LocalizedString": "Verlassene Kirche"
+        }
+      },
+      "FTPoint23": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint23_TextData",
+          "SourceString": "Ebene des Aufbruchs",
+          "LocalizedString": "Ebene des Aufbruchs"
+        }
+      },
+      "FTPoint24": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint24_TextData",
+          "SourceString": "Kleines Dorf",
+          "LocalizedString": "Kleines Dorf"
+        }
+      },
+      "FTPoint25": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint25_TextData",
+          "SourceString": "Eremiten-Wasserfall",
+          "LocalizedString": "Eremiten-Wasserfall"
+        }
+      },
+      "FTPoint26": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint26_TextData",
+          "SourceString": "Vulkanausläufer",
+          "LocalizedString": "Vulkanausläufer"
+        }
+      },
+      "FTPoint27": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint27_TextData",
+          "SourceString": "Sphäre des Eisvogels",
+          "LocalizedString": "Sphäre des Eisvogels"
+        }
+      },
+      "FTPoint28": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint28_TextData",
+          "SourceString": "Festungsruine",
+          "LocalizedString": "Festungsruine"
+        }
+      },
+      "FTPoint29": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint29_TextData",
+          "SourceString": "Sphäre des Donnerdrachen",
+          "LocalizedString": "Sphäre des Donnerdrachen"
+        }
+      },
+      "FTPoint30": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint30_TextData",
+          "SourceString": "Scheideweg der Forscher",
+          "LocalizedString": "Scheideweg der Forscher"
+        }
+      },
+      "FTPoint31": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint31_TextData",
+          "SourceString": "Alter Ritualplatz",
+          "LocalizedString": "Alter Ritualplatz"
+        }
+      },
+      "FTPoint32": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint32_TextData",
+          "SourceString": "Blumenhasenberg – Gipfel",
+          "LocalizedString": "Blumenhasenberg – Gipfel"
+        }
+      },
+      "FTPoint33": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint33_TextData",
+          "SourceString": "Zentralsee",
+          "LocalizedString": "Zentralsee"
+        }
+      },
+      "FTPoint34": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint34_TextData",
+          "SourceString": "Heuchlerhügel",
+          "LocalizedString": "Heuchlerhügel"
+        }
+      },
+      "FTPoint35": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint35_TextData",
+          "SourceString": "Sphäre des Wächters",
+          "LocalizedString": "Sphäre des Wächters"
+        }
+      },
+      "FTPoint36": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint36_TextData",
+          "SourceString": "Scheideweg der Schneegipfel",
+          "LocalizedString": "Scheideweg der Schneegipfel"
+        }
+      },
+      "FTPoint37": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint37_TextData",
+          "SourceString": "Turm der Liga der Palfreunde – Eingang",
+          "LocalizedString": "Turm der Liga der Palfreunde – Eingang"
+        }
+      },
+      "FTPoint38": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint38_TextData",
+          "SourceString": "Sphäre der Schnellfüßigkeit",
+          "LocalizedString": "Sphäre der Schnellfüßigkeit"
+        }
+      },
+      "FTPoint39": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint39_TextData",
+          "SourceString": "Graspandawald",
+          "LocalizedString": "Graspandawald"
+        }
+      },
+      "FTPoint40": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint40_TextData",
+          "SourceString": "Kleinhairevier",
+          "LocalizedString": "Kleinhairevier"
+        }
+      },
+      "FTPoint41": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint41_TextData",
+          "SourceString": "Schmetterlingswald",
+          "LocalizedString": "Schmetterlingswald"
+        }
+      },
+      "FTPoint42": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint42_TextData",
+          "SourceString": "Sphäre des Schwertmeisters",
+          "LocalizedString": "Sphäre des Schwertmeisters"
+        }
+      },
+      "FTPoint43": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint43_TextData",
+          "SourceString": "Bambushain – Hinterland",
+          "LocalizedString": "Bambushain – Hinterland"
+        }
+      },
+      "FTPoint44": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint44_TextData",
+          "SourceString": "Sphäre der Drachenschwingen",
+          "LocalizedString": "Sphäre der Drachenschwingen"
+        }
+      },
+      "FTPoint45": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint45_TextData",
+          "SourceString": "Turm des Rayne-Syndikats – Eingang",
+          "LocalizedString": "Turm des Rayne-Syndikats – Eingang"
+        }
+      },
+      "FTPoint46": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint46_TextData",
+          "SourceString": "Regensturmturm",
+          "LocalizedString": "Regensturmturm"
+        }
+      },
+      "FTPoint47": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint47_TextData",
+          "SourceString": "PAL Protection Tower",
+          "LocalizedString": "PAL Protection Tower"
+        }
+      },
+      "FTPoint48": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint48_TextData",
+          "SourceString": "Reinweißer Firn",
+          "LocalizedString": "Reinweißer Firn"
+        }
+      },
+      "FTPoint49": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint49_TextData",
+          "SourceString": "Vergessene Insel",
+          "LocalizedString": "Vergessene Insel"
+        }
+      },
+      "FTPoint50": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint50_TextData",
+          "SourceString": "Eiswindinsel",
+          "LocalizedString": "Eiswindinsel"
+        }
+      },
+      "FTPoint51": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint51_TextData",
+          "SourceString": "Blaudrachenstrand",
+          "LocalizedString": "Blaudrachenstrand"
+        }
+      },
+      "FTPoint52": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint52_TextData",
+          "SourceString": "Windhauchinseln – Strand der Schiffbrüchigen",
+          "LocalizedString": "Windhauchinseln – Strand der Schiffbrüchigen"
+        }
+      },
+      "FTPoint53": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint53_TextData",
+          "SourceString": "Windhauchinseln – Kirche",
+          "LocalizedString": "Windhauchinseln – Kirche"
+        }
+      },
+      "FTPoint54": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint54_TextData",
+          "SourceString": "Kleine Bucht",
+          "LocalizedString": "Kleine Bucht"
+        }
+      },
+      "FTPoint55": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint55_TextData",
+          "SourceString": "Inselblickküste",
+          "LocalizedString": "Inselblickküste"
+        }
+      },
+      "FTPoint56": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint56_TextData",
+          "SourceString": "Moorinsel",
+          "LocalizedString": "Moorinsel"
+        }
+      },
+      "FTPoint57": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint57_TextData",
+          "SourceString": "Östliche Wildnisinsel",
+          "LocalizedString": "Östliche Wildnisinsel"
+        }
+      },
+      "FTPoint58": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint58_TextData",
+          "SourceString": "Landbrücke",
+          "LocalizedString": "Landbrücke"
+        }
+      },
+      "FTPoint59": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint59_TextData",
+          "SourceString": "Vergessene Insel – Kirchenruine",
+          "LocalizedString": "Vergessene Insel – Kirchenruine"
+        }
+      },
+      "FTPoint60": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint60_TextData",
+          "SourceString": "Moorinsel – Kirchenruine",
+          "LocalizedString": "Moorinsel – Kirchenruine"
+        }
+      },
+      "FTPoint61": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint61_TextData",
+          "SourceString": "Brücke der Zwillingsritter",
+          "LocalizedString": "Brücke der Zwillingsritter"
+        }
+      },
+      "FTPoint62": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint62_TextData",
+          "SourceString": "Eingang zur Klamm",
+          "LocalizedString": "Eingang zur Klamm"
+        }
+      }
+    }
+  }
+]

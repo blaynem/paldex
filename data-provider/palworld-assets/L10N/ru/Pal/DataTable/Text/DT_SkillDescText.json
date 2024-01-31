@@ -1,0 +1,1407 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SkillDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "ACTION_SKILL_Human_Punch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Human_Punch_TextData",
+          "SourceString": "Размахнувшись, выполняет удар кулаком.",
+          "LocalizedString": "Размахнувшись, выполняет удар кулаком."
+        }
+      },
+      "ACTION_SKILL_Throw": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Throw_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Scratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Scratch_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_EnergyShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_EnergyShot_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_HyperBeam": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_HyperBeam_TextData",
+          "SourceString": "Накапливает разрушительную энергию и выпускает\r\nпо области перед собой сверхмощный луч.",
+          "LocalizedString": "Накапливает разрушительную энергию и выпускает\r\nпо области перед собой сверхмощный луч."
+        }
+      },
+      "ACTION_SKILL_PowerShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PowerShot_TextData",
+          "SourceString": "Накапливает энергию и выпускает\r\nэнергетический снаряд.",
+          "LocalizedString": "Накапливает энергию и выпускает\r\nэнергетический снаряд."
+        }
+      },
+      "ACTION_SKILL_PowerBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PowerBall_TextData",
+          "SourceString": "Накапливает мощный заряд энергии и выпускает\r\nогромную энергетическую сферу.",
+          "LocalizedString": "Накапливает мощный заряд энергии и выпускает\r\nогромную энергетическую сферу."
+        }
+      },
+      "ACTION_SKILL_AirCanon": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_AirCanon_TextData",
+          "SourceString": "Выпускает летящий с высокой скоростью сгусток воздуха.",
+          "LocalizedString": "Выпускает летящий с высокой скоростью сгусток воздуха."
+        }
+      },
+      "ACTION_SKILL_StardustArrow": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_StardustArrow_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Intimidate": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Intimidate_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_Anubis_LowRoundKick": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Anubis_LowRoundKick_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Anubis|/>.\r\nСовершает круговой удар своей крепкой ногой,\r\nпоражая врагов в широком радиусе.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Anubis|/>.\r\nСовершает круговой удар своей крепкой ногой,\r\nпоражая врагов в широком радиусе."
+        }
+      },
+      "ACTION_SKILL_Unique_Anubis_GroundPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Anubis_GroundPunch_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Anubis|/>.\r\nВысоко подпрыгнув, ударяет кулаком в землю.\r\nВозникшая ударная волна наносит урон по площади.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Anubis|/>.\r\nВысоко подпрыгнув, ударяет кулаком в землю.\r\nВозникшая ударная волна наносит урон по площади."
+        }
+      },
+      "ACTION_SKILL_Unique_Anubis_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Anubis_Tackle_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Anubis|/>.\r\nСтремительно настигает врага и,\r\nвысвобождая энергию, наносит ему мощный удар.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Anubis|/>.\r\nСтремительно настигает врага и,\r\nвысвобождая энергию, наносит ему мощный удар."
+        }
+      },
+      "ACTION_SKILL_Unique_Deer_PushupHorn": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Deer_PushupHorn_TextData",
+          "SourceString": "Уникальное умение Пала Иктирдир.\r\nДелает рывок к противнику, атакуя его рогами.\r\nПри использовании во время езды верхом можно управлять направлением рывка.",
+          "LocalizedString": "Уникальное умение Пала Иктирдир.\r\nДелает рывок к противнику, атакуя его рогами.\r\nПри использовании во время езды верхом можно управлять направлением рывка."
+        }
+      },
+      "ACTION_SKILL_Unique_Garm_Bite": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Garm_Bite_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Garm|/>.\r\nБыстро подскакивает к противнику и\r\nвцепляется в него зубами.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Garm|/>.\r\nБыстро подскакивает к противнику и\r\nвцепляется в него зубами."
+        }
+      },
+      "ACTION_SKILL_Unique_Boar_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Boar_Tackle_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Boar|/>.\r\nПрицелившись, неистово бросается на противника.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Boar|/>.\r\nПрицелившись, неистово бросается на противника."
+        }
+      },
+      "ACTION_SKILL_Unique_PinkCat_CatPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_PinkCat_CatPunch_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|PinkCat|/>.\r\nПреследуя противника, обрушивает на него\r\nсерию ударов обеими руками.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|PinkCat|/>.\r\nПреследуя противника, обрушивает на него\r\nсерию ударов обеими руками."
+        }
+      },
+      "ACTION_SKILL_Unique_FlowerDinosaur_Whip": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FlowerDinosaur_Whip_TextData",
+          "SourceString": "Уникальное умение Пала Диноссум.\r\nБьет своим огромным хвостом по земле\r\nперед собой, накрывая область ударной волной.",
+          "LocalizedString": "Уникальное умение Пала Диноссум.\r\nБьет своим огромным хвостом по земле\r\nперед собой, накрывая область ударной волной."
+        }
+      },
+      "ACTION_SKILL_Unique_SheepBall_Roll": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SheepBall_Roll_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|SheepBall|/>.\r\nКатится, преследуя противника.\r\nПосле атаки теряет способность двигаться\r\nиз-за головокружения.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|SheepBall|/>.\r\nКатится, преследуя противника.\r\nПосле атаки теряет способность двигаться\r\nиз-за головокружения."
+        }
+      },
+      "ACTION_SKILL_Unique_ChickenPal_ChickenPeck": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ChickenPal_ChickenPeck_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|ChickenPal|/>.\r\nПодлетает к противнику и атакует его\r\nсвоим острым клювом.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|ChickenPal|/>.\r\nПодлетает к противнику и атакует его\r\nсвоим острым клювом."
+        }
+      },
+      "ACTION_SKILL_Unique_Horus_FlareBird": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Horus_FlareBird_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Horus|/>.\r\nСоздает раскаленный вихрь, после чего,\r\nокутанный адским пламенем,\r\nбросается в атаку, планируя в воздухе.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Horus|/>.\r\nСоздает раскаленный вихрь, после чего,\r\nокутанный адским пламенем,\r\nбросается в атаку, планируя в воздухе."
+        }
+      },
+      "ACTION_SKILL_Unique_ElecPanda_ElecScratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ElecPanda_ElecScratch_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|ElecPanda|/>.\r\nБросается на врага и рвет его заряженными электричеством когтями.\r\nСовершив 2 броска, вонзает когти в землю,\r\nнакрывая область электрической волной.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|ElecPanda|/>.\r\nБросается на врага и рвет его заряженными электричеством когтями.\r\nСовершив 2 броска, вонзает когти в землю,\r\nнакрывая область электрической волной."
+        }
+      },
+      "ACTION_SKILL_Unique_FairyDragon_FairyTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FairyDragon_FairyTornado_TextData",
+          "SourceString": "Уникальное умение Пала Элфидран.\r\nВыпускает 2 наполненных таинственной силой вихря,\r\nпреследуя врага.",
+          "LocalizedString": "Уникальное умение Пала Элфидран.\r\nВыпускает 2 наполненных таинственной силой вихря,\r\nпреследуя врага."
+        }
+      },
+      "ACTION_SKILL_Unique_Gorilla_GroundPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Gorilla_GroundPunch_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Gorilla|/>.\r\nДважды бьет по земле, после чего взмывает в воздух\r\nи обрушивает на противника мощный удар кулаком.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Gorilla|/>.\r\nДважды бьет по земле, после чего взмывает в воздух\r\nи обрушивает на противника мощный удар кулаком."
+        }
+      },
+      "ACTION_SKILL_Unique_Grassmammoth_Earthquake": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Grassmammoth_Earthquake_TextData",
+          "SourceString": "Уникальное умение Пала Мамморест.\r\nСотрясает землю своим огромным телом,\r\nнанося урон по области вокруг себя.",
+          "LocalizedString": "Уникальное умение Пала Мамморест.\r\nСотрясает землю своим огромным телом,\r\nнанося урон по области вокруг себя."
+        }
+      },
+      "ACTION_SKILL_Unique_GrassPanda_MusclePunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GrassPanda_MusclePunch_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|GrassPanda|/>.\r\nВращает правую руку и наносит мощный удар кулаком перед собой.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|GrassPanda|/>.\r\nВращает правую руку и наносит мощный удар кулаком перед собой."
+        }
+      },
+      "ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|GrassPanda_Electric|/>.\r\nВращает правую руку и наносит заряженный электричеством\r\nудар кулаком перед собой.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|GrassPanda_Electric|/>.\r\nВращает правую руку и наносит заряженный электричеством\r\nудар кулаком перед собой."
+        }
+      },
+      "ACTION_SKILL_Unique_Alpaca_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Alpaca_Tackle_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Alpaca|/>.\r\nОкружив себя аурой очарования, делает рывок вперед.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Alpaca|/>.\r\nОкружив себя аурой очарования, делает рывок вперед."
+        }
+      },
+      "ACTION_SKILL_Unique_AmaterasuWolf_FireCharge": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_AmaterasuWolf_FireCharge_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|AmaterasuWolf|/>.\r\nОкружает тело синим пламенем и делает мощный рывок вперед.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|AmaterasuWolf|/>.\r\nОкружает тело синим пламенем и делает мощный рывок вперед."
+        }
+      },
+      "ACTION_SKILL_Unique_Baphomet_SwallowKite": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Baphomet_SwallowKite_TextData",
+          "SourceString": "Уникальное умение Пала Инсинерам.\r\nПриближаясь к противнику, наносит ему удары когтями левой лапы, подпрыгивает\r\nи следом обрушивает быстрый удар когтями правой лапы.",
+          "LocalizedString": "Уникальное умение Пала Инсинерам.\r\nПриближаясь к противнику, наносит ему удары когтями левой лапы, подпрыгивает\r\nи следом обрушивает быстрый удар когтями правой лапы."
+        }
+      },
+      "ACTION_SKILL_Unique_BirdDragon_FireBreath": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BirdDragon_FireBreath_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|BlackCentaur|/>.\r\nДелает рывок вперед, выполняя своими копьями,\r\nохваченными вихрем, выпады вправо и влево.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|BlackCentaur|/>.\r\nДелает рывок вперед, выполняя своими копьями,\r\nохваченными вихрем, выпады вправо и влево."
+        }
+      },
+      "ACTION_SKILL_Unique_BlackFurDragon_RotationalSlash": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackFurDragon_RotationalSlash_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_BlackGriffon_TackleLaser": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackGriffon_TackleLaser_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|BlackGriffon|/>.\r\nВыполняет рывок, создавая сгустки света.\r\nСгустки света автоматически захватывают врага, испуская снопы лазерных лучей.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|BlackGriffon|/>.\r\nВыполняет рывок, создавая сгустки света.\r\nСгустки света автоматически захватывают врага, испуская снопы лазерных лучей."
+        }
+      },
+      "ACTION_SKILL_Unique_BlackMetalDragon_FirePunch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_BlackMetalDragon_FirePunch_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_DarkCrow_TelePoke": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DarkCrow_TelePoke_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|DarkCrow|/>.\r\nМгновенно переместившись к врагу,\r\nнаносит атаку клювом.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|DarkCrow|/>.\r\nМгновенно переместившись к врагу,\r\nнаносит атаку клювом."
+        }
+      },
+      "ACTION_SKILL_Unique_DarkMutant_DarkTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DarkMutant_DarkTackle_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_DarkScorpion_Pierce": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DarkScorpion_Pierce_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_DrillGame_ShellAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_DrillGame_ShellAttack_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|DrillGame|/>.\r\nДвигается, вращаясь с большой скоростью.\r\nАтакует врага буром, нанося периодический урон.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|DrillGame|/>.\r\nДвигается, вращаясь с большой скоростью.\r\nАтакует врага буром, нанося периодический урон."
+        }
+      },
+      "ACTION_SKILL_Unique_Eagle_GlidingNail": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Eagle_GlidingNail_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Eagle|/>.\r\nВыставив вперед когти на лапах,\r\nсовершает мощный рывок по воздуху.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Eagle|/>.\r\nВыставив вперед когти на лапах,\r\nсовершает мощный рывок по воздуху."
+        }
+      },
+      "ACTION_SKILL_Unique_FengyunDeeper_CloudTempest": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FengyunDeeper_CloudTempest_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|FengyunDeeper|/>.\r\nИспользуя силу атмосферы, окружает себя мощным\r\nветряным потоком и выполняет рывок вперед.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|FengyunDeeper|/>.\r\nИспользуя силу атмосферы, окружает себя мощным\r\nветряным потоком и выполняет рывок вперед."
+        }
+      },
+      "ACTION_SKILL_Unique_FireKirin_Tackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FireKirin_Tackle_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|FireKirin|/>.\r\nОкутав себя огнем, делает рывок вперед.\r\nНа пути остается пылающее пламя.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|FireKirin|/>.\r\nОкутав себя огнем, делает рывок вперед.\r\nНа пути остается пылающее пламя."
+        }
+      },
+      "ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|FireKirin_Dark|/>.\r\nОкутав себя темным пламенем, делает рывок вперед.\r\nОставляет на своем пути огненный след.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|FireKirin_Dark|/>.\r\nОкутав себя темным пламенем, делает рывок вперед.\r\nОставляет на своем пути огненный след."
+        }
+      },
+      "ACTION_SKILL_Unique_FlameBuffalo_FlameHorn": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_FlameBuffalo_FlameHorn_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|FlameBuffalo|/>.\r\nПрицеливается во врага\r\nи совершает сокрушительный натиск, подняв рога.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|FlameBuffalo|/>.\r\nПрицеливается во врага\r\nи совершает сокрушительный натиск, подняв рога."
+        }
+      },
+      "ACTION_SKILL_Unique_GhostBeast_Tossin": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GhostBeast_Tossin_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_HawkBird_Storm": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_HawkBird_Storm_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|HawkBird|/>.\r\nСоздает перед собой ураганный вихрь,\r\nпосле чего бросается на врага, паря в воздухе.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|HawkBird|/>.\r\nСоздает перед собой ураганный вихрь,\r\nпосле чего бросается на врага, паря в воздухе."
+        }
+      },
+      "ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|HerculesBeetle|/>.\r\nПронзает врага четырьмя крепкими рогами.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|HerculesBeetle|/>.\r\nПронзает врага четырьмя крепкими рогами."
+        }
+      },
+      "ACTION_SKILL_Unique_IceDeer_IceHorn": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_IceDeer_IceHorn_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|IceDeer|/>.\r\nПоднимает врага на свои величественные ледяные рога.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|IceDeer|/>.\r\nПоднимает врага на свои величественные ледяные рога."
+        }
+      },
+      "ACTION_SKILL_Unique_IceHorse_IceBladeAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_IceHorse_IceBladeAttack_TextData",
+          "SourceString": "Уникальное умение Пала Фросталлион.\r\nКонденсирует холодный воздух и покрывает льдом свои перья,\r\nа затем мчится на врага, атакуя его ледяными крыльями.",
+          "LocalizedString": "Уникальное умение Пала Фросталлион.\r\nКонденсирует холодный воздух и покрывает льдом свои перья,\r\nа затем мчится на врага, атакуя его ледяными крыльями."
+        }
+      },
+      "ACTION_SKILL_Unique_JetDragon_JumpBeam": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_JetDragon_JumpBeam_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|JetDragon|/>.\r\nОкутывает сиянием свои крылья и\r\nобрушивает на врага шквал лучей.\r\nДостигая цели, лучи взрываются.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|JetDragon|/>.\r\nОкутывает сиянием свои крылья и\r\nобрушивает на врага шквал лучей.\r\nДостигая цели, лучи взрываются."
+        }
+      },
+      "ACTION_SKILL_Unique_KingAlpaca_BodyPress": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_KingAlpaca_BodyPress_TextData",
+          "SourceString": "Уникальное умение Пала Кингпака.\r\nВысоко подпрыгивает вверх,\r\nпосле чего давит врага своим массивным телом.",
+          "LocalizedString": "Уникальное умение Пала Кингпака.\r\nВысоко подпрыгивает вверх,\r\nпосле чего давит врага своим массивным телом."
+        }
+      },
+      "ACTION_SKILL_Unique_KingBahamut_AirCrash": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_KingBahamut_AirCrash_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_Kirin_LightningTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Kirin_LightningTackle_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Kirin|/>.\r\nСовершает рывок в сторону врага,\r\nобрушивая на область вокруг себя удары молний.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Kirin|/>.\r\nСовершает рывок в сторону врага,\r\nобрушивая на область вокруг себя удары молний."
+        }
+      },
+      "ACTION_SKILL_Unique_Manticore_InfernoStrike": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Manticore_InfernoStrike_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_NaughtyCat_CatPress": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_NaughtyCat_CatPress_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|NaughtyCat|/>.\r\nНахально улыбаясь, подпрыгивает вверх и\r\nрасплющивает врага всем своим весом.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|NaughtyCat|/>.\r\nНахально улыбаясь, подпрыгивает вверх и\r\nрасплющивает врага всем своим весом."
+        }
+      },
+      "ACTION_SKILL_Unique_QueenBee_SpinLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_QueenBee_SpinLance_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|QueenBee|/>.\r\nКонцентрирует силу вокруг своего жезла и,\r\nвращая его в руке, обрушивает ее на врага.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|QueenBee|/>.\r\nКонцентрирует силу вокруг своего жезла и,\r\nвращая его в руке, обрушивает ее на врага."
+        }
+      },
+      "ACTION_SKILL_Unique_RedArmorBird_RotarySkipping": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_RedArmorBird_RotarySkipping_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_RobinHood_BowSnipe": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_RobinHood_BowSnipe_TextData",
+          "SourceString": "Уникальное умение Пала Робинквилл.\r\nНатягивает тетиву лука, прицеливается во врага\r\nи совершает выстрел.",
+          "LocalizedString": "Уникальное умение Пала Робинквилл.\r\nНатягивает тетиву лука, прицеливается во врага\r\nи совершает выстрел."
+        }
+      },
+      "ACTION_SKILL_Unique_Ronin_Iai": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Ronin_Iai_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Ronin|/>.\r\nПодготовившись к атаке, стремительно перемещается к врагу\r\nи обнажает свою катану, нанося молниеносный удар.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Ronin|/>.\r\nПодготовившись к атаке, стремительно перемещается к врагу\r\nи обнажает свою катану, нанося молниеносный удар."
+        }
+      },
+      "ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|SaintCentaur|/>.\r\nОкутав себя священной силой,\r\nбросается вперед, выставив перед собой зажатое в левой руке копье.\r\nВо время натиска отражает атаки щитом в правой руке.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|SaintCentaur|/>.\r\nОкутав себя священной силой,\r\nбросается вперед, выставив перед собой зажатое в левой руке копье.\r\nВо время натиска отражает атаки щитом в правой руке."
+        }
+      },
+      "ACTION_SKILL_Unique_SakuraSaurus_SideTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SakuraSaurus_SideTackle_TextData",
+          "SourceString": "Уникальное умение Пала Брончерри.\r\nПоворачивается боком и\r\nтолкает врага перед собой, отбрасывая его назад.",
+          "LocalizedString": "Уникальное умение Пала Брончерри.\r\nПоворачивается боком и\r\nтолкает врага перед собой, отбрасывая его назад."
+        }
+      },
+      "ACTION_SKILL_Unique_SoldierBee_NeedleLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_SoldierBee_NeedleLance_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_ThunderBird_ThunderStorm": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ThunderBird_ThunderStorm_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_ThunderDog_InazumaShorai": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ThunderDog_InazumaShorai_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_Umihebi_WindingTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Umihebi_WindingTackle_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|VolcanicMonster|/>.\r\nПоднимает переднюю ногу и ударяет ей по земле,\r\nсоздавая под ногами врага жерло вулкана.\r\nВо время извержения на область вокруг падает дождь из вулканических снарядов.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|VolcanicMonster|/>.\r\nПоднимает переднюю ногу и ударяет ей по земле,\r\nсоздавая под ногами врага жерло вулкана.\r\nВо время извержения на область вокруг падает дождь из вулканических снарядов."
+        }
+      },
+      "ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|VolcanicMonster_Ice|/>.\r\nПоднимает переднюю ногу и ударяет ей по земле,\r\nсоздавая под ногами врага фонтан снега.\r\nВо время выброса на область вокруг падает дождь из снежных комьев.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|VolcanicMonster_Ice|/>.\r\nПоднимает переднюю ногу и ударяет ей по земле,\r\nсоздавая под ногами врага фонтан снега.\r\nВо время выброса на область вокруг падает дождь из снежных комьев."
+        }
+      },
+      "ACTION_SKILL_Unique_WeaselDragon_FlyingTackle": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_WeaselDragon_FlyingTackle_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_Werewolf_Scratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Werewolf_Scratch_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|Werewolf|/>.\r\nСовершает скачок вперед и выполняет два быстрых удара когтями.\r\nЭти рубящие атаки наделены силой тьмы.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|Werewolf|/>.\r\nСовершает скачок вперед и выполняет два быстрых удара когтями.\r\nЭти рубящие атаки наделены силой тьмы."
+        }
+      },
+      "ACTION_SKILL_Unique_WhiteTiger_IceScratch": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_WhiteTiger_IceScratch_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_Yeti_SnowBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_Yeti_SnowBall_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|ThunderDragonMan|/>.\r\nВзмывает вверх, после чего призывает грозовой клинок\r\nи запускает его во врага.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|ThunderDragonMan|/>.\r\nВзмывает вверх, после чего призывает грозовой клинок\r\nи запускает его во врага."
+        }
+      },
+      "ACTION_SKILL_Unique_CaptainPenguin_BodySlide": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Unique_CaptainPenguin_BodySlide_TextData",
+          "SourceString": "Уникальное умение Пала <characterName id=|CaptainPenguin|/>.\r\nЛожится брюхом на землю и скользит прямо во врага,\r\n, источая холод всем телом.",
+          "LocalizedString": "Уникальное умение Пала <characterName id=|CaptainPenguin|/>.\r\nЛожится брюхом на землю и скользит прямо во врага,\r\n, источая холод всем телом."
+        }
+      },
+      "ACTION_SKILL_PoisonFog": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PoisonFog_TextData",
+          "SourceString": "Выпускает перед собой облако ядовитого тумана,\r\nотравляя противника.",
+          "LocalizedString": "Выпускает перед собой облако ядовитого тумана,\r\nотравляя противника."
+        }
+      },
+      "ACTION_SKILL_SelfDestruct": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SelfDestruct_TextData",
+          "SourceString": "Взрывается, жертвуя собой.\r\nУходит в нокаут после использования.",
+          "LocalizedString": "Взрывается, жертвуя собой.\r\nУходит в нокаут после использования."
+        }
+      },
+      "ACTION_SKILL_SelfDestruct_Bee": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SelfDestruct_Bee_TextData",
+          "SourceString": "Взрывается, жертвуя собой.\r\nГероический прием, стоящий жизни.",
+          "LocalizedString": "Взрывается, жертвуя собой.\r\nГероический прием, стоящий жизни."
+        }
+      },
+      "ACTION_SKILL_SelfExplosion": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SelfExplosion_TextData",
+          "SourceString": "Вызывает обширный взрыв, жертвуя собой.\r\nУмирая, эти Палы становятся сияющими звездами на небе.",
+          "LocalizedString": "Вызывает обширный взрыв, жертвуя собой.\r\nУмирая, эти Палы становятся сияющими звездами на небе."
+        }
+      },
+      "ACTION_SKILL_FireBlast": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FireBlast_TextData",
+          "SourceString": "Выпускает в сторону врага\r\nлетящие по прямой огненные снаряды.",
+          "LocalizedString": "Выпускает в сторону врага\r\nлетящие по прямой огненные снаряды."
+        }
+      },
+      "ACTION_SKILL_Flamethrower": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Flamethrower_TextData",
+          "SourceString": "Выпускает в сторону врага пламя,\r\nнанося периодический урон.",
+          "LocalizedString": "Выпускает в сторону врага пламя,\r\nнанося периодический урон."
+        }
+      },
+      "ACTION_SKILL_FireBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FireBall_TextData",
+          "SourceString": "Создает над головой огромный огненный шар\r\nи выпускает его в сторону врага.\r\nШар взрывается при попадании,\r\nнакрывая большую площадь взрывной волной.",
+          "LocalizedString": "Создает над головой огромный огненный шар\r\nи выпускает его в сторону врага.\r\nШар взрывается при попадании,\r\nнакрывая большую площадь взрывной волной."
+        }
+      },
+      "ACTION_SKILL_FlareArrow": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FlareArrow_TextData",
+          "SourceString": "Выпускает одну за другой 3 скоростных огненных\r\nстрелы, преследующих противника.",
+          "LocalizedString": "Выпускает одну за другой 3 скоростных огненных\r\nстрелы, преследующих противника."
+        }
+      },
+      "ACTION_SKILL_FireSeed": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FireSeed_TextData",
+          "SourceString": "Выпускает огненную сферу в сторону врага.\r\nПролетев немного, она разрывается на несколько\r\nмаленьких сфер, разлетающихся вперед.",
+          "LocalizedString": "Выпускает огненную сферу в сторону врага.\r\nПролетев немного, она разрывается на несколько\r\nмаленьких сфер, разлетающихся вперед."
+        }
+      },
+      "ACTION_SKILL_FlareTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FlareTornado_TextData",
+          "SourceString": "Создает справа и слева от себя раскаленные вихри,\r\nнаправляя их на врага.",
+          "LocalizedString": "Создает справа и слева от себя раскаленные вихри,\r\nнаправляя их на врага."
+        }
+      },
+      "ACTION_SKILL_Inferno": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Inferno_TextData",
+          "SourceString": "Приводит почву вокруг в движение.\r\nЧерез некоторое время земля раскалывается.",
+          "LocalizedString": "Приводит почву вокруг в движение.\r\nЧерез некоторое время земля раскалывается."
+        }
+      },
+      "ACTION_SKILL_WaterGun": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WaterGun_TextData",
+          "SourceString": "Выпускает в сторону врага\r\nлетящие по прямой водяные снаряды.",
+          "LocalizedString": "Выпускает в сторону врага\r\nлетящие по прямой водяные снаряды."
+        }
+      },
+      "ACTION_SKILL_WaterWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WaterWave_TextData",
+          "SourceString": "Создает впереди себя стену из водяных вихрей\r\nи медленно перемещает ее вперед.",
+          "LocalizedString": "Создает впереди себя стену из водяных вихрей\r\nи медленно перемещает ее вперед."
+        }
+      },
+      "ACTION_SKILL_HydroPump": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_HydroPump_TextData",
+          "SourceString": "Выпускает невероятно мощную струю воды,\r\nпоражая широкую область перед собой.",
+          "LocalizedString": "Выпускает невероятно мощную струю воды,\r\nпоражая широкую область перед собой."
+        }
+      },
+      "ACTION_SKILL_WaterBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WaterBall_TextData",
+          "SourceString": "Создает над головой огромный водяной шар\r\nи выпускает его во врага.",
+          "LocalizedString": "Создает над головой огромный водяной шар\r\nи выпускает его во врага."
+        }
+      },
+      "ACTION_SKILL_TidalWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_TidalWave_TextData",
+          "SourceString": "Создает небольшие волны на обширной площади,\r\nзамедляя врагов, после чего\r\nобрушивает на них огромную волну.",
+          "LocalizedString": "Создает небольшие волны на обширной площади,\r\nзамедляя врагов, после чего\r\nобрушивает на них огромную волну."
+        }
+      },
+      "ACTION_SKILL_AquaJet": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_AquaJet_TextData",
+          "SourceString": "Выпускает в сторону врага\r\nскоростной водяной снаряд.",
+          "LocalizedString": "Выпускает в сторону врага\r\nскоростной водяной снаряд."
+        }
+      },
+      "ACTION_SKILL_BubbleShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_BubbleShot_TextData",
+          "SourceString": "Выпускает множество пузырей,\r\nмедленно преследующих врагов.",
+          "LocalizedString": "Выпускает множество пузырей,\r\nмедленно преследующих врагов."
+        }
+      },
+      "ACTION_SKILL_AcidRain": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_AcidRain_TextData",
+          "SourceString": "Создает кислотное облако,\r\nобрушивая на головы врагов кислотный дождь.",
+          "LocalizedString": "Создает кислотное облако,\r\nобрушивая на головы врагов кислотный дождь."
+        }
+      },
+      "ACTION_SKILL_WindCutter": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_WindCutter_TextData",
+          "SourceString": "Выпускает в сторону врага летящие по прямой\r\nстремительные ветряные лезвия.",
+          "LocalizedString": "Выпускает в сторону врага летящие по прямой\r\nстремительные ветряные лезвия."
+        }
+      },
+      "ACTION_SKILL_GrassTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_GrassTornado_TextData",
+          "SourceString": "Создает справа и слева от себя вихри,\r\nнаправляя их на врага.",
+          "LocalizedString": "Создает справа и слева от себя вихри,\r\nнаправляя их на врага."
+        }
+      },
+      "ACTION_SKILL_SolarBeam": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SolarBeam_TextData",
+          "SourceString": "Выпускает во врага мощный луч\r\nзаряженной солнечной энергии.",
+          "LocalizedString": "Выпускает во врага мощный луч\r\nзаряженной солнечной энергии."
+        }
+      },
+      "ACTION_SKILL_SeedMachinegun": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SeedMachinegun_TextData",
+          "SourceString": "Атакует врагов перед собой,\r\nобстреливая их дождем твердых семян.",
+          "LocalizedString": "Атакует врагов перед собой,\r\nобстреливая их дождем твердых семян."
+        }
+      },
+      "ACTION_SKILL_SeedMine": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SeedMine_TextData",
+          "SourceString": "Выстреливает опасными семенами.\r\nПопав во врага, семена лопаются и взрываются.",
+          "LocalizedString": "Выстреливает опасными семенами.\r\nПопав во врага, семена лопаются и взрываются."
+        }
+      },
+      "ACTION_SKILL_SpecialCutter": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SpecialCutter_TextData",
+          "SourceString": "Выпускает во врага 3 ветряных кинжала,\r\nлетящих по прямой с бешеной скоростью.",
+          "LocalizedString": "Выпускает во врага 3 ветряных кинжала,\r\nлетящих по прямой с бешеной скоростью."
+        }
+      },
+      "ACTION_SKILL_RootAttack": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_RootAttack_TextData",
+          "SourceString": "Острые корни преследуют врагов,\r\nпронзая их из-под ног.",
+          "LocalizedString": "Острые корни преследуют врагов,\r\nпронзая их из-под ног."
+        }
+      },
+      "ACTION_SKILL_ThunderRain": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThunderRain_TextData",
+          "SourceString": "Призывает грозу.\r\nСпустя некоторое время на врагов\r\nобрушиваются многочисленные удары молний.",
+          "LocalizedString": "Призывает грозу.\r\nСпустя некоторое время на врагов\r\nобрушиваются многочисленные удары молний."
+        }
+      },
+      "ACTION_SKILL_ThunderBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThunderBall_TextData",
+          "SourceString": "Выпускает грозовую сферу,\r\nмедленно преследующую врага.",
+          "LocalizedString": "Выпускает грозовую сферу,\r\nмедленно преследующую врага."
+        }
+      },
+      "ACTION_SKILL_LineThunder": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_LineThunder_TextData",
+          "SourceString": "Вызывает каскад движущихся по прямой молний.",
+          "LocalizedString": "Вызывает каскад движущихся по прямой молний."
+        }
+      },
+      "ACTION_SKILL_CrossThunder": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_CrossThunder_TextData",
+          "SourceString": "Вызывает двигающиеся в двух направлениях\r\nмолнии, зажимая врага в тиски.",
+          "LocalizedString": "Вызывает двигающиеся в двух направлениях\r\nмолнии, зажимая врага в тиски."
+        }
+      },
+      "ACTION_SKILL_ThreeThunder": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThreeThunder_TextData",
+          "SourceString": "Обрушивает на головы врагов 3 удара молнии.",
+          "LocalizedString": "Обрушивает на головы врагов 3 удара молнии."
+        }
+      },
+      "ACTION_SKILL_ElecWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ElecWave_TextData",
+          "SourceString": "Стремительно выпускает заряд электричества,\r\nнакрывая импульсом область вокруг.",
+          "LocalizedString": "Стремительно выпускает заряд электричества,\r\nнакрывая импульсом область вокруг."
+        }
+      },
+      "ACTION_SKILL_Thunderbolt": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Thunderbolt_TextData",
+          "SourceString": "Выпускает во врага мощный\r\nзаряд молнии.",
+          "LocalizedString": "Выпускает во врага мощный\r\nзаряд молнии."
+        }
+      },
+      "ACTION_SKILL_ThunderFunnel": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThunderFunnel_TextData",
+          "SourceString": "Создает 2 заряженных грозовой энергией шара,\r\nкоторые выпускают во врага бесчисленные\r\nэлектрические сферы.",
+          "LocalizedString": "Создает 2 заряженных грозовой энергией шара,\r\nкоторые выпускают во врага бесчисленные\r\nэлектрические сферы."
+        }
+      },
+      "ACTION_SKILL_SpreadPulse": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SpreadPulse_TextData",
+          "SourceString": "Выпускает вперед расходящиеся лучами\r\nгрозовые сферы.",
+          "LocalizedString": "Выпускает вперед расходящиеся лучами\r\nгрозовые сферы."
+        }
+      },
+      "ACTION_SKILL_LockonLaser": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_LockonLaser_TextData",
+          "SourceString": "Прицелившись, стреляет во врага\r\nиз сверхскоростного грозового лазера.",
+          "LocalizedString": "Прицелившись, стреляет во врага\r\nиз сверхскоростного грозового лазера."
+        }
+      },
+      "ACTION_SKILL_LightningStrike": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_LightningStrike_TextData",
+          "SourceString": "Выполняя роль громоотвода, призывает молнии\r\nи вызывает мощный взрыв электричества.",
+          "LocalizedString": "Выполняя роль громоотвода, призывает молнии\r\nи вызывает мощный взрыв электричества."
+        }
+      },
+      "ACTION_SKILL_IceMissile": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_IceMissile_TextData",
+          "SourceString": "Создает в воздухе острые льдины\r\nи обрушивает их на врага.",
+          "LocalizedString": "Создает в воздухе острые льдины\r\nи обрушивает их на врага."
+        }
+      },
+      "ACTION_SKILL_BlizzardLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_BlizzardLance_TextData",
+          "SourceString": "Создает под ногами врагов\r\nострые ледяные лезвия.",
+          "LocalizedString": "Создает под ногами врагов\r\nострые ледяные лезвия."
+        }
+      },
+      "ACTION_SKILL_Snowstorm": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Snowstorm_TextData",
+          "SourceString": "Концентрирует вокруг себя леденящую силу,\r\nнаносящую урон врагам вокруг,\r\nа затем обрушивает на них снежную бурю.",
+          "LocalizedString": "Концентрирует вокруг себя леденящую силу,\r\nнаносящую урон врагам вокруг,\r\nа затем обрушивает на них снежную бурю."
+        }
+      },
+      "ACTION_SKILL_IcicleThrow": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_IcicleThrow_TextData",
+          "SourceString": "Создает огромную льдину и стремительно\r\nзапускает ее во врага.\r\nПосле попадания льдина поражает окружающее пространство.",
+          "LocalizedString": "Создает огромную льдину и стремительно\r\nзапускает ее во врага.\r\nПосле попадания льдина поражает окружающее пространство."
+        }
+      },
+      "ACTION_SKILL_IceBlade": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_IceBlade_TextData",
+          "SourceString": "Создает клинок в форме полумесяца\r\nи запускает его во врагов перед собой.",
+          "LocalizedString": "Создает клинок в форме полумесяца\r\nи запускает его во врагов перед собой."
+        }
+      },
+      "ACTION_SKILL_FrostBreath": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_FrostBreath_TextData",
+          "SourceString": "Выпускает во врага струю холода,\r\nнанося периодический урон.",
+          "LocalizedString": "Выпускает во врага струю холода,\r\nнанося периодический урон."
+        }
+      },
+      "ACTION_SKILL_DiamondFall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DiamondFall_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_SandTornado": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_SandTornado_TextData",
+          "SourceString": "Создает справа и слева от себя песчаные вихри,\r\nнаправляя их на врага.",
+          "LocalizedString": "Создает справа и слева от себя песчаные вихри,\r\nнаправляя их на врага."
+        }
+      },
+      "ACTION_SKILL_ThrowRock": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ThrowRock_TextData",
+          "SourceString": "Поднимает с земли булыжник\r\nи бросает его во врага.",
+          "LocalizedString": "Поднимает с земли булыжник\r\nи бросает его во врага."
+        }
+      },
+      "ACTION_SKILL_RockLance": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_RockLance_TextData",
+          "SourceString": "Создает под ногами врагов\r\nострые каменные копья.",
+          "LocalizedString": "Создает под ногами врагов\r\nострые каменные копья."
+        }
+      },
+      "ACTION_SKILL_MudShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_MudShot_TextData",
+          "SourceString": "Окатывает врагов\r\nструей липкой грязи.",
+          "LocalizedString": "Окатывает врагов\r\nструей липкой грязи."
+        }
+      },
+      "ACTION_SKILL_StoneShotgun": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_StoneShotgun_TextData",
+          "SourceString": "Выстреливает во врагов перед собой\r\nпотоком камней.",
+          "LocalizedString": "Выстреливает во врагов перед собой\r\nпотоком камней."
+        }
+      },
+      "ACTION_SKILL_Tremor": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Tremor_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_DarkLaser": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkLaser_TextData",
+          "SourceString": "Выпускает во врага мощный луч\r\nзаряженной темной энергии.",
+          "LocalizedString": "Выпускает во врага мощный луч\r\nзаряженной темной энергии."
+        }
+      },
+      "ACTION_SKILL_DarkWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkWave_TextData",
+          "SourceString": "Стремительно высвобождает силу тьмы,\r\nобрушивая ее на область вокруг.",
+          "LocalizedString": "Стремительно высвобождает силу тьмы,\r\nобрушивая ее на область вокруг."
+        }
+      },
+      "ACTION_SKILL_Psychokinesis": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Psychokinesis_TextData",
+          "SourceString": "Пленяет врагов вокруг с помощью телекинеза\r\nи бросает их с высоты о землю.",
+          "LocalizedString": "Пленяет врагов вокруг с помощью телекинеза\r\nи бросает их с высоты о землю."
+        }
+      },
+      "ACTION_SKILL_ShadowBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_ShadowBall_TextData",
+          "SourceString": "Создает огромный шар темной энергии\r\nи с большой скоростью запускает его во врага.",
+          "LocalizedString": "Создает огромный шар темной энергии\r\nи с большой скоростью запускает его во врага."
+        }
+      },
+      "ACTION_SKILL_GhostFlame": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_GhostFlame_TextData",
+          "SourceString": "Выпускает 3 мстительных духов,\r\nнастойчиво преследующих врагов.",
+          "LocalizedString": "Выпускает 3 мстительных духов,\r\nнастойчиво преследующих врагов."
+        }
+      },
+      "ACTION_SKILL_PoisonShot": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_PoisonShot_TextData",
+          "SourceString": "Выпускает во врага сгусток слизи,\r\nнаполненный силой яда.",
+          "LocalizedString": "Выпускает во врага сгусток слизи,\r\nнаполненный силой яда."
+        }
+      },
+      "ACTION_SKILL_DarkBall": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkBall_TextData",
+          "SourceString": "Выпускает темный шар,\r\nнеспешно преследующий врага.",
+          "LocalizedString": "Выпускает темный шар,\r\nнеспешно преследующий врага."
+        }
+      },
+      "ACTION_SKILL_DarkLegion": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkLegion_TextData",
+          "SourceString": "Выпускает несколько темных сфер, преследующих врага.",
+          "LocalizedString": "Выпускает несколько темных сфер, преследующих врага."
+        }
+      },
+      "ACTION_SKILL_DarkFog": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DarkFog_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_DragonMeteor": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonMeteor_TextData",
+          "SourceString": "Призывает множество маленьких метеоритов\r\nи запускает их во врага.",
+          "LocalizedString": "Призывает множество маленьких метеоритов\r\nи запускает их во врага."
+        }
+      },
+      "ACTION_SKILL_DragonBreath": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonBreath_TextData",
+          "SourceString": "Накрывает область перед собой наполненным\r\nсилой дракона дыханием, нанося периодический урон.",
+          "LocalizedString": "Накрывает область перед собой наполненным\r\nсилой дракона дыханием, нанося периодический урон."
+        }
+      },
+      "ACTION_SKILL_DragonWave": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonWave_TextData",
+          "SourceString": "Стремительно высвобождает силу дракона,\r\nобрушивая ее на область вокруг.",
+          "LocalizedString": "Стремительно высвобождает силу дракона,\r\nобрушивая ее на область вокруг."
+        }
+      },
+      "ACTION_SKILL_DragonCanon": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_DragonCanon_TextData",
+          "SourceString": "Выпускает во врага энергетический снаряд,\r\nнаполненный силой дракона.",
+          "LocalizedString": "Выпускает во врага энергетический снаряд,\r\nнаполненный силой дракона."
+        }
+      },
+      "ACTION_SKILL_BeamSlicer": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_BeamSlicer_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "ACTION_SKILL_Commet": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "ACTION_SKILL_Commet_TextData",
+          "SourceString": "ru_Text",
+          "LocalizedString": "ru_Text"
+        }
+      },
+      "PASSIVE_TrainerATK_UP_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerATK_UP_1_TextData",
+          "SourceString": "Атака игрока +{EffectValue1}%",
+          "LocalizedString": "Атака игрока +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerDEF_UP_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerDEF_UP_1_TextData",
+          "SourceString": "Защита игрока +{EffectValue1}%",
+          "LocalizedString": "Защита игрока +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerWorkSpeed_UP_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerWorkSpeed_UP_1_TextData",
+          "SourceString": "Скорость работы игрока +{EffectValue1}%",
+          "LocalizedString": "Скорость работы игрока +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerMining_up1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerMining_up1_TextData",
+          "SourceString": "Эффективность сбора игрока +{EffectValue1}%",
+          "LocalizedString": "Эффективность сбора игрока +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_TrainerLogging_up1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_TrainerLogging_up1_TextData",
+          "SourceString": "Эффективность рубки деревьев игрока +{EffectValue1}%",
+          "LocalizedString": "Эффективность рубки деревьев игрока +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Normal_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Normal_1_PAL_TextData",
+          "SourceString": "Сокращение чистого урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение чистого урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Fire_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Fire_1_PAL_TextData",
+          "SourceString": "Сокращение огненного урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение огненного урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Aqua_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Aqua_1_PAL_TextData",
+          "SourceString": "Сокращение водяного урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение водяного урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Thunder_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Thunder_1_PAL_TextData",
+          "SourceString": "Сокращение грозового урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение грозового урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Leaf_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Leaf_1_PAL_TextData",
+          "SourceString": "Сокращение травяного урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение травяного урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Ice_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Ice_1_PAL_TextData",
+          "SourceString": "Сокращение ледяного урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение ледяного урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Earth_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Earth_1_PAL_TextData",
+          "SourceString": "Сокращение земляного урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение земляного урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Dark_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Dark_1_PAL_TextData",
+          "SourceString": "Сокращение темного урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение темного урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementResist_Dragon_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementResist_Dragon_1_PAL_TextData",
+          "SourceString": "Сокращение драконического урона +{EffectValue1}%",
+          "LocalizedString": "Сокращение драконического урона +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Normal_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Normal_1_PAL_TextData",
+          "SourceString": "Чистый урон +{EffectValue1}%",
+          "LocalizedString": "Чистый урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Fire_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Fire_1_PAL_TextData",
+          "SourceString": "Огненный урон +{EffectValue1}%",
+          "LocalizedString": "Огненный урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Aqua_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Aqua_1_PAL_TextData",
+          "SourceString": "Водяной урон +{EffectValue1}%",
+          "LocalizedString": "Водяной урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Thunder_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Thunder_1_PAL_TextData",
+          "SourceString": "Грозовой урон +{EffectValue1}%",
+          "LocalizedString": "Грозовой урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Leaf_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Leaf_1_PAL_TextData",
+          "SourceString": "Травяной урон +{EffectValue1}%",
+          "LocalizedString": "Травяной урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Ice_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Ice_1_PAL_TextData",
+          "SourceString": "Ледяной урон +{EffectValue1}%",
+          "LocalizedString": "Ледяной урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Earth_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Earth_1_PAL_TextData",
+          "SourceString": "Земляной урон +{EffectValue1}%",
+          "LocalizedString": "Земляной урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Dark_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Dark_1_PAL_TextData",
+          "SourceString": "Темный урон +{EffectValue1}%",
+          "LocalizedString": "Темный урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_ElementBoost_Dragon_1_PAL": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_ElementBoost_Dragon_1_PAL_TextData",
+          "SourceString": "Драконический урон +{EffectValue1}%",
+          "LocalizedString": "Драконический урон +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Up_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Up_1_TextData",
+          "SourceString": "Уровень сытости падает быстро <NumRed_13>+10%</>",
+          "LocalizedString": "Уровень сытости падает быстро <NumRed_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Up_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Up_2_TextData",
+          "SourceString": "Уровень сытости падает быстро <NumRed_13>+15%</>",
+          "LocalizedString": "Уровень сытости падает быстро <NumRed_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Down_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Down_1_TextData",
+          "SourceString": "Уровень сытости падает медленно <NumBlue_13>+10%</>",
+          "LocalizedString": "Уровень сытости падает медленно <NumBlue_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_FullStomach_Down_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_FullStomach_Down_2_TextData",
+          "SourceString": "Уровень сытости падает медленно <NumBlue_13>+15%</>",
+          "LocalizedString": "Уровень сытости падает медленно <NumBlue_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Up_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Up_1_TextData",
+          "SourceString": "Показатель рассудка падает быстро <NumRed_13>+10%</>",
+          "LocalizedString": "Показатель рассудка падает быстро <NumRed_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Up_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Up_2_TextData",
+          "SourceString": "Показатель рассудка падает быстро <NumRed_13>+15%</>",
+          "LocalizedString": "Показатель рассудка падает быстро <NumRed_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Down_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Down_1_TextData",
+          "SourceString": "Показатель рассудка падает медленно <NumBlue_13>+10%</>",
+          "LocalizedString": "Показатель рассудка падает медленно <NumBlue_13>+10%</>"
+        }
+      },
+      "PASSIVE_PAL_Sanity_Down_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_Sanity_Down_2_TextData",
+          "SourceString": "Показатель рассудка падает медленно <NumBlue_13>+15%</>",
+          "LocalizedString": "Показатель рассудка падает медленно <NumBlue_13>+15%</>"
+        }
+      },
+      "PASSIVE_PAL_MoveSpeed_up_1": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_MoveSpeed_up_1_TextData",
+          "SourceString": "Скорость перемещения +{EffectValue1}%",
+          "LocalizedString": "Скорость перемещения +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_PAL_MoveSpeed_up_2": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_MoveSpeed_up_2_TextData",
+          "SourceString": "Скорость перемещения +{EffectValue1}%",
+          "LocalizedString": "Скорость перемещения +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_PAL_MoveSpeed_up_3": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_PAL_MoveSpeed_up_3_TextData",
+          "SourceString": "Скорость перемещения +{EffectValue1}%",
+          "LocalizedString": "Скорость перемещения +{EffectValue1}%"
+        }
+      },
+      "PASSIVE_Legend_DESC": {
+        "TextData": {
+          "Namespace": "DT_SkillDescText",
+          "Key": "PASSIVE_Legend_DESC_TextData",
+          "SourceString": "Атака +{EffectValue1}%\r\nЗащита +{EffectValue2}%\r\nСкорость передвижения +{EffectValue3}%",
+          "LocalizedString": "Атака +{EffectValue1}%\r\nЗащита +{EffectValue2}%\r\nСкорость передвижения +{EffectValue3}%"
+        }
+      }
+    }
+  }
+]

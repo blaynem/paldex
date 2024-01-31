@@ -1,0 +1,1231 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PalFirstActivatedInfoText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "PAL_FIRST_SPAWN_DESC_Alpaca": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Alpaca_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire de la <itemName id=|Wool|/>.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire de la <itemName id=|Wool|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_AmaterasuWolf": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_AmaterasuWolf_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLorsqu'il est monté, le froid et la chaleur n'ont aucun effet.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLorsqu'il est monté, le froid et la chaleur n'ont aucun effet."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Anubis": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Anubis_TextData",
+          "SourceString": "En combattant à ses côtés, confère le type\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> aux attaques du joueur.\r\nSes pas rapides lui permettent parfois d'esquiver les attaques.",
+          "LocalizedString": "En combattant à ses côtés, confère le type\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> aux attaques du joueur.\r\nSes pas rapides lui permettent parfois d'esquiver les attaques."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BadCatgirl": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BadCatgirl_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Baphomet": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Baphomet_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Baphomet_SwallowKite|/>.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Baphomet_SwallowKite|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Baphomet_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Baphomet_Dark_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Baphomet_SwallowKite|/>.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Baphomet_SwallowKite|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Bastet": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Bastet_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire extraire de l'<itemName id=|Money|/> du sol.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire extraire de l'<itemName id=|Money|/> du sol."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Bastet_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Bastet_Ice_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire extraire de l'<itemName id=|Money|/> du sol.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire extraire de l'<itemName id=|Money|/> du sol."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BeardedDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BeardedDragon_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BerryGoat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BerryGoat_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour faire pousser des <itemName id=|Berries|/> sur son dos.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour faire pousser des <itemName id=|Berries|/> sur son dos."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BirdDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BirdDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nSi un point faible ennemi est touché lorsqu'il est monté,\r\nles dégâts infligés sont accrus.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nSi un point faible ennemi est touché lorsqu'il est monté,\r\nles dégâts infligés sont accrus."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BirdDragon_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BirdDragon_Ice_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nSi un point faible ennemi est touché lorsqu'il est monté,\r\nles dégâts infligés sont accrus.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nSi un point faible ennemi est touché lorsqu'il est monté,\r\nles dégâts infligés sont accrus."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackCentaur": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackCentaur_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackFurDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackFurDragon_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackGriffon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackGriffon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlackMetalDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlackMetalDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, les dégâts infligés aux minerais sont accrus.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, les dégâts infligés aux minerais sont accrus."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlueberryFairy": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlueberryFairy_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BlueDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BlueDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour nager.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/>\r\naux attaques du joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour nager.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/>\r\naux attaques du joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BluePlatypus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BluePlatypus_TextData",
+          "SourceString": "Se tourne vers l'ennemi lorsqu'il est appelé\r\net devient une planche de surf pour lui foncer dessus.",
+          "LocalizedString": "Se tourne vers l'ennemi lorsqu'il est appelé\r\net devient une planche de surf pour lui foncer dessus."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Boar": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Boar_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLa roche se brise plus facilement lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLa roche se brise plus facilement lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_BrownRabbit": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_BrownRabbit_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CaptainPenguin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CaptainPenguin_TextData",
+          "SourceString": "En combattant à ses côtés, le nombre d'objets obtenus augmente\r\nsi un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> est vaincu.",
+          "LocalizedString": "En combattant à ses côtés, le nombre d'objets obtenus augmente\r\nsi un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Carbunclo": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Carbunclo_TextData",
+          "SourceString": "Monte sur la tête du joueur lorsqu'il est appelé\r\npour accompagner ses attaques avec un pistolet-mitrailleur.",
+          "LocalizedString": "Monte sur la tête du joueur lorsqu'il est appelé\r\npour accompagner ses attaques avec un pistolet-mitrailleur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CatBat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CatBat_TextData",
+          "SourceString": "Détecte les Pals à proximité grâce\r\nà des ultrasons lorsqu'il est appelé.",
+          "LocalizedString": "Détecte les Pals à proximité grâce\r\nà des ultrasons lorsqu'il est appelé."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CatMage": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CatMage_TextData",
+          "SourceString": "En combattant à ses côtés,\r\nle nombre d'objets obtenus augmente\r\nsi un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> est vaincu.",
+          "LocalizedString": "En combattant à ses côtés,\r\nle nombre d'objets obtenus augmente\r\nsi un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CatVampire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CatVampire_TextData",
+          "SourceString": "En combattant à ses côtés, absorbe une partie des\r\ndégâts infligés par le joueur pour restaurer\r\nses <uiCommon id=|COMMON_STATUS_HP|/> ainsi que ceux du joueur.",
+          "LocalizedString": "En combattant à ses côtés, absorbe une partie des\r\ndégâts infligés par le joueur pour restaurer\r\nses <uiCommon id=|COMMON_STATUS_HP|/> ainsi que ceux du joueur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ChickenPal": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ChickenPal_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire pondre un <itemName id=|Egg|/>.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire pondre un <itemName id=|Egg|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ColorfulBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ColorfulBird_TextData",
+          "SourceString": "S'équipe sur le joueur lorsqu'il est appelé\r\npour faire office de lance-œufs explosifs.",
+          "LocalizedString": "S'équipe sur le joueur lorsqu'il est appelé\r\npour faire office de lance-œufs explosifs."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CowPal": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CowPal_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire du <itemName id=|Milk|/>.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire du <itemName id=|Milk|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CuteButterfly": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CuteButterfly_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|PoisonFog|/>.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|PoisonFog|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CuteFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CuteFox_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire extraire des objets du sol.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire extraire des objets du sol."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_CuteMole": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_CuteMole_TextData",
+          "SourceString": "Produit des microvibrations lorsqu'il est appelé\r\npour détecter le minerai à proximité.",
+          "LocalizedString": "Produit des microvibrations lorsqu'il est appelé\r\npour détecter le minerai à proximité."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DarkCrow": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DarkCrow_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_DarkCrow_TelePoke|/>.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_DarkCrow_TelePoke|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DarkMutant": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DarkMutant_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DarkScorpion": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DarkScorpion_TextData",
+          "SourceString": "En combattant à ses côtés, augmente la défense du joueur et\r\nsi un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> est vaincu,\r\nle nombre d'objets obtenus augmente également.",
+          "LocalizedString": "En combattant à ses côtés, augmente la défense du joueur et\r\nsi un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> est vaincu,\r\nle nombre d'objets obtenus augmente également."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Deer": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Deer_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut\r\net de briser le bois plus facilement lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut\r\net de briser le bois plus facilement lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Deer_Ground": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Deer_Ground_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut\r\net de briser le bois plus facilement lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut\r\net de briser le bois plus facilement lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DreamDemon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DreamDemon_TextData",
+          "SourceString": "Apparaît aux côtés du joueur lorsqu'il est dans l'équipe pour\r\naccompagner ses attaques avec des balles magiques.",
+          "LocalizedString": "Apparaît aux côtés du joueur lorsqu'il est dans l'équipe pour\r\naccompagner ses attaques avec des balles magiques."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_DrillGame": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_DrillGame_TextData",
+          "SourceString": "Utilise <activeSkillName id=|Unique_DrillGame_ShellAttack|/> lorsqu'il est appelé.\r\nSuit le joueur en tournoyant pour\r\nbriser plus facilement les minerais.",
+          "LocalizedString": "Utilise <activeSkillName id=|Unique_DrillGame_ShellAttack|/> lorsqu'il est appelé.\r\nSuit le joueur en tournoyant pour\r\nbriser plus facilement les minerais."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Eagle": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Eagle_TextData",
+          "SourceString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nPermet de garder la main droite libre pour tirer en plein vol.",
+          "LocalizedString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nPermet de garder la main droite libre pour tirer en plein vol."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ElecCat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ElecCat_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ElecLion": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ElecLion_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ElecPanda": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ElecPanda_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide avec le minigun lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide avec le minigun lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FairyDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FairyDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> est vaincu.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FairyDragon_Water": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FairyDragon_Water_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> est vaincu.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FeatherOstrich": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FeatherOstrich_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FengyunDeeper": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FengyunDeeper_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FireKirin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FireKirin_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>\r\naux attaques du joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>\r\naux attaques du joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FireKirin_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FireKirin_Dark_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>\r\naux attaques du joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>\r\naux attaques du joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlameBuffalo": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlameBuffalo_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLa chaleur sur son dos protège du froid lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLa chaleur sur son dos protège du froid lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerDinosaur": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_Electric": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_Electric_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerDoll": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerDoll_TextData",
+          "SourceString": "Restaure les PV du joueur grâce au pouvoir\r\ncuratif des fleurs lorsqu'il est appelé.",
+          "LocalizedString": "Restaure les PV du joueur grâce au pouvoir\r\ncuratif des fleurs lorsqu'il est appelé."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlowerRabbit": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlowerRabbit_TextData",
+          "SourceString": "Apparaît aux côtés du joueur lorsqu'il est dans l'équipe\r\npour ramasser automatiquement les objets à proximité.",
+          "LocalizedString": "Apparaît aux côtés du joueur lorsqu'il est dans l'équipe\r\npour ramasser automatiquement les objets à proximité."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlyingManta": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlyingManta_TextData",
+          "SourceString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nPermet des déplacements rapides plus longs en plein vol.",
+          "LocalizedString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nPermet des déplacements rapides plus longs en plein vol."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FoxMage": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FoxMage_TextData",
+          "SourceString": "En combattant à ses côtés, confère le type\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> aux attaques du joueur.",
+          "LocalizedString": "En combattant à ses côtés, confère le type\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> aux attaques du joueur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Ganesha": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Ganesha_TextData",
+          "SourceString": "Restaure les PV du joueur en crachant une mystérieuse\r\neau régénératrice lorsqu'il est appelé.",
+          "LocalizedString": "Restaure les PV du joueur en crachant une mystérieuse\r\neau régénératrice lorsqu'il est appelé."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Garm": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Garm_TextData",
+          "SourceString": "Peut être utilisé comme monture pour\r\nse déplacer un peu plus rapidement.",
+          "LocalizedString": "Peut être utilisé comme monture pour\r\nse déplacer un peu plus rapidement."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GhostBeast": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GhostBeast_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>\r\naux attaques du joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>\r\naux attaques du joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GoldenHorse": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GoldenHorse_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Gorilla": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Gorilla_TextData",
+          "SourceString": "Déchaîne toute sa sauvagerie lorsqu'il est appelé\r\npour augmenter temporairement son attaque.",
+          "LocalizedString": "Déchaîne toute sa sauvagerie lorsqu'il est appelé\r\npour augmenter temporairement son attaque."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassMammoth": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassMammoth_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLe bois et le minerai se brisent plus facilement lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLe bois et le minerai se brisent plus facilement lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassMammoth_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassMammoth_Ice_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLe bois et le minerai se brisent plus facilement lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLe bois et le minerai se brisent plus facilement lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassPanda": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassPanda_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-grenades lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-grenades lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassPanda_Electric": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassPanda_Electric_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-grenades lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-grenades lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GrassRabbitMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GrassRabbitMan_TextData",
+          "SourceString": "En combattant à ses côtés, augmente la vitesse de déplacement et\r\nconfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> aux attaques du joueur.",
+          "LocalizedString": "En combattant à ses côtés, augmente la vitesse de déplacement et\r\nconfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> aux attaques du joueur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_GuardianDog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_GuardianDog_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_HadesBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_HadesBird_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> aux attaques\r\ndu joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> aux attaques\r\ndu joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_HawkBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_HawkBird_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Hedgehog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Hedgehog_TextData",
+          "SourceString": "S'équipe dans la main lorsqu'il est appelé.\r\nLe lancer sur l'ennemi provoque une explosion de foudre à l'impact.",
+          "LocalizedString": "S'équipe dans la main lorsqu'il est appelé.\r\nLe lancer sur l'ennemi provoque une explosion de foudre à l'impact."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Hedgehog_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Hedgehog_Ice_TextData",
+          "SourceString": "S'équipe dans la main lorsqu'il est appelé.\r\nLe lancer sur l'ennemi provoque une explosion de glace à l'impact.",
+          "LocalizedString": "S'équipe dans la main lorsqu'il est appelé.\r\nLe lancer sur l'ennemi provoque une explosion de glace à l'impact."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_HerculesBeetle": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_HerculesBeetle_TextData",
+          "SourceString": "En combattant à ses côtés, augmente la défense du joueur et\r\nréduit les dégâts de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> encaissés.",
+          "LocalizedString": "En combattant à ses côtés, augmente la défense du joueur et\r\nréduit les dégâts de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> encaissés."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Horus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Horus_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> est vaincu.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceDeer": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceDeer_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLa fraîcheur sur son dos protège de la chaleur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLa fraîcheur sur son dos protège de la chaleur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceFox_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceHorse": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceHorse_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, confère le type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> aux attaques du joueur et\r\nrenforce les attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/>.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, confère le type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/> aux attaques du joueur et\r\nrenforce les attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Ice|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_IceHorse_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_IceHorse_Dark_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, confère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> aux attaques du joueur et\r\nrenforce les attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, confère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> aux attaques du joueur et\r\nrenforce les attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_JetDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_JetDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nPermet l'utilisation du tir rapide au lance-missiles lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nPermet l'utilisation du tir rapide au lance-missiles lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kelpie": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kelpie_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kelpie_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kelpie_Fire_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_KingAlpaca": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_KingAlpaca_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_KingAlpaca_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_KingAlpaca_Ice_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_KingBahamut": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_KingBahamut_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kirin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kirin_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> aux attaques\r\ndu joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> aux attaques\r\ndu joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Kitsunebi": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Kitsunebi_TextData",
+          "SourceString": "S'équipe sur le joueur lorsqu'il est appelé\r\npour faire office de lance-flammes.",
+          "LocalizedString": "S'équipe sur le joueur lorsqu'il est appelé\r\npour faire office de lance-flammes."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LazyDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LazyDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-missiles lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-missiles lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LazyDragon_Electric": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LazyDragon_Electric_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-missiles lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du tir rapide au lance-missiles lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LilyQueen": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LilyQueen_TextData",
+          "SourceString": "Restaure beaucoup de PV au joueur grâce aux\r\npouvoirs curatifs de la reine lorsqu'il est appelé.",
+          "LocalizedString": "Restaure beaucoup de PV au joueur grâce aux\r\npouvoirs curatifs de la reine lorsqu'il est appelé."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LilyQueen_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LilyQueen_Dark_TextData",
+          "SourceString": "Restaure beaucoup de PV au joueur grâce aux\r\npouvoirs curatifs de la reine lorsqu'il est appelé.",
+          "LocalizedString": "Restaure beaucoup de PV au joueur grâce aux\r\npouvoirs curatifs de la reine lorsqu'il est appelé."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LittleBriarRose": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LittleBriarRose_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LizardMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LizardMan_TextData",
+          "SourceString": "Active son sixième sens lorsqu'il est appelé\r\npour détecter les donjons à proximité.",
+          "LocalizedString": "Active son sixième sens lorsqu'il est appelé\r\npour détecter les donjons à proximité."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LizardMan_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LizardMan_Fire_TextData",
+          "SourceString": "Active son sixième sens lorsqu'il est appelé\r\npour détecter les donjons à proximité.",
+          "LocalizedString": "Active son sixième sens lorsqu'il est appelé\r\npour détecter les donjons à proximité."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Manticore": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Manticore_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> est vaincu.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Manticore_Dark": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Manticore_Dark_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> est vaincu.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nEn combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Monkey": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Monkey_TextData",
+          "SourceString": "Mitraille temporairement les ennemis qui s'approchent\r\nau fusil d'assaut lorsqu'il est appelé.",
+          "LocalizedString": "Mitraille temporairement les ennemis qui s'approchent\r\nau fusil d'assaut lorsqu'il est appelé."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_MopBaby": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_MopBaby_TextData",
+          "SourceString": "Le statut de <characterName id=|MopKing|/> augmente lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Le statut de <characterName id=|MopKing|/> augmente lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_MopKing": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_MopKing_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nEn combattant à ses côtés, son statut augmente proportionnellement\r\nau nombre de <characterName id=|MopBaby|/> dans l'équipe.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nEn combattant à ses côtés, son statut augmente proportionnellement\r\nau nombre de <characterName id=|MopBaby|/> dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Mutant": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Mutant_TextData",
+          "SourceString": "Utilise ses pouvoirs antigravité lorsqu'il est dans l'équipe\r\npour augmenter le poids max du joueur.",
+          "LocalizedString": "Utilise ses pouvoirs antigravité lorsqu'il est dans l'équipe\r\npour augmenter le poids max du joueur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NaughtyCat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NaughtyCat_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NegativeKoala": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NegativeKoala_TextData",
+          "SourceString": "Boit une grande quantité de boisson énergisante\r\nlorsqu'il est appelé pour augmenter temporairement\r\net de façon drastique sa vitesse de déplacement.",
+          "LocalizedString": "Boit une grande quantité de boisson énergisante\r\nlorsqu'il est appelé pour augmenter temporairement\r\net de façon drastique sa vitesse de déplacement."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NegativeOctopus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NegativeOctopus_TextData",
+          "SourceString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nPermet de flotter plus longtemps en plein vol.",
+          "LocalizedString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nPermet de flotter plus longtemps en plein vol."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_NightFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_NightFox_TextData",
+          "SourceString": "En combattant à ses côtés, confère le type\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> aux attaques du joueur.",
+          "LocalizedString": "En combattant à ses côtés, confère le type\r\n<uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> aux attaques du joueur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Penguin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Penguin_TextData",
+          "SourceString": "Équipe un <itemName id=|Launcher_Default|/> lorsqu'il est appelé\r\npour ensuite servir de projectile.\r\nEst mis K.O. suite à l'explosion provoquée par l'impact.",
+          "LocalizedString": "Équipe un <itemName id=|Launcher_Default|/> lorsqu'il est appelé\r\npour ensuite servir de projectile.\r\nEst mis K.O. suite à l'explosion provoquée par l'impact."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PinkCat": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PinkCat_TextData",
+          "SourceString": "Porte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max.",
+          "LocalizedString": "Porte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PinkLizard": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PinkLizard_TextData",
+          "SourceString": "En combattant à ses côtés, absorbe une partie des\r\ndégâts infligés par le joueur pour restaurer\r\nses <uiCommon id=|COMMON_STATUS_HP|/> ainsi que ceux du joueur.",
+          "LocalizedString": "En combattant à ses côtés, absorbe une partie des\r\ndégâts infligés par le joueur pour restaurer\r\nses <uiCommon id=|COMMON_STATUS_HP|/> ainsi que ceux du joueur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PinkRabbit": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PinkRabbit_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> lorsqu'il est dans l'équipe.\r\nAccroît la production lorsqu'il travaille\r\ndans une <mapObjectName id=|WeaponFactory_Dirty_01|/> sur le camp.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> lorsqu'il est dans l'équipe.\r\nAccroît la production lorsqu'il travaille\r\ndans une <mapObjectName id=|WeaponFactory_Dirty_01|/> sur le camp."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_PlantSlime": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_PlantSlime_TextData",
+          "SourceString": "Augmente les dégâts infligés par le joueur\r\ncontre les arbres lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente les dégâts infligés par le joueur\r\ncontre les arbres lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_QueenBee": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_QueenBee_TextData",
+          "SourceString": "En combattant à ses côtés, son statut augmente proportionnellement\r\nau nombre de <characterName id=|SoldierBee|/> dans l'équipe.",
+          "LocalizedString": "En combattant à ses côtés, son statut augmente proportionnellement\r\nau nombre de <characterName id=|SoldierBee|/> dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RaijinDaughter": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RaijinDaughter_TextData",
+          "SourceString": "Apparaît aux côtés du joueur lorsqu'il est dans l'équipe pour\r\naccompagner ses attaques avec des coups de tonnerre.",
+          "LocalizedString": "Apparaît aux côtés du joueur lorsqu'il est dans l'équipe pour\r\naccompagner ses attaques avec des coups de tonnerre."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RedArmorBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RedArmorBird_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> aux attaques\r\ndu joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> aux attaques\r\ndu joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RobinHood": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RobinHood_TextData",
+          "SourceString": "En combattant à ses côtés, augmente les dégâts\r\ninfligés par le joueur lorsqu'il attaque un point faible.",
+          "LocalizedString": "En combattant à ses côtés, augmente les dégâts\r\ninfligés par le joueur lorsqu'il attaque un point faible."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_RobinHood_Ground": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_RobinHood_Ground_TextData",
+          "SourceString": "En combattant à ses côtés, les dégâts sur les points faibles\r\nqu'inflige le joueur aux ennemis augmentent.",
+          "LocalizedString": "En combattant à ses côtés, les dégâts sur les points faibles\r\nqu'inflige le joueur aux ennemis augmentent."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Ronin": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Ronin_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Ronin_Iai|/>.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Ronin_Iai|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SaintCentaur": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SaintCentaur_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du triple saut lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du triple saut lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SakuraSaurus": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SakuraSaurus_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SakuraSaurus_Water": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SakuraSaurus_Water_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ScorpionMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ScorpionMan_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Serpent": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Serpent_TextData",
+          "SourceString": "Peut être utilisé comme monture pour nager.\r\nLorsqu'il est monté, l'endurance ne descend plus\r\npendant les déplacements aquatiques.",
+          "LocalizedString": "Peut être utilisé comme monture pour nager.\r\nLorsqu'il est monté, l'endurance ne descend plus\r\npendant les déplacements aquatiques."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Serpent_Ground": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Serpent_Ground_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SkyDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SkyDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SharkKid": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SharkKid_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|WaterGun|/>.\r\nL'attaque du joueur augmente lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|WaterGun|/>.\r\nL'attaque du joueur augmente lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SharkKid_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SharkKid_Fire_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|FireSeed|/>.\r\nL'attaque du joueur augmente lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|FireSeed|/>.\r\nL'attaque du joueur augmente lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SifuDog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SifuDog_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SheepBall": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SheepBall_TextData",
+          "SourceString": "S'équipe sur le joueur lorsqu'il est appelé pour lui servir de bouclier.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire de la <itemName id=|Wool|/>.",
+          "LocalizedString": "S'équipe sur le joueur lorsqu'il est appelé pour lui servir de bouclier.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire de la <itemName id=|Wool|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SoldierBee": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SoldierBee_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire du <itemName id=|Honey|/>.\r\nLe statut de <characterName id=|QueenBee|/> augmente lorsqu'il est dans l'équipe.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire produire du <itemName id=|Honey|/>.\r\nLe statut de <characterName id=|QueenBee|/> augmente lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Suzaku": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Suzaku_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Suzaku_Water": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Suzaku_Water_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_SweetsSheep": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_SweetsSheep_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour obtenir des <itemName id=|Sweet|/>s.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour obtenir des <itemName id=|Sweet|/>s."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_TentacleTurtle": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_TentacleTurtle_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ThunderBird": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ThunderBird_TextData",
+          "SourceString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, confère le type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> aux attaques\r\ndu joueur.",
+          "LocalizedString": "Peut être utilisé comme monture pour voler.\r\nLorsqu'il est monté, confère le type <uiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> aux attaques\r\ndu joueur."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ThunderDog": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ThunderDog_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPermet l'utilisation du double saut lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_ThunderDragonMan": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_ThunderDragonMan_TextData",
+          "SourceString": "En combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> est vaincu.",
+          "LocalizedString": "En combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Water|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Umihebi": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Umihebi_TextData",
+          "SourceString": "Peut être utilisé comme monture pour nager.\r\nLorsqu'il est monté, l'endurance ne descend plus\r\npendant les déplacements aquatiques.",
+          "LocalizedString": "Peut être utilisé comme monture pour nager.\r\nLorsqu'il est monté, l'endurance ne descend plus\r\npendant les déplacements aquatiques."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Umihebi_Fire": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Umihebi_Fire_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> sont renforcées lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLes attaques de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> sont renforcées lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_VioletFairy": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_VioletFairy_TextData",
+          "SourceString": "En combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> est vaincu.",
+          "LocalizedString": "En combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_VolcanicMonster": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_VolcanicMonster_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLe minerai se brise plus facilement lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLe minerai se brise plus facilement lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_VolcanicMonster_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_VolcanicMonster_Ice_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nLe minerai se brise plus facilement lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nLe minerai se brise plus facilement lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WeaselDragon": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WeaselDragon_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> aux attaques\r\ndu joueur lorsqu'il est monté.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nConfère le type <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> aux attaques\r\ndu joueur lorsqu'il est monté."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Werewolf": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Werewolf_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Werewolf_Scratch|/>.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_Werewolf_Scratch|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WhiteMoth": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WhiteMoth_TextData",
+          "SourceString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_IcicleThrow|/>.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire fabriquer du <itemName id=|Cloth2|/>.",
+          "LocalizedString": "Se tourne vers l'ennemi visé lorsqu'il est appelé pour\r\nl'attaquer avec la puissante compétence <activeSkillName id=|Unique_IcicleThrow|/>.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire fabriquer du <itemName id=|Cloth2|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WhiteTiger": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WhiteTiger_TextData",
+          "SourceString": "En combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> est vaincu.",
+          "LocalizedString": "En combattant à ses côtés, le nombre d'objets obtenus\r\naugmente si un Pal de type <uiCommon id=|COMMON_ELEMENT_NAME_Dragon|/> est vaincu."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WindChimes": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WindChimes_TextData",
+          "SourceString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nEmmène le joueur plus haut dans les airs.",
+          "LocalizedString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nEmmène le joueur plus haut dans les airs."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WindChimes_Ice": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WindChimes_Ice_TextData",
+          "SourceString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nEmmène le joueur plus haut dans les airs.",
+          "LocalizedString": "Peut être appelé à la place du planeur lorsqu'il est dans l'équipe.\r\nEmmène le joueur plus haut dans les airs."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WingGolem": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WingGolem_TextData",
+          "SourceString": "fr_Text",
+          "LocalizedString": "fr_Text"
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WizardOwl": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WizardOwl_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Dark|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Yeti": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Yeti_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Yeti_Grass": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Yeti_Grass_TextData",
+          "SourceString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max.",
+          "LocalizedString": "Peut être utilisé comme monture pour se déplacer.\r\nPorte les affaires du joueur lorsqu'il est dans l'équipe\r\npour augmenter son poids max."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_WoolFox": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_WoolFox_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> lorsqu'il est dans l'équipe.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/> pour lui faire produire de la <itemName id=|Wool|/>.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Normal|/> lorsqu'il est dans l'équipe.\r\nÀ affecter à une <mapObjectName id=|MonsterFarm|/> pour lui faire produire de la <itemName id=|Wool|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LazyCatfish": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LazyCatfish_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Earth|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_LavaGirl": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_LavaGirl_TextData",
+          "SourceString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire fabriquer un <itemName id=|FireOrgan|/>.",
+          "LocalizedString": "À affecter à une <mapObjectName id=|MonsterFarm|/>\r\npour lui faire fabriquer un <itemName id=|FireOrgan|/>."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_FlameBambi": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_FlameBambi_TextData",
+          "SourceString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> lorsqu'il est dans l'équipe.",
+          "LocalizedString": "Augmente l'attaque des Pals de type <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> lorsqu'il est dans l'équipe."
+        }
+      },
+      "PAL_FIRST_SPAWN_DESC_Human": {
+        "TextData": {
+          "Namespace": "DT_PalFirstActivatedInfoText",
+          "Key": "PAL_FIRST_SPAWN_DESC_Human_TextData",
+          "SourceString": "Les humains n'étant pas des Pals, ils n'ont aucune compétence partenaire.",
+          "LocalizedString": "Les humains n'étant pas des Pals, ils n'ont aucune compétence partenaire."
+        }
+      }
+    }
+  }
+]

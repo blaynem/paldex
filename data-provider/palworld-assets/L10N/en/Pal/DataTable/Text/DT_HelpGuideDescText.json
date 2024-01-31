@@ -1,0 +1,343 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HelpGuideDescText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "Help_1": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_1_TextData",
+          "SourceString": "Controls (Keyboard)\r\n\r\nMouse Camera Controls\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/> Move\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/> Throw Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/> Throw Sphere\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/> Build Menu\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/> Jump\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/> Aim\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/> Attack\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/> Partner Skill\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/> Reload\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/> Change Weapon\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/> Crouch\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/> Roll\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/> Pal Commands\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/> Change Pal\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/> Change Sphere",
+          "LocalizedString": "Controls (Keyboard)\r\n\r\nMouse Camera Controls\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/> Move\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/> Throw Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/> Throw Sphere\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/> Build Menu\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/> Jump\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/> Aim\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/> Attack\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/> Partner Skill\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/> Reload\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/> Change Weapon\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/> Crouch\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/> Roll\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/> Pal Commands\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/> Change Pal\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/> Change Sphere"
+        }
+      },
+      "Help_2": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_2_TextData",
+          "SourceString": "Controls (Controller)\r\n\r\nLeft Stick Move\r\nRight Stick Camera Controls\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> Throw Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> Throw Sphere\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> Build Menu\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> Jump\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> Aim\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> Attack\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> Partner Skill\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|2|/> Change Weapon\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> Crouch/Roll\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> Pal Commands\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> Change Pal\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> Change Sphere",
+          "LocalizedString": "Controls (Controller)\r\n\r\nLeft Stick Move\r\nRight Stick Camera Controls\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> Throw Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> Throw Sphere\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> Build Menu\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> Jump\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> Aim\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> Attack\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> Partner Skill\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|2|/> Change Weapon\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> Crouch/Roll\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> Pal Commands\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> Change Pal\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> Change Sphere"
+        }
+      },
+      "Help_3": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_3_TextData",
+          "SourceString": "Game Objective\r\n\r\nUncover the secrets of this mysterious land while taking on the unknown forces who stand in your way. \r\nDefeat the bosses that lay claim to each region's tower as you try to uncover the truth behind the origin of Pals.\r\n\r\nBuild formidable bases, try to capture the strongest Pal possible, or breed it yourself! \r\nEmbark on a unique adventure with your Pals in this new world!",
+          "LocalizedString": "Game Objective\r\n\r\nUncover the secrets of this mysterious land while taking on the unknown forces who stand in your way. \r\nDefeat the bosses that lay claim to each region's tower as you try to uncover the truth behind the origin of Pals.\r\n\r\nBuild formidable bases, try to capture the strongest Pal possible, or breed it yourself! \r\nEmbark on a unique adventure with your Pals in this new world!"
+        }
+      },
+      "Help_4": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_4_TextData",
+          "SourceString": "What should I do first?\r\n\r\nFirst, pick up fallen branches and pebbles to gather wood and stone.\r\nYou can also collect wood and stone by punching big trees and rocks with your bare hands.\r\nBuild a workbench and craft an axe and a pickaxe to gather resources more efficiently.\r\n\r\nOnce you've gathered enough materials, choose a location for your base, and build a |Palbox|.\r\nOnce you place a |Palbox|, that area becomes your base.\r\n\r\nAs your level increases, make weapons and a |Pal Sphere|, then start capturing wild Pals by weakening them first.\r\n\r\nPals can be combat allies if taken with you, or provide labor if placed in your base.\r\n\r\nNighttime can be dangerous. Prepare for your first night by making a |campfire|, a |torch|, and a |bed|.",
+          "LocalizedString": "What should I do first?\r\n\r\nFirst, pick up fallen branches and pebbles to gather wood and stone.\r\nYou can also collect wood and stone by punching big trees and rocks with your bare hands.\r\nBuild a workbench and craft an axe and a pickaxe to gather resources more efficiently.\r\n\r\nOnce you've gathered enough materials, choose a location for your base, and build a |Palbox|.\r\nOnce you place a |Palbox|, that area becomes your base.\r\n\r\nAs your level increases, make weapons and a |Pal Sphere|, then start capturing wild Pals by weakening them first.\r\n\r\nPals can be combat allies if taken with you, or provide labor if placed in your base.\r\n\r\nNighttime can be dangerous. Prepare for your first night by making a |campfire|, a |torch|, and a |bed|."
+        }
+      },
+      "Help_5": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_5_TextData",
+          "SourceString": "Pals\r\n\r\nPals are enigmatic creatures that inhabit this region.\r\nBy capturing one with a sphere, you can make it your companions.\r\nYour Pals can be released from the sphere by pressing <keyGuideIcon id=|ThrowPal|/>.\r\n\r\nYou can only carry up to 5 Pals at a time. If you capture more, they will be automatically sent to the Palbox. (You can retrieve them by building a Palbox if you don't have one.)",
+          "LocalizedString": "Pals\r\n\r\nPals are enigmatic creatures that inhabit this region.\r\nBy capturing one with a sphere, you can make it your companions.\r\nYour Pals can be released from the sphere by pressing <keyGuideIcon id=|ThrowPal|/>.\r\n\r\nYou can only carry up to 5 Pals at a time. If you capture more, they will be automatically sent to the Palbox. (You can retrieve them by building a Palbox if you don't have one.)"
+        }
+      },
+      "Help_6": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_6_TextData",
+          "SourceString": "HUD\r\n\r\nAt the bottom left, your Pals, your Health and your Hunger are displayed.\r\nThe current temperature is also shown. Extreme temperatures can hurt you.\r\nAt the bottom right, you will see the equipped sphere and weapon, along with the remaining ammo.",
+          "LocalizedString": "HUD\r\n\r\nAt the bottom left, your Pals, your Health and your Hunger are displayed.\r\nThe current temperature is also shown. Extreme temperatures can hurt you.\r\nAt the bottom right, you will see the equipped sphere and weapon, along with the remaining ammo."
+        }
+      },
+      "Help_7": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_7_TextData",
+          "SourceString": "Getting Items\r\n\r\nPress <keyGuideIcon id=|Interact_1|/> to pick up dropped items.\r\nYou can also obtain materials by destroying trees or rocks with an axe or pickaxe.\r\nPals also drop items when defeated.",
+          "LocalizedString": "Getting Items\r\n\r\nPress <keyGuideIcon id=|Interact_1|/> to pick up dropped items.\r\nYou can also obtain materials by destroying trees or rocks with an axe or pickaxe.\r\nPals also drop items when defeated."
+        }
+      },
+      "Help_8": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_8_TextData",
+          "SourceString": "Building\r\n\r\nBy pressing <keyGuideIcon id=|OpenConstructionRadialMenu|/>, you can open the construction menu and start building.\r\nSelect your desired construction location from the menu and start building by holding <keyGuideIcon id=|Interact_1|/>.\r\nIf there are Pals in your Party or at your Base, they will help with the construction.",
+          "LocalizedString": "Building\r\n\r\nBy pressing <keyGuideIcon id=|OpenConstructionRadialMenu|/>, you can open the construction menu and start building.\r\nSelect your desired construction location from the menu and start building by holding <keyGuideIcon id=|Interact_1|/>.\r\nIf there are Pals in your Party or at your Base, they will help with the construction."
+        }
+      },
+      "Help_9": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_9_TextData",
+          "SourceString": "Crafting\r\n\r\nYou can craft items by building workbenches and other related facilities and interacting with them.\r\nUnlock new recipes by using Technology Points. By building different crafting facilities, you'll be able to craft new items.",
+          "LocalizedString": "Crafting\r\n\r\nYou can craft items by building workbenches and other related facilities and interacting with them.\r\nUnlock new recipes by using Technology Points. By building different crafting facilities, you'll be able to craft new items."
+        }
+      },
+      "Help_10": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_10_TextData",
+          "SourceString": "Technology\r\n\r\nBy using Technology Points from the Technology tab in the menu, you can unlock new buildings and item recipes.\r\nYou can earn Technology Points by leveling up, as well as other means, such as the Great Eagle Statues.",
+          "LocalizedString": "Technology\r\n\r\nBy using Technology Points from the Technology tab in the menu, you can unlock new buildings and item recipes.\r\nYou can earn Technology Points by leveling up, as well as other means, such as the Great Eagle Statues."
+        }
+      },
+      "Help_11": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_11_TextData",
+          "SourceString": "Ancient Technology\r\n\r\nWhen you defeat powerful enemies, you may obtain Ancient Technology Points.\r\nYou can spend them to unlock objects that use Ancient Technology.\r\n\r\nAncient Technology represents advanced knowledge from a lost civilization,\r\noften with impressive and unique effects.",
+          "LocalizedString": "Ancient Technology\r\n\r\nWhen you defeat powerful enemies, you may obtain Ancient Technology Points.\r\nYou can spend them to unlock objects that use Ancient Technology.\r\n\r\nAncient Technology represents advanced knowledge from a lost civilization,\r\noften with impressive and unique effects."
+        }
+      },
+      "Help_12": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_12_TextData",
+          "SourceString": "Level Up\r\n\r\nYou and your Pals will level up when you earn enough EXP.\r\nYou can obtain EXP by defeating or capturing Pals.\r\n\r\nIf a Pal's level is higher than yours, you won't be able to handle it well, and its performance will drop to the same level as the player. \r\nThis performance drop is also known as Level Sync.",
+          "LocalizedString": "Level Up\r\n\r\nYou and your Pals will level up when you earn enough EXP.\r\nYou can obtain EXP by defeating or capturing Pals.\r\n\r\nIf a Pal's level is higher than yours, you won't be able to handle it well, and its performance will drop to the same level as the player. \r\nThis performance drop is also known as Level Sync."
+        }
+      },
+      "Help_13": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_13_TextData",
+          "SourceString": "Player Status Enhancement\r\n\r\nYou can distribute Status Points from the Inventory tab on the menu\r\nto increase your character's stats.\r\nLevel up your character to get Status Points.",
+          "LocalizedString": "Player Status Enhancement\r\n\r\nYou can distribute Status Points from the Inventory tab on the menu\r\nto increase your character's stats.\r\nLevel up your character to get Status Points."
+        }
+      },
+      "Help_14": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_14_TextData",
+          "SourceString": "Base\r\n\r\nBuilding a Palbox will make the surrounding area your base.\r\nInteracting with the Palbox allows you to summon Pals to your base,\r\nand they will perform tasks according to their Work Suitability.\r\n\r\nBy building structures within the base, you can have Pals work for you.\r\nBe careful as Pals in the base are exposed to threats from enemies.",
+          "LocalizedString": "Base\r\n\r\nBuilding a Palbox will make the surrounding area your base.\r\nInteracting with the Palbox allows you to summon Pals to your base,\r\nand they will perform tasks according to their Work Suitability.\r\n\r\nBy building structures within the base, you can have Pals work for you.\r\nBe careful as Pals in the base are exposed to threats from enemies."
+        }
+      },
+      "Help_15": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_15_TextData",
+          "SourceString": "Palbox\r\n\r\nThe area around the Palbox becomes the territory of your guild's base, and any structures built inside it belong to your guild.\r\n\r\nClearing 'Missions' obtained by interacting with the Palbox will grow the guild's base and increase the number of Pals you can summon in the base.\r\n\r\nIf you keep Pals in the Palbox, they will rest and recover.\r\nThey will continue to recover even if they're in a near-death state.\r\n\r\nThe Palbox has a fast travel function, which can be used to warp to the Great Eagle Statues you've unlocked during your adventures.\r\n*Fast travel cannot be used if it's disabled in the world settings.",
+          "LocalizedString": "Palbox\r\n\r\nThe area around the Palbox becomes the territory of your guild's base, and any structures built inside it belong to your guild.\r\n\r\nClearing 'Missions' obtained by interacting with the Palbox will grow the guild's base and increase the number of Pals you can summon in the base.\r\n\r\nIf you keep Pals in the Palbox, they will rest and recover.\r\nThey will continue to recover even if they're in a near-death state.\r\n\r\nThe Palbox has a fast travel function, which can be used to warp to the Great Eagle Statues you've unlocked during your adventures.\r\n*Fast travel cannot be used if it's disabled in the world settings."
+        }
+      },
+      "Help_16": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_16_TextData",
+          "SourceString": "Capturing Pals\r\n\r\nPress <keyGuideIcon id=|ThrowObject|/> to throw a Pal Sphere at a Pal to try and capture it.\r\nReduce a Pal's HP, afflict it with status effects, or lure it into a trap to increase your chances of capturing it.\r\nYou can also increase your chances of capturing a Pal by sneaking up on it and throwing a Sphere at it from behind.\r\nCraft stronger Spheres to capture powerful Pals.",
+          "LocalizedString": "Capturing Pals\r\n\r\nPress <keyGuideIcon id=|ThrowObject|/> to throw a Pal Sphere at a Pal to try and capture it.\r\nReduce a Pal's HP, afflict it with status effects, or lure it into a trap to increase your chances of capturing it.\r\nYou can also increase your chances of capturing a Pal by sneaking up on it and throwing a Sphere at it from behind.\r\nCraft stronger Spheres to capture powerful Pals."
+        }
+      },
+      "Help_17": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_17_TextData",
+          "SourceString": "Pals in Party\r\n\r\nYou can only have up to 5 Pals at a time. If you capture more, they are automatically sent to the Palbox.\r\nThis team of up to 5 Pals is called your Party.\r\n\r\nYou can open the Party tab from the menu.\r\nHere, you can check the HP, Hunger, etc., of your Pals.\r\nYou can also check their acquired skills,\r\nand switch active skills if they've learned any.",
+          "LocalizedString": "Pals in Party\r\n\r\nYou can only have up to 5 Pals at a time. If you capture more, they are automatically sent to the Palbox.\r\nThis team of up to 5 Pals is called your Party.\r\n\r\nYou can open the Party tab from the menu.\r\nHere, you can check the HP, Hunger, etc., of your Pals.\r\nYou can also check their acquired skills,\r\nand switch active skills if they've learned any."
+        }
+      },
+      "Help_18": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_18_TextData",
+          "SourceString": "Hunger\r\n\r\nThe player's and the Pals' Hunger decrease as they perform actions.\r\nWhen Hunger is low, it may cause negative effects like reducing your stats.\r\n\r\nBy using food items from the inventory,\r\nyou can replenish the player's and Pals' Hunger.",
+          "LocalizedString": "Hunger\r\n\r\nThe player's and the Pals' Hunger decrease as they perform actions.\r\nWhen Hunger is low, it may cause negative effects like reducing your stats.\r\n\r\nBy using food items from the inventory,\r\nyou can replenish the player's and Pals' Hunger."
+        }
+      },
+      "Help_19": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_19_TextData",
+          "SourceString": "Sanity\r\n\r\nWhen Pals do work at a base, their Sanity (SAN) drops.\r\nAs their SAN drops, they will slack off, or maybe even get sick.\r\nIf a Pal's Hunger level is low, their SAN will drop more easily.\r\nFeed Pals quality food or let them rest in a hot spring to recover their SAN.",
+          "LocalizedString": "Sanity\r\n\r\nWhen Pals do work at a base, their Sanity (SAN) drops.\r\nAs their SAN drops, they will slack off, or maybe even get sick.\r\nIf a Pal's Hunger level is low, their SAN will drop more easily.\r\nFeed Pals quality food or let them rest in a hot spring to recover their SAN."
+        }
+      },
+      "Help_20": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_20_TextData",
+          "SourceString": "Partner Skills\r\n\r\nThese are unique abilities that each Pal species possesses.\r\nSome Pals have Partner Skills that allow them to shoot guns or to have the player ride them.\r\n\r\nSome Pals require |Pal Gear|, which can be made at the Pal Gear Workbench, to unlock their Partner Skills.\r\n\r\nThese skills can be checked from the Party tab. Some Pals provide a benefit just by being in your Party.",
+          "LocalizedString": "Partner Skills\r\n\r\nThese are unique abilities that each Pal species possesses.\r\nSome Pals have Partner Skills that allow them to shoot guns or to have the player ride them.\r\n\r\nSome Pals require |Pal Gear|, which can be made at the Pal Gear Workbench, to unlock their Partner Skills.\r\n\r\nThese skills can be checked from the Party tab. Some Pals provide a benefit just by being in your Party."
+        }
+      },
+      "Help_21": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_21_TextData",
+          "SourceString": "Paldeck\r\n\r\nYou can open the Paldeck from the menu.\r\nInformation about Pals you've caught or seen will be recorded,\r\nallowing you to research where certain Pals inhabit.",
+          "LocalizedString": "Paldeck\r\n\r\nYou can open the Paldeck from the menu.\r\nInformation about Pals you've caught or seen will be recorded,\r\nallowing you to research where certain Pals inhabit."
+        }
+      },
+      "Help_22": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_22_TextData",
+          "SourceString": "Paldeck Bonus\r\n\r\nYou will earn Bonus EXP when you capture a new species.\r\nBonus EXP is also given for the first 10 times you capture a Pal of the same species.",
+          "LocalizedString": "Paldeck Bonus\r\n\r\nYou will earn Bonus EXP when you capture a new species.\r\nBonus EXP is also given for the first 10 times you capture a Pal of the same species."
+        }
+      },
+      "Help_23": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_23_TextData",
+          "SourceString": "Guild\r\n\r\nBy approaching other players, you can request to join their guild.\r\nThe Guild Tab in the menu displays information about your guild and its members.\r\nPlayers within the same guild share a base and their working Pals.",
+          "LocalizedString": "Guild\r\n\r\nBy approaching other players, you can request to join their guild.\r\nThe Guild Tab in the menu displays information about your guild and its members.\r\nPlayers within the same guild share a base and their working Pals."
+        }
+      },
+      "Help_24": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_24_TextData",
+          "SourceString": "Map\r\n\r\nPress <keyGuideIcon id=|OpenWorldMap|/> to display the map.\r\nInformation about the terrain and other features of the world are displayed on the map.",
+          "LocalizedString": "Map\r\n\r\nPress <keyGuideIcon id=|OpenWorldMap|/> to display the map.\r\nInformation about the terrain and other features of the world are displayed on the map."
+        }
+      },
+      "Help_25": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_25_TextData",
+          "SourceString": "Great Eagle Statue\r\n\r\nActivating a Great Eagle Statue allows you to fast travel to any other previously visited Great Eagle Statues, as well as your Palbox.\r\n\r\nIn addition, will gain Technology Points each time you activate a Great Eagle Statue.\r\nThe statues are scattered all over the world, so use them to your advantage.\r\n\r\n*Fast travel cannot be used if it's disabled in the world settings.",
+          "LocalizedString": "Great Eagle Statue\r\n\r\nActivating a Great Eagle Statue allows you to fast travel to any other previously visited Great Eagle Statues, as well as your Palbox.\r\n\r\nIn addition, will gain Technology Points each time you activate a Great Eagle Statue.\r\nThe statues are scattered all over the world, so use them to your advantage.\r\n\r\n*Fast travel cannot be used if it's disabled in the world settings."
+        }
+      },
+      "Help_26": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_26_TextData",
+          "SourceString": "Radial Menu\r\n\r\nPress <keyGuideIcon id=|PartnerPalInstructions|/> to call up the radial menu.\r\nWith it, you can give strategic commands to Pals on your team or feed them.",
+          "LocalizedString": "Radial Menu\r\n\r\nPress <keyGuideIcon id=|PartnerPalInstructions|/> to call up the radial menu.\r\nWith it, you can give strategic commands to Pals on your team or feed them."
+        }
+      },
+      "Help_27": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_27_TextData",
+          "SourceString": "About Nighttime\r\n\r\nWhen night falls, the surroundings become dark, temperature drops, and dangerous Pals will appear.\r\nBuild beds at a safe location and sleep till morning, or stay warm around a campfire.",
+          "LocalizedString": "About Nighttime\r\n\r\nWhen night falls, the surroundings become dark, temperature drops, and dangerous Pals will appear.\r\nBuild beds at a safe location and sleep till morning, or stay warm around a campfire."
+        }
+      },
+      "Help_28": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_28_TextData",
+          "SourceString": "Tower Bosses\r\n\r\nEach region has a tower, and within that tower resides the leader of the organization that rules the area.\r\nThese leaders usually regard Pal Tamers from outside the island as enemies, and will challenge you immediately if you enter the tower.\r\nTower boss battles have a time limit. If you can't defeat the enemy within the given time, you lose.\r\nYou can attempt tower boss battles as many times as you like, provided no one else is currently doing so.",
+          "LocalizedString": "Tower Bosses\r\n\r\nEach region has a tower, and within that tower resides the leader of the organization that rules the area.\r\nThese leaders usually regard Pal Tamers from outside the island as enemies, and will challenge you immediately if you enter the tower.\r\nTower boss battles have a time limit. If you can't defeat the enemy within the given time, you lose.\r\nYou can attempt tower boss battles as many times as you like, provided no one else is currently doing so."
+        }
+      },
+      "Help_29": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_29_TextData",
+          "SourceString": "Crime\r\n\r\nIf you attack friendly NPCs on the island, you will be reported and become a criminal.\r\nYou will also be branded a criminal for sneaking into areas around the island where trespassing is forbidden.\r\nBe warned—if someone sees you commit a crime, the Palpagos Islands Defense Force (PIDF) will come after you.",
+          "LocalizedString": "Crime\r\n\r\nIf you attack friendly NPCs on the island, you will be reported and become a criminal.\r\nYou will also be branded a criminal for sneaking into areas around the island where trespassing is forbidden.\r\nBe warned—if someone sees you commit a crime, the Palpagos Islands Defense Force (PIDF) will come after you."
+        }
+      },
+      "Help_30": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_30_TextData",
+          "SourceString": "Equipment Durability\r\n\r\nEquipment will lose durability with use, and break when its durability reaches 0.\r\nYou can restore damaged equipment with materials at the repair table.",
+          "LocalizedString": "Equipment Durability\r\n\r\nEquipment will lose durability with use, and break when its durability reaches 0.\r\nYou can restore damaged equipment with materials at the repair table."
+        }
+      },
+      "Help_31": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_31_TextData",
+          "SourceString": "Item Rot\r\n\r\nCertain items like food will rot with time and eventually vanish when they spoil.\r\nStoring items in a cooler or refrigerator can prevent rotting.",
+          "LocalizedString": "Item Rot\r\n\r\nCertain items like food will rot with time and eventually vanish when they spoil.\r\nStoring items in a cooler or refrigerator can prevent rotting."
+        }
+      },
+      "Help_32": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_32_TextData",
+          "SourceString": "Elements\r\n\r\nEach Pal possesses an elemental affinity, and each element has elements that it is strong or weak against.\r\nElemental attacks deal more damage to elements they are strong against and less damage to elements they are weak against.",
+          "LocalizedString": "Elements\r\n\r\nEach Pal possesses an elemental affinity, and each element has elements that it is strong or weak against.\r\nElemental attacks deal more damage to elements they are strong against and less damage to elements they are weak against."
+        }
+      },
+      "Help_33": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_33_TextData",
+          "SourceString": "Status Effects\r\n\r\nPal and players can be afflicted with status effects due to their surroundings or the impact of skills.\r\nWhen suffering a negative status effect, they may receive continuous damage, move slowly, etc.\r\nPals are easier to capture when they are affected by a certain status effect.",
+          "LocalizedString": "Status Effects\r\n\r\nPal and players can be afflicted with status effects due to their surroundings or the impact of skills.\r\nWhen suffering a negative status effect, they may receive continuous damage, move slowly, etc.\r\nPals are easier to capture when they are affected by a certain status effect."
+        }
+      },
+      "Help_34": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_34_TextData",
+          "SourceString": "Pal Eggs\r\n\r\nWhile exploring the world, you may come across Pal Eggs.\r\nThese can be incubated at an Egg Incubator.\r\nAn appropriate temperature for the egg helps speed up incubation.",
+          "LocalizedString": "Pal Eggs\r\n\r\nWhile exploring the world, you may come across Pal Eggs.\r\nThese can be incubated at an Egg Incubator.\r\nAn appropriate temperature for the egg helps speed up incubation."
+        }
+      },
+      "Help_35": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_35_TextData",
+          "SourceString": "Pal Breeding Farm\r\n\r\nAssign a male and a female Pal to a Breeding Farm and place a cake with them. Later, you may find a Pal Egg.\r\nSome special combinations of Pals can give birth to special Pal Eggs.",
+          "LocalizedString": "Pal Breeding Farm\r\n\r\nAssign a male and a female Pal to a Breeding Farm and place a cake with them. Later, you may find a Pal Egg.\r\nSome special combinations of Pals can give birth to special Pal Eggs."
+        }
+      },
+      "Help_36": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_36_TextData",
+          "SourceString": "Pal Essence Condenser\r\n\r\nPals have a rank value, with higher ranks indicating higher abilities.\r\nHigher ranks can also enhance Partner Skills.\r\nYou can increase a Pal's rank using Pal Essence. \r\nPal Essence can be obtained by placing multiple Pals of the same species in the Pal Essence Condenser.",
+          "LocalizedString": "Pal Essence Condenser\r\n\r\nPals have a rank value, with higher ranks indicating higher abilities.\r\nHigher ranks can also enhance Partner Skills.\r\nYou can increase a Pal's rank using Pal Essence. \r\nPal Essence can be obtained by placing multiple Pals of the same species in the Pal Essence Condenser."
+        }
+      },
+      "Help_37": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_37_TextData",
+          "SourceString": "Lifmunk Effigies\r\n\r\nLifmunk Effigies can sometimes be found around the world.\r\nYou can offer Lifmunk Effigies to Statue of Power to improve your Capture Power.",
+          "LocalizedString": "Lifmunk Effigies\r\n\r\nLifmunk Effigies can sometimes be found around the world.\r\nYou can offer Lifmunk Effigies to Statue of Power to improve your Capture Power."
+        }
+      },
+      "Help_38": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_38_TextData",
+          "SourceString": "Pal Souls\r\n\r\nPal Souls can sometimes be found in treasure chests.\r\nYou can offer Pal Souls to Statue of Power to enhance a Pal's stats.",
+          "LocalizedString": "Pal Souls\r\n\r\nPal Souls can sometimes be found in treasure chests.\r\nYou can offer Pal Souls to Statue of Power to enhance a Pal's stats."
+        }
+      },
+      "Help_39": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_39_TextData",
+          "SourceString": "Pal Subspecies\r\n\r\nSome Pals have been known to adapt to their environment deviating from the species to become a |subspecies|.\r\nSubspecies have a different type from the original, with slightly higher stats.\r\n\r\nCertain Breeding combinations may also result in a subspecies.\r\n\r\nSubspecies have their own Paldeck entry, allowing you to earn the Paldeck Bonus by capturing them.",
+          "LocalizedString": "Pal Subspecies\r\n\r\nSome Pals have been known to adapt to their environment deviating from the species to become a |subspecies|.\r\nSubspecies have a different type from the original, with slightly higher stats.\r\n\r\nCertain Breeding combinations may also result in a subspecies.\r\n\r\nSubspecies have their own Paldeck entry, allowing you to earn the Paldeck Bonus by capturing them."
+        }
+      },
+      "Help_40": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_40_TextData",
+          "SourceString": "Lucky Pals\r\n\r\nLucky Pals are rare Pals that can be found around the world. They are larger in size and have a radiant appearance.\r\nThey often have high stats and feature special passive and active skills.",
+          "LocalizedString": "Lucky Pals\r\n\r\nLucky Pals are rare Pals that can be found around the world. They are larger in size and have a radiant appearance.\r\nThey often have high stats and feature special passive and active skills."
+        }
+      },
+      "Help_41": {
+        "TextData": {
+          "Namespace": "DT_HelpGuideDescText",
+          "Key": "Help_41_TextData",
+          "SourceString": "Death\r\n\r\nWhen a player dies, they drop their held items and Party Pals on the spot.\r\nYou can retrieve them by returning to your death location after respawning.\r\n\r\n※This penalty can be changed or removed on the world settings.",
+          "LocalizedString": "Death\r\n\r\nWhen a player dies, they drop their held items and Party Pals on the spot.\r\nYou can retrieve them by returning to your death location after respawning.\r\n\r\n※This penalty can be changed or removed on the world settings."
+        }
+      }
+    }
+  }
+]

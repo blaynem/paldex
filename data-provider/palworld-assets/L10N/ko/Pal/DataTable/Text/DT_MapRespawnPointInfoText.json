@@ -1,0 +1,639 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MapRespawnPointInfoText",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocalizedTextData'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "SpawnPoint_1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_TextData",
+          "SourceString": "봉긋한 언덕 위.\r\n전망이 탁 트이고 자원도 풍부한 덕에\r\n처음 플레이하는 사람에게 추천.",
+          "LocalizedString": "봉긋한 언덕 위.\r\n전망이 탁 트이고 자원도 풍부한 덕에\r\n처음 플레이하는 사람에게 추천."
+        }
+      },
+      "SpawnPoint_1_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_1_Title_TextData",
+          "SourceString": "바람 부는 언덕 - 시초의 대지",
+          "LocalizedString": "바람 부는 언덕 - 시초의 대지"
+        }
+      },
+      "SpawnPoint_2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_TextData",
+          "SourceString": "해변의 모래사장. 수생 팰이 많다.\r\n나무는 적으나 팰이 꽤 살고 있다.",
+          "LocalizedString": "해변의 모래사장. 수생 팰이 많다.\r\n나무는 적으나 팰이 꽤 살고 있다."
+        }
+      },
+      "SpawnPoint_2_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_2_Title_TextData",
+          "SourceString": "바람 부는 언덕 - 날치 해안",
+          "LocalizedString": "바람 부는 언덕 - 날치 해안"
+        }
+      },
+      "SpawnPoint_3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_TextData",
+          "SourceString": "바닷바람이 부는 섬.\r\n화산과 인접하여 기후가 온난하고 살기 편하다.\r\n본토 중앙으로 건너가기 쉬우며, 다양한 모험을 즐길 수 있는 곳.",
+          "LocalizedString": "바닷바람이 부는 섬.\r\n화산과 인접하여 기후가 온난하고 살기 편하다.\r\n본토 중앙으로 건너가기 쉬우며, 다양한 모험을 즐길 수 있는 곳."
+        }
+      },
+      "SpawnPoint_3_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_3_Title_TextData",
+          "SourceString": "바닷바람 군도 - 암초",
+          "LocalizedString": "바닷바람 군도 - 암초"
+        }
+      },
+      "SpawnPoint_4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_TextData",
+          "SourceString": "암초가 펼쳐진 해안.\r\n자원이나 팰 양은 평균적.\r\n바위가 좀 많지만 넓은 토지를 확보할 수 있다.",
+          "LocalizedString": "암초가 펼쳐진 해안.\r\n자원이나 팰 양은 평균적.\r\n바위가 좀 많지만 넓은 토지를 확보할 수 있다."
+        }
+      },
+      "SpawnPoint_4_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_4_Title_TextData",
+          "SourceString": "바닷바람 군도 - 표류자의 해안",
+          "LocalizedString": "바닷바람 군도 - 표류자의 해안"
+        }
+      },
+      "SpawnPoint_5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_TextData",
+          "SourceString": "본토에서 먼, 인기척이 안 느껴지는 섬.\r\n북쪽에 위치한 탓에 기온도 낮은 편이다.\r\n자원이나 팰의 양이 적어 거주하기 힘들다.",
+          "LocalizedString": "본토에서 먼, 인기척이 안 느껴지는 섬.\r\n북쪽에 위치한 탓에 기온도 낮은 편이다.\r\n자원이나 팰의 양이 적어 거주하기 힘들다."
+        }
+      },
+      "SpawnPoint_5_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_5_Title_TextData",
+          "SourceString": "잊힌 섬",
+          "LocalizedString": "잊힌 섬"
+        }
+      },
+      "SpawnPoint_6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_TextData",
+          "SourceString": "설산에서 차가운 바람이 불어오는 섬.\r\n밤이 되면 기온이 급격히 떨어지는 탓에,\r\n원주민도 좀처럼 여기서 살려 하지 않는다.",
+          "LocalizedString": "설산에서 차가운 바람이 불어오는 섬.\r\n밤이 되면 기온이 급격히 떨어지는 탓에,\r\n원주민도 좀처럼 여기서 살려 하지 않는다."
+        }
+      },
+      "SpawnPoint_6_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_6_Title_TextData",
+          "SourceString": "찬 바람이 부는 섬",
+          "LocalizedString": "찬 바람이 부는 섬"
+        }
+      },
+      "SpawnPoint_7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_TextData",
+          "SourceString": "동쪽에 위치한 황량한 섬.\r\n대륙 끝자락에 있으며, 아무도 개척하려 하지 않는다.\r\n익숙하지 않은 사람이 살기엔 좀 힘들다.",
+          "LocalizedString": "동쪽에 위치한 황량한 섬.\r\n대륙 끝자락에 있으며, 아무도 개척하려 하지 않는다.\r\n익숙하지 않은 사람이 살기엔 좀 힘들다."
+        }
+      },
+      "SpawnPoint_7_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_7_Title_TextData",
+          "SourceString": "동쪽의 황량한 섬",
+          "LocalizedString": "동쪽의 황량한 섬"
+        }
+      },
+      "SpawnPoint_8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_TextData",
+          "SourceString": "습지대가 펼쳐진 섬.\r\n습도가 적당해 열매가 잔뜩 열린다.\r\n본토 중앙으로 가기에도 용이하다.",
+          "LocalizedString": "습지대가 펼쳐진 섬.\r\n습도가 적당해 열매가 잔뜩 열린다.\r\n본토 중앙으로 가기에도 용이하다."
+        }
+      },
+      "SpawnPoint_8_Title": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "SpawnPoint_8_Title_TextData",
+          "SourceString": "습원지 섬",
+          "LocalizedString": "습원지 섬"
+        }
+      },
+      "FTPoint1": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint1_TextData",
+          "SourceString": "흑요 화산 중턱",
+          "LocalizedString": "흑요 화산 중턱"
+        }
+      },
+      "FTPoint2": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint2_TextData",
+          "SourceString": "Eiren의 동지 탑",
+          "LocalizedString": "Eiren의 동지 탑"
+        }
+      },
+      "FTPoint3": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint3_TextData",
+          "SourceString": "영원한 불꽃의 동지의 탑 입구",
+          "LocalizedString": "영원한 불꽃의 동지의 탑 입구"
+        }
+      },
+      "FTPoint4": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint4_TextData",
+          "SourceString": "고대 문명 유적",
+          "LocalizedString": "고대 문명 유적"
+        }
+      },
+      "FTPoint5": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint5_TextData",
+          "SourceString": "끝자락 어촌",
+          "LocalizedString": "끝자락 어촌"
+        }
+      },
+      "FTPoint6": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint6_TextData",
+          "SourceString": "黒曜火山のアヌビス像",
+          "LocalizedString": "黒曜火山のアヌビス像"
+        }
+      },
+      "FTPoint7": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint7_TextData",
+          "SourceString": "영원한 여름의 해변",
+          "LocalizedString": "영원한 여름의 해변"
+        }
+      },
+      "FTPoint8": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint8_TextData",
+          "SourceString": "멸망한 성채 도시",
+          "LocalizedString": "멸망한 성채 도시"
+        }
+      },
+      "FTPoint9": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint9_TextData",
+          "SourceString": "자경단의 탑 입구",
+          "LocalizedString": "자경단의 탑 입구"
+        }
+      },
+      "FTPoint10": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint10_TextData",
+          "SourceString": "경계 타워",
+          "LocalizedString": "경계 타워"
+        }
+      },
+      "FTPoint11": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint11_TextData",
+          "SourceString": "모래 언덕 입구",
+          "LocalizedString": "모래 언덕 입구"
+        }
+      },
+      "FTPoint12": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint12_TextData",
+          "SourceString": "사막 마을",
+          "LocalizedString": "사막 마을"
+        }
+      },
+      "FTPoint13": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint13_TextData",
+          "SourceString": "모래 언덕 오지",
+          "LocalizedString": "모래 언덕 오지"
+        }
+      },
+      "FTPoint14": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint14_TextData",
+          "SourceString": "냉수 해변",
+          "LocalizedString": "냉수 해변"
+        }
+      },
+      "FTPoint15": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint15_TextData",
+          "SourceString": "산 자를 거부하는 산길",
+          "LocalizedString": "산 자를 거부하는 산길"
+        }
+      },
+      "FTPoint16": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint16_TextData",
+          "SourceString": "얼음 족제비의 언덕",
+          "LocalizedString": "얼음 족제비의 언덕"
+        }
+      },
+      "FTPoint17": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint17_TextData",
+          "SourceString": "녹지 않는 호수",
+          "LocalizedString": "녹지 않는 호수"
+        }
+      },
+      "FTPoint18": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint18_TextData",
+          "SourceString": "절대영도의 땅",
+          "LocalizedString": "절대영도의 땅"
+        }
+      },
+      "FTPoint19": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint19_TextData",
+          "SourceString": "유전자 연구 단위의 타워",
+          "LocalizedString": "유전자 연구 단위의 타워"
+        }
+      },
+      "FTPoint20": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint20_TextData",
+          "SourceString": "유전자 연구 부대의 탑 입구",
+          "LocalizedString": "유전자 연구 부대의 탑 입구"
+        }
+      },
+      "FTPoint21": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint21_TextData",
+          "SourceString": "거대 풀 야수의 언덕",
+          "LocalizedString": "거대 풀 야수의 언덕"
+        }
+      },
+      "FTPoint22": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint22_TextData",
+          "SourceString": "쇠락한 교회",
+          "LocalizedString": "쇠락한 교회"
+        }
+      },
+      "FTPoint23": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint23_TextData",
+          "SourceString": "시초의 대지",
+          "LocalizedString": "시초의 대지"
+        }
+      },
+      "FTPoint24": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint24_TextData",
+          "SourceString": "작은 부락",
+          "LocalizedString": "작은 부락"
+        }
+      },
+      "FTPoint25": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint25_TextData",
+          "SourceString": "수행자의 폭포",
+          "LocalizedString": "수행자의 폭포"
+        }
+      },
+      "FTPoint26": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint26_TextData",
+          "SourceString": "화산의 기슭",
+          "LocalizedString": "화산의 기슭"
+        }
+      },
+      "FTPoint27": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint27_TextData",
+          "SourceString": "빙조의 영역",
+          "LocalizedString": "빙조의 영역"
+        }
+      },
+      "FTPoint28": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint28_TextData",
+          "SourceString": "성채 유적지",
+          "LocalizedString": "성채 유적지"
+        }
+      },
+      "FTPoint29": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint29_TextData",
+          "SourceString": "천둥용의 영역",
+          "LocalizedString": "천둥용의 영역"
+        }
+      },
+      "FTPoint30": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint30_TextData",
+          "SourceString": "탐구자의 갈림길",
+          "LocalizedString": "탐구자의 갈림길"
+        }
+      },
+      "FTPoint31": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint31_TextData",
+          "SourceString": "오래된 제사장",
+          "LocalizedString": "오래된 제사장"
+        }
+      },
+      "FTPoint32": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint32_TextData",
+          "SourceString": "花兎山 山頂",
+          "LocalizedString": "花兎山 山頂"
+        }
+      },
+      "FTPoint33": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint33_TextData",
+          "SourceString": "호수 중앙",
+          "LocalizedString": "호수 중앙"
+        }
+      },
+      "FTPoint34": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint34_TextData",
+          "SourceString": "위선자의 언덕",
+          "LocalizedString": "위선자의 언덕"
+        }
+      },
+      "FTPoint35": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint35_TextData",
+          "SourceString": "수호자의 영역",
+          "LocalizedString": "수호자의 영역"
+        }
+      },
+      "FTPoint36": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint36_TextData",
+          "SourceString": "설산으로 향하는 갈림길",
+          "LocalizedString": "설산으로 향하는 갈림길"
+        }
+      },
+      "FTPoint37": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint37_TextData",
+          "SourceString": "팰 애호 단체의 탑 입구",
+          "LocalizedString": "팰 애호 단체의 탑 입구"
+        }
+      },
+      "FTPoint38": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint38_TextData",
+          "SourceString": "신속의 영역",
+          "LocalizedString": "신속의 영역"
+        }
+      },
+      "FTPoint39": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint39_TextData",
+          "SourceString": "草熊猫の森",
+          "LocalizedString": "草熊猫の森"
+        }
+      },
+      "FTPoint40": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint40_TextData",
+          "SourceString": "새끼 상어의 구역",
+          "LocalizedString": "새끼 상어의 구역"
+        }
+      },
+      "FTPoint41": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint41_TextData",
+          "SourceString": "알록나비의 숲",
+          "LocalizedString": "알록나비의 숲"
+        }
+      },
+      "FTPoint42": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint42_TextData",
+          "SourceString": "검호의 영역",
+          "LocalizedString": "검호의 영역"
+        }
+      },
+      "FTPoint43": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint43_TextData",
+          "SourceString": "대나무숲 오지",
+          "LocalizedString": "대나무숲 오지"
+        }
+      },
+      "FTPoint44": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint44_TextData",
+          "SourceString": "익룡의 영역",
+          "LocalizedString": "익룡의 영역"
+        }
+      },
+      "FTPoint45": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint45_TextData",
+          "SourceString": "레인 밀렵단의 탑 입구",
+          "LocalizedString": "레인 밀렵단의 탑 입구"
+        }
+      },
+      "FTPoint46": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint46_TextData",
+          "SourceString": "비가 오는 타워 타워",
+          "LocalizedString": "비가 오는 타워 타워"
+        }
+      },
+      "FTPoint47": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint47_TextData",
+          "SourceString": "PAL 보호탑",
+          "LocalizedString": "PAL 보호탑"
+        }
+      },
+      "FTPoint48": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint48_TextData",
+          "SourceString": "순백의 설원",
+          "LocalizedString": "순백의 설원"
+        }
+      },
+      "FTPoint49": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint49_TextData",
+          "SourceString": "잊힌 섬",
+          "LocalizedString": "잊힌 섬"
+        }
+      },
+      "FTPoint50": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint50_TextData",
+          "SourceString": "찬 바람이 부는 섬",
+          "LocalizedString": "찬 바람이 부는 섬"
+        }
+      },
+      "FTPoint51": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint51_TextData",
+          "SourceString": "작은 청룡의 해변",
+          "LocalizedString": "작은 청룡의 해변"
+        }
+      },
+      "FTPoint52": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint52_TextData",
+          "SourceString": "바닷바람 군도 - 표류자의 해안",
+          "LocalizedString": "바닷바람 군도 - 표류자의 해안"
+        }
+      },
+      "FTPoint53": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint53_TextData",
+          "SourceString": "바닷바람 군도의 교회",
+          "LocalizedString": "바닷바람 군도의 교회"
+        }
+      },
+      "FTPoint54": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint54_TextData",
+          "SourceString": "작은 후미",
+          "LocalizedString": "작은 후미"
+        }
+      },
+      "FTPoint55": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint55_TextData",
+          "SourceString": "섬으로 건너가는 해안",
+          "LocalizedString": "섬으로 건너가는 해안"
+        }
+      },
+      "FTPoint56": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint56_TextData",
+          "SourceString": "습원지 섬",
+          "LocalizedString": "습원지 섬"
+        }
+      },
+      "FTPoint57": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint57_TextData",
+          "SourceString": "동쪽의 황량한 섬",
+          "LocalizedString": "동쪽의 황량한 섬"
+        }
+      },
+      "FTPoint58": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint58_TextData",
+          "SourceString": "천연 구름다리",
+          "LocalizedString": "천연 구름다리"
+        }
+      },
+      "FTPoint59": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint59_TextData",
+          "SourceString": "잊힌 섬의 교회 유적지",
+          "LocalizedString": "잊힌 섬의 교회 유적지"
+        }
+      },
+      "FTPoint60": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint60_TextData",
+          "SourceString": "습원지의 교회 유적지",
+          "LocalizedString": "습원지의 교회 유적지"
+        }
+      },
+      "FTPoint61": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint61_TextData",
+          "SourceString": "쌍기사의 대교",
+          "LocalizedString": "쌍기사의 대교"
+        }
+      },
+      "FTPoint62": {
+        "TextData": {
+          "Namespace": "DT_MapRespawnPointInfoText",
+          "Key": "FTPoint62_TextData",
+          "SourceString": "계곡 입구",
+          "LocalizedString": "계곡 입구"
+        }
+      }
+    }
+  }
+]
