@@ -96,23 +96,23 @@ export const parseAndReplaceAttributes = (
       const keyMap: KeyMapType = {
         // Needs to be grabbed from localization.en.keys
         uiCommon: (val) =>
-          _data.localization.en.keys.get(val) || {
+          _data.localization.keys.get(val) || {
             error: '{ui-common-missing}',
           },
         // TODO: Need to implement item getter.
         itemName: (val) => {
-          let item_name_check = _data.localization.en.keys.get(
+          let item_name_check = _data.localization.keys.get(
             datakey_to_prefix.item_name + val
           );
           // If it's not the item_name, it could be from the recipe_name
           if (!item_name_check) {
-            item_name_check = _data.localization.en.keys.get(
+            item_name_check = _data.localization.keys.get(
               datakey_to_prefix.recipe_name + val
             );
           }
           // It could also potentially be a blueprint name!
           if (!item_name_check) {
-            item_name_check = _data.localization.en.keys.get(
+            item_name_check = _data.localization.keys.get(
               datakey_to_prefix.item_name_blueprint + val
             );
           }
@@ -124,15 +124,15 @@ export const parseAndReplaceAttributes = (
           );
         },
         mapObjectName: (val) =>
-          _data.localization.en.keys.get(
+          _data.localization.keys.get(
             datakey_to_prefix.map_object_name + val
           ) || { error: '{map-object-missing}' },
         activeSkillName: (val) =>
-          _data.localization.en.skills.localized_skill_names.get(
+          _data.localization.skills.localized_skill_names.get(
             datakey_to_prefix.skills_action + val // Add correct prefix
           ) || { error: '{active-skill-missing}' },
         characterName: (val) =>
-          _data.localization.en.keys.get(datakey_to_prefix.pal_name + val) || {
+          _data.localization.keys.get(datakey_to_prefix.pal_name + val) || {
             error: '{character-name-missing}',
           },
       };

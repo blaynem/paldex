@@ -69,7 +69,7 @@ export const transform_item_details = (
     // TODO: We may have to strip the names of things like NPC
     //      We need to just use the override name if there is one instead.
     // TODO: Filter out test items including `_Debug`
-    const localized_item_name = _data.localization.en.keys.get(item_name_key);
+    const localized_item_name = _data.localization.keys.get(item_name_key);
     if (!localized_item_name) {
       logErrorFn({
         transformer: 'transform_item_details',
@@ -90,7 +90,7 @@ export const transform_item_details = (
       ? item_data.override_description
       : datakey_to_prefix.item_description + dev_item_name;
     const localized_item_description =
-      _data.localization.en.keys.get(description_key);
+      _data.localization.keys.get(description_key);
     if (
       !localized_item_description &&
       !description_key.includes('Temperature')
@@ -111,7 +111,7 @@ export const transform_item_details = (
     let passive_skill = null;
     if (item_data.passive_skill_name !== 'None') {
       const passive_skill_name =
-        _data.localization.en.skills.localized_skill_names.get(
+        _data.localization.skills.localized_skill_names.get(
           datakey_to_prefix.skills_passive + item_data.passive_skill_name
         );
       if (!passive_skill_name) {
@@ -127,13 +127,13 @@ export const transform_item_details = (
       }
 
       let passive_skill_description =
-        _data.localization.en.skills.localized_skill_descriptions.get(
+        _data.localization.skills.localized_skill_descriptions.get(
           datakey_to_prefix.skills_passive + item_data.passive_skill_name
         );
       // Sometimes the skill name might require `_PAL` appended to it.
       if (!passive_skill_description) {
         passive_skill_description =
-          _data.localization.en.skills.localized_skill_descriptions.get(
+          _data.localization.skills.localized_skill_descriptions.get(
             datakey_to_prefix.skills_passive +
               item_data.passive_skill_name +
               '_PAL'
@@ -181,7 +181,7 @@ export const transform_item_details = (
       }
 
       const localized_name =
-        _data.localization.en.skills.localized_skill_names.get(
+        _data.localization.skills.localized_skill_names.get(
           datakey_to_prefix.skills_action + item_data.waza_id
         );
       if (!localized_name) {
@@ -199,7 +199,7 @@ export const transform_item_details = (
       }
 
       const localized_description =
-        _data.localization.en.skills.localized_skill_descriptions.get(
+        _data.localization.skills.localized_skill_descriptions.get(
           datakey_to_prefix.skills_action + item_data.waza_id
         );
       if (!localized_description) {
@@ -305,17 +305,17 @@ export const transform_item_recipes = (
   const transformedData: Record<string, TransformedItemRecipes> = {};
 
   for (const [dev_recipe_name, recipe_data] of _data.item_data.recipe_data) {
-    let localized_recipe_name = _data.localization.en.keys.get(
+    let localized_recipe_name = _data.localization.keys.get(
       datakey_to_prefix.recipe_name + dev_recipe_name
     );
     if (!localized_recipe_name) {
-      localized_recipe_name = _data.localization.en.keys.get(
+      localized_recipe_name = _data.localization.keys.get(
         datakey_to_prefix.recipe_name + dev_recipe_name.toUpperCase() // Some of them are uppercase
       );
     }
     // Attempt to fallback to an item name if it's not found.
     if (!localized_recipe_name) {
-      localized_recipe_name = _data.localization.en.keys.get(
+      localized_recipe_name = _data.localization.keys.get(
         datakey_to_prefix.item_name + dev_recipe_name
       );
     }
@@ -330,7 +330,7 @@ export const transform_item_recipes = (
       });
     }
 
-    let localized_recipe_description = _data.localization.en.keys.get(
+    let localized_recipe_description = _data.localization.keys.get(
       datakey_to_prefix.recipe_description + dev_recipe_name
     );
     // This is basically undefined if it's the same as that key.
@@ -340,13 +340,13 @@ export const transform_item_recipes = (
     }
     // Check again with uppercase, Some of them are uppercase
     if (!localized_recipe_description) {
-      localized_recipe_description = _data.localization.en.keys.get(
+      localized_recipe_description = _data.localization.keys.get(
         datakey_to_prefix.recipe_description + dev_recipe_name.toUpperCase()
       );
     }
     // Attempt to fallback to an item description if it's not found.
     if (!localized_recipe_description) {
-      localized_recipe_description = _data.localization.en.keys.get(
+      localized_recipe_description = _data.localization.keys.get(
         datakey_to_prefix.item_description + dev_recipe_name
       );
     }
@@ -364,7 +364,7 @@ export const transform_item_recipes = (
     let unlocked_by_item_name = null;
     // If it's actually unlocked by something
     if (recipe_data.unlock_item_id) {
-      unlocked_by_item_name = _data.localization.en.keys.get(
+      unlocked_by_item_name = _data.localization.keys.get(
         datakey_to_prefix.item_name + recipe_data.unlock_item_id
       );
       if (!unlocked_by_item_name) {
@@ -381,7 +381,7 @@ export const transform_item_recipes = (
 
     const required_materials = recipe_data.required_materials.map(
       (material) => {
-        const material_name = _data.localization.en.keys.get(
+        const material_name = _data.localization.keys.get(
           datakey_to_prefix.item_name + material.material_id
         );
         if (!material_name) {
@@ -479,10 +479,10 @@ export const transform_dropped_item_data = (
     if (filterOutTestKeys(dev_item_name)) {
       continue;
     }
-    const localized_item_name = _data.localization.en.keys.get(
+    const localized_item_name = _data.localization.keys.get(
       datakey_to_prefix.item_name + dev_item_name
     );
-    const localized_item_description = _data.localization.en.keys.get(
+    const localized_item_description = _data.localization.keys.get(
       datakey_to_prefix.item_description + dev_item_name
     );
     if (!localized_item_name) {

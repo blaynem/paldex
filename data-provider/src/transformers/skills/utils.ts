@@ -23,7 +23,7 @@ export const getActiveSkillData = (
     return null;
   }
 
-  const localized_name = _data.localization.en.skills.localized_skill_names.get(
+  const localized_name = _data.localization.skills.localized_skill_names.get(
     datakey_to_prefix.skills_action + skill_dev_name
   );
   if (!localized_name) {
@@ -40,7 +40,7 @@ export const getActiveSkillData = (
   }
 
   const localized_description =
-    _data.localization.en.skills.localized_skill_descriptions.get(
+    _data.localization.skills.localized_skill_descriptions.get(
       datakey_to_prefix.skills_action + skill_dev_name
     );
   if (!localized_description) {
@@ -169,7 +169,7 @@ export const transformElementType = (
     }
 
     const getLocalizedElementName = (element: string) =>
-      _data.localization.en.keys.get(datakey_to_prefix.element + element);
+      _data.localization.keys.get(datakey_to_prefix.element + element);
 
     const effectType = effectData.type;
     // "ElementBoost", "ElementResist", "ElementAddItemDrop",  "Element",

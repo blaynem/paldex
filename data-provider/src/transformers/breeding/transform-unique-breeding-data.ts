@@ -15,7 +15,7 @@ export const transform_unique_breeding_data = (
   };
 
   const localized_search = (dev_name: string) => {
-    const localized_name = _data.localization.en.keys.get(
+    const localized_name = _data.localization.keys.get(
       datakey_to_prefix.pal_name + dev_name
     );
 

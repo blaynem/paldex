@@ -76,7 +76,7 @@ export const transform_data = (_data: DataProvider): TransformedData => {
   return {
     unique_breeds: transformed_unique_breeding_data.unique_breeding_data,
     elements: list_of_elements.map((el) => ({
-      name: _data.localization.en.keys.get(datakey_to_prefix.element + el)!,
+      name: _data.localization.keys.get(datakey_to_prefix.element + el)!,
       dev_name: el,
     })),
     pals,

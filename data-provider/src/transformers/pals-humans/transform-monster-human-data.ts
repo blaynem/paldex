@@ -12,7 +12,7 @@ import { getPalsActiveSkillsData } from './utils';
 // If it does, then we know its not actually implemented yet, so we can skip it in the errors.
 const isTentative = (_data: DataProvider, skill_key: string): boolean => {
   const partner_skill_description =
-    _data.localization.en.skills.localized_skill_names.get(skill_key);
+    _data.localization.skills.localized_skill_names.get(skill_key);
 
   return partner_skill_description === 'Tentative text';
 };
@@ -32,8 +32,8 @@ export const tranform_monster_data = (
   };
 
   const allMonsterHumanNames = _data.monster_human_data.keys();
-  const localization_keys = _data.localization.en.keys;
-  const { localized_skill_names } = _data.localization.en.skills;
+  const localization_keys = _data.localization.keys;
+  const { localized_skill_names } = _data.localization.skills;
 
   const pals_data: TransformedMonsterHumanData[] = [];
   const humans_data: TransformedMonsterHumanData[] = [];
@@ -127,9 +127,7 @@ export const tranform_monster_data = (
     }
 
     const elements = [monster_data.element_type_1, monster_data.element_type_2]
-      .map(
-        (_el) => _data.localization.en.keys.get(`COMMON_ELEMENT_NAME_${_el}`)!
-      )
+      .map((_el) => _data.localization.keys.get(`COMMON_ELEMENT_NAME_${_el}`)!)
       .filter(Boolean);
 
     const passive_skills = [
@@ -147,7 +145,7 @@ export const tranform_monster_data = (
 
     const pal_name = localized_pal_name || dev_name;
     const pal_description =
-      _data.localization.en.keys.get(
+      _data.localization.keys.get(
         datakey_to_prefix.pal_long_description + dev_name
       ) || 'Missing...';
 
@@ -162,10 +160,10 @@ export const tranform_monster_data = (
     let related_technology: TransformedMonsterHumanData['related_technology'] =
       null;
     if (monster_data.is_pal) {
-      const skill_desc = _data.localization.en.keys.get(
+      const skill_desc = _data.localization.keys.get(
         datakey_to_prefix.skill_unlock_desc + dev_name
       );
-      const skill_name = _data.localization.en.keys.get(
+      const skill_name = _data.localization.keys.get(
         datakey_to_prefix.skill_unlock_name + dev_name
       );
       // We don't really know which thing has related tech or not, so we can't log an error.
@@ -299,7 +297,7 @@ export const getLocalizedPalName = (
   transformer: string,
   log_error_fn: (error: TransfomerErrorType) => void
 ): string | undefined => {
-  const localization_keys = _data.localization.en.keys;
+  const localization_keys = _data.localization.keys;
 
   const monster_data = _data.monster_human_data.get(dev_name);
   if (!monster_data) {

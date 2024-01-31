@@ -67,7 +67,7 @@ export const get_localized_character_name = (
   if (!localized_dropper_name) {
     const human_data = _data.monster_human_data.get(_dev_name);
     if (human_data) {
-      const human_name = _data.localization.en.keys.get(
+      const human_name = _data.localization.keys.get(
         human_data.override_name_text_id
       );
 
@@ -94,7 +94,7 @@ export const get_localized_character_name = (
       let weapon = '';
       if (!isGenericEnemy) {
         weapon =
-          _data.localization.en.keys.get(
+          _data.localization.keys.get(
             datakey_to_prefix.item_name + human_data.weapon
           ) || '';
       }

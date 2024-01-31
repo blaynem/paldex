@@ -34,10 +34,9 @@ export const transform_skills_data = (
 
   const passive_skills: TransformedPassiveSkillsData[] = [];
   for (const [dev_skill_name, skill_data] of _data.skills_data.passive) {
-    const localized_name =
-      _data.localization.en.skills.localized_skill_names.get(
-        datakey_to_prefix.skills_passive + dev_skill_name
-      );
+    const localized_name = _data.localization.skills.localized_skill_names.get(
+      datakey_to_prefix.skills_passive + dev_skill_name
+    );
     if (!localized_name) {
       logErrorFn({
         transformer: _transformer,
@@ -58,7 +57,7 @@ export const transform_skills_data = (
       datakey_to_prefix.skills_passive + dev_skill_name;
 
     const localized_description =
-      _data.localization.en.skills.localized_skill_descriptions.get(
+      _data.localization.skills.localized_skill_descriptions.get(
         localized_description_key
       );
     if (!localized_description) {

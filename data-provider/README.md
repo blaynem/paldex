@@ -8,12 +8,12 @@ Note: While we aim to maintain this data and assure its accuracy, we cannot guar
 
 - `data-provider` - The main folder for the data provider.
   - `baked-data` - The generated data that can be used by a client.
+  - `baked-data/{locale}/errors.json` - Any errors that were encountered while generating the data. Not to be confused with errors for a client to consume.
   - `palworld-assets` - The raw data from Palworld.
   - `src/data` - Used to normalize and generate the data from palworld-assets into maps for easier lookup. Attempts to not morph the data too much.
   - `src/localization` - Similar to data, though for getting the specific localized strings.
   - `src/transformers` - Combines the built data and localization into usable data for clients.
   - `generate-data.ts` - The script that generates the data.
-  - `errors.json` - Any errors that were encountered while generating the data.
 
 ## What happens when Palworld updates?
 

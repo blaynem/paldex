@@ -1,5 +1,4 @@
 import { ItemDropsData, create_pal_item_drops_data } from './pal-item-drops';
-import { LocalizationData, create_localization_data } from '../localization';
 import {
   MonsterHumanData,
   create_monster_human_data,
@@ -12,6 +11,8 @@ import {
   getPassiveSkillsData,
 } from './skills-data';
 import { ItemDataAndRecipesType, getItemData } from './item-data';
+import { LocalizationData, create_localization_data } from './localization';
+import { SupportedLocales } from './localization/types';
 
 export interface DataProvider {
   breeding_data: Map<string, UniqueBreedingData>;
@@ -30,12 +31,15 @@ export interface DataProvider {
   };
 }
 
-export const create_data = (): DataProvider => {
+export const create_data = async (
+  locale: SupportedLocales
+): Promise<DataProvider> => {
   const { pal_item_drops, item_to_droppers } = create_pal_item_drops_data();
   const { recipe_data, item_data, food_status_effects } = getItemData();
+  const localization = await create_localization_data(locale);
   return {
     breeding_data: getUniqueBreedingData(),
-    localization: create_localization_data(),
+    localization,
     monster_human_data: create_monster_human_data(),
     item_data: {
       food_status_effects,
