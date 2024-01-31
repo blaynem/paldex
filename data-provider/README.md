@@ -19,7 +19,9 @@ Note: While we aim to maintain this data and assure its accuracy, we cannot guar
 
 When a new update comes out, you will need to install the update, and unpack the data. See below for instructions on how to do that.
 
-# How to
+## Where did map_locations come from?!
+
+It's just splitting the [paldex distribution data](/data-provider/palworld-assets/UI/DT_PaldexDistributionData.json) into files per Pal. We need to write a script for it again.
 
 ## Generate the data
 

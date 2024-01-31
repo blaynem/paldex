@@ -1,0 +1,161 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_LocationUIData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalLocationUIData_TableRow'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "MainSet": {
+        "locationUIDataMap": [
+          {
+            "EPalLocationType::PointFastTravel": {
+              "Icon": {
+                "AssetPathName": "/Game/Pal/Texture/UI/InGame/T_icon_compass_FTtower.T_icon_compass_FTtower",
+                "SubPathString": ""
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_IngameCompass_FastTravel_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_IngameCompass_FastTravel.10"
+              },
+              "displayLength": 300.0
+            }
+          },
+          {
+            "EPalLocationType::PointBaseCamp": {
+              "Icon": {
+                "AssetPathName": "/Game/Pal/Texture/UI/InGame/T_icon_compass_camp.T_icon_compass_camp",
+                "SubPathString": ""
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_IngameCompass_camp_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_IngameCompass_camp.12"
+              },
+              "displayLength": 300.0
+            }
+          },
+          {
+            "EPalLocationType::PointMapObject": {
+              "Icon": {
+                "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_dummy_icon.T_dummy_icon",
+                "SubPathString": ""
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_CompassIcon_ForMapObject_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_CompassIcon_ForMapObject.4"
+              },
+              "displayLength": 300.0
+            }
+          },
+          {
+            "EPalLocationType::PointCharacter": {
+              "Icon": {
+                "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_dummy_icon.T_dummy_icon",
+                "SubPathString": ""
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_CompassIcon_ForPal_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_CompassIcon_ForPal.4"
+              },
+              "displayLength": 300.0
+            }
+          },
+          {
+            "EPalLocationType::PointDungeonPortal": {
+              "Icon": {
+                "AssetPathName": "/Game/Pal/Texture/UI/InGame/T_icon_compass_dungeon.T_icon_compass_dungeon",
+                "SubPathString": ""
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_IngameCompass_dungeonPortal_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_IngameCompass_dungeonPortal.10"
+              },
+              "displayLength": 300.0
+            }
+          },
+          {
+            "EPalLocationType::PointStatic": {
+              "Icon": {
+                "AssetPathName": "/Game/Pal/Texture/UI/IngameMenu/T_prt_palbox_pagecontrole.T_prt_palbox_pagecontrole",
+                "SubPathString": ""
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_IngameCompass_arrow_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_IngameCompass_arrow.14"
+              },
+              "displayLength": 300.0
+            }
+          },
+          {
+            "EPalLocationType::PointBossTower": {
+              "Icon": {
+                "AssetPathName": "/Game/Pal/Texture/UI/InGame/T_icon_compass_tower.T_icon_compass_tower",
+                "SubPathString": ""
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_IngameCompass_BossTower_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_IngameCompass_BossTower.10"
+              },
+              "displayLength": 300.0
+            }
+          },
+          {
+            "EPalLocationType::CustomMarker": {
+              "Icon": {
+                "AssetPathName": "None",
+                "SubPathString": null
+              },
+              "compassIconWidget": {
+                "ObjectName": "WidgetBlueprintGeneratedClass'WBP_IngameCompass_CustomMarker_C'",
+                "ObjectPath": "Pal/Content/Pal/Blueprint/UI/UserInterface/InGame/Compass/WBP_IngameCompass_CustomMarker.12"
+              },
+              "displayLength": 300.0
+            }
+          }
+        ],
+        "mapObjectIconMap": [
+          {
+            "DamagableRock0001": {
+              "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_Stone.T_itemicon_Material_Stone",
+              "SubPathString": ""
+            }
+          },
+          {
+            "DamagableRock0002": {
+              "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_CopperOre.T_itemicon_Material_CopperOre",
+              "SubPathString": ""
+            }
+          },
+          {
+            "DamagableRock0003": {
+              "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_Quartz.T_itemicon_Material_Quartz",
+              "SubPathString": ""
+            }
+          },
+          {
+            "DamagableRock0004": {
+              "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_Coal.T_itemicon_Material_Coal",
+              "SubPathString": ""
+            }
+          },
+          {
+            "DamagableRock0005": {
+              "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_Pal_crystal_S.T_itemicon_Material_Pal_crystal_S",
+              "SubPathString": ""
+            }
+          },
+          {
+            "DamagableRock0006": {
+              "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_Sulfur.T_itemicon_Material_Sulfur",
+              "SubPathString": ""
+            }
+          }
+        ]
+      }
+    }
+  }
+]

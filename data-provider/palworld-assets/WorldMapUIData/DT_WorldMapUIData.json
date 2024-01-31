@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_WorldMapUIData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PalWorldMapUIDataTableRow'",
+        "ObjectPath": "/Script/Pal"
+      }
+    },
+    "Rows": {
+      "MainMap": {
+        "minMapTextureBlockSize": {
+          "X": 8192.0,
+          "Y": 8192.0
+        },
+        "mapBlockNum": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "landScapeRealPositionMin": {
+          "X": -582888.0,
+          "Y": -301000.0,
+          "Z": 1.0
+        },
+        "landScapeRealPositionMax": {
+          "X": 335112.0,
+          "Y": 617000.0,
+          "Z": 1.0
+        },
+        "textureDataMap": [
+          {
+            "FirstRegion": {
+              "Texture": {
+                "AssetPathName": "/Game/Pal/Texture/UI/Map/T_WorldMap.T_WorldMap",
+                "SubPathString": ""
+              },
+              "blockSize": {
+                "X": 1.0,
+                "Y": 1.0
+              },
+              "gridPosition": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "regionNameMsgId": "None"
+            }
+          }
+        ],
+        "DefaultMaskTexture": {
+          "AssetPathName": "/Game/Pal/Texture/UI/Map/T_MainWorld5_DefaultMask.T_MainWorld5_DefaultMask",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]
