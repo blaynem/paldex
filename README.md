@@ -2,6 +2,10 @@
 
 Welcome to Paldex. A Palworld companion.
 
+The most comprehensive source of Palworld data, directly from the source. Including translations for all Palworld supported languages (WIP).
+
+## Background
+
 Originally we started off making a React Native Android / iOS app for Palworld, but that was absolute pain and misery. The stores do everything in their power to make solo devs miserable. So rather than letting all our hard work go to waste, we decided to make an open source.
 
 We aim to have the most up to date and accurate information of Palworld on the web. We're not sure what the future holds, but we're excited to see where this goes.
