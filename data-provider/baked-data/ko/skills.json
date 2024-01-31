@@ -1,0 +1,5200 @@
+{
+  "active_skills": [
+    {
+      "is_unique_skill": false,
+      "id": "1",
+      "name": "ko_Text",
+      "power": 1,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "넓은 지역에 작은 파도를 일으켜 적의 움직임을 느리게 만든 뒤\r\n거대한 파도로 적을 공격한다.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 80
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "4",
+      "name": "ko_Text",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "물 회오리로 전방에 벽을 만들어 서서히 전진시킨다.",
+      "element_type": "Water",
+      "effect_types": [],
+      "min_range": 700,
+      "max_range": 1500,
+      "is_disabled_data": true
+    },
+    {
+      "is_unique_skill": false,
+      "id": "6",
+      "name": "워터 제트",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "적을 향해 고속 물 탄환을 발사한다.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "21",
+      "name": "아쿠아 샷",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "대상을 향해 일직선으로 날아가는 물 탄환을 발사한다.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "51",
+      "name": "버블 샷",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "적을 천천히 추적하는 수많은 거품을 발사한다.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "76",
+      "name": "산성비",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "산성 구름을 만들어 적의 머리 위에 산성비를 쏟아붓는다.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "85",
+      "name": "물폭탄",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "머리 위에 거대한 물 구슬을 소환해 적을 향해 날린다.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "88",
+      "name": "서핑 태클",
+      "power": 100,
+      "cool_down_time": 120,
+      "category": "Melee",
+      "description": "Missing...",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "105",
+      "name": "하이드로 스트림",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다.",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "NewRow",
+      "name": "위협",
+      "power": 1,
+      "cool_down_time": 1,
+      "category": "Shot",
+      "description": "ko_Text",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Stun",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "3",
+      "name": "펀치",
+      "power": 12,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "자신의 주먹을 믿고 힘껏 내지른다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 600,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "7",
+      "name": "공기 대포",
+      "power": 25,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "고속으로 날아가는 공기 덩어리를 발사한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "15",
+      "name": "치킨 태클",
+      "power": 30,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "꼬꼬닭 전용 스킬. 적을 노리고 돌격하여 뾰족한 부리로 돌격한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "17",
+      "name": "파워 샷",
+      "power": 35,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "에너지를 모아 탄환 형태로 발사한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 600,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "19",
+      "name": "데굴데굴 솜사탕",
+      "power": 35,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "도로롱 전용 스킬. 데굴데굴 구르면서 적을 쫓아간다.\r\n공격 후엔 눈이 핑핑 돌아 움직일 수 없게 된다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "23",
+      "name": "냥냥 펀치",
+      "power": 40,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "아누비스 전용 스킬. 적을 쫓아가며 양팔을 휘둘러\r\n연속으로 펀치를 퍼붓는다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "26",
+      "name": "푹신 태클",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Melee",
+      "description": "멜파카 전용 스킬. 귀여운 오라를 몸에 두른 채 돌진한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 300,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "30",
+      "name": "와일드 팽",
+      "power": 45,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "다크울프 전용 스킬. 적을 향해 날쌔게 달려들어 물고 늘어진다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 800,
+      "max_range": 900,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "35",
+      "name": "들이받기",
+      "power": 50,
+      "cool_down_time": 5,
+      "category": "Melee",
+      "description": "신령사슴 전용 스킬. 적을 향해 돌진하여 뿔로 들이받으며 공격한다.\r\n탑승 중 발동하면 진행 방향을 바꿀 수 있다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "28",
+      "name": "멧돼지 돌진",
+      "power": 55,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "돌진돼지 전용 스킬. 표적을 정해 맹렬한 기세로 돌진한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 300,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "32",
+      "name": "활공 할퀴기",
+      "power": 60,
+      "cool_down_time": 8,
+      "category": "Melee",
+      "description": "질풍수리 전용 스킬. 발톱을 앞으로 세운 자세를 취하며\r\n맹렬한 기세로 활공 돌진을 감행한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "41",
+      "name": "캣 프레스",
+      "power": 60,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "소름냥이 전용 스킬. 불길한 미소를 띠며 뛰어올라\r\n온몸으로 적을 짓눌러 버린다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "42",
+      "name": "ko_Text",
+      "power": 60,
+      "cool_down_time": 1,
+      "category": "Shot",
+      "description": "ko_Text",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "65",
+      "name": "토네이도 어택",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Melee",
+      "description": "나이트윙 전용 스킬. 전방에 맹렬한 회오리를 만든 뒤\r\n활공하면서 적에게 돌진한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "59",
+      "name": "파워 폭탄",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "에너지를 대량으로 모아 거대한 구체 형태로 발사한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "55",
+      "name": "몸통 박치기",
+      "power": 80,
+      "cool_down_time": 12,
+      "category": "Melee",
+      "description": "라브라돈 종의 전용 스킬. 몸을 옆으로 돌려 자세를 잡고\r\n전방으로 태클하여 적을 날려 버린다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 400,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "62",
+      "name": "고릴라운드 콤보",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "고릴레이지 전용 스킬. 지면을 2번 내리친 뒤 번쩍 뛰어올라\r\n마지막에 강력한 펀치를 날린다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "63",
+      "name": "구름 폭풍",
+      "power": 90,
+      "cool_down_time": 15,
+      "category": "Melee",
+      "description": "윈드디어 전용 스킬. 대기를 조작해 바람의 압력을 몸에 휘감으며 돌진한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "83",
+      "name": "ko_Text",
+      "power": 100,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "ko_Text",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Stun",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "86",
+      "name": "Missing...",
+      "power": 100,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "Missing...",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "89",
+      "name": "킹 프레스",
+      "power": 100,
+      "cool_down_time": 21,
+      "category": "Melee",
+      "description": "킹파카 종의 전용 스킬. 힘차게 뛰어오른 뒤\r\n푹신거리는 거대한 몸으로 적을 짓눌러 버린다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "96",
+      "name": "창기병 돌격",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Melee",
+      "description": "팔라디우스 전용 스킬. 신성한 힘을 몸에 휘감은 채\r\n왼손의 창을 앞으로 내지르며 돌진한다.\r\n돌진 중 오른손의 방패로 모든 공격을 막는다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "107",
+      "name": "팰 폭발",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다.",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "113",
+      "name": "자폭",
+      "power": 180,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "목숨을 걸고 장렬히 폭발한다. 자신은 전투 불능 상태가 된다.",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "114",
+      "name": "벌의 침묵",
+      "power": 200,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "목숨을 걸고 장렬히 폭발한다. 순직조차 불사하는 명예로운 기술.",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "118",
+      "name": "메가톤 자폭",
+      "power": 250,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "목숨을 건 대폭발을 일으킨다. 자신은 장렬히 산화하며 밤하늘을 빛내는 별이 된다.",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "5",
+      "name": "바람의 칼날",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "적을 향해 일직선으로 날아가는 초고속 바람의 칼날을 발사한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "22",
+      "name": "씨앗 기관총",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "딱딱한 씨앗을 많이 쏟아내며 전방의 적을 공격한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "45",
+      "name": "꼬리 채찍",
+      "power": 60,
+      "cool_down_time": 8,
+      "category": "Shot",
+      "description": "플로라디노 전용 스킬. 큰 꼬리를 사용해 전방의 지면을 내려치며\r\n넓은 범위에 충격을 가한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "9",
+      "name": "멀티 커터",
+      "power": 60,
+      "cool_down_time": 12,
+      "category": "Shot",
+      "description": "적을 향해 쏜살처럼 날아가는 바람의 칼날을 3자루 발사한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "31",
+      "name": "씨앗 지뢰",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "위험한 씨앗을 발사한다. 적에게 닿으면 튀면서 폭발한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 800,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "53",
+      "name": "스나이핑 샷",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "로빈몽 종의 전용 스킬. 활시위를 당겨 목표를 정한 뒤\r\n적에게 사격을 감행한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "54",
+      "name": "회전 창",
+      "power": 70,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "퀸비나 전용 스킬. 지팡이에 힘을 모은 후 회전하면서 방출한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 600,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "74",
+      "name": "초록 폭풍",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "좌우에 회오리를 일으켜 적에게 날린다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 65
+        }
+      ],
+      "min_range": 700,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "77",
+      "name": "근육 펀치",
+      "power": 85,
+      "cool_down_time": 18,
+      "category": "Melee",
+      "description": "초판다 전용 스킬. 오른팔을 빙빙 휘두르며 전방에 강렬한 펀치를 퍼붓는다.",
+      "element_type": "Leaf",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "82",
+      "name": "가시덩굴",
+      "power": 95,
+      "cool_down_time": 25,
+      "category": "Shot",
+      "description": "땅속의 날카로운 뿌리가 적을 추적하고 발 밑에서 튀어나와 적을 관통한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "112",
+      "name": "태양 폭발",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다.",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "2",
+      "name": "Missing...",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 20
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": true
+    },
+    {
+      "is_unique_skill": false,
+      "id": "43",
+      "name": "얼음 미사일",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "ko_Text",
+      "element_type": "Ice",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "11",
+      "name": "얼음 미사일",
+      "power": 30,
+      "cool_down_time": 3,
+      "category": "Shot",
+      "description": "하늘에 뾰족한 얼음을 생성한 뒤 적을 향해 그 얼음을 발사한다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 103
+        }
+      ],
+      "min_range": 800,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "40",
+      "name": "얼음 칼날",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "초승달 모양의 얼음 날을 만들어 전방으로 발사한다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "48",
+      "name": "얼음뿔 돌진",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "마호 전용 스킬. 장엄한 얼음 뿔로 적을 들이받는다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "50",
+      "name": "빙산",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "적의 발 밑에 날카로운 얼음칼을 불러낸다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "66",
+      "name": "캡틴 슬라이딩",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "펭킹 전용 스킬. 땅에 배를 붙이고 온몸으로 냉기를 발산하여\r\n적을 향해 미끄러지며 부딪친다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "80",
+      "name": "서리 낀 입김",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Shot",
+      "description": "적을 향해 냉기를 방출하여 지속 피해를 준다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "93",
+      "name": "서리 폭발",
+      "power": 100,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "프로스카노 전용 스킬. 앞발을 치켜든 뒤 지면을 내리치면서\r\n적이 있는 지점에 눈을 뿜어낸다.\r\n분출 시 주위에 눈덩이가 떨어진다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "95",
+      "name": "크리스탈 윙",
+      "power": 110,
+      "cool_down_time": 24,
+      "category": "Melee",
+      "description": "빙천마 종의 전용 스킬. 냉기를 응축하여 날개에 얼음을 휘감은 후\r\n얼음 날개로 질주하며 적을 베어버린다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "98",
+      "name": "눈보라 스파이크",
+      "power": 130,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다.\r\n적중하면 주위에도 충격이 퍼진다.",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "10",
+      "name": "파이어 샷",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "적을 향해 일직선으로 날아가는 화염 탄환을 발사한다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "25",
+      "name": "스피릿 파이어",
+      "power": 45,
+      "cool_down_time": 7,
+      "category": "Shot",
+      "description": "적을 향해 불 구슬을 발사한다. 조금 나아간 뒤 갈라지며\r\n작은 불구슬이 전방으로 퍼진다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "38",
+      "name": "불타는 뿔",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "불페르노 전용 스킬. 표적을 정한 뒤\r\n맹렬한 기세로 돌진하면서 뿔로 들이받는다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "44",
+      "name": "불화살",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "적을 뒤쫓는 고속 불화살을 3발 연속으로 쏜다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 103
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "81",
+      "name": "발도술",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "불무사 전용 스킬. 베기 자세를 취한 후 순식간에 적 앞에 나타나\r\n번개 같은 발도술로 공격한다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "58",
+      "name": "파이어 브레스",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "적을 향해 화염을 방출해 지속 피해를 준다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "70",
+      "name": "지옥불 할퀴기",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Melee",
+      "description": "헬고트 전용 스킬. 접근하며 왼쪽 손톱으로 올려친 후 뛰어올라\r\n오른쪽 손톱으로 물 흐르듯 날렵하게 내리친다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1100,
+      "max_range": 1200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "64",
+      "name": "풍림화산",
+      "power": 75,
+      "cool_down_time": 10,
+      "category": "Melee",
+      "description": "불이리 전용 스킬. 전신에 푸른 불꽃을 휘감은 채 맹렬한 기세로 돌격한다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "75",
+      "name": "화염 폭풍",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "좌우에 작열하는 회오리를 일으켜 적에게 날린다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 65
+        }
+      ],
+      "min_range": 700,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "69",
+      "name": "화염 돌격",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "파이린 전용 스킬. 화염을 몸에 두른 채 돌진한다.\r\n지나간 자리엔 잔불이 타오른다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "91",
+      "name": "화산 폭발",
+      "power": 100,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "볼카노 전용 스킬. 앞발을 치켜든 뒤 지면을 내리치면서\r\n적이 있는 지점에 분화를 일으킨다.\r\n분화 시에는 주위에 화산탄이 떨어진다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "101",
+      "name": "인페르노",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Shot",
+      "description": "주위 지면을 활성화해 일정 시간이 지나면 터뜨린다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "100",
+      "name": "봉황의 비행",
+      "power": 135,
+      "cool_down_time": 28,
+      "category": "Melee",
+      "description": "호루스 전용 스킬. 작열하는 회오리를 일으킨 뒤\r\n자기 몸을 맹렬한 불길로 감싸 하늘을 가로지르며 돌진한다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "111",
+      "name": "화염구",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다.",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "72",
+      "name": "크로스 썬더",
+      "power": 1,
+      "cool_down_time": 7,
+      "category": "Shot",
+      "description": "적의 좌우를 가로막듯이 2방향으로 나아가는 천둥 공격을 일으킨다.",
+      "element_type": "Electricity",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "97",
+      "name": "천둥비",
+      "power": 1,
+      "cool_down_time": 20,
+      "category": "Shot",
+      "description": "천둥을 소환하고 일정 시간이 지나면 많은 벼락을 떨어뜨린다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 80
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "14",
+      "name": "스파크 샷",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "전방을 향해 방사상으로 퍼지는 천둥 구체를 발사한다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "20",
+      "name": "Missing...",
+      "power": 30,
+      "cool_down_time": 8,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 10
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "16",
+      "name": "전기 파장",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "재빨리 전기를 방출하여 주위에 충격을 준다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 103
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "24",
+      "name": "번개 구체",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "적을 천천히 추적하는 천둥 구체를 발사한다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "37",
+      "name": "플라즈마 토네이도",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "천둥 에너지를 품은 구체 2개를 만들고 적을 향해 천둥 구체를 무수히 발사한다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "52",
+      "name": "고정식 레이저",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "표적을 적에게 고정한 뒤 초고속 천둥레이저를 발사한다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "60",
+      "name": "전기 할퀴기",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Melee",
+      "description": "일렉판다 전용 스킬. 적을 향해 달려들어 전기가 흐르는 발톱으로 갈라 버린다.\r\n2번 달려든 뒤 지면을 향해 발톱을 세워\r\n넓은 범위에 전기 충격을 퍼뜨린다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "67",
+      "name": "라인 썬더",
+      "power": 75,
+      "cool_down_time": 16,
+      "category": "Shot",
+      "description": "일직선으로 날아가는 천둥 공격을 일으킨다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "116",
+      "name": "폭발 펀치",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "썬더판다 전용 스킬. 오른팔을 빙빙 휘두르며 전방에 강렬한 펀치를 퍼붓는다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "79",
+      "name": "트라이 썬더",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Shot",
+      "description": "적의 머리 위에 낙뢰를 3번 일으킨다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 103
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "90",
+      "name": "신출귀몰",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Melee",
+      "description": "썬더콘 전용 스킬. 자신의 주위에 낙뢰를 떨어뜨리면서\r\n적을 향해 돌진한다.",
+      "element_type": "Electricity",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "92",
+      "name": "케라노우스",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "전룡맨 전용 스킬. 뛰어오르며 번개 검을 소환해\r\n적을 향해 내던진다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "102",
+      "name": "번개 일격",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Shot",
+      "description": "자신의 몸을 피뢰침 삼아 번개를 떨어뜨리고 그 자리에 방전 폭발을 일으킨다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "110",
+      "name": "전기 볼트",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다.",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "12",
+      "name": "모래 돌풍",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "끈적거리는 진흙을 적을 향해 발사한다.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "29",
+      "name": "바위 폭발",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "작은 돌멩이들을 무수히 끌어모아 전방으로 발사한다.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "47",
+      "name": "쉘 스핀",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "드릴북이 전용 스킬. 전신을 고속으로 회전하면서 이동한다.\r\n적을 드릴로 깎아 연속으로 피해를 준다.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 200,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "33",
+      "name": "바위 대포",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "바로 앞 지면에서 바위를 뽑아 적을 향해 발사한다.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 35
+        },
+        {
+          "type": "Stun",
+          "value": 20
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "49",
+      "name": "거대한 뿔",
+      "power": 75,
+      "cool_down_time": 11,
+      "category": "Melee",
+      "description": "장수벌레 전용 스킬. 4개의 단단한 뿔로 적을 꿰뚫어 버린다.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "73",
+      "name": "모래 폭풍",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "좌우에 모래 회오리를 일으켜 적에게 날린다.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 65
+        }
+      ],
+      "min_range": 100,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "56",
+      "name": "스핀 레그 러쉬",
+      "power": 100,
+      "cool_down_time": 21,
+      "category": "Melee",
+      "description": "아누비스 전용 스킬. 튼튼한 다리로 돌려차서 광범위한 주변의 상대를 쓰러뜨린다.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "87",
+      "name": "대지 강타",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "그린모스 전용 스킬. 거대한 몸집으로 대지를 진동케 하여\r\n자신을 중심으로 넓은 범위에 피해를 준다.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "78",
+      "name": "포스 드라이브",
+      "power": 120,
+      "cool_down_time": 28,
+      "category": "Melee",
+      "description": "아누비스 전용 스킬. 적을 추격하듯 빠르게 이동해\r\n에너지를 방출하며 강력한 펀치를 퍼붓는다.",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 1500,
+      "max_range": 5000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "99",
+      "name": "그라운드 스매셔",
+      "power": 140,
+      "cool_down_time": 35,
+      "category": "Melee",
+      "description": "아누비스 전용 스킬. 하늘 높이 뛰어올라 지면을 향해 펀치를 날린다.\r\n지면에 충격이 퍼지며 넓은 범위에 피해를 준다.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "108",
+      "name": "바위 창",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "적의 발 밑에 날카로운 바위 창을 불러낸다.",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "13",
+      "name": "용 대포",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "용의 힘이 깃든 에너지 탄환을 적을 향해 발사한다.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "36",
+      "name": "용의 파장",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "재빨리 용의 힘을 방출하여 주위에 충격을 준다.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "57",
+      "name": "용의 숨결",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "용의 힘이 깃든 숨결을 전방에 내뿜어 지속적인 피해를 준다.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "61",
+      "name": "신비의 허리케인",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "실피아 전용 스킬. 신비한 힘이 깃든 회오리 2개를 발사하여\r\n적을 쫓게 한다.",
+      "element_type": "Dragon",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "104",
+      "name": "유성 광선",
+      "power": 140,
+      "cool_down_time": 50,
+      "category": "Shot",
+      "description": "제트래곤 전용 스킬. 날개에서 빛을 뿜으며 적을 향해 날아가는\r\n무수한 광선을 발사한다.\r\n광선은 착탄 시 폭발을 일으킨다.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "109",
+      "name": "용의 운석",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다.",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 45
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "0",
+      "name": "독 안개",
+      "power": 0,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "전방에 독 안개를 만들어 상대를 중독 상태에 빠뜨린다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Poison",
+          "value": 9999
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "8",
+      "name": "Missing...",
+      "power": 20,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 5
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "18",
+      "name": "독 사격",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "독의 힘이 깃든 진흙을 적을 향해 발사한다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Poison",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "27",
+      "name": "암흑구",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "적을 천천히 추적하는 어둠의 구체를 발사한다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "34",
+      "name": "그림자 폭발",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "재빨리 어둠의 힘을 방출하여 주위에 충격을 준다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "39",
+      "name": "팬텀의 공격",
+      "power": 55,
+      "cool_down_time": 7,
+      "category": "Melee",
+      "description": "마스크로우 전용 스킬. 적의 옆으로 순간이동한 뒤\r\n부리로 공격한다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "46",
+      "name": "점프 할퀴기",
+      "power": 55,
+      "cool_down_time": 7,
+      "category": "Melee",
+      "description": "달서니 전용 스킬. 전방으로 뛰어오르며 재빨리 2회 할퀸다.\r\n이 참격엔 어둠 속성의 힘이 깃들어 있다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 400,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "68",
+      "name": "유령의 불꽃",
+      "power": 75,
+      "cool_down_time": 16,
+      "category": "Shot",
+      "description": "집요하게 적을 뒤쫓는 원념을 3개 발사한다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 102
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "71",
+      "name": "어둠의 돌격",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "사라블랙 전용 스킬. 암흑의 화염을 몸에 두른 채 돌진한다.\r\n지나간 자리엔 잔불이 타오른다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "84",
+      "name": "악몽의 구체",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "거대한 어둠의 구슬을 소환해 적을 향해 빠르게 발사한다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 65
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "94",
+      "name": "사이코 그래비티",
+      "power": 110,
+      "cool_down_time": 35,
+      "category": "Shot",
+      "description": "염력으로 주변 적의 자유를 빼앗아 높은 곳에서 땅으로 내던진다.",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XL"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "115",
+      "name": "쌍창 돌격",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Melee",
+      "description": "켄타나이트 전용 스킬. 회오리로 감싼 양손의 창을\r\n좌우 교대로 찌르면서 돌진한다.",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "106",
+      "name": "어둠의 레이저",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "103",
+      "name": "신이 내린 재앙",
+      "power": 160,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "제노그리프 전용 스킬. 돌진하면서 빛의 구체를 내보낸다.\r\n빛의 구체는 적을 자동으로 포착하여 무적의 광선을 발사한다.",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "117",
+      "name": "다크 위스프",
+      "power": 160,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "적을 추적하는 어둠의 구체를 여러 개 발사한다.",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    }
+  ],
+  "passive_skills": [
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {
+        "melee_weapon": true,
+        "armor": true,
+        "accessory": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill2",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {
+        "melee_weapon": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill3",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill4",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill5",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill6",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill7",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "MeleeAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestSkill8",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -20,
+          "target": "To Self"
+        },
+        {
+          "text": "MeleeAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "체력 증가 Lv1",
+      "skill_dev_name": "HP_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "체력 증가 Lv2",
+      "skill_dev_name": "HP_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "체력 증가 Lv3",
+      "skill_dev_name": "HP_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "공격 증가 Lv1",
+      "skill_dev_name": "Attack_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "공격 증가 Lv2",
+      "skill_dev_name": "Attack_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "공격 증가 Lv3",
+      "skill_dev_name": "Attack_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "방어 증가 Lv1",
+      "skill_dev_name": "defense_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "방어 증가 Lv2",
+      "skill_dev_name": "defense_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "방어 증가 Lv3",
+      "skill_dev_name": "defense_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "고속 작업 Lv1",
+      "skill_dev_name": "WorkSpeed_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "고속 작업 Lv2",
+      "skill_dev_name": "WorkSpeed_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "고속 작업 Lv3",
+      "skill_dev_name": "WorkSpeed_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestHoming_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Homing undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestHoming_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Homing undefined",
+          "value": 500,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestExplosive_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Explosive undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "TestExplosive_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Explosive undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "BulletSpeed_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletSpeed undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "BulletSpeed_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletSpeed undefined",
+          "value": 2000,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "RecoilIncrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Recoil undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "RecoilDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Recoil undefined",
+          "value": -90,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "AccuracyIncrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": 90,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "AccuracyDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": -300,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "AccuracySuperDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": -1000,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "장인 기질",
+      "skill_dev_name": "CraftSpeed_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "성실함",
+      "skill_dev_name": "CraftSpeed_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "서투름",
+      "skill_dev_name": "CraftSpeed_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "농땡이치는 버릇",
+      "skill_dev_name": "CraftSpeed_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "MeleeAttack_up2",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "MeleeAttack_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "MeleeAttack_down1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "MeleeAttack_down2",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "ShotAttack_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "ShotAttack_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "ShotAttack_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "ShotAttack_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "억센 육체",
+      "skill_dev_name": "Deffence_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "단단한 피부",
+      "skill_dev_name": "Deffence_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "약한 맷집",
+      "skill_dev_name": "Deffence_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "부실한 뼈",
+      "skill_dev_name": "Deffence_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Support_up2",
+      "rank": 0,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Support_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Support_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Support_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "운동 바보",
+      "skill_dev_name": "Noukin",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 30,
+          "target": "To Self"
+        },
+        {
+          "text": "CraftSpeed undefined",
+          "value": -50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveAFire",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Fire",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveAWater",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Water",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveALeaf",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Leaf",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveAElectricity",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Electricity",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveAIce",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Ice",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveAEarth",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Earth",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveADark",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Dark",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "GiveADragon",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Dragon",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "CollectItem",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "알 생산",
+      "skill_dev_name": "CollectItem_Egg",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "우유 생산",
+      "skill_dev_name": "CollectItem_Milk",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "열매 채집",
+      "skill_dev_name": "CollectItem_Berries",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "과자 생산",
+      "skill_dev_name": "CollectItem_Sweets",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "금화 수집",
+      "skill_dev_name": "CollectItem_Money",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "CollectItem_CuteFox",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "양털 생산",
+      "skill_dev_name": "CollectItem_Wool_Alpaca",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "양털 생산",
+      "skill_dev_name": "CollectItem_Wool_SheepBall",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "비단 짜기",
+      "skill_dev_name": "CollectItem_Wool_WhiteMoth",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Logging_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Logging_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 130,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Logging_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 160,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Logging_up4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Logging_up5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 250,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Logging_up1_Otomo_only",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Logging_up2_Otomo_only",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 220,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mining_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mining_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 130,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mining_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 160,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mining_up4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mining_up5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 250,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mining_up1_Otomo_only",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 300,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mining_up2_Otomo_only",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 500,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "StealExpert_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 100,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "StealExpert_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 150,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "StealExpert_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 200,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "StealExpert_4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 250,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mute_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -50,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mute_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -60,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mute_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -70,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mute_4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -80,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "Mute_5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -90,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "CraftSpeed*3",
+      "rank": 9,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "CraftSpeed*5",
+      "rank": 9,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 400,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "내열 Lv1",
+      "skill_dev_name": "TemperatureResist_Heat1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 1,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "내열 Lv2",
+      "skill_dev_name": "TemperatureResist_Heat2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 2,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "내열 Lv3",
+      "skill_dev_name": "TemperatureResist_Heat3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 3,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "내한 Lv1",
+      "skill_dev_name": "TemperatureResist_Cold1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 1,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "내한 Lv2",
+      "skill_dev_name": "TemperatureResist_Cold2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 2,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "내한 Lv3",
+      "skill_dev_name": "TemperatureResist_Cold3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 3,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "희귀",
+      "skill_dev_name": "Rare",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "rare_pal": true
+      }
+    },
+    {
+      "skill_name": "전설",
+      "skill_dev_name": "Legend",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "MoveSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "최대 소지 중량 증가 Lv1",
+      "skill_dev_name": "MaxInventoryWeight_up",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 50,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "최대 소지 중량 증가 Lv2",
+      "skill_dev_name": "MaxInventoryWeight_up2",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 150,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "최대 소지 중량 증가 Lv3",
+      "skill_dev_name": "MaxInventoryWeight_up3",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 200,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "사나움",
+      "skill_dev_name": "PAL_ALLAttack_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "용감",
+      "skill_dev_name": "PAL_ALLAttack_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "겁쟁이",
+      "skill_dev_name": "PAL_ALLAttack_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "무사주의",
+      "skill_dev_name": "PAL_ALLAttack_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "난폭함",
+      "skill_dev_name": "PAL_rude",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "자만심",
+      "skill_dev_name": "PAL_conceited",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "PAL_SpiritualInst",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "사디스트",
+      "skill_dev_name": "PAL_sadist",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "마조히스트",
+      "skill_dev_name": "PAL_masochist",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "일 노예",
+      "skill_dev_name": "PAL_CorporateSlave",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 30,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "불량배",
+      "skill_dev_name": "PAL_oraora",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "PAL_ElementPassive_Test",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "in_otomo": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "무속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Normal_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "화염 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Fire_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "물 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Aqua_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "번개 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Thunder_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "풀 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Leaf_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "얼음 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Ice_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "땅 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Earth_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "어둠 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Dark_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "용 속성 피해 경감 Lv1",
+      "skill_dev_name": "ElementResist_Dragon_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "무속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Normal_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "화염 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Fire_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "물 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Aqua_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "번개 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Thunder_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "풀 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Leaf_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "얼음 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Ice_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "땅 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Earth_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "어둠 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Dark_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "용 속성 피해 경감 Lv2",
+      "skill_dev_name": "ElementResist_Dragon_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "무속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Normal_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "화염 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Fire_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "물 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Aqua_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "번개 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Thunder_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "풀 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Leaf_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "얼음 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Ice_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "땅 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Earth_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "어둠 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Dark_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "용 속성 피해 경감 Lv3",
+      "skill_dev_name": "ElementResist_Dragon_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "돌격 지휘자",
+      "skill_dev_name": "TrainerATK_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "철옹성의 책사",
+      "skill_dev_name": "TrainerDEF_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "동기 부여",
+      "skill_dev_name": "TrainerWorkSpeed_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "광산 관리자",
+      "skill_dev_name": "TrainerMining_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "벌목 관리자",
+      "skill_dev_name": "TrainerLogging_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "ko_Text",
+      "skill_dev_name": "PAL_TribePassive_Test",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 12,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": 12,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "in_otomo": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "어브노멀",
+      "skill_dev_name": "ElementResist_Normal_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "일광욕 선호",
+      "skill_dev_name": "ElementResist_Fire_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "방수 가공",
+      "skill_dev_name": "ElementResist_Aqua_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "절연체",
+      "skill_dev_name": "ElementResist_Thunder_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "방초 효과",
+      "skill_dev_name": "ElementResist_Leaf_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "고온 체질",
+      "skill_dev_name": "ElementResist_Ice_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "내진 구조",
+      "skill_dev_name": "ElementResist_Earth_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "밝은 성격",
+      "skill_dev_name": "ElementResist_Dark_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "용 학살자",
+      "skill_dev_name": "ElementResist_Dragon_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "무의 경지",
+      "skill_dev_name": "ElementBoost_Normal_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Normal",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "불놀이 선호",
+      "skill_dev_name": "ElementBoost_Fire_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Fire",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "물놀이 선호",
+      "skill_dev_name": "ElementBoost_Aqua_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Water",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "콘덴서",
+      "skill_dev_name": "ElementBoost_Thunder_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Electricity",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "초목의 향기",
+      "skill_dev_name": "ElementBoost_Leaf_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Leaf",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "냉혈",
+      "skill_dev_name": "ElementBoost_Ice_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Ice",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "대지의 힘",
+      "skill_dev_name": "ElementBoost_Earth_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Earth",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "밤의 장막",
+      "skill_dev_name": "ElementBoost_Dark_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Dark",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "용의 혈족",
+      "skill_dev_name": "ElementBoost_Dragon_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Dragon",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "먹보",
+      "skill_dev_name": "PAL_FullStomach_Up_1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "블랙홀 위장",
+      "skill_dev_name": "PAL_FullStomach_Up_2",
+      "rank": -2,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "소식",
+      "skill_dev_name": "PAL_FullStomach_Down_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "식습관의 달인",
+      "skill_dev_name": "PAL_FullStomach_Down_2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "정신 불안정",
+      "skill_dev_name": "PAL_Sanity_Up_1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "파멸 기원",
+      "skill_dev_name": "PAL_Sanity_Up_2",
+      "rank": -2,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "긍정적인 사고",
+      "skill_dev_name": "PAL_Sanity_Down_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "일 중독",
+      "skill_dev_name": "PAL_Sanity_Down_2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "성천",
+      "skill_dev_name": "ElementBoost_Normal_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Normal",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "염제",
+      "skill_dev_name": "ElementBoost_Fire_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Fire",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "해황",
+      "skill_dev_name": "ElementBoost_Aqua_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Water",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "뇌제",
+      "skill_dev_name": "ElementBoost_Thunder_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Electricity",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "정령왕",
+      "skill_dev_name": "ElementBoost_Leaf_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Leaf",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "빙제",
+      "skill_dev_name": "ElementBoost_Ice_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Ice",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "지제",
+      "skill_dev_name": "ElementBoost_Earth_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Earth",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "명왕",
+      "skill_dev_name": "ElementBoost_Dark_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Dark",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "신룡",
+      "skill_dev_name": "ElementBoost_Dragon_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Dragon",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "재빠름",
+      "skill_dev_name": "MoveSpeed_up_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "달리기 왕",
+      "skill_dev_name": "MoveSpeed_up_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "신속",
+      "skill_dev_name": "MoveSpeed_up_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    }
+  ]
+}

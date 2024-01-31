@@ -1,0 +1,5200 @@
+{
+  "active_skills": [
+    {
+      "is_unique_skill": false,
+      "id": "1",
+      "name": "zh-Hant Text",
+      "power": 1,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "製造大範圍的小型波浪， 減緩敵人的速度後，\r\n再以巨大波浪攻擊對方。",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 80
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "4",
+      "name": "zh-Hant Text",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "使水龍捲在前方形成一道牆壁， 並緩慢前進。",
+      "element_type": "Water",
+      "effect_types": [],
+      "min_range": 700,
+      "max_range": 1500,
+      "is_disabled_data": true
+    },
+    {
+      "is_unique_skill": false,
+      "id": "6",
+      "name": "水流射擊",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "朝敵人發射高速水彈。",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "21",
+      "name": "水槍",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "朝攻擊對象發射直線飛行的水彈。",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "51",
+      "name": "泡沫射擊",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "發射大量泡沫， 使其以緩慢速度追趕敵人。",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "76",
+      "name": "酸雨",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "製造出酸性的雲， 在敵人上方降下酸雨。",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "85",
+      "name": "爆裂水球",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "在頭頂製造巨大水球， 並將它砸向敵人。",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "88",
+      "name": "乘風破浪",
+      "power": 100,
+      "cool_down_time": 120,
+      "category": "Melee",
+      "description": "Missing...",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "105",
+      "name": "高壓水炮",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "以驚人氣勢噴出水柱， 橫掃前方大範圍的目標。",
+      "element_type": "Water",
+      "effect_types": [
+        {
+          "type": "Wetness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "NewRow",
+      "name": "威嚇",
+      "power": 1,
+      "cool_down_time": 1,
+      "category": "Shot",
+      "description": "zh-Hant Text",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Stun",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "3",
+      "name": "擊打",
+      "power": 12,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "相信自己的拳頭，出拳攻擊。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 600,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "7",
+      "name": "空氣砲",
+      "power": 25,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "以急速射出空氣團塊。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "15",
+      "name": "皮皮沖雞",
+      "power": 30,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "皮皮雞的專屬技能。 瞄準並撲向敵人，以尖銳的喙突擊對方。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "17",
+      "name": "能量射擊",
+      "power": 35,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "蓄積能量， 將之化作子彈後射出。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 600,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "19",
+      "name": "滾滾毛球",
+      "power": 35,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "棉悠悠的專屬技能。 以翻滾的方式追逐敵人並發動攻擊。\r\n之後會頭昏眼花得無法動彈。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "23",
+      "name": "喵喵拳",
+      "power": 40,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "搗蛋貓的專屬技能。 揮動雙手追逐敵人，\r\n並連續出拳攻擊對方。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "26",
+      "name": "絨毛衝撞",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Melee",
+      "description": "美露帕的專屬技能。 散發出可愛的氣場並朝向前方衝刺。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 300,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "30",
+      "name": "狂野獠牙",
+      "power": 45,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "獵狼的專屬技能。 迅速撲向敵人，以撕咬的方式發動攻擊。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 800,
+      "max_range": 900,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "35",
+      "name": "尖角頂擊",
+      "power": 50,
+      "cool_down_time": 5,
+      "category": "Melee",
+      "description": "紫霞鹿的專屬技能。 衝向敵人，並以犄角猛頂攻擊對方。\r\n如在騎乘時發動此招式，即可操控其前進方向。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "28",
+      "name": "豬突猛進",
+      "power": 55,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "草莽豬的專屬技能。 鎖定敵人後，以兇猛的氣勢撞向對方。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 300,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "32",
+      "name": "滑空爪",
+      "power": 60,
+      "cool_down_time": 8,
+      "category": "Melee",
+      "description": "天擒鳥的專屬技能。 向前伸出腳爪，\r\n以滑翔的姿態猛力衝向目標。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "41",
+      "name": "喵咪撲擊",
+      "power": 60,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "笑魘猫的專屬技能。 帶著無所畏懼的笑容跳起，\r\n再用全身的力量輾壓敵人。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "42",
+      "name": "zh-Hant Text",
+      "power": 60,
+      "cool_down_time": 1,
+      "category": "Shot",
+      "description": "zh-Hant Text",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "65",
+      "name": "龍卷風",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Melee",
+      "description": "疾風隼的專屬技能。 在前方製造出龍捲風後，\r\n以滑翔的姿態衝向敵人。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "59",
+      "name": "元氣彈",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "蓄積大量能量， 將之化作巨大球體後射出。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "55",
+      "name": "鐵山靠",
+      "power": 80,
+      "cool_down_time": 12,
+      "category": "Melee",
+      "description": "連理龍的專用技能。 側身站立，\r\n然後向前猛撞敵人，並將其擊飛。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 400,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "62",
+      "name": "猩猩連打",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "鐵拳猿的專屬技能。 猛擊地面兩次後高高跳起，\r\n再賞給對方強力的一拳。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "63",
+      "name": "陰雲之嵐",
+      "power": 90,
+      "cool_down_time": 15,
+      "category": "Melee",
+      "description": "雲海鹿的專屬技能。 操控大氣，借助風壓向前猛衝。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "83",
+      "name": "zh-Hant Text",
+      "power": 100,
+      "cool_down_time": 2,
+      "category": "Melee",
+      "description": "zh-Hant Text",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Stun",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "86",
+      "name": "Missing...",
+      "power": 100,
+      "cool_down_time": 1,
+      "category": "Melee",
+      "description": "Missing...",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "89",
+      "name": "泰山壓頂",
+      "power": 100,
+      "cool_down_time": 21,
+      "category": "Melee",
+      "description": "君王美露帕的專屬技能。 向上高高跳起後，\r\n用豐滿的龐大身軀輾壓敵人。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "96",
+      "name": "閃槍沖鋒",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Melee",
+      "description": "聖光騎士的專屬技能。 讓神聖的力量覆滿自身，\r\n並以左手持長槍向前衝鋒。\r\n右手的盾牌在衝鋒時能擋下所有攻擊。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "107",
+      "name": "帕魯光束",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "蓄積破壞性的能量， 朝前方大範圍射出極強力的光束。",
+      "element_type": "Normal",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "113",
+      "name": "自爆",
+      "power": 180,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "賭上性命引發爆炸。 使用後會陷入無法戰鬥的狀態。",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "114",
+      "name": "蜂！蜂！蜂！",
+      "power": 200,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "賭上性命引發爆炸。 是種為了榮譽而犧牲自己的技能。",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "118",
+      "name": "超自爆",
+      "power": 250,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "賭上性命引發大規模爆炸。 犧牲自我，化作夜空中閃耀的星星。",
+      "element_type": "Normal",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "5",
+      "name": "風刃",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "瞄準敵人發射直線飛行的極高速風刃。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "22",
+      "name": "種子機關槍",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "射出大量堅硬種子攻擊前方的敵人。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "45",
+      "name": "植物猛擊",
+      "power": 60,
+      "cool_down_time": 8,
+      "category": "Shot",
+      "description": "花冠龍的專屬技能。 以巨大尾巴猛擊前方地面，\r\n藉由衝擊波攻擊大範圍的目標。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 1500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "9",
+      "name": "多重利刃",
+      "power": 60,
+      "cool_down_time": 12,
+      "category": "Shot",
+      "description": "瞄準敵人發射 3發直線飛行的極高速風刃。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "31",
+      "name": "種子地雷",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "發射危險的種子。 種子擊中敵人便會繃裂爆炸。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 800,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "53",
+      "name": "精準狙擊",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "羽箭射手的專屬技能。 拉弓滿弦瞄準敵人，\r\n對敵人射出箭矢。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "54",
+      "name": "迴旋矛",
+      "power": 70,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "女皇蜂的專屬技能。 以法杖聚集力量後，再旋轉法杖來釋放能量。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 600,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "74",
+      "name": "綠野颶風",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "在左右兩側製造出龍捲風， 朝敵人步步進逼。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 65
+        }
+      ],
+      "min_range": 700,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "77",
+      "name": "筋肉重拳",
+      "power": 85,
+      "cool_down_time": 18,
+      "category": "Melee",
+      "description": "葉胖達的專屬技能。 不停轉動右臂，向前方猛力出拳攻擊。",
+      "element_type": "Leaf",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "82",
+      "name": "纏繞地刺",
+      "power": 95,
+      "cool_down_time": 25,
+      "category": "Shot",
+      "description": "地面下的樹根會追逐敵人， 並自下而上刺穿對方。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "112",
+      "name": "太陽光束",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "蓄積太陽的力量， 瞄準敵人射出強大的光束。",
+      "element_type": "Leaf",
+      "effect_types": [
+        {
+          "type": "IvyCling",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "2",
+      "name": "Missing...",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 20
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": true
+    },
+    {
+      "is_unique_skill": false,
+      "id": "43",
+      "name": "冰雪飛彈",
+      "power": 1,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "zh-Hant Text",
+      "element_type": "Ice",
+      "effect_types": [],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "11",
+      "name": "冰雪飛彈",
+      "power": 30,
+      "cool_down_time": 3,
+      "category": "Shot",
+      "description": "在空中製造出尖銳的冰礫， 並將之射向敵人。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 103
+        }
+      ],
+      "min_range": 800,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "40",
+      "name": "冰刃",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "製造出新月型的冰刃， 將之射向前方。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "48",
+      "name": "霜角猛攻",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "嚴冬鹿的專屬技能。 以雄偉的冰角刺穿敵人。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 550,
+      "max_range": 2000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "50",
+      "name": "冰刺",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "在敵人的腳邊製造出銳利的冰刃。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "66",
+      "name": "王者滑擊",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "企丸王的專屬技能。 全身散發寒氣，並採腹部著地之姿滑行，\r\n往敵人的方向用力撞去。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "80",
+      "name": "凜冬之息",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Shot",
+      "description": "朝敵人噴出冰冷空氣， 持續造成對方傷害。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "93",
+      "name": "霜凍爆裂",
+      "power": 100,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "寒霜獸的專屬技能。 舉起前腳猛擊地面，\r\n使雪花於敵人所在處噴出。\r\n噴出時四周更會有雪球傾瀉而下。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "95",
+      "name": "冰晶之翼",
+      "power": 110,
+      "cool_down_time": 24,
+      "category": "Melee",
+      "description": "喚冬獸的專屬技能。 凝結冷空氣，讓翅膀覆上冰晶，\r\n並在全力奔跑的同時以冰翼撕裂敵人。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "98",
+      "name": "鉆石星辰",
+      "power": 130,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "製造巨大冰塊，將它高速砸向敵人。 冰塊命中敵人後，\r\n四周的目標也會受到衝擊波的影響。",
+      "element_type": "Ice",
+      "effect_types": [
+        {
+          "type": "Freeze",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "10",
+      "name": "烈焰射擊",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "瞄準敵人發射直線飛行的火焰彈。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "25",
+      "name": "烈焰濺射",
+      "power": 45,
+      "cool_down_time": 7,
+      "category": "Shot",
+      "description": "朝敵人發射火球。 火球前進一段距離後，\r\n便會裂解為許多小火球。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "38",
+      "name": "熾熱角擊",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "熾焰牛的專屬技能。 鎖定敵人後，\r\n以兇猛氣勢頂著銳利牛角衝向對方。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "44",
+      "name": "烈焰箭",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "連續射出三支鎖定敵人的高速火焰箭矢。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 103
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "81",
+      "name": "居合斬",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "浪刃武士的專屬技能。 擺出迎戰姿勢後瞬間移動至敵人面前，\r\n並使出超高速的拔刀攻擊。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "58",
+      "name": "烈焰放射",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "朝敵人噴出火焰，持續對對方造成傷害。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "70",
+      "name": "獄火爪",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Melee",
+      "description": "炎魔羊的專屬技能。 在接近對象的同時，以左手爪子向上揮擊後跳起，\r\n再用右手爪子多次迅速向下揮砍。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1100,
+      "max_range": 1200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "64",
+      "name": "風林火山",
+      "power": 75,
+      "cool_down_time": 10,
+      "category": "Melee",
+      "description": "蒼焰狼的專屬技能。 帶著纏繞全身的青藍火焰，氣勢洶洶地向前猛衝。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 3500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "75",
+      "name": "烈焰風暴",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "在左右兩側製造出熾熱的龍捲風， 朝敵人步步進逼。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 65
+        }
+      ],
+      "min_range": 700,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "69",
+      "name": "火焰暴衝",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "火麒麟的專屬技能。 帶著纏繞全身的火焰向前猛衝。\r\n途經之處均會留下滾滾火焰。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "91",
+      "name": "火山爆發",
+      "power": 100,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "熔岩獸的專屬技能。 舉起前腳猛擊地面，\r\n使岩漿於敵人所在處噴發。\r\n噴發時四周更會有火山彈傾瀉而下。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "101",
+      "name": "地獄火",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Shot",
+      "description": "活化四周的地面， 並使之在一段時間後爆炸。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "100",
+      "name": "鳳凰翔波",
+      "power": 135,
+      "cool_down_time": 28,
+      "category": "Melee",
+      "description": "荷魯斯的專屬技能。 捲起熾熱的龍捲風，讓地獄之火纏繞身體，\r\n以滑翔的姿態衝向目標。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "111",
+      "name": "烈焰球",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "在頭頂製造巨大火球，並將它射向敵人。 火球命中目標便會爆炸，掀起範圍極廣的氣浪。",
+      "element_type": "Fire",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "72",
+      "name": "十字雷擊",
+      "power": 1,
+      "cool_down_time": 7,
+      "category": "Shot",
+      "description": "製造往兩個方向前進的雷擊， 從左右兩側夾攻敵人。",
+      "element_type": "Electricity",
+      "effect_types": [],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "97",
+      "name": "雷雨",
+      "power": 1,
+      "cool_down_time": 20,
+      "category": "Shot",
+      "description": "召喚雷電， 並於一段時間後製造大量落雷。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 80
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "14",
+      "name": "電火花",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "朝前方目標射出以放射狀散開的雷電球。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "20",
+      "name": "Missing...",
+      "power": 30,
+      "cool_down_time": 8,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 10
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "16",
+      "name": "沖擊波",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "迅速放出電流， 藉由衝擊波攻擊四周的目標。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 103
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "24",
+      "name": "閃電球",
+      "power": 50,
+      "cool_down_time": 9,
+      "category": "Shot",
+      "description": "發射雷電球， 使其以緩慢速度追趕敵人。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "37",
+      "name": "等離子浮游砲",
+      "power": 65,
+      "cool_down_time": 13,
+      "category": "Shot",
+      "description": "製造兩顆帶有雷電能量的球體， 並從中瞄準敵人發射無數雷電球。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "52",
+      "name": "鎖定雷射",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "鎖定敵人後， 朝對方發射極高速的雷電雷射。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "60",
+      "name": "霹靂連爪",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Melee",
+      "description": "暴電熊的專屬技能。 撲向敵人，並以帶有電氣的利爪撕裂對方。\r\n撲向敵人兩次後再將爪子揮向地面，\r\n對大範圍施加電擊。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "67",
+      "name": "雷擊",
+      "power": 75,
+      "cool_down_time": 16,
+      "category": "Shot",
+      "description": "製造沿直線前進的雷擊。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "116",
+      "name": "爆裂拳擊",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "雷胖達的專屬技能。 不停轉動右臂，向前方揮出帶電的一拳。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 700,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "79",
+      "name": "三重雷擊",
+      "power": 90,
+      "cool_down_time": 22,
+      "category": "Shot",
+      "description": "在敵人頭上落下三次落雷。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 103
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "90",
+      "name": "疾風迅雷",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Melee",
+      "description": "雷角馬的專屬技能。 在自己的周圍製造出落雷後，\r\n猛力衝向敵人。",
+      "element_type": "Electricity",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "92",
+      "name": "雷神之槍",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "波魯傑克斯的專屬技能。 向上跳起後召喚雷劍，\r\n將之丟向敵人。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "102",
+      "name": "閃電衝擊",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Shot",
+      "description": "讓自己化作避雷針引來雷電， 並在原地引發閃電爆炸。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "110",
+      "name": "閃電伏特",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "蓄積雷電的力量， 瞄準敵人施加強大的電擊。",
+      "element_type": "Electricity",
+      "effect_types": [
+        {
+          "type": "Electrical",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "12",
+      "name": "泥漿投擲",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "將黏答答的泥巴砸向敵人。",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 50
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "29",
+      "name": "碎石霰彈",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "向前方射出大量的小石頭碎屑。",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "47",
+      "name": "甲殼回旋",
+      "power": 65,
+      "cool_down_time": 9,
+      "category": "Melee",
+      "description": "碎岩龜的專屬技能。 以全身高速旋轉的方式移動，\r\n並以鑽頭刨削敵人，持續造成對方傷害。",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 200,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "33",
+      "name": "投石",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "從眼前的地面挖出岩石， 並將它砸向敵人。",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 35
+        },
+        {
+          "type": "Stun",
+          "value": 20
+        }
+      ],
+      "min_range": 500,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XS"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "49",
+      "name": "終極角擊",
+      "power": 75,
+      "cool_down_time": 11,
+      "category": "Melee",
+      "description": "鎧格力斯的專屬技能。 以四支粗壯的角串起敵人。",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "73",
+      "name": "沙塵旋風",
+      "power": 80,
+      "cool_down_time": 18,
+      "category": "Shot",
+      "description": "在左右兩側製造出沙龍捲， 朝敵人步步進逼。",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 65
+        }
+      ],
+      "min_range": 100,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "56",
+      "name": "迴旋踢擊",
+      "power": 100,
+      "cool_down_time": 21,
+      "category": "Melee",
+      "description": "阿努比斯的專屬技能。 以強壯的腿腳使出大範圍迴旋踢，橫掃四周的目標。",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "87",
+      "name": "地震",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "森猛獁的專屬技能。 以巨大的身軀撼動大地，\r\n對四周大範圍的目標造成傷害。",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "78",
+      "name": "巨力沖鋒",
+      "power": 120,
+      "cool_down_time": 28,
+      "category": "Melee",
+      "description": "阿努比斯的專屬技能。 高速移動追逐敵人，\r\n釋放能量並使出強力拳擊。",
+      "element_type": "Earth",
+      "effect_types": [],
+      "min_range": 1500,
+      "max_range": 5000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "99",
+      "name": "粉碎大地",
+      "power": 140,
+      "cool_down_time": 35,
+      "category": "Melee",
+      "description": "阿努比斯的專屬技能。 高高躍起後，對地面使出猛力一擊。\r\n產生的衝擊波將對大範圍的目標造成傷害。",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 0,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "108",
+      "name": "岩石銳矛",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "在敵人的腳邊 生成尖銳的巖石長矛。",
+      "element_type": "Earth",
+      "effect_types": [
+        {
+          "type": "Muddy",
+          "value": 100
+        }
+      ],
+      "min_range": 100,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "13",
+      "name": "龍息彈",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "將帶有龍之力量的能量彈射向敵人。",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 4000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "36",
+      "name": "龍之波動",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "迅速放出龍之力量， 藉由衝擊波攻擊四周的目標。",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "57",
+      "name": "龍息",
+      "power": 70,
+      "cool_down_time": 15,
+      "category": "Shot",
+      "description": "朝前方噴出帶有龍之力量的氣息， 持續對目標造成傷害。",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "61",
+      "name": "神秘颶風",
+      "power": 70,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "精靈龍的專屬技能。 射出兩股充滿不可思議力量的龍捲風，\r\n以此追擊敵人。",
+      "element_type": "Dragon",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "104",
+      "name": "光束彗星",
+      "power": 140,
+      "cool_down_time": 50,
+      "category": "Shot",
+      "description": "空渦龍的專用技能。 展開發光的翅膀，\r\n並發射大量光束朝敵人飛去。\r\n光束命中目標便會引發爆炸。",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 100
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "109",
+      "name": "龍彗星",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "召喚大量小型隕石， 並使其砸向敵人。",
+      "element_type": "Dragon",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 45
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "0",
+      "name": "毒霧",
+      "power": 0,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "於前方製造毒霧， 使目標陷入中毒狀態。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Poison",
+          "value": 9999
+        }
+      ],
+      "min_range": 0,
+      "max_range": 200,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "8",
+      "name": "Missing...",
+      "power": 20,
+      "cool_down_time": 5,
+      "category": "Shot",
+      "description": "Missing...",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 5
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "18",
+      "name": "劇毒射擊",
+      "power": 30,
+      "cool_down_time": 2,
+      "category": "Shot",
+      "description": "將帶有猛毒力量的爛泥砸向敵人。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Poison",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 3000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "27",
+      "name": "暗黑球",
+      "power": 40,
+      "cool_down_time": 4,
+      "category": "Shot",
+      "description": "發射黑暗球體， 使其以緩慢速度追趕敵人。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 35
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "34",
+      "name": "暗影波動",
+      "power": 55,
+      "cool_down_time": 10,
+      "category": "Shot",
+      "description": "迅速放出黑暗的力量， 藉由衝擊波攻擊四周的目標。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "39",
+      "name": "幻影突襲",
+      "power": 55,
+      "cool_down_time": 7,
+      "category": "Melee",
+      "description": "黑鴉隱士的專屬技能。 瞬間移動至敵人身旁，\r\n再以鳥喙發動攻擊。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 9999,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "46",
+      "name": "飛躍爪擊",
+      "power": 55,
+      "cool_down_time": 7,
+      "category": "Melee",
+      "description": "月鐮魔的專屬技能。 向前一躍，迅速斬下兩擊。\r\n且每次斬擊都充滿了暗屬性的力量。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 400,
+      "max_range": 500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "68",
+      "name": "鬼火",
+      "power": 75,
+      "cool_down_time": 16,
+      "category": "Shot",
+      "description": "發射三團緊追敵人不放的怨念。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Burn",
+          "value": 102
+        }
+      ],
+      "min_range": 500,
+      "max_range": 5000,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "71",
+      "name": "黑炎暴衝",
+      "power": 85,
+      "cool_down_time": 14,
+      "category": "Melee",
+      "description": "邪麒麟的專屬技能。 帶著纏繞全身的黑暗火焰向前猛衝。\r\n途經之處均會留下滾滾火焰。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 50
+        }
+      ],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "84",
+      "name": "惡夢球",
+      "power": 100,
+      "cool_down_time": 30,
+      "category": "Shot",
+      "description": "在頭頂製造大型黑暗球體， 並將它高速砸向敵人。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 65
+        }
+      ],
+      "min_range": 1000,
+      "max_range": 9999,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "94",
+      "name": "念動引力",
+      "power": 110,
+      "cool_down_time": 35,
+      "category": "Shot",
+      "description": "以超能力控制四周的敵人， 將他們從高處猛力摔向地面。",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 300,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "XL"
+    },
+    {
+      "is_unique_skill": true,
+      "id": "115",
+      "name": "雙槍一閃",
+      "power": 120,
+      "cool_down_time": 40,
+      "category": "Melee",
+      "description": "混沌騎士的專屬技能。 左右交替刺出雙臂挾著旋風的長矛，\r\n並朝前方衝刺。",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 1000,
+      "is_disabled_data": false,
+      "force_ragdoll_size": "S"
+    },
+    {
+      "is_unique_skill": false,
+      "id": "106",
+      "name": "暗黑鐳射",
+      "power": 150,
+      "cool_down_time": 55,
+      "category": "Shot",
+      "description": "蓄積黑暗的力量， 瞄準敵人射出強大的光束。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1800,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": true,
+      "id": "103",
+      "name": "神聖災禍",
+      "power": 160,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "異構格里芬的專屬技能。 在向前猛衝的同時製造出光球。\r\n光球會自動捕捉敵人，並射出大量雷射。",
+      "element_type": "Dark",
+      "effect_types": [],
+      "min_range": 0,
+      "max_range": 2500,
+      "is_disabled_data": false
+    },
+    {
+      "is_unique_skill": false,
+      "id": "117",
+      "name": "黑暗之擁",
+      "power": 160,
+      "cool_down_time": 45,
+      "category": "Shot",
+      "description": "發射多個黑暗球體追擊敵人。",
+      "element_type": "Dark",
+      "effect_types": [
+        {
+          "type": "Darkness",
+          "value": 100
+        }
+      ],
+      "min_range": 500,
+      "max_range": 1000,
+      "is_disabled_data": false
+    }
+  ],
+  "passive_skills": [
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {
+        "melee_weapon": true,
+        "armor": true,
+        "accessory": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill2",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {
+        "melee_weapon": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill3",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill4",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill5",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill6",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill7",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "MeleeAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestSkill8",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -20,
+          "target": "To Self"
+        },
+        {
+          "text": "MeleeAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升體力Lv1",
+      "skill_dev_name": "HP_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升體力Lv2",
+      "skill_dev_name": "HP_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升體力Lv3",
+      "skill_dev_name": "HP_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MaxHP undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升攻擊Lv1",
+      "skill_dev_name": "Attack_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升攻擊Lv2",
+      "skill_dev_name": "Attack_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升攻擊Lv3",
+      "skill_dev_name": "Attack_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升防禦Lv1",
+      "skill_dev_name": "defense_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升防禦Lv2",
+      "skill_dev_name": "defense_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升防禦Lv3",
+      "skill_dev_name": "defense_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "高速作業Lv1",
+      "skill_dev_name": "WorkSpeed_ACC_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "高速作業Lv2",
+      "skill_dev_name": "WorkSpeed_ACC_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "高速作業Lv3",
+      "skill_dev_name": "WorkSpeed_ACC_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "worker": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestHoming_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Homing undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestHoming_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Homing undefined",
+          "value": 500,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestExplosive_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Explosive undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "TestExplosive_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Explosive undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "BulletSpeed_L",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletSpeed undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "BulletSpeed_H",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletSpeed undefined",
+          "value": 2000,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "RecoilIncrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Recoil undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "RecoilDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Recoil undefined",
+          "value": -90,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "AccuracyIncrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": 90,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "AccuracyDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": -300,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "AccuracySuperDecrease",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "BulletAccuracy undefined",
+          "value": -1000,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "工匠精神",
+      "skill_dev_name": "CraftSpeed_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "認真",
+      "skill_dev_name": "CraftSpeed_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "笨手笨腳",
+      "skill_dev_name": "CraftSpeed_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "偷懶成癮",
+      "skill_dev_name": "CraftSpeed_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "MeleeAttack_up2",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "MeleeAttack_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "MeleeAttack_down1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "MeleeAttack_down2",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MeleeAttack undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "ShotAttack_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "ShotAttack_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "ShotAttack_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "ShotAttack_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "頑強肉體",
+      "skill_dev_name": "Deffence_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "堅硬皮膚",
+      "skill_dev_name": "Deffence_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "弱不禁風",
+      "skill_dev_name": "Deffence_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "骨質疏松",
+      "skill_dev_name": "Deffence_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Support_up2",
+      "rank": 0,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 5,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Support_up1",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Support_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Support_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "Support undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "腦筋",
+      "skill_dev_name": "Noukin",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 30,
+          "target": "To Self"
+        },
+        {
+          "text": "CraftSpeed undefined",
+          "value": -50,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveAFire",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Fire",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveAWater",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Water",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveALeaf",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Leaf",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveAElectricity",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Electricity",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveAIce",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Ice",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveAEarth",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Earth",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveADark",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Dark",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "GiveADragon",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Dragon",
+          "value": 1,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "CollectItem",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "產蛋",
+      "skill_dev_name": "CollectItem_Egg",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "產牛奶",
+      "skill_dev_name": "CollectItem_Milk",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "摘取莓果",
+      "skill_dev_name": "CollectItem_Berries",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "生產點心",
+      "skill_dev_name": "CollectItem_Sweets",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "招財貓",
+      "skill_dev_name": "CollectItem_Money",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "CollectItem_CuteFox",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "產羊毛",
+      "skill_dev_name": "CollectItem_Wool_Alpaca",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "產羊毛",
+      "skill_dev_name": "CollectItem_Wool_SheepBall",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "絲織",
+      "skill_dev_name": "CollectItem_Wool_WhiteMoth",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CollectItem undefined",
+          "value": 0,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Logging_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Logging_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 130,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Logging_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 160,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Logging_up4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Logging_up5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 250,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Logging_up1_Otomo_only",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Logging_up2_Otomo_only",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 220,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mining_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 100,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mining_up2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 130,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mining_up3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 160,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mining_up4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mining_up5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 250,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mining_up1_Otomo_only",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 300,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mining_up2_Otomo_only",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 500,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "riding": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "StealExpert_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 100,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "StealExpert_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 150,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "StealExpert_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 200,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "StealExpert_4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "GainItemDrop undefined",
+          "value": 250,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mute_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -50,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mute_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -60,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mute_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -70,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mute_4",
+      "rank": 4,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -80,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "Mute_5",
+      "rank": 5,
+      "effects": [
+        {
+          "text": "Mute undefined",
+          "value": -90,
+          "target": "To Self And Trainer"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "CraftSpeed*3",
+      "rank": 9,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 200,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "CraftSpeed*5",
+      "rank": 9,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 400,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "耐暑Lv1",
+      "skill_dev_name": "TemperatureResist_Heat1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 1,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "耐暑Lv2",
+      "skill_dev_name": "TemperatureResist_Heat2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 2,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "耐暑Lv3",
+      "skill_dev_name": "TemperatureResist_Heat3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Temperature Resist Heat",
+          "value": 3,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "耐寒Lv1",
+      "skill_dev_name": "TemperatureResist_Cold1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 1,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "耐寒Lv2",
+      "skill_dev_name": "TemperatureResist_Cold2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 2,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "耐寒Lv3",
+      "skill_dev_name": "TemperatureResist_Cold3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Temperature Resist Cold",
+          "value": 3,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {},
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "稀有",
+      "skill_dev_name": "Rare",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "rare_pal": true
+      }
+    },
+    {
+      "skill_name": "傳說",
+      "skill_dev_name": "Legend",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": 20,
+          "target": "To Self"
+        },
+        {
+          "text": "MoveSpeed undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升負重上限Lv1",
+      "skill_dev_name": "MaxInventoryWeight_up",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 50,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升負重上限Lv2",
+      "skill_dev_name": "MaxInventoryWeight_up2",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 150,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "提升負重上限Lv3",
+      "skill_dev_name": "MaxInventoryWeight_up3",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "MaxInventoryWeight undefined",
+          "value": 200,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "兇猛",
+      "skill_dev_name": "PAL_ALLAttack_up2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "勇敢",
+      "skill_dev_name": "PAL_ALLAttack_up1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "膽小",
+      "skill_dev_name": "PAL_ALLAttack_down1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "消極主義",
+      "skill_dev_name": "PAL_ALLAttack_down2",
+      "rank": -3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": -20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "粗暴",
+      "skill_dev_name": "PAL_rude",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "自戀狂",
+      "skill_dev_name": "PAL_conceited",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "PAL_SpiritualInst",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": -10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "虐待狂",
+      "skill_dev_name": "PAL_sadist",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "受虐狂",
+      "skill_dev_name": "PAL_masochist",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 15,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "社畜",
+      "skill_dev_name": "PAL_CorporateSlave",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 30,
+          "target": "To Self"
+        },
+        {
+          "text": "ShotAttack undefined",
+          "value": -30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "強勢",
+      "skill_dev_name": "PAL_oraora",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "PAL_ElementPassive_Test",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "in_otomo": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕無屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Normal_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕火屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Fire_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕水屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Aqua_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕雷屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Thunder_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕草屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Leaf_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕冰屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Ice_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕地屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Earth_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕暗屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Dark_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕龍屬性傷害Lv1",
+      "skill_dev_name": "ElementResist_Dragon_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕無屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Normal_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕火屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Fire_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕水屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Aqua_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕雷屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Thunder_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕草屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Leaf_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕冰屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Ice_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕地屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Earth_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕暗屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Dark_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕龍屬性傷害Lv2",
+      "skill_dev_name": "ElementResist_Dragon_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 25,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕無屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Normal_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕火屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Fire_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕水屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Aqua_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕雷屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Thunder_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕草屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Leaf_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕冰屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Ice_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕地屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Earth_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕暗屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Dark_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "減輕龍屬性傷害Lv3",
+      "skill_dev_name": "ElementResist_Dragon_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 35,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "突襲指揮官",
+      "skill_dev_name": "TrainerATK_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 10,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "鐵壁軍師",
+      "skill_dev_name": "TrainerDEF_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Defense undefined",
+          "value": 10,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "啦啦隊",
+      "skill_dev_name": "TrainerWorkSpeed_UP_1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "CraftSpeed undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "礦山首領",
+      "skill_dev_name": "TrainerMining_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Mining undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "採伐領袖",
+      "skill_dev_name": "TrainerLogging_up1",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Logging undefined",
+          "value": 25,
+          "target": "To Trainer"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "zh-Hant Text",
+      "skill_dev_name": "PAL_TribePassive_Test",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "ShotAttack undefined",
+          "value": 12,
+          "target": "To Self"
+        },
+        {
+          "text": "Defense undefined",
+          "value": 12,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "in_otomo": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "一反常態",
+      "skill_dev_name": "ElementResist_Normal_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Normal",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "擁抱烈日",
+      "skill_dev_name": "ElementResist_Fire_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Fire",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "防水性能",
+      "skill_dev_name": "ElementResist_Aqua_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Water",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "絕緣體",
+      "skill_dev_name": "ElementResist_Thunder_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Electricity",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "除草效果",
+      "skill_dev_name": "ElementResist_Leaf_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Leaf",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "高溫體質",
+      "skill_dev_name": "ElementResist_Ice_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Ice",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "抗震結構",
+      "skill_dev_name": "ElementResist_Earth_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Earth",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "陽光開朗",
+      "skill_dev_name": "ElementResist_Dark_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dark",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "屠龍者",
+      "skill_dev_name": "ElementResist_Dragon_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Resist Dragon",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "禪境",
+      "skill_dev_name": "ElementBoost_Normal_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Normal",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "喜歡玩火",
+      "skill_dev_name": "ElementBoost_Fire_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Fire",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "喜歡玩水",
+      "skill_dev_name": "ElementBoost_Aqua_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Water",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "電容",
+      "skill_dev_name": "ElementBoost_Thunder_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Electricity",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "草木馨香",
+      "skill_dev_name": "ElementBoost_Leaf_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Leaf",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "冷血",
+      "skill_dev_name": "ElementBoost_Ice_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Ice",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "大地之力",
+      "skill_dev_name": "ElementBoost_Earth_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Earth",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "夜幕",
+      "skill_dev_name": "ElementBoost_Dark_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Dark",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "龍之血脈",
+      "skill_dev_name": "ElementBoost_Dragon_1_PAL",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Element Boost Dragon",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "貪吃",
+      "skill_dev_name": "PAL_FullStomach_Up_1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "無底之胃",
+      "skill_dev_name": "PAL_FullStomach_Up_2",
+      "rank": -2,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "小鳥胃",
+      "skill_dev_name": "PAL_FullStomach_Down_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "節食大師",
+      "skill_dev_name": "PAL_FullStomach_Down_2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "FullStomatch_Decrease undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "情緒不穩",
+      "skill_dev_name": "PAL_Sanity_Up_1",
+      "rank": -1,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "毀滅欲望",
+      "skill_dev_name": "PAL_Sanity_Up_2",
+      "rank": -2,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": 15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "正向思考",
+      "skill_dev_name": "PAL_Sanity_Down_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": -10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "工作狂",
+      "skill_dev_name": "PAL_Sanity_Down_2",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Sanity_Decrease undefined",
+          "value": -15,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "聖天",
+      "skill_dev_name": "ElementBoost_Normal_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Normal",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "炎帝",
+      "skill_dev_name": "ElementBoost_Fire_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Fire",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "海皇",
+      "skill_dev_name": "ElementBoost_Aqua_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Water",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "雷帝",
+      "skill_dev_name": "ElementBoost_Thunder_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Electricity",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "精靈王",
+      "skill_dev_name": "ElementBoost_Leaf_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Leaf",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "冰帝",
+      "skill_dev_name": "ElementBoost_Ice_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Ice",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "岩帝",
+      "skill_dev_name": "ElementBoost_Earth_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Earth",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "冥王",
+      "skill_dev_name": "ElementBoost_Dark_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Dark",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "神龍",
+      "skill_dev_name": "ElementBoost_Dragon_2_PAL",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "Element Boost Dragon",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {}
+    },
+    {
+      "skill_name": "俐落",
+      "skill_dev_name": "MoveSpeed_up_1",
+      "rank": 1,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 10,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "運動健將",
+      "skill_dev_name": "MoveSpeed_up_2",
+      "rank": 2,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 20,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    },
+    {
+      "skill_name": "神速",
+      "skill_dev_name": "MoveSpeed_up_3",
+      "rank": 3,
+      "effects": [
+        {
+          "text": "MoveSpeed undefined",
+          "value": 30,
+          "target": "To Self"
+        }
+      ],
+      "invoked": {
+        "always": true
+      },
+      "passive_adds_to": {
+        "pal": true
+      }
+    }
+  ]
+}

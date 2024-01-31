@@ -1,0 +1,6899 @@
+{
+  "PalSphere": {
+    "dev_name": "PalSphere",
+    "description": "Метательное приспособление для поимки Палов. Массовая модель, действующая только\r\nна Палов низкого уровня.",
+    "name": "Пал-сфера",
+    "creates_amount": 1,
+    "work_required": 300,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Mega": {
+    "dev_name": "PalSphere_Mega",
+    "description": "Метательное приспособление для поимки Палов. Улучшенные характеристики позволяют ловить\r\nПалов различных видов.",
+    "name": "Мегасфера",
+    "creates_amount": 1,
+    "work_required": 1500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 1
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 5
+      }
+    ]
+  },
+  "PalSphere_Giga": {
+    "dev_name": "PalSphere_Giga",
+    "description": "Метательное приспособление для поимки Палов. Позволяет ловить более сильных Палов.",
+    "name": "Гигасфера",
+    "creates_amount": 1,
+    "work_required": 4500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 2
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 2
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 7
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 7
+      }
+    ]
+  },
+  "PalSphere_Tera": {
+    "dev_name": "PalSphere_Tera",
+    "description": "Метательное приспособление для поимки Палов. Позволяет ловить довольно сильных Палов.",
+    "name": "Терасфера",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 3
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Цемент",
+        "amount": 2
+      }
+    ]
+  },
+  "PalSphere_Master": {
+    "dev_name": "PalSphere_Master",
+    "description": "Метательное приспособление для поимки Палов. Лишь немногие Палы могут вырваться из его хватки.",
+    "name": "Ультрасфера",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 5
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 2
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Цемент",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Legend": {
+    "dev_name": "PalSphere_Legend",
+    "description": "Метательное приспособление для поимки Палов. Обладает невероятной эффективностью,\r\nлишь единицы могут вырваться из его хватки.",
+    "name": "Легендарная сфера",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      },
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Цемент",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat": {
+    "dev_name": "Bat",
+    "description": "Возможно, сгодится в качестве ударного оружия против небольших Палов.",
+    "name": "Деревянная бита",
+    "creates_amount": 1,
+    "work_required": 750,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat2": {
+    "dev_name": "Bat2",
+    "description": "Бейсбольная бита, пригодная для боя на ближней дистанции. Сыграть не получится -Палы великоваты для роли мяча.",
+    "name": "Бита",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      }
+    ]
+  },
+  "Torch": {
+    "dev_name": "Torch",
+    "description": "Разместите на базе, чтобы разогнать тьму вокруг.",
+    "name": "Стационарный факел",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 2
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 2
+      }
+    ]
+  },
+  "MeatCutterKnife": {
+    "dev_name": "MeatCutterKnife",
+    "description": "Нож для разделки призванного Пала. Во время использования команда |Погладить| меняется на |Разделать|.\r\nРазделка Палов необратима.",
+    "name": "Нож для резки мяса",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_00": {
+    "dev_name": "Pickaxe_Tier_00",
+    "description": "Кирка для добычи полезных ископаемых. Не слишком эффективна, поскольку сделана из камня.",
+    "name": "Каменная кирка",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_01": {
+    "dev_name": "Pickaxe_Tier_01",
+    "description": "Кирка для добычи полезных ископаемых. Сделана из металла, что увеличивает ее\r\nпрочность и эффективность.",
+    "name": "Металлическая кирка",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_02": {
+    "dev_name": "Pickaxe_Tier_02",
+    "description": "Кирка для добычи полезных ископаемых. Обладает еще большей прочностью и остротой.",
+    "name": "Кирка из рафинированного металла",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 10
+      }
+    ]
+  },
+  "Axe_Tier_00": {
+    "dev_name": "Axe_Tier_00",
+    "description": "Топор для рубки деревьев. Не слишком острый, поскольку сделан из камня.",
+    "name": "Каменный топор",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_01": {
+    "dev_name": "Axe_Tier_01",
+    "description": "Топор для рубки деревьев. Довольно острый, поскольку сделан из металла.",
+    "name": "Металлический топор",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_02": {
+    "dev_name": "Axe_Tier_02",
+    "description": "Топор для рубки деревьев. Очень острый, поскольку сделан\r\nиз высококачественного металла.",
+    "name": "Топор из рафинированного металла",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear": {
+    "dev_name": "Spear",
+    "description": "Копье для ближнего боя. Длина древка позволяет держать дистанцию с противником.",
+    "name": "Каменное копье",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 18
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 6
+      }
+    ]
+  },
+  "Spear_2": {
+    "dev_name": "Spear_2",
+    "description": "Копье для ближнего боя. Сделано из металла, обладает повышенной силой атаки.\r\nДля изготовления требуется ｢Качественный верстак｣.",
+    "name": "Металлическое копье",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 27
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_3": {
+    "dev_name": "Spear_3",
+    "description": "Копье для ближнего боя. Сделано из качественного металла, обладает повышенной силой атаки.\r\nДля изготовления требуется ｢Конвейерная фабрика｣.",
+    "name": "Копье из рафинированного металла",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 36
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 18
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_ForestBoss": {
+    "dev_name": "Spear_ForestBoss",
+    "description": "Излюбленное оружие Лили. Это копье карает тех, кто относится к Палам с пренебрежением.",
+    "name": "Копье Лили",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 20
+      }
+    ]
+  },
+  "ElecBaton": {
+    "dev_name": "ElecBaton",
+    "description": "Оружие ближнего боя, бьющее электрическим током при ударе. Пораженных током Палов становится проще поймать.\r\nДля изготовления требуется ｢Качественный верстак｣.",
+    "name": "Шоковая дубинка",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Электротворный орган",
+        "amount": 20
+      }
+    ]
+  },
+  "Sword": {
+    "dev_name": "Sword",
+    "description": "｢Меч｣ для боя на короткой дистанции. Чем меньше расстояние до врага, тем больше мощь.\r\nДля изготовления требуется ｢Оружейная мастерская｣.",
+    "name": "Меч",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 20
+      }
+    ]
+  },
+  "WeakerBow": {
+    "dev_name": "WeakerBow",
+    "description": "Лук, способный поражать цель с большого расстояния. Довольно ветхий, поэтому обладает небольшой убойной силой.",
+    "name": "Старый лук",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 15
+      }
+    ]
+  },
+  "WeakerBow_2": {
+    "dev_name": "WeakerBow_2",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_2",
+      "name": "Чертеж старого лука 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 60
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 1
+      }
+    ]
+  },
+  "WeakerBow_3": {
+    "dev_name": "WeakerBow_3",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 16000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_3",
+      "name": "Чертеж старого лука 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 90
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 2
+      }
+    ]
+  },
+  "WeakerBow_4": {
+    "dev_name": "WeakerBow_4",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_4",
+      "name": "Чертеж старого лука 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 135
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 22
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 4
+      }
+    ]
+  },
+  "WeakerBow_5": {
+    "dev_name": "WeakerBow_5",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 64000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_5",
+      "name": "Чертеж старого лука 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 202
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 33
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 10
+      }
+    ]
+  },
+  "Bow_Fire": {
+    "dev_name": "Bow_Fire",
+    "description": "Лук, наносящий элементальный урон (Огонь). Поджигает Палов огненными стрелами, после чего их становится проще поймать.\r\nДля выстрела требуется ｢Огненная стрела｣.",
+    "name": "Огненный лук",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Poison": {
+    "dev_name": "Bow_Poison",
+    "description": "Устрашающий лук, отравляющий цель ядом. Отравленных Палов становится проще поймать.\r\nДля выстрела требуется ｢Ядовитая стрела｣.",
+    "name": "Ядовитый лук",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ядовитая железа",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Triple": {
+    "dev_name": "Bow_Triple",
+    "description": "Улучшенный лук, способный выпускать одновременно 3 стрелы. Благодаря его чудесным свойствам для выстрела\r\nтребуется всего одна Стрела.",
+    "name": "Трехзарядный лук",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 12
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      }
+    ]
+  },
+  "BowGun": {
+    "dev_name": "BowGun",
+    "description": "Стреляет без приложения усилий, в качестве снаряда используется ｢Стрела｣. Требует времени для зарядки, но стреляет мощно.\r\nДля изготовления понадобится ｢Качественный верстак｣.",
+    "name": "Арбалет",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Гвоздь",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_2": {
+    "dev_name": "BowGun_2",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_2",
+      "name": "Чертеж арбалета 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 100
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 80
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Гвоздь",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 2
+      }
+    ]
+  },
+  "BowGun_3": {
+    "dev_name": "BowGun_3",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_3",
+      "name": "Чертеж арбалета 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 150
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 120
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Гвоздь",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 4
+      }
+    ]
+  },
+  "BowGun_4": {
+    "dev_name": "BowGun_4",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_4",
+      "name": "Чертеж арбалета 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 225
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 180
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 45
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Гвоздь",
+        "amount": 22
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 6
+      }
+    ]
+  },
+  "BowGun_5": {
+    "dev_name": "BowGun_5",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_5",
+      "name": "Чертеж арбалета 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 337
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 270
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 67
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Гвоздь",
+        "amount": 33
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 12
+      }
+    ]
+  },
+  "BowGun_Fire": {
+    "dev_name": "BowGun_Fire",
+    "description": "Мощное оружие дальнего боя, наносящее элементальный урон (Огонь). Для выстрела требуется ｢Огненная стрела｣.\r\nДля изготовления понадобится ｢Качественный верстак｣.",
+    "name": "Огненный арбалет",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Гвоздь",
+        "amount": 5
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_Poison": {
+    "dev_name": "BowGun_Poison",
+    "description": "Мощное оружие дальнего боя, отравляющее цель. Для выстрела требуется ｢Ядовитая стрела｣.\r\nДля изготовления понадобится ｢Качественный верстак｣.",
+    "name": "Ядовитый арбалет",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Гвоздь",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ядовитая железа",
+        "amount": 5
+      }
+    ]
+  },
+  "Musket": {
+    "dev_name": "Musket",
+    "description": "Старое, неприхотливое ружье. Для выстрела требуется ｢Простой снаряд для оружия: <itemName id=|Musket|/>.｣.\r\nДля изготовления понадобится ｢Оружейная мастерская｣.",
+    "name": "Мушкет",
+    "creates_amount": 1,
+    "work_required": 35000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 25
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 30
+      }
+    ]
+  },
+  "MakeshiftHandgun": {
+    "dev_name": "MakeshiftHandgun",
+    "description": "Самодельный однозарядный пистолет, собранный из подручного хлама. Для выстрела требуется ｢Простой снаряд для оружия: <itemName id=|Musket|/>.｣.\r\nМесто изготовления: ｢Оружейная мастерская｣.",
+    "name": "Дешевый пистолет",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 35
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      }
+    ]
+  },
+  "HandGun_Default": {
+    "dev_name": "HandGun_Default",
+    "description": "Пистолет с улучшенным магазином и скорострельностью. Превосходит Дешевый пистолет по своей огневой мощи.",
+    "name": "Пистолет",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 15
+      }
+    ]
+  },
+  "HandGun_Default_2": {
+    "dev_name": "HandGun_Default_2",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_2",
+      "name": "Чертеж пистолета 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 3
+      }
+    ]
+  },
+  "HandGun_Default_3": {
+    "dev_name": "HandGun_Default_3",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_3",
+      "name": "Чертеж пистолета 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 5
+      }
+    ]
+  },
+  "HandGun_Default_4": {
+    "dev_name": "HandGun_Default_4",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_4",
+      "name": "Чертеж пистолета 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 7
+      }
+    ]
+  },
+  "HandGun_Default_5": {
+    "dev_name": "HandGun_Default_5",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_5",
+      "name": "Чертеж пистолета 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 14
+      }
+    ]
+  },
+  "SingleShotRifle": {
+    "dev_name": "SingleShotRifle",
+    "description": "Однозарядная винтовка. Несмотря на малый размер обоймы стреляет мощно.",
+    "name": "Однозарядная винтовка",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 5
+      }
+    ]
+  },
+  "DoubleBarrelShotgun": {
+    "dev_name": "DoubleBarrelShotgun",
+    "description": "Эффективное в бою на короткой дистанции ружье. Обладает высокой огневой мощью, однако размер\r\nобоймы невелик.",
+    "name": "Двухствольное ружье",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 7
+      }
+    ]
+  },
+  "AssaultRifle_Default1": {
+    "dev_name": "AssaultRifle_Default1",
+    "description": "Штурмовая винтовка для ведения боя на расстоянии. Обладает высокой скорострельностью и идеально\r\nподходит для сражений с сильными противниками.",
+    "name": "Штурмовая винтовка",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 40
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 10
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 30
+      }
+    ]
+  },
+  "AssaultRifle_Default2": {
+    "dev_name": "AssaultRifle_Default2",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default2",
+      "name": "Чертеж штурмовой винтовки 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 80
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 5
+      }
+    ]
+  },
+  "AssaultRifle_Default3": {
+    "dev_name": "AssaultRifle_Default3",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default3",
+      "name": "Чертеж штурмовой винтовки 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 90
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 10
+      }
+    ]
+  },
+  "AssaultRifle_Default4": {
+    "dev_name": "AssaultRifle_Default4",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default4",
+      "name": "Чертеж штурмовой винтовки 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 180
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 45
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 135
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 20
+      }
+    ]
+  },
+  "AssaultRifle_Default5": {
+    "dev_name": "AssaultRifle_Default5",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 3200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default5",
+      "name": "Чертеж штурмовой винтовки 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 270
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 67
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 202
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 30
+      }
+    ]
+  },
+  "PumpActionShotgun": {
+    "dev_name": "PumpActionShotgun",
+    "description": "Эффективность этого ружья повышена благодаря увеличенной обойме.\r\nНаносит наибольший урон на короткой дистанции.",
+    "name": "Помповое ружье",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 40
+      }
+    ]
+  },
+  "PumpActionShotgun_2": {
+    "dev_name": "PumpActionShotgun_2",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_2",
+      "name": "Чертеж помпового ружья 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 60
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 40
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 5
+      }
+    ]
+  },
+  "PumpActionShotgun_3": {
+    "dev_name": "PumpActionShotgun_3",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 960000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_3",
+      "name": "Чертеж помпового ружья 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 90
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 120
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 10
+      }
+    ]
+  },
+  "PumpActionShotgun_4": {
+    "dev_name": "PumpActionShotgun_4",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 1920000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_4",
+      "name": "Чертеж помпового ружья 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 135
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 180
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 20
+      }
+    ]
+  },
+  "PumpActionShotgun_5": {
+    "dev_name": "PumpActionShotgun_5",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 3840000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_5",
+      "name": "Чертеж помпового ружья 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 202
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 270
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default": {
+    "dev_name": "Launcher_Default",
+    "description": "Ракетница. Может бомбить противника мощными\r\nснарядами с большого расстояния.",
+    "name": "Ракетница",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 75
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 50
+      }
+    ]
+  },
+  "Launcher_Default_2": {
+    "dev_name": "Launcher_Default_2",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 1200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_2",
+      "name": "Чертеж ракетницы 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 150
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 10
+      }
+    ]
+  },
+  "Launcher_Default_3": {
+    "dev_name": "Launcher_Default_3",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 2400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_3",
+      "name": "Чертеж ракетницы 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 225
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 20
+      }
+    ]
+  },
+  "Launcher_Default_4": {
+    "dev_name": "Launcher_Default_4",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 4800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_4",
+      "name": "Чертеж ракетницы 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 337
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default_5": {
+    "dev_name": "Launcher_Default_5",
+    "description": "ru_Text",
+    "name": "ru_Text",
+    "creates_amount": 1,
+    "work_required": 9600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_5",
+      "name": "Чертеж ракетницы 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 505
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 202
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 40
+      }
+    ]
+  },
+  "HomingSphereLauncher": {
+    "dev_name": "HomingSphereLauncher",
+    "description": "Пусковая установка для стрельбы сферами. Выпущенные сферы преследуют Палов.",
+    "name": "Самонаводящийся сферомёт",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 200
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 20
+      }
+    ]
+  },
+  "SphereLauncher": {
+    "dev_name": "SphereLauncher",
+    "description": "Сферомёт новой модели, способный выпускать несколько сфер одновременно.\r\nМожно использовать для поимки группы Палов.",
+    "name": "Рассеивающий сферомёт",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 10
+      }
+    ]
+  },
+  "SphereLauncher_Once": {
+    "dev_name": "SphereLauncher_Once",
+    "description": "Сферомёт для выпуска сфер. Дистанция поимки Палов увеличена.",
+    "name": "Прицельный сферомёт",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 5
+      }
+    ]
+  },
+  "DecalGun_1": {
+    "dev_name": "DecalGun_1",
+    "description": "Удивительное ружье, рисующее в месте попадания Пала Каттива. Развлекайтесь, рисуя на полу и стенах.",
+    "name": "Граффити-ружье 1",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_2": {
+    "dev_name": "DecalGun_2",
+    "description": "Удивительное ружье, рисующее в месте попадания Пала Ламболл. Развлекайтесь, рисуя на полу и стенах.",
+    "name": "Граффити-ружье 2",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_3": {
+    "dev_name": "DecalGun_3",
+    "description": "Удивительное ружье, рисующее в месте попадания Пала Мелпака. Развлекайтесь, рисуя на полу и стенах.",
+    "name": "Граффити-ружье 3",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_4": {
+    "dev_name": "DecalGun_4",
+    "description": "Удивительное ружье, рисующее в месте попадания Пала Анубис. Развлекайтесь, рисуя на полу и стенах.",
+    "name": "Граффити-ружье 4",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_5": {
+    "dev_name": "DecalGun_5",
+    "description": "Удивительное ружье, рисующее в месте попадания Пала Релаксаурус. Развлекайтесь, рисуя на полу и стенах.",
+    "name": "Граффити-ружье 5",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 3
+      }
+    ]
+  },
+  "GrapplingGun_1": {
+    "dev_name": "GrapplingGun_1",
+    "description": "ru_Text",
+    "name": "Пистолет-гарпун",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 1
+      }
+    ]
+  },
+  "GrapplingGun_2": {
+    "dev_name": "GrapplingGun_2",
+    "description": "ru_Text",
+    "name": "Мегапистолет-гарпун",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 4
+      }
+    ]
+  },
+  "GrapplingGun_3": {
+    "dev_name": "GrapplingGun_3",
+    "description": "ru_Text",
+    "name": "Гигапистолет-гарпун",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 8
+      }
+    ]
+  },
+  "GrapplingGun_4": {
+    "dev_name": "GrapplingGun_4",
+    "description": "ru_Text",
+    "name": "Мощный пистолет-гарпун",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 15
+      }
+    ]
+  },
+  "FragGrenade": {
+    "dev_name": "FragGrenade",
+    "description": "ru_Text",
+    "name": "Осколочная граната",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Порох",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Fire": {
+    "dev_name": "FragGrenade_Fire",
+    "description": "Зажигательная бомба для боя на средней дистанции. При попадании воспламеняет область вокруг.",
+    "name": "Зажигательная бомба",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Elec": {
+    "dev_name": "FragGrenade_Elec",
+    "description": "Шоковая граната для боя на средней дистанции. При попадании поражает током область вокруг.",
+    "name": "Шоковая граната",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Электротворный орган",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Ice": {
+    "dev_name": "FragGrenade_Ice",
+    "description": "Морозная граната для боя на средней дистанции. При попадании замораживает область вокруг.",
+    "name": "Морозная граната",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 1
+      }
+    ]
+  },
+  "ClothArmor": {
+    "dev_name": "ClothArmor",
+    "description": "Одежда, для пошива которой используется Ткань. Защищает от ночного холода.",
+    "name": "Тканая одежда",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorHeat": {
+    "dev_name": "ClothArmorHeat",
+    "description": "Тканая одежда из региона с жарким климатом. Помогает легче переносить жару.",
+    "name": "Национальный костюм жарких регионов",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorCold": {
+    "dev_name": "ClothArmorCold",
+    "description": "Тканая одежда из региона с холодным климатом. Помогает легче переносить морозы.",
+    "name": "Национальный костюм холодных регионов",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 2
+      }
+    ]
+  },
+  "FurArmor": {
+    "dev_name": "FurArmor",
+    "description": "Доспех, для изготовления которого используется Кожа.\r\nДовольно теплый и дает хорошую защиту.I th",
+    "name": "Меховая броня",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      }
+    ]
+  },
+  "FurArmorHeat": {
+    "dev_name": "FurArmorHeat",
+    "description": "Меховая броня из региона с жарким климатом. Помогает легче переносить жару.",
+    "name": "Меховая броня защиты от жара",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 4
+      }
+    ]
+  },
+  "FurArmorCold": {
+    "dev_name": "FurArmorCold",
+    "description": "Меховая броня из региона с холодным климатом. Помогает легче переносить морозы.",
+    "name": "Меховая броня защиты от холода",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 15
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 4
+      }
+    ]
+  },
+  "CopperArmor": {
+    "dev_name": "CopperArmor",
+    "description": "Изготовленный из металла доспех. Средний уровень защиты, средний вес.",
+    "name": "Металлическая броня",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperArmorHeat": {
+    "dev_name": "CopperArmorHeat",
+    "description": "Металлическая броня с улучшенными характеристиками. Отлично защищает от высоких температур.",
+    "name": "Металлическая броня защиты от жара",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 8
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 8
+      }
+    ]
+  },
+  "CopperArmorCold": {
+    "dev_name": "CopperArmorCold",
+    "description": "Металлическая броня с улучшенными характеристиками. Незаменимая вещь в холодных регионах.",
+    "name": "Металлическая броня защиты от холода",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 8
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 8
+      }
+    ]
+  },
+  "IronArmor": {
+    "dev_name": "IronArmor",
+    "description": "Доспех из качественного металла. Тяжелый, но дает отличную защиту.",
+    "name": "Броня из рафинированного металла",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 15
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 2
+      }
+    ]
+  },
+  "IronArmorHeat": {
+    "dev_name": "IronArmorHeat",
+    "description": "Броня из рафинированного металла с улучшенными характеристиками. Отлично защищает от высоких температур.",
+    "name": "Броня из рафинированного металла с защитой от жара",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 12
+      }
+    ]
+  },
+  "IronArmorCold": {
+    "dev_name": "IronArmorCold",
+    "description": "Броня из рафинированного металла с улучшенными характеристиками. Незаменимая вещь в холодных регионах.",
+    "name": "Броня из рафинированного металла с защитой от холода",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 12
+      }
+    ]
+  },
+  "StealArmor": {
+    "dev_name": "StealArmor",
+    "description": "Для изготовления этого доспеха используется Слиток палания. Обладает невероятной защитой, но весит очень много.\r\nНастоящее снаряжение для героя, придающее мужества.",
+    "name": "Паланиумная броня",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 4
+      }
+    ]
+  },
+  "StealArmorHeat": {
+    "dev_name": "StealArmorHeat",
+    "description": "Паланиумная броня с улучшенными характеристиками. Отлично защищает от высоких температур.",
+    "name": "Металлическая броня защиты от жара для Палов",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 6
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 16
+      }
+    ]
+  },
+  "StealArmorCold": {
+    "dev_name": "StealArmorCold",
+    "description": "Паланиумная броня с улучшенными характеристиками. Незаменимая вещь в холодных регионах.",
+    "name": "Металлическая броня защиты от холода для Палов",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 16
+      }
+    ]
+  },
+  "FurHelmet": {
+    "dev_name": "FurHelmet",
+    "description": "Красивые серьги с перьями. Кажется, будто они защищают владельца\r\nот смертельных ранений в голову.",
+    "name": "Украшение с перьями",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperHelmet": {
+    "dev_name": "CopperHelmet",
+    "description": "Изготовленный из металла шлем. Верное и надежное снаряжение, защищающее ваши мысли.",
+    "name": "Металлический шлем",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "IronHelmet": {
+    "dev_name": "IronHelmet",
+    "description": "Шлем, выполненный из качественного металла. Блеск его тщательно отполированной поверхности\r\nдает ощущение собственной важности.",
+    "name": "Шлем из рафинированного металла",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      }
+    ]
+  },
+  "StealHelmet": {
+    "dev_name": "StealHelmet",
+    "description": "Для изготовления этого шлема используется Слиток палания. Качество всем на зависть, знак избранного воина.",
+    "name": "Паланиумный шлем",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "Arrow": {
+    "dev_name": "Arrow",
+    "description": "Снаряд для оружия (Старый лук). Для изготовления требуется ｢Примитивный верстак｣.",
+    "name": "Стрела",
+    "creates_amount": 3,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 1
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Fire": {
+    "dev_name": "Arrow_Fire",
+    "description": "Снаряд для оружия (Огненный лук). Для изготовления требуется ｢Примитивный верстак｣.",
+    "name": "Огненная стрела",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Poison": {
+    "dev_name": "Arrow_Poison",
+    "description": "Снаряд для оружия (Ядовитый лук). Для изготовления требуется ｢Примитивный верстак｣.",
+    "name": "Ядовитая стрела",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 3
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ядовитая железа",
+        "amount": 1
+      }
+    ]
+  },
+  "RoughBullet": {
+    "dev_name": "RoughBullet",
+    "description": "Снаряд для оружия: [Мушкет], [Дешевый пистолет]. Для изготовления требуется [Оружейная мастерская].",
+    "name": "Простой снаряд для оружия: <itemName id=|Musket|/>.",
+    "creates_amount": 10,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Порох",
+        "amount": 1
+      }
+    ]
+  },
+  "HandgunBullet": {
+    "dev_name": "HandgunBullet",
+    "description": "Снаряд для оружия: Пистолет. Для изготовления требуется ｢Оружейная мастерская｣.",
+    "name": "Патрон для пистолета",
+    "creates_amount": 5,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Порох",
+        "amount": 1
+      }
+    ]
+  },
+  "RifleBullet": {
+    "dev_name": "RifleBullet",
+    "description": "Позволяет создавать 「Патрон для винтовки」. Место изготовления: ｢Оружейная мастерская｣.",
+    "name": "Патрон для винтовки",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Порох",
+        "amount": 2
+      }
+    ]
+  },
+  "ShotgunBullet": {
+    "dev_name": "ShotgunBullet",
+    "description": "Позволяет создавать 「Ружейный патрон」. Место изготовления: ｢Оружейная мастерская｣.",
+    "name": "Ружейный патрон",
+    "creates_amount": 5,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Порох",
+        "amount": 3
+      }
+    ]
+  },
+  "AssaultRifleBullet": {
+    "dev_name": "AssaultRifleBullet",
+    "description": "Снаряд для оружия: [Штурмовая винтовка]. Для изготовления требуется [Конвейерная фабрика оружия].",
+    "name": "Снаряд для оружия: <itemName id=|AssaultRifle|/>.",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Порох",
+        "amount": 2
+      }
+    ]
+  },
+  "ExplosiveBullet": {
+    "dev_name": "ExplosiveBullet",
+    "description": "Снаряд для оружия: Ракетница.",
+    "name": "Ракетный снаряд",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Слиток палания",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Порох",
+        "amount": 5
+      }
+    ]
+  },
+  "InkBullet": {
+    "dev_name": "InkBullet",
+    "description": "Патрон для граффити-ружья. Содержит чернила для рисования Палов.",
+    "name": "Чернила для граффити",
+    "creates_amount": 10,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 1
+      }
+    ]
+  },
+  "Shield_01": {
+    "dev_name": "Shield_01",
+    "description": "Удивительный щит, продукт палзиумных технологий. Автоматически восстанавливается, если какое-то время не получает урон.",
+    "name": "Обыкновенный щит",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      }
+    ]
+  },
+  "Shield_02": {
+    "dev_name": "Shield_02",
+    "description": "Удивительный щит, продукт палзиумных технологий. Защита увеличена благодаря доработке опытного образца.\r\nМесто изготовления: ｢Качественный верстак｣.",
+    "name": "Мегащит",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      }
+    ]
+  },
+  "Shield_03": {
+    "dev_name": "Shield_03",
+    "description": "Удивительный щит, продукт палзиумных технологий. Усовершенствованная модель, обладающая улучшенными характеристиками.\r\nМесто изготовления: ｢Конвейерная фабрика｣.",
+    "name": "Гигащит",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 50
+      }
+    ]
+  },
+  "Shield_04": {
+    "dev_name": "Shield_04",
+    "description": "Удивительный щит, продукт палзиумных технологий. Образец качества, полученный в результате многочисленных испытаний.\r\nМесто изготовления: ｢Конвейерная фабрика II｣.",
+    "name": "Теращит",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 100
+      }
+    ]
+  },
+  "Glider_Old": {
+    "dev_name": "Glider_Old",
+    "description": "Глайдер для планирования. Простая конструкция не позволяет развить высокую скорость.",
+    "name": "Стандартный парашют",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 2
+      }
+    ]
+  },
+  "Glider_Good": {
+    "dev_name": "Glider_Good",
+    "description": "Глайдер для планирования. Массовая модель, развивающая среднюю скорость.",
+    "name": "Мегаглайдер",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 20
+      }
+    ]
+  },
+  "Glider_Super": {
+    "dev_name": "Glider_Super",
+    "description": "Глайдер для планирования. Улучшенная модель, позволяют развивать приличную скорость.",
+    "name": "Гигаглайдер",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 100
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Качественная ткань",
+        "amount": 10
+      }
+    ]
+  },
+  "Lantern": {
+    "dev_name": "Lantern",
+    "description": "ru_Text",
+    "name": "Поясной фонарь",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Деталь древней цивилизации",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier1": {
+    "dev_name": "AutoMealPouch_Tier1",
+    "description": "ru_Text",
+    "name": "Небольшой пакет с кормом",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 3
+      }
+    ]
+  },
+  "AutoMealPouch_Tier2": {
+    "dev_name": "AutoMealPouch_Tier2",
+    "description": "ru_Text",
+    "name": "Средний пакет с кормом",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier3": {
+    "dev_name": "AutoMealPouch_Tier3",
+    "description": "ru_Text",
+    "name": "Большой пакет с кормом",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 50
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      }
+    ]
+  },
+  "AutoMealPouch_Tier4": {
+    "dev_name": "AutoMealPouch_Tier4",
+    "description": "ru_Text",
+    "name": "Огромный пакет с кормом",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 90
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 35
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier5": {
+    "dev_name": "AutoMealPouch_Tier5",
+    "description": "ru_Text",
+    "name": "Гигантский пакет с кормом",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 200
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Углеродное волокно",
+        "amount": 20
+      }
+    ]
+  },
+  "Cloth": {
+    "dev_name": "Cloth",
+    "description": "Ткань, для создания которой используется Шерсть. Требуется для создания снаряжения.",
+    "name": "Ткань",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "Шерсть",
+        "amount": 2
+      }
+    ]
+  },
+  "Cloth2": {
+    "dev_name": "Cloth2",
+    "description": "Для прядения этой ткани используется ｢Шерсть｣ в большом количестве. Требуется для создания качественного снаряжения.\r\nМесто изготовления: ｢Качественный верстак｣.",
+    "name": "Качественная ткань",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "Шерсть",
+        "amount": 10
+      }
+    ]
+  },
+  "Gunpowder2": {
+    "dev_name": "Gunpowder2",
+    "description": "｢Порох｣ для стрельбы из огнестрельного оружия. Требуется для создания снарядов.\r\nМесто изготовления: ｢Качественный верстак｣.",
+    "name": "Порох",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Charcoal",
+        "name": "Древесный уголь",
+        "amount": 2
+      },
+      {
+        "dev_name": "Sulfur",
+        "name": "Сера",
+        "amount": 1
+      }
+    ]
+  },
+  "Charcoal": {
+    "dev_name": "Charcoal",
+    "description": "Образуется при сжигании древесины. Соединив Древесный уголь и Сера,\r\nможно получить Порох.",
+    "name": "Древесный уголь",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 2
+      }
+    ]
+  },
+  "MachineParts": {
+    "dev_name": "MachineParts",
+    "description": "ru_Text",
+    "name": "Гвоздь",
+    "creates_amount": 2,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 1
+      }
+    ]
+  },
+  "MachineParts2": {
+    "dev_name": "MachineParts2",
+    "description": "｢Электрическая плата｣ для создания точных приборов. Место изготовления: ｢Конвейерная фабрика｣.",
+    "name": "Электрическая плата",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Quartz",
+        "name": "Чистый кварц",
+        "amount": 4
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 2
+      }
+    ]
+  },
+  "Polymer": {
+    "dev_name": "Polymer",
+    "description": "ru_Text",
+    "name": "Полимер",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 2
+      }
+    ]
+  },
+  "Cement": {
+    "dev_name": "Cement",
+    "description": "ru_Text",
+    "name": "Цемент",
+    "creates_amount": 10,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 1
+      }
+    ]
+  },
+  "CarbonFiber": {
+    "dev_name": "CarbonFiber",
+    "description": "ru_Text",
+    "name": "Углеродное волокно",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Coal",
+        "name": "Уголь",
+        "amount": 2
+      }
+    ]
+  },
+  "RepairKit": {
+    "dev_name": "RepairKit",
+    "description": "Инструменты для ремонта зданий. Используются на поврежденных постройках.",
+    "name": "Ремонтный набор",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperIngot": {
+    "dev_name": "CopperIngot",
+    "description": "Материал для изготовления оружия и снаряжения из металла.\r\nМожно получить, обработав в печи Металлическая руда.",
+    "name": "Металлический слиток",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Металлическая руда",
+        "amount": 2
+      }
+    ]
+  },
+  "IronIngot": {
+    "dev_name": "IronIngot",
+    "description": "Материал для изготовления оружия и снаряжения из качественного металла. Создается в печи, для этого требуется Металлическая руда и Уголь.",
+    "name": "Слиток рафинированного металла",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Металлическая руда",
+        "amount": 2
+      },
+      {
+        "dev_name": "Coal",
+        "name": "Уголь",
+        "amount": 2
+      }
+    ]
+  },
+  "StealIngot": {
+    "dev_name": "StealIngot",
+    "description": "Материал для изготовления оружия и снаряжения из палания. Сплав металла и палзиума, обладающий повышенной прочностью.",
+    "name": "Слиток палания",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Металлическая руда",
+        "amount": 4
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 2
+      }
+    ]
+  },
+  "Herbs": {
+    "dev_name": "Herbs",
+    "description": "Медикаменты низкого качества для лечения простуды и суставов. Не восстанавливает здоровье даже при поедании.",
+    "name": "Медикаменты низкого качества",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 2
+      }
+    ]
+  },
+  "Medicines": {
+    "dev_name": "Medicines",
+    "description": "Чудесное Медикаменты, эффективное против следующих состояний: Язва желудка, Перелом. Не восстанавливает здоровье.",
+    "name": "Медикаменты",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 1
+      }
+    ]
+  },
+  "LuxuryMedicines": {
+    "dev_name": "LuxuryMedicines",
+    "description": "Качественные медикаменты, эффективное против следующих состояний: Слабость, Депрессия. Не восстанавливает здоровье.",
+    "name": "Качественные медикаменты",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 2
+      }
+    ]
+  },
+  "MindControlDrug": {
+    "dev_name": "MindControlDrug",
+    "description": "Препарат для психоконтроля — действенное средство, способное справиться даже с бунтарями. Не восстанавливает здоровье.",
+    "name": "Препарат для психоконтроля",
+    "creates_amount": 1,
+    "work_required": 1000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 10
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 3
+      }
+    ]
+  },
+  "Opium": {
+    "dev_name": "Opium",
+    "description": "Улучшающий настроение сок. На некоторое время после употребления неплохо повышает скорость работы,\r\nно снижает показатель рассудка.",
+    "name": "Подозрительный сок",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Красивый цветок",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 1
+      }
+    ]
+  },
+  "Narcotic": {
+    "dev_name": "Narcotic",
+    "description": "Значительно улучшающий настроение сок. На некоторое время после употребления заметно повышает скорость работы,\r\nно сильно снижает показатель рассудка.",
+    "name": "Странный сок",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Красивый цветок",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 2
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 2
+      }
+    ]
+  },
+  "StatusPointResetSan": {
+    "dev_name": "StatusPointResetSan",
+    "description": "Выпив это снадобье, можно сбросить очки характеристик персонажа.\r\nНа Палов не оказывает никакого эффекта.",
+    "name": "Снадобье очистки памяти",
+    "creates_amount": 1,
+    "work_required": 3000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Красивый цветок",
+        "amount": 99
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Кость",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 50
+      }
+    ]
+  },
+  "Fiber": {
+    "dev_name": "Fiber",
+    "description": "Древесное волокно. Используется как материал для изготовления луков.",
+    "name": "Волокно",
+    "creates_amount": 2,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 1
+      }
+    ]
+  },
+  "Pal_crystal_S": {
+    "dev_name": "Pal_crystal_S",
+    "description": "Кристаллизованная энергия Мирового Древа. Используется для создания сверхъестественных предметов и\r\nдля строительства.",
+    "name": "Осколок палзиума",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 5
+      }
+    ]
+  },
+  "BerrySeeds": {
+    "dev_name": "BerrySeeds",
+    "description": "Посадите, чтобы получить урожай (Красная ягода). Требуется при создании плантации.\r\nМожно получить, собирая ягоды.",
+    "name": "Семена ягод",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      }
+    ]
+  },
+  "TomatoSeeds": {
+    "dev_name": "TomatoSeeds",
+    "description": "Посадите, чтобы получить урожай (Помидор). Требуется при создании плантации.\r\nМожно приобрести у торговца.",
+    "name": "Семена помидоров",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "Помидор",
+        "amount": 2
+      }
+    ]
+  },
+  "LettuceSeeds": {
+    "dev_name": "LettuceSeeds",
+    "description": "Посадите, чтобы получить урожай (Латук). Требуется при создании плантации.\r\nМожно приобрести у торговца.",
+    "name": "Семена салата",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "Латук",
+        "amount": 2
+      }
+    ]
+  },
+  "WheatSeeds": {
+    "dev_name": "WheatSeeds",
+    "description": "Посадите, чтобы получить урожай (Пшеница). Требуется при создании плантации.\r\nМожно приобрести у торговца.",
+    "name": "Семена пшеницы",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "Пшеница",
+        "amount": 2
+      }
+    ]
+  },
+  "Flour": {
+    "dev_name": "Flour",
+    "description": "Пшеничная Пшеничная мука. Из нее можно испечь Хлеб.",
+    "name": "Пшеничная мука",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "Пшеница",
+        "amount": 3
+      }
+    ]
+  },
+  "Baked_Berries": {
+    "dev_name": "Baked_Berries",
+    "description": "Обладает повышенной питательностью благодаря обжарке.\r\nНа удивление часто вызывает вздутие живота.",
+    "name": "Жареная ягода",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMushroom": {
+    "dev_name": "BakedMushroom",
+    "description": "Обладает повышенной питательностью благодаря обжарке. На удивление часто вызывает вздутие живота.",
+    "name": "Жареный гриб",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Гриб",
+        "amount": 1
+      }
+    ]
+  },
+  "Pan": {
+    "dev_name": "Pan",
+    "description": "Для приготовления используется Пшеничная мука. Вкусная основа ежедневного рациона.",
+    "name": "Хлеб",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      }
+    ]
+  },
+  "FriedEggs": {
+    "dev_name": "FriedEggs",
+    "description": "Яйцо становится еще вкуснее в жареном виде. На удивление часто вызывает вздутие живота.",
+    "name": "Яичница",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 1
+      }
+    ]
+  },
+  "HotMilk": {
+    "dev_name": "HotMilk",
+    "description": "Стало еще вкуснее в подогретом виде. На удивление часто вызывает вздутие живота.",
+    "name": "Горячее молоко",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 1
+      }
+    ]
+  },
+  "JamBun": {
+    "dev_name": "JamBun",
+    "description": "Хлеб с вареньем. Сладость ягод отлично дополняет вкус хлеба.",
+    "name": "Хлеб с вареньем",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      }
+    ]
+  },
+  "Pancake": {
+    "dev_name": "Pancake",
+    "description": "Состав этого блюда — Пшеничная мука и Молоко. На некоторое время после еды снижение рассудка немного замедляется.",
+    "name": "Блины",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 1
+      }
+    ]
+  },
+  "Salad": {
+    "dev_name": "Salad",
+    "description": "Салат, в состав которого входят Латук и Помидор. На некоторое время после еды скорость работы немного повышается.",
+    "name": "Салат",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "Латук",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Помидор",
+        "amount": 2
+      }
+    ]
+  },
+  "Omelet": {
+    "dev_name": "Omelet",
+    "description": "Жареное Яйцо, сдобренное кетчупом. На некоторое время после еды Атака +10%.",
+    "name": "Омлет",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "Помидор",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 2
+      }
+    ]
+  },
+  "MarinatedMushrooms": {
+    "dev_name": "MarinatedMushrooms",
+    "description": "Пропитанные маринадом Гриб. В течение некоторого времени после еды Защита +10%.",
+    "name": "Маринованные грибы",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Гриб",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      }
+    ]
+  },
+  "MushroomSoup": {
+    "dev_name": "MushroomSoup",
+    "description": "Крем-суп, основной ингредиент которого — Гриб. На некоторое время после еды снижение уровня сытости немного замедляется.",
+    "name": "Грибной суп",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Гриб",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 2
+      }
+    ]
+  },
+  "Pizza": {
+    "dev_name": "Pizza",
+    "description": "Основа этого блюда Хлеб, а сверху начинка: Красная ягода, Помидор и сыр. На некоторое время после еды скорость работы немного повышается,\r\nснижение уровня сытости немного замедляется.",
+    "name": "Пицца",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Помидор",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 2
+      }
+    ]
+  },
+  "Carbonara": {
+    "dev_name": "Carbonara",
+    "description": "Яйцо и Молоко дополняют вкус пасты в этом блюде. На некоторое время после еды Защита +20%.",
+    "name": "Паста карбонара",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 2
+      }
+    ]
+  },
+  "Cake": {
+    "dev_name": "Cake",
+    "description": "Праздничное блюдо. Поместите его в сундук на пастбище,\r\nи полакомившийся им Пал получит заряд бодрости и отложит яйцо.",
+    "name": "Пирожное",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 5
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 8
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 7
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 8
+      },
+      {
+        "dev_name": "Honey",
+        "name": "Мед",
+        "amount": 2
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog": {
+    "dev_name": "SkillUnlock_Hedgehog",
+    "description": "ru_Text",
+    "name": "Перчатки для Пала Джолтхог",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Электротворный орган",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog_Ice": {
+    "dev_name": "SkillUnlock_Hedgehog_Ice",
+    "description": "ru_Text",
+    "name": "Перчатки для Пала Джолтхог Крист",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 6
+      }
+    ]
+  },
+  "SkillUnlock_Kitsunebi": {
+    "dev_name": "SkillUnlock_Kitsunebi",
+    "description": "ru_Text",
+    "name": "Сбруя для Пала Фокспаркс",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Alpaca": {
+    "dev_name": "SkillUnlock_Alpaca",
+    "description": "ru_Text",
+    "name": "Седло для Пала Мелпака",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Шерсть",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_MopKing": {
+    "dev_name": "SkillUnlock_MopKing",
+    "description": "ru_Text",
+    "name": "Седло для Пала Свипа",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 8
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Boar": {
+    "dev_name": "SkillUnlock_Boar",
+    "description": "ru_Text",
+    "name": "Седло для Пала Рашоа",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_FlyingManta": {
+    "dev_name": "SkillUnlock_FlyingManta",
+    "description": "ru_Text",
+    "name": "Рукавицы для Пала Селарай",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Carbunclo": {
+    "dev_name": "SkillUnlock_Carbunclo",
+    "description": "ru_Text",
+    "name": "Пистолет-пулемет для Пала Лифманк",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Garm": {
+    "dev_name": "SkillUnlock_Garm",
+    "description": "ru_Text",
+    "name": "Сбруя с седлом для Пала Дайэхаул",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Monkey": {
+    "dev_name": "SkillUnlock_Monkey",
+    "description": "ru_Text",
+    "name": "Штурмовая винтовка для Пала Танзи",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent": {
+    "dev_name": "SkillUnlock_Serpent",
+    "description": "ru_Text",
+    "name": "Седло для Пала Серфент",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent_Ground": {
+    "dev_name": "SkillUnlock_Serpent_Ground",
+    "description": "ru_Text",
+    "name": "Седло для Пала Серфент Терра",
+    "creates_amount": 1,
+    "work_required": 9600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 6
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_Deer": {
+    "dev_name": "SkillUnlock_Deer",
+    "description": "ru_Text",
+    "name": "Седло для Пала Иктирдир",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_Deer_Ground": {
+    "dev_name": "SkillUnlock_Deer_Ground",
+    "description": "ru_Text",
+    "name": "Седло для Пала Иктирдир Тэрра",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 6
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 12
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 18
+      }
+    ]
+  },
+  "SkillUnlock_NaughtyCat": {
+    "dev_name": "SkillUnlock_NaughtyCat",
+    "description": "ru_Text",
+    "name": "Седло для Пала Гринтэйл",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Kirin": {
+    "dev_name": "SkillUnlock_Kirin",
+    "description": "ru_Text",
+    "name": "Седло для Пала Юнивольт",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Электротворный орган",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_NegativeOctopus": {
+    "dev_name": "SkillUnlock_NegativeOctopus",
+    "description": "ru_Text",
+    "name": "Рукавицы для Пала Килламари",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ядовитая железа",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_ColorfulBird": {
+    "dev_name": "SkillUnlock_ColorfulBird",
+    "description": "ru_Text",
+    "name": "Перчатки для Пала Токотоко",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_HawkBird": {
+    "dev_name": "SkillUnlock_HawkBird",
+    "description": "ru_Text",
+    "name": "Седло для Пала Найтвинг",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlameBuffalo": {
+    "dev_name": "SkillUnlock_FlameBuffalo",
+    "description": "ru_Text",
+    "name": "Седло для Пала Арсокс",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_FlowerRabbit": {
+    "dev_name": "SkillUnlock_FlowerRabbit",
+    "description": "ru_Text",
+    "name": "Ошейник для Пала Флопи",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_DrillGame": {
+    "dev_name": "SkillUnlock_DrillGame",
+    "description": "ru_Text",
+    "name": "Повязка для Пала Дигтос",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Penguin": {
+    "dev_name": "SkillUnlock_Penguin",
+    "description": "ru_Text",
+    "name": "Ракетная установка для Пала Пенгуллет",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Камень",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur": {
+    "dev_name": "SkillUnlock_FlowerDinosaur",
+    "description": "ru_Text",
+    "name": "Седло для Пала Диноссум",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur_Electric": {
+    "dev_name": "SkillUnlock_FlowerDinosaur_Electric",
+    "description": "ru_Text",
+    "name": "Седло для Пала Диноссум Лакс",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_DreamDemon": {
+    "dev_name": "SkillUnlock_DreamDemon",
+    "description": "ru_Text",
+    "name": "Ошейник для Пала Даэдрим",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus": {
+    "dev_name": "SkillUnlock_SakuraSaurus",
+    "description": "ru_Text",
+    "name": "Седло для Пала Брончерри",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus_Water": {
+    "dev_name": "SkillUnlock_SakuraSaurus_Water",
+    "description": "ru_Text",
+    "name": "Седло для Пала Брончерри Аква",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon": {
+    "dev_name": "SkillUnlock_BirdDragon",
+    "description": "ru_Text",
+    "name": "Седло для Пала Ванвирм",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon_Ice": {
+    "dev_name": "SkillUnlock_BirdDragon_Ice",
+    "description": "ru_Text",
+    "name": "Седло для Пала Ванвирм Крист",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_WeaselDragon": {
+    "dev_name": "SkillUnlock_WeaselDragon",
+    "description": "ru_Text",
+    "name": "Седло для Пала Чиллет",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes": {
+    "dev_name": "SkillUnlock_WindChimes",
+    "description": "ru_Text",
+    "name": "Рукавицы для Пала Хангю",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 5
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes_Ice": {
+    "dev_name": "SkillUnlock_WindChimes_Ice",
+    "description": "ru_Text",
+    "name": "Рукавицы для Пала Хангю Крист",
+    "creates_amount": 1,
+    "work_required": 12000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 6
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca": {
+    "dev_name": "SkillUnlock_KingAlpaca",
+    "description": "ru_Text",
+    "name": "Седло для Пала Кингпака",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Шерсть",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca_Ice": {
+    "dev_name": "SkillUnlock_KingAlpaca_Ice",
+    "description": "ru_Text",
+    "name": "Седло для Пала Айс Кингпака",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 18
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Шерсть",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon": {
+    "dev_name": "SkillUnlock_FairyDragon",
+    "description": "ru_Text",
+    "name": "Седло для Пала Элфидран",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon_Water": {
+    "dev_name": "SkillUnlock_FairyDragon_Water",
+    "description": "ru_Text",
+    "name": "Седло для Пала Элфидран Аква",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_RaijinDaughter": {
+    "dev_name": "SkillUnlock_RaijinDaughter",
+    "description": "ru_Text",
+    "name": "Ошейник для Пала Даззи",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Eagle": {
+    "dev_name": "SkillUnlock_Eagle",
+    "description": "ru_Text",
+    "name": "Рукавицы для Пала Эрмург",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GhostBeast": {
+    "dev_name": "SkillUnlock_GhostBeast",
+    "description": "ru_Text",
+    "name": "Седло для Пала Мараит",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 25
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda": {
+    "dev_name": "SkillUnlock_GrassPanda",
+    "description": "ru_Text",
+    "name": "Гранатомет для Пала Моссанда",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda_Electric": {
+    "dev_name": "SkillUnlock_GrassPanda_Electric",
+    "description": "ru_Text",
+    "name": "Гранатомет для Пала Моссанда Лакс",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster": {
+    "dev_name": "SkillUnlock_VolcanicMonster",
+    "description": "ru_Text",
+    "name": "Седло для Пала Рептиро",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster_Ice": {
+    "dev_name": "SkillUnlock_VolcanicMonster_Ice",
+    "description": "ru_Text",
+    "name": "Седло для Пала Айс Рептиро",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin": {
+    "dev_name": "SkillUnlock_FireKirin",
+    "description": "ru_Text",
+    "name": "Седло для Пала Пирин",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin_Dark": {
+    "dev_name": "SkillUnlock_FireKirin_Dark",
+    "description": "ru_Text",
+    "name": "Седло для Пала Пирин Нокт",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 36
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth": {
+    "dev_name": "SkillUnlock_GrassMammoth",
+    "description": "ru_Text",
+    "name": "Седло для Пала Мамморест",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 70
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 60
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth_Ice": {
+    "dev_name": "SkillUnlock_GrassMammoth_Ice",
+    "description": "ru_Text",
+    "name": "Седло для Пала Мамморест Крист",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 60
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 84
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 12
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Древесина",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 72
+      }
+    ]
+  },
+  "SkillUnlock_BlueDragon": {
+    "dev_name": "SkillUnlock_BlueDragon",
+    "description": "ru_Text",
+    "name": "Седло для Пала Азуроб",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi": {
+    "dev_name": "SkillUnlock_Umihebi",
+    "description": "ru_Text",
+    "name": "Седло для Пала Йормунтайд",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi_Fire": {
+    "dev_name": "SkillUnlock_Umihebi_Fire",
+    "description": "ru_Text",
+    "name": "Седло для Пала Йормунтайд Игнис",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 60
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_AmaterasuWolf": {
+    "dev_name": "SkillUnlock_AmaterasuWolf",
+    "description": "ru_Text",
+    "name": "Седло для Пала Кицун",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_ThunderDog": {
+    "dev_name": "SkillUnlock_ThunderDog",
+    "description": "ru_Text",
+    "name": "Седло для Пала Райхаунд",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Электротворный орган",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Manticore": {
+    "dev_name": "SkillUnlock_Manticore",
+    "description": "ru_Text",
+    "name": "Седло для Пала Блейзхаул",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 50
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_Manticore_Dark": {
+    "dev_name": "SkillUnlock_Manticore_Dark",
+    "description": "ru_Text",
+    "name": "Седло для Пала Блейзхайл Нокт",
+    "creates_amount": 1,
+    "work_required": 36000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 36
+      }
+    ]
+  },
+  "SkillUnlock_IceDeer": {
+    "dev_name": "SkillUnlock_IceDeer",
+    "description": "ru_Text",
+    "name": "Седло для Пала Рейндрикс",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 25
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Рог",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_ThunderBird": {
+    "dev_name": "SkillUnlock_ThunderBird",
+    "description": "ru_Text",
+    "name": "Седло для Пала Райберд",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Электротворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_RedArmorBird": {
+    "dev_name": "SkillUnlock_RedArmorBird",
+    "description": "ru_Text",
+    "name": "Седло для Пала Рагнахавк",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Horus": {
+    "dev_name": "SkillUnlock_Horus",
+    "description": "ru_Text",
+    "name": "Седло для Пала Фалерис",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_SkyDragon": {
+    "dev_name": "SkillUnlock_SkyDragon",
+    "description": "ru_Text",
+    "name": "Седло для Пала Фэски",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_HadesBird": {
+    "dev_name": "SkillUnlock_HadesBird",
+    "description": "ru_Text",
+    "name": "Седло для Пала Хэлзефир",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Электротворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_FengyunDeeper": {
+    "dev_name": "SkillUnlock_FengyunDeeper",
+    "description": "ru_Text",
+    "name": "Седло для Пала Фенглоп",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Ткань",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku": {
+    "dev_name": "SkillUnlock_Suzaku",
+    "description": "ru_Text",
+    "name": "Седло для Пала Судзаку",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Пламетворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku_Water": {
+    "dev_name": "SkillUnlock_Suzaku_Water",
+    "description": "ru_Text",
+    "name": "Седло для Пала Судзаку Аква",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 24
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Телесная жидкость Пала",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_KingBahamut": {
+    "dev_name": "SkillUnlock_KingBahamut",
+    "description": "ru_Text",
+    "name": "Седло для Пала Блазамут",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti": {
+    "dev_name": "SkillUnlock_Yeti",
+    "description": "ru_Text",
+    "name": "Седло для Пала Вумпо",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti_Grass": {
+    "dev_name": "SkillUnlock_Yeti_Grass",
+    "description": "ru_Text",
+    "name": "Седло для Пала Вумпо Ботан",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 36
+      },
+      {
+        "dev_name": "Poppy",
+        "name": "Красивый цветок",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Волокно",
+        "amount": 60
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_ElecPanda": {
+    "dev_name": "SkillUnlock_ElecPanda",
+    "description": "ru_Text",
+    "name": "Миниган для Пала Гриззболт",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_BlackGriffon": {
+    "dev_name": "SkillUnlock_BlackGriffon",
+    "description": "ru_Text",
+    "name": "Седло для Пала Шэдоубик",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 40
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ядовитая железа",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 45
+      }
+    ]
+  },
+  "SkillUnlock_BlackMetalDragon": {
+    "dev_name": "SkillUnlock_BlackMetalDragon",
+    "description": "ru_Text",
+    "name": "Седло для Пала Астегон",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 55
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon": {
+    "dev_name": "SkillUnlock_LazyDragon",
+    "description": "ru_Text",
+    "name": "Ракетница для Пала Релаксаурус",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 35
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon_Electric": {
+    "dev_name": "SkillUnlock_LazyDragon_Electric",
+    "description": "ru_Text",
+    "name": "Ракетница для Пала Релаксаурус Лакс",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Полимер",
+        "amount": 42
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 102
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse": {
+    "dev_name": "SkillUnlock_IceHorse",
+    "description": "ru_Text",
+    "name": "Седло для Пала Фросталлион",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 200
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Морозотворный орган",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse_Dark": {
+    "dev_name": "SkillUnlock_IceHorse_Dark",
+    "description": "ru_Text",
+    "name": "Седло для Пала Фросталлион Нокт",
+    "creates_amount": 1,
+    "work_required": 180000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 120
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 240
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ядовитая железа",
+        "amount": 60
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 90
+      }
+    ]
+  },
+  "SkillUnlock_SaintCentaur": {
+    "dev_name": "SkillUnlock_SaintCentaur",
+    "description": "ru_Text",
+    "name": "Седло для Пала Паладиус",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_BlackCentaur": {
+    "dev_name": "SkillUnlock_BlackCentaur",
+    "description": "ru_Text",
+    "name": "Седло для Пала Некромус",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Металлический слиток",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_JetDragon": {
+    "dev_name": "SkillUnlock_JetDragon",
+    "description": "ru_Text",
+    "name": "Ракетница для Пала Джетрагон",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Кожа",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Слиток рафинированного металла",
+        "amount": 200
+      },
+      {
+        "dev_name": "MachineParts2",
+        "name": "Электрическая плата",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Осколок палзиума",
+        "amount": 140
+      }
+    ]
+  },
+  "BakedMeat_ChickenPal": {
+    "dev_name": "BakedMeat_ChickenPal",
+    "description": "Зажаренные на углях шашлычки из куриного мяса. Легкая текстура и ненавязчивый вкус.",
+    "name": "Шашлычки из Чикипи",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Мясо Чикипи",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SheepBall": {
+    "dev_name": "BakedMeat_SheepBall",
+    "description": "Блюдо из запеченной в пряном маринаде баранины. Обладает насыщенным, ярко выраженным характерным вкусом.",
+    "name": "Кебаб из Ламболла",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Мясо Ламболла",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Kelpie": {
+    "dev_name": "BakedMeat_Kelpie",
+    "description": "Запеченная на углях рыба получается нежной и воздушной.",
+    "name": "Келпси на углях",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "Мясо Келпси",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Eagle": {
+    "dev_name": "BakedMeat_Eagle",
+    "description": "Блюдо из жареной птицы, наполненное мощью и энергией покорителя небес.",
+    "name": "Эрмург на гриле",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "Мясо Эрмурга",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Boar": {
+    "dev_name": "BakedMeat_Boar",
+    "description": "Большой кусок мяса кабана, запеченный на огне. Снаружи хрустящая корочка, внутри — мясо с плотной текстурой.\r\nПодойдет для особого праздничного меню.",
+    "name": "Запеченный Рашоа",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Мясо Рашоа",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_LazyCatfish": {
+    "dev_name": "BakedMeat_LazyCatfish",
+    "description": "Обжаренная в традиционном соусе рыба, способная исцелить тело и душу.\r\nИдеальное блюдо для уставшего тренера Палов.",
+    "name": "Кабаяки из Думада",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "Мясо Думада",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Deer": {
+    "dev_name": "BakedMeat_Deer",
+    "description": "Тщательно обжаренное мясо оленя с тонким вкусом, источающее аромат лесной чащи.\r\nУтонченный вкус этого блюда привносит роскошь в обычные будни.",
+    "name": "Иктирдир с хрустящей корочкой",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Мясо Иктирдира",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_IceDeer": {
+    "dev_name": "BakedMeat_IceDeer",
+    "description": "Мясо ледяного оленя мгновенно остывает после доставания из печи и сохраняет свежесть.\r\nЭто блюдо идеально подходит для запаса на черный день.",
+    "name": "Рейндрикс с хрустящей корочкой",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "Мясо Рейндрикса",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_BerryGoat": {
+    "dev_name": "BakedMeat_BerryGoat",
+    "description": "Сочное жареное мясо, сохраняющее после приготовления свой природный аромат трав и ягод.\r\nСъеденное на свежем воздухе, это блюдо дарит тепло и удовлетворение.",
+    "name": "Запеченный Каприти с травами",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_BerryGoat",
+        "name": "Мясо Каприти",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_CowPal": {
+    "dev_name": "BakedMeat_CowPal",
+    "description": "Толстый, хорошо прожаренный стейк. Насыщенный вкус дает прилив энергии.",
+    "name": "Стейк из Моззарины",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Мясо Моззарины",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SakuraSaurus": {
+    "dev_name": "BakedMeat_SakuraSaurus",
+    "description": "Хороший кусок жареного мяса, позволяющий ощутить вкус властелина дикой природы. Густой мясной сок сочится из костей,\r\nмясо упругое, но на удивление мягкое внутри.",
+    "name": "Запеченный на кости Брончерри",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SakuraSaurus",
+        "name": "Мясо Брончерри",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_GrassMammoth": {
+    "dev_name": "BakedMeat_GrassMammoth",
+    "description": "Насыщенный, благородный вкус. С каждым укусом сознание рисует образы густых лесов и ледников.",
+    "name": "Стейк из Маммореста",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_GrassMammoth",
+        "name": "Мясо Маммореста",
+        "amount": 1
+      }
+    ]
+  },
+  "ChickenSaute": {
+    "dev_name": "ChickenSaute",
+    "description": "Блюдо из тушеной в сливочном масле мясистой куриной грудки. Во вкусе чувствуются освежающие нотки лимона.\r\nНа некоторое время после еды скорость работы немного повышается.",
+    "name": "Соте из мяса Чикипи",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Мясо Чикипи",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      }
+    ]
+  },
+  "GrilledSheepHerbs": {
+    "dev_name": "GrilledSheepHerbs",
+    "description": "Добавление горсти свежих ягод дает аромат, раскрывающий уникальный вкус баранины.\r\nНа некоторое время после еды Защита +10%",
+    "name": "Запеченный Ламболл с травами",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Мясо Ламболла",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      }
+    ]
+  },
+  "GenghisKhan": {
+    "dev_name": "GenghisKhan",
+    "description": "Тщательно обжаренная на углях маринованная баранина. На некоторое время после еды скорость работы немного повышается,\r\nснижение рассудка немного замедляется.",
+    "name": "Дзингискан из Ламболла",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Мясо Ламболла",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Латук",
+        "amount": 2
+      }
+    ]
+  },
+  "Eaglestew": {
+    "dev_name": "Eaglestew",
+    "description": "Процесс тушения раскрывает насыщенный аромат и вкус дичи в этом блюде.\r\nНа некоторое время после еды снижение рассудка немного замедляется.",
+    "name": "Тушеный Эрмург",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "Мясо Эрмурга",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      }
+    ]
+  },
+  "BaconEggs": {
+    "dev_name": "BaconEggs",
+    "description": "Копченый вкус бекона и нежная текстура яйца изумительно гармонируют друг с другом.\r\nНа некоторое время после еды Атака +10%",
+    "name": "Яйца с беконом из Рашоа",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Мясо Рашоа",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 2
+      }
+    ]
+  },
+  "StewedIceDeer": {
+    "dev_name": "StewedIceDeer",
+    "description": "Рагу из тушеных овощей и мяса оленя, выросшего в холодных краях. Тонкая сладость пропитывает нежное мясо.\r\nНа некоторое время после еды снижение уровня сытости немного замедляется.",
+    "name": "Тушеный Рейндрикс",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "Мясо Рейндрикса",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Помидор",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedChicken": {
+    "dev_name": "FriedChicken",
+    "description": "Невероятно сочное блюдо из курицы. На некоторое время после еды скорость работы повышается,\r\nснижение рассудка замедляется.",
+    "name": "Караагэ из Чикипи",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Мясо Чикипи",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 1
+      }
+    ]
+  },
+  "HotDog_2": {
+    "dev_name": "HotDog_2",
+    "description": "Мясистая сосиска между двух булочек. Подрумяненные хрустящие бока и острый вкус этого блюда изумительны.\r\nНа некоторое время после еды Защита +20%",
+    "name": "Хот-дог с Рашоа",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Мясо Рашоа",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Латук",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerLocoMoco": {
+    "dev_name": "DeerLocoMoco",
+    "description": "Мясистая котлета с полужидкой яичницей. Этот превосходный дуэт порождает счастье у вас во рту.\r\nНа некоторое время после еды Атака +20%",
+    "name": "Локо-моко с мясом Иктирдира",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Мясо Иктирдира",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Красная ягода",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerStew": {
+    "dev_name": "DeerStew",
+    "description": "Рассыпчатое, мягчайшее мясо оленя, приготовленное с любовью. Нежное переплетение вкусов мяса и овощей.\r\nНа некоторое время после еды Защита +20%",
+    "name": "Тушеный Иктирдир",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Мясо Иктирдира",
+        "amount": 2
+      },
+      {
+        "dev_name": "Mushroom",
+        "name": "Гриб",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 2
+      }
+    ]
+  },
+  "Hamburger_2": {
+    "dev_name": "Hamburger_2",
+    "description": "Гениальное блюдо, сочетающее в себе вкус говядины и сладость булочек. На некоторое время после еды скорость работы повышается,\r\nснижение рассудка немного замедляется.",
+    "name": "Гамбургер с Моззариной",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Мясо Моззарины",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Латук",
+        "amount": 2
+      }
+    ]
+  },
+  "Cheeseburger_2": {
+    "dev_name": "Cheeseburger_2",
+    "description": "Кусочки сыра в этом блюде делают его вкус божественным. На некоторое время после еды Атака +20%,\r\nснижение уровня сытости замедляется.",
+    "name": "Чизбургер с Моззариной",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Мясо Моззарины",
+        "amount": 2
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Помидор",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Молоко",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedKelpie": {
+    "dev_name": "FriedKelpie",
+    "description": "Упругое рыбное филе в хрустящей корочке. На некоторое время после еды Защита +10%,\r\nснижение рассудка замедляется.",
+    "name": "Келпсифрай",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "Мясо Келпси",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Пшеничная мука",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Яйцо",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Качественное масло Пала",
+        "amount": 1
+      }
+    ]
+  },
+  "Chowder": {
+    "dev_name": "Chowder",
+    "description": "Уникальный вкус, утопающий в кремовом супе. На некоторое время после еды скорость работы повышается,\r\nснижение уровня сытости немного замедляется.",
+    "name": "Чаудер из Думада",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "Мясо Думада",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Латук",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Помидор",
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,6899 @@
+{
+  "PalSphere": {
+    "dev_name": "PalSphere",
+    "description": "Uno strumento da lanciare per catturare i Pal. Prodotta in massa, funziona solo sui Pal di basso livello.",
+    "name": "Sfera Pal",
+    "creates_amount": 1,
+    "work_required": 300,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Mega": {
+    "dev_name": "PalSphere_Mega",
+    "description": "Uno strumento da lanciare per catturare i Pal. Versione migliorata che può catturare più categorie di Pal.",
+    "name": "Sfera mega",
+    "creates_amount": 1,
+    "work_required": 1500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 1
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 5
+      }
+    ]
+  },
+  "PalSphere_Giga": {
+    "dev_name": "PalSphere_Giga",
+    "description": "Una sfera con cui è possibile catturare i Pal. Con questa, si possono catturare Pal abbastanza forti.",
+    "name": "Sfera giga",
+    "creates_amount": 1,
+    "work_required": 4500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 2
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 2
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 7
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 7
+      }
+    ]
+  },
+  "PalSphere_Tera": {
+    "dev_name": "PalSphere_Tera",
+    "description": "Una sfera con cui è possibile catturare i Pal. Adatta a Pal molto forti.",
+    "name": "Sfera tera",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 3
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Cemento",
+        "amount": 2
+      }
+    ]
+  },
+  "PalSphere_Master": {
+    "dev_name": "PalSphere_Master",
+    "description": "Una sfera con cui è possibile catturare i Pal. Ha caratteristiche uniche e ben pochi Pal possono sfuggirle.",
+    "name": "Sfera ultra",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 5
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 2
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Cemento",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Legend": {
+    "dev_name": "PalSphere_Legend",
+    "description": "Una sfera con cui è possibile catturare i Pal. La sua capacità di cattura è incredibile,\r\nquasi nessun Pal è in grado di sfuggirle.",
+    "name": "Sfera leggendaria",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      },
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cement",
+        "name": "Cemento",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat": {
+    "dev_name": "Bat",
+    "description": "Dovrebbe riuscire a stordire un Pal di piccole dimensioni.",
+    "name": "Mazza di legno",
+    "creates_amount": 1,
+    "work_required": 750,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat2": {
+    "dev_name": "Bat2",
+    "description": "Una mazza da baseball per il combattimento ravvicinato. I Pal sono troppo grossi per fare da palla.",
+    "name": "Mazza",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      }
+    ]
+  },
+  "Torch": {
+    "dev_name": "Torch",
+    "description": "Installata alla base, illumina i dintorni.",
+    "name": "Torcia fissa",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 2
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 2
+      }
+    ]
+  },
+  "MeatCutterKnife": {
+    "dev_name": "MeatCutterKnife",
+    "description": "Un coltello per eliminare i Pal richiamati. Equipaggiandolo, il comando |Accarezza| cambierà in |Elimina|.\r\nSe elimini un Pal, non potrai rivederlo mai più.",
+    "name": "Coltello da macellaio",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_00": {
+    "dev_name": "Pickaxe_Tier_00",
+    "description": "Un piccone adatto all'attività mineraria. È in pietra, quindi la sua efficienza è limitata.",
+    "name": "Piccone di pietra",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_01": {
+    "dev_name": "Pickaxe_Tier_01",
+    "description": "Un piccone adatto all'attività mineraria. È in metallo, quindi è molto più resistente ed efficiente.",
+    "name": "Piccone di metallo",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_02": {
+    "dev_name": "Pickaxe_Tier_02",
+    "description": "Un piccone adatto all'attività mineraria. È ancora più resistente e appuntito.",
+    "name": "Piccone di metallo raffinato",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 10
+      }
+    ]
+  },
+  "Axe_Tier_00": {
+    "dev_name": "Axe_Tier_00",
+    "description": "Un'ascia per abbattere gli alberi. È di pietra, quindi non è molto affilata.",
+    "name": "Ascia di pietra",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_01": {
+    "dev_name": "Axe_Tier_01",
+    "description": "Un'ascia per abbattere gli alberi. È di metallo, quindi è decisamente più affilata.",
+    "name": "Ascia di metallo",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_02": {
+    "dev_name": "Axe_Tier_02",
+    "description": "Un'ascia per abbattere gli alberi. È di un metallo di alta qualità, quindi è ancora più affilata.",
+    "name": "Ascia di metallo raffinato",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear": {
+    "dev_name": "Spear",
+    "description": "Lancia per il combattimento ravvicinato. Permette di mantenere il nemico a una certa distanza.",
+    "name": "Lancia di pietra",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 18
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 6
+      }
+    ]
+  },
+  "Spear_2": {
+    "dev_name": "Spear_2",
+    "description": "Lancia per il combattimento ravvicinato. È fatta in metallo e ha una capacità d'attacco maggiore.\r\nSi può realizzare con una Banco da lavoro di qualità.",
+    "name": "Lancia di metallo",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 27
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_3": {
+    "dev_name": "Spear_3",
+    "description": "Lancia per il combattimento ravvicinato. È fatta in metallo di alta qualità e ha una capacità d'attacco maggiore.\r\nSi può realizzare con una Fabbrica per la produzione in serie.",
+    "name": "Lancia di metallo raffinato",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 36
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 18
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_ForestBoss": {
+    "dev_name": "Spear_ForestBoss",
+    "description": "L'amata lancia di Lily. Forgiata per punire chi non tratta i Pal col dovuto rispetto.",
+    "name": "Lancia di Lily",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 20
+      }
+    ]
+  },
+  "ElecBaton": {
+    "dev_name": "ElecBaton",
+    "description": "Arma contundente che dà anche la scossa. Un Pal stordito è più facile da catturare.\r\nSi può realizzare al Banco da lavoro di qualità.",
+    "name": "Bastone stordente",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Organo elettrico",
+        "amount": 20
+      }
+    ]
+  },
+  "Sword": {
+    "dev_name": "Sword",
+    "description": "Spada per il combattimento ravvicinato. Più ti avvicini al nemico, più diventa pericolosa.\r\nSi può realizzare con un Banco da lavoro per armi.",
+    "name": "Spada",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 20
+      }
+    ]
+  },
+  "WeakerBow": {
+    "dev_name": "WeakerBow",
+    "description": "Un arco per attaccare a distanza. È un'arma di fortuna, non molto potente.",
+    "name": "Arco antiquato",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 15
+      }
+    ]
+  },
+  "WeakerBow_2": {
+    "dev_name": "WeakerBow_2",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_2",
+      "name": "Progetto per arco antiquato 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 60
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 1
+      }
+    ]
+  },
+  "WeakerBow_3": {
+    "dev_name": "WeakerBow_3",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 16000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_3",
+      "name": "Progetto per arco antiquato 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 90
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 2
+      }
+    ]
+  },
+  "WeakerBow_4": {
+    "dev_name": "WeakerBow_4",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_4",
+      "name": "Progetto per arco antiquato 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 135
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 22
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 4
+      }
+    ]
+  },
+  "WeakerBow_5": {
+    "dev_name": "WeakerBow_5",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 64000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_5",
+      "name": "Progetto per arco antiquato 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 202
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 33
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 10
+      }
+    ]
+  },
+  "Bow_Fire": {
+    "dev_name": "Bow_Fire",
+    "description": "Un arco di attributo fuoco. Dà alle fiamme i Pal, rendendo più semplice catturarli.\r\nMunizioni: Freccia incendiaria.",
+    "name": "Arco incendiario",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Poison": {
+    "dev_name": "Bow_Poison",
+    "description": "Un temibile arco capace di avvelenare il bersaglio. I Pal avvelenati sono più facili da catturare.\r\nMunizioni: Freccia avvelenata.",
+    "name": "Arco avvelenatore",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ghiandole velenifere",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Triple": {
+    "dev_name": "Bow_Triple",
+    "description": "Un arco modificato per scagliare tre frecce alla volta. Per ragioni misteriose, ogni colpo consuma una sola Freccia.",
+    "name": "Arco triplo",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 12
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      }
+    ]
+  },
+  "BowGun": {
+    "dev_name": "BowGun",
+    "description": "Strumento per scagliare una Freccia senza fare fatica. Serve tempo per caricarla, ma sferra un colpo molto potente.\r\nSi può realizzare con un Banco da lavoro di qualità.",
+    "name": "Balestra",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Chiodo",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_2": {
+    "dev_name": "BowGun_2",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_2",
+      "name": "Progetto per balestra 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 100
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 80
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Chiodo",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 2
+      }
+    ]
+  },
+  "BowGun_3": {
+    "dev_name": "BowGun_3",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_3",
+      "name": "Progetto per balestra 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 150
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 120
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Chiodo",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 4
+      }
+    ]
+  },
+  "BowGun_4": {
+    "dev_name": "BowGun_4",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_4",
+      "name": "Progetto per balestra 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 225
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 180
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 45
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Chiodo",
+        "amount": 22
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 6
+      }
+    ]
+  },
+  "BowGun_5": {
+    "dev_name": "BowGun_5",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_5",
+      "name": "Progetto per balestra 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 337
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 270
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 67
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Chiodo",
+        "amount": 33
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 12
+      }
+    ]
+  },
+  "BowGun_Fire": {
+    "dev_name": "BowGun_Fire",
+    "description": "Una potente arma a distanza di attributo fuoco. Munizioni: Freccia incendiaria.\r\nSi può realizzare con un Banco da lavoro di qualità.",
+    "name": "Balestra incendiaria",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Chiodo",
+        "amount": 5
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_Poison": {
+    "dev_name": "BowGun_Poison",
+    "description": "Una potente arma a distanza capace di avvelenare il bersaglio. Munizioni: Freccia avvelenata.\r\nSi può realizzare con un Banco da lavoro di qualità.",
+    "name": "Balestra avvelenatrice",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "Chiodo",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ghiandole velenifere",
+        "amount": 5
+      }
+    ]
+  },
+  "Musket": {
+    "dev_name": "Musket",
+    "description": "Un'arma da fuoco antica e piuttosto lenta da caricare. Munizioni: Munizioni semplici per <itemName id=|Musket|/> e armi simili..\r\nSi può realizzare con un Banco da lavoro per armi.",
+    "name": "Moschetto",
+    "creates_amount": 1,
+    "work_required": 35000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 25
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 30
+      }
+    ]
+  },
+  "MakeshiftHandgun": {
+    "dev_name": "MakeshiftHandgun",
+    "description": "Arma da fuoco a colpo singolo realizzata con rottami. Munizioni: Munizioni semplici per <itemName id=|Musket|/> e armi simili..\r\nRealizzabile in un Banco da lavoro per armi.",
+    "name": "Pistola artigianale",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 35
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      }
+    ]
+  },
+  "HandGun_Default": {
+    "dev_name": "HandGun_Default",
+    "description": "Una pistola con un caricatore più grande e che spara più rapidamente. Ha un volume di fuoco maggiore di Pistola artigianale.",
+    "name": "Pistola",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 15
+      }
+    ]
+  },
+  "HandGun_Default_2": {
+    "dev_name": "HandGun_Default_2",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_2",
+      "name": "Progetto per pistola 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 3
+      }
+    ]
+  },
+  "HandGun_Default_3": {
+    "dev_name": "HandGun_Default_3",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_3",
+      "name": "Progetto per pistola 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 5
+      }
+    ]
+  },
+  "HandGun_Default_4": {
+    "dev_name": "HandGun_Default_4",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_4",
+      "name": "Progetto per pistola 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 7
+      }
+    ]
+  },
+  "HandGun_Default_5": {
+    "dev_name": "HandGun_Default_5",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_5",
+      "name": "Progetto per pistola 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 14
+      }
+    ]
+  },
+  "SingleShotRifle": {
+    "dev_name": "SingleShotRifle",
+    "description": "Un fucile a colpo singolo. Ha pochi colpi, ma è davvero potente.",
+    "name": "Fucile a colpo singolo",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 5
+      }
+    ]
+  },
+  "DoubleBarrelShotgun": {
+    "dev_name": "DoubleBarrelShotgun",
+    "description": "Un potente fucile da usare a distanza ravvicinata. Ha pochi colpi ma è molto potente.",
+    "name": "Doppietta",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 7
+      }
+    ]
+  },
+  "AssaultRifle_Default1": {
+    "dev_name": "AssaultRifle_Default1",
+    "description": "Un Fucile d'assalto per il combattimento a distanza. La notevole cadenza di tiro lo rende perfetto contro nemici potenti.",
+    "name": "Fucile d'assalto",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 40
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 10
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 30
+      }
+    ]
+  },
+  "AssaultRifle_Default2": {
+    "dev_name": "AssaultRifle_Default2",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default2",
+      "name": "Progetto per fucile d'assalto 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 80
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 5
+      }
+    ]
+  },
+  "AssaultRifle_Default3": {
+    "dev_name": "AssaultRifle_Default3",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default3",
+      "name": "Progetto per fucile d'assalto 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 90
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 10
+      }
+    ]
+  },
+  "AssaultRifle_Default4": {
+    "dev_name": "AssaultRifle_Default4",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default4",
+      "name": "Progetto per fucile d'assalto 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 180
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 45
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 135
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 20
+      }
+    ]
+  },
+  "AssaultRifle_Default5": {
+    "dev_name": "AssaultRifle_Default5",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 3200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default5",
+      "name": "Progetto per fucile d'assalto 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 270
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 67
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 202
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 30
+      }
+    ]
+  },
+  "PumpActionShotgun": {
+    "dev_name": "PumpActionShotgun",
+    "description": "Un potente fucile con molte munizioni. La sua capacità offensiva a distanza ravvicinata è eccezionale.",
+    "name": "Fucile a pompa",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 40
+      }
+    ]
+  },
+  "PumpActionShotgun_2": {
+    "dev_name": "PumpActionShotgun_2",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_2",
+      "name": "Progetto per fucile a pompa 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 60
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 40
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 5
+      }
+    ]
+  },
+  "PumpActionShotgun_3": {
+    "dev_name": "PumpActionShotgun_3",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 960000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_3",
+      "name": "Progetto per fucile a pompa 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 90
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 120
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 10
+      }
+    ]
+  },
+  "PumpActionShotgun_4": {
+    "dev_name": "PumpActionShotgun_4",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 1920000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_4",
+      "name": "Progetto per fucile a pompa 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 135
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 180
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 20
+      }
+    ]
+  },
+  "PumpActionShotgun_5": {
+    "dev_name": "PumpActionShotgun_5",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 3840000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_5",
+      "name": "Progetto per fucile a pompa 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 202
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 270
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default": {
+    "dev_name": "Launcher_Default",
+    "description": "Lanciarazzi. Permette di effettuare bombardamenti da grande distanza.",
+    "name": "Lanciarazzi",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 75
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 50
+      }
+    ]
+  },
+  "Launcher_Default_2": {
+    "dev_name": "Launcher_Default_2",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 1200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_2",
+      "name": "Progetto per lanciarazzi 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 150
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 10
+      }
+    ]
+  },
+  "Launcher_Default_3": {
+    "dev_name": "Launcher_Default_3",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 2400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_3",
+      "name": "Progetto per lanciarazzi 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 225
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 20
+      }
+    ]
+  },
+  "Launcher_Default_4": {
+    "dev_name": "Launcher_Default_4",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 4800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_4",
+      "name": "Progetto per lanciarazzi 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 337
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default_5": {
+    "dev_name": "Launcher_Default_5",
+    "description": "it_Text",
+    "name": "it_Text",
+    "creates_amount": 1,
+    "work_required": 9600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_5",
+      "name": "Progetto per lanciarazzi 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 505
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 202
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 40
+      }
+    ]
+  },
+  "HomingSphereLauncher": {
+    "dev_name": "HomingSphereLauncher",
+    "description": "Uno strumento per lanciare sfere. Le sfere scagliate inseguono i Pal.",
+    "name": "Lanciasfere a ricerca",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 200
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 20
+      }
+    ]
+  },
+  "SphereLauncher": {
+    "dev_name": "SphereLauncher",
+    "description": "Un moderno lanciasfere capace di lanciare più sfere insieme. Permette di catturare in massa i branchi di Pal.",
+    "name": "Lanciasfere a frammentazione",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 10
+      }
+    ]
+  },
+  "SphereLauncher_Once": {
+    "dev_name": "SphereLauncher_Once",
+    "description": "Uno strumento per lanciare sfere. Permette di catturare Pal distanti.",
+    "name": "Lanciasfere a colpo singolo",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 5
+      }
+    ]
+  },
+  "DecalGun_1": {
+    "dev_name": "DecalGun_1",
+    "description": "Misteriosa arma che spara decalcomanie di Cattiva. Divertiti a usarla su muri e soffitti.",
+    "name": "Decalcopistola 1",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_2": {
+    "dev_name": "DecalGun_2",
+    "description": "Misteriosa arma che spara decalcomanie di Lamball. Divertiti a usarla su muri e soffitti.",
+    "name": "Decalcopistola 2",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_3": {
+    "dev_name": "DecalGun_3",
+    "description": "Misteriosa arma che spara decalcomanie di Melpaca. Divertiti a usarla su muri e soffitti.",
+    "name": "Decalcopistola 3",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_4": {
+    "dev_name": "DecalGun_4",
+    "description": "Misteriosa arma che spara decalcomanie di Anubis. Divertiti a usarla su muri e soffitti.",
+    "name": "Decalcopistola 4",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_5": {
+    "dev_name": "DecalGun_5",
+    "description": "Misteriosa arma che spara decalcomanie di Relaxaurus. Divertiti a usarla su muri e soffitti.",
+    "name": "Decalcopistola 5",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 3
+      }
+    ]
+  },
+  "GrapplingGun_1": {
+    "dev_name": "GrapplingGun_1",
+    "description": "it_Text",
+    "name": "Pistola con rampino",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 1
+      }
+    ]
+  },
+  "GrapplingGun_2": {
+    "dev_name": "GrapplingGun_2",
+    "description": "it_Text",
+    "name": "Pistola con rampino mega",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 4
+      }
+    ]
+  },
+  "GrapplingGun_3": {
+    "dev_name": "GrapplingGun_3",
+    "description": "it_Text",
+    "name": "Pistola con rampino giga",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 8
+      }
+    ]
+  },
+  "GrapplingGun_4": {
+    "dev_name": "GrapplingGun_4",
+    "description": "it_Text",
+    "name": "Pistola con rampino tera",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 15
+      }
+    ]
+  },
+  "FragGrenade": {
+    "dev_name": "FragGrenade",
+    "description": "it_Text",
+    "name": "Bomba a frammentazione",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Polvere da sparo",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Fire": {
+    "dev_name": "FragGrenade_Fire",
+    "description": "Bomba incendiaria per il combattimento a media distanza. All'impatto, avvolge la zona colpita tra le fiamme.",
+    "name": "Bomba incendiaria",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Elec": {
+    "dev_name": "FragGrenade_Elec",
+    "description": "Bomba elettrica per il combattimento a media distanza. All'impatto, rilascia una scarica elettrica nella zona colpita.",
+    "name": "Bomba elettrica",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Organo elettrico",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Ice": {
+    "dev_name": "FragGrenade_Ice",
+    "description": "Bomba congelante per il combattimento a media distanza. All'impatto, congela la zona colpita.",
+    "name": "Bomba congelante",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 1
+      }
+    ]
+  },
+  "ClothArmor": {
+    "dev_name": "ClothArmor",
+    "description": "Indumento realizzato a partire dal Stoffa. Protegge dal freddo della notte.",
+    "name": "Abiti di stoffa",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorHeat": {
+    "dev_name": "ClothArmorHeat",
+    "description": "Abiti di stoffa per i territori più caldi. Permette di resistere al calore.",
+    "name": "Abito per regioni calde",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorCold": {
+    "dev_name": "ClothArmorCold",
+    "description": "Abiti di stoffa per i territori più freddi. Permette di resistere al freddo.",
+    "name": "Abito per regioni gelide",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 2
+      }
+    ]
+  },
+  "FurArmor": {
+    "dev_name": "FurArmor",
+    "description": "Un'armatura di Cuoio. È calda quanto resistente agli attacchi.",
+    "name": "Armatura di pelliccia",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      }
+    ]
+  },
+  "FurArmorHeat": {
+    "dev_name": "FurArmorHeat",
+    "description": "Armatura di pelliccia per i territori più caldi. Permette di resistere al calore.",
+    "name": "Armatura di pelliccia per il calore",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 4
+      }
+    ]
+  },
+  "FurArmorCold": {
+    "dev_name": "FurArmorCold",
+    "description": "Armatura di pelliccia per i territori più freddi. Permette di resistere al freddo.",
+    "name": "Armatura di pelliccia per il gelo",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 15
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 4
+      }
+    ]
+  },
+  "CopperArmor": {
+    "dev_name": "CopperArmor",
+    "description": "Un'armatura di metallo. Ha una grande capacità difensiva, ma anche un grande peso.",
+    "name": "Armatura di metallo",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperArmorHeat": {
+    "dev_name": "CopperArmorHeat",
+    "description": "Armatura di metallo modificata. Estremamente ignifuga.",
+    "name": "Armatura di metallo per il calore",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 8
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 8
+      }
+    ]
+  },
+  "CopperArmorCold": {
+    "dev_name": "CopperArmorCold",
+    "description": "Armatura di metallo modificata. Adatta ai territori più freddi.",
+    "name": "Armatura di metallo per il gelo",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 8
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 8
+      }
+    ]
+  },
+  "IronArmor": {
+    "dev_name": "IronArmor",
+    "description": "Un'armatura realizzata con metallo di alta qualità. Vanta un grande potere difensivo, ma pesa un sacco.",
+    "name": "Armatura di metallo raffinato",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 15
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 2
+      }
+    ]
+  },
+  "IronArmorHeat": {
+    "dev_name": "IronArmorHeat",
+    "description": "Armatura di metallo raffinato modificata. Estremamente ignifuga.",
+    "name": "Armatura di metallo raffinato per il calore",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 12
+      }
+    ]
+  },
+  "IronArmorCold": {
+    "dev_name": "IronArmorCold",
+    "description": "Armatura di metallo raffinato modificata. Adatta ai territori più freddi.",
+    "name": "Armatura di metallo raffinato per il gelo",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 12
+      }
+    ]
+  },
+  "StealArmor": {
+    "dev_name": "StealArmor",
+    "description": "Un'armatura in Lingotto di metallo Pal. Ha una grande capacità difensiva, ma è molto pesante.\r\nColma di coraggio e fa sentire come gli eroi delle leggende.",
+    "name": "Armatura di metallo Pal",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 4
+      }
+    ]
+  },
+  "StealArmorHeat": {
+    "dev_name": "StealArmorHeat",
+    "description": "Armatura di metallo Pal modificata. Estremamente ignifuga.",
+    "name": "Armatura di metallo Pal per il calore",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 6
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 16
+      }
+    ]
+  },
+  "StealArmorCold": {
+    "dev_name": "StealArmorCold",
+    "description": "Armatura di metallo Pal modificata. Adatta ai territori più freddi.",
+    "name": "Armatura di metallo Pal per il gelo",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 16
+      }
+    ]
+  },
+  "FurHelmet": {
+    "dev_name": "FurHelmet",
+    "description": "Degli orecchini di piume. Sembrano proteggere la testa da ferite letali, non si sa bene come.",
+    "name": "Piuma decorativa",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperHelmet": {
+    "dev_name": "CopperHelmet",
+    "description": "Un elmo di metallo. Una protezione sicura e affidabile per i propri pensieri.",
+    "name": "Elmo di metallo",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "IronHelmet": {
+    "dev_name": "IronHelmet",
+    "description": "Un elmo realizzato in metallo di alta qualità. La lucentezza del metallo dà un'aria di grande nobiltà.",
+    "name": "Elmo di metallo raffinato",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      }
+    ]
+  },
+  "StealHelmet": {
+    "dev_name": "StealHelmet",
+    "description": "Un elmo in Lingotto di metallo Pal. La sua qualità è invidiata da tutti. È il simbolo di un vero guerriero.",
+    "name": "Elmo di metallo Pal",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "Arrow": {
+    "dev_name": "Arrow",
+    "description": "Munizioni per Arco antiquato. Si possono realizzare con un Banco da lavoro primitivo.",
+    "name": "Freccia",
+    "creates_amount": 3,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 1
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Fire": {
+    "dev_name": "Arrow_Fire",
+    "description": "Munizioni per Arco incendiario. Si possono realizzare con un Banco da lavoro primitivo.",
+    "name": "Freccia incendiaria",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Poison": {
+    "dev_name": "Arrow_Poison",
+    "description": "Munizioni per Arco avvelenatore. Si possono realizzare con un Banco da lavoro primitivo.",
+    "name": "Freccia avvelenata",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 3
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ghiandole velenifere",
+        "amount": 1
+      }
+    ]
+  },
+  "RoughBullet": {
+    "dev_name": "RoughBullet",
+    "description": "Proiettili per armi come Moschetto e Pistola artigianale. Si possono realizzare con un Banco da lavoro per armi.",
+    "name": "Munizioni semplici per <itemName id=|Musket|/> e armi simili.",
+    "creates_amount": 10,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Polvere da sparo",
+        "amount": 1
+      }
+    ]
+  },
+  "HandgunBullet": {
+    "dev_name": "HandgunBullet",
+    "description": "Proiettili per armi come la Pistola. Si possono realizzare con una Banco da lavoro per armi.",
+    "name": "Proiettili per pistola",
+    "creates_amount": 5,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Polvere da sparo",
+        "amount": 1
+      }
+    ]
+  },
+  "RifleBullet": {
+    "dev_name": "RifleBullet",
+    "description": "Diventa possibile produrre Proiettili per fucile in un Banco da lavoro per armi.",
+    "name": "Proiettili per fucile",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Polvere da sparo",
+        "amount": 2
+      }
+    ]
+  },
+  "ShotgunBullet": {
+    "dev_name": "ShotgunBullet",
+    "description": "Diventa possibile produrre Proiettili per fucile a canna liscia in un Banco da lavoro per armi.",
+    "name": "Proiettili per fucile a canna liscia",
+    "creates_amount": 5,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Polvere da sparo",
+        "amount": 3
+      }
+    ]
+  },
+  "AssaultRifleBullet": {
+    "dev_name": "AssaultRifleBullet",
+    "description": "Proiettili per armi come la Fucile d'assalto. Si possono realizzare con una Fabbrica per la produzione in serie di armi.",
+    "name": "Munizioni per <itemName id=|AssaultRifle|/> e armi simili.",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Polvere da sparo",
+        "amount": 2
+      }
+    ]
+  },
+  "ExplosiveBullet": {
+    "dev_name": "ExplosiveBullet",
+    "description": "Munizioni per Lanciarazzi e armi simili.",
+    "name": "Razzi",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "Lingotto di metallo Pal",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "Polvere da sparo",
+        "amount": 5
+      }
+    ]
+  },
+  "InkBullet": {
+    "dev_name": "InkBullet",
+    "description": "Proiettili per la decalcopistola. Disegnano Pal con l'inchiostro.",
+    "name": "Inchiostro",
+    "creates_amount": 10,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 1
+      }
+    ]
+  },
+  "Shield_01": {
+    "dev_name": "Shield_01",
+    "description": "Uno scudo misterioso creato con la tecnologia Paldium. Si rigenera automaticamente mentre non è sotto attacco.",
+    "name": "Scudo normale",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      }
+    ]
+  },
+  "Shield_02": {
+    "dev_name": "Shield_02",
+    "description": "Uno scudo misterioso creato con la tecnologia Paldium. Grazie ai miglioramenti rispetto al prototipo, ha una maggiore capacità difensiva.\r\nSi può realizzare con un Banco da lavoro di qualità.",
+    "name": "Scudo mega",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      }
+    ]
+  },
+  "Shield_03": {
+    "dev_name": "Shield_03",
+    "description": "Uno scudo misterioso creato con la tecnologia Paldium. Le sue prestazioni sono migliorate ancora.\r\nSi può realizzare con una Fabbrica per la produzione in serie.",
+    "name": "Scudo giga",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 50
+      }
+    ]
+  },
+  "Shield_04": {
+    "dev_name": "Shield_04",
+    "description": "Uno scudo misterioso creato con la tecnologia Paldium. Grazie a continui miglioramenti, offre le più alte prestazioni possibili.\r\nSi può realizzare con una Fabbrica per la produzione in serie II.",
+    "name": "Scudo tera",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 100
+      }
+    ]
+  },
+  "Glider_Old": {
+    "dev_name": "Glider_Old",
+    "description": "Un aliante con cui solcare l'aria. Ha una struttura semplice, quindi non è molto veloce.",
+    "name": "Paracadute normale",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 2
+      }
+    ]
+  },
+  "Glider_Good": {
+    "dev_name": "Glider_Good",
+    "description": "Un aliante con cui solcare l'aria. È un modello per la produzione di massa, discretamente veloce.",
+    "name": "Aliante mega",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 20
+      }
+    ]
+  },
+  "Glider_Super": {
+    "dev_name": "Glider_Super",
+    "description": "Un aliante con cui solcare l'aria. Ha prestazioni migliori e può volare a grandi velocità.",
+    "name": "Aliante giga",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 100
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "Stoffa di alta qualità",
+        "amount": 10
+      }
+    ]
+  },
+  "Lantern": {
+    "dev_name": "Lantern",
+    "description": "it_Text",
+    "name": "Lanterna portatile",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "Componenti dell'antica civiltà",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier1": {
+    "dev_name": "AutoMealPouch_Tier1",
+    "description": "it_Text",
+    "name": "Borsa di cibo piccola",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 3
+      }
+    ]
+  },
+  "AutoMealPouch_Tier2": {
+    "dev_name": "AutoMealPouch_Tier2",
+    "description": "it_Text",
+    "name": "Borsa di cibo adeguata",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier3": {
+    "dev_name": "AutoMealPouch_Tier3",
+    "description": "it_Text",
+    "name": "Borsa di cibo grande",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 50
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      }
+    ]
+  },
+  "AutoMealPouch_Tier4": {
+    "dev_name": "AutoMealPouch_Tier4",
+    "description": "it_Text",
+    "name": "Borsa di cibo enorme",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 90
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 35
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier5": {
+    "dev_name": "AutoMealPouch_Tier5",
+    "description": "it_Text",
+    "name": "Borsa di cibo titanica",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 200
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "Fibra di carbonio",
+        "amount": 20
+      }
+    ]
+  },
+  "Cloth": {
+    "dev_name": "Cloth",
+    "description": "Stoffa ricavato tessendo la Lana. È necessario per creare protezioni.",
+    "name": "Stoffa",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "Lana",
+        "amount": 2
+      }
+    ]
+  },
+  "Cloth2": {
+    "dev_name": "Cloth2",
+    "description": "Stoffa di alta qualità ricavata tessendo grandi quantità di Lana. È necessaria per creare protezioni di alta qualità.\r\nSi può produrre con un Banco da lavoro di qualità.",
+    "name": "Stoffa di alta qualità",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "Lana",
+        "amount": 10
+      }
+    ]
+  },
+  "Gunpowder2": {
+    "dev_name": "Gunpowder2",
+    "description": "La Polvere da sparo usata per sparare proiettili. È necessaria per creare munizioni.\r\nSi produce al Banco da lavoro di qualità.",
+    "name": "Polvere da sparo",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Charcoal",
+        "name": "Resti carbonizzati",
+        "amount": 2
+      },
+      {
+        "dev_name": "Sulfur",
+        "name": "Zolfo",
+        "amount": 1
+      }
+    ]
+  },
+  "Charcoal": {
+    "dev_name": "Charcoal",
+    "description": "Resti carbonizzati ricavato bruciando Legno. Combinandolo con lo Zolfo è possibile produrre la Polvere da sparo.",
+    "name": "Resti carbonizzati",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 2
+      }
+    ]
+  },
+  "MachineParts": {
+    "dev_name": "MachineParts",
+    "description": "it_Text",
+    "name": "Chiodo",
+    "creates_amount": 2,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 1
+      }
+    ]
+  },
+  "MachineParts2": {
+    "dev_name": "MachineParts2",
+    "description": "Circuito elettrico per la creazione di strumenti di precisione. Si producono al Fabbrica per la produzione in serie.",
+    "name": "Circuito elettrico",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Quartz",
+        "name": "Quarzo puro",
+        "amount": 4
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 2
+      }
+    ]
+  },
+  "Polymer": {
+    "dev_name": "Polymer",
+    "description": "it_Text",
+    "name": "Polimero",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 2
+      }
+    ]
+  },
+  "Cement": {
+    "dev_name": "Cement",
+    "description": "it_Text",
+    "name": "Cemento",
+    "creates_amount": 10,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 1
+      }
+    ]
+  },
+  "CarbonFiber": {
+    "dev_name": "CarbonFiber",
+    "description": "it_Text",
+    "name": "Fibra di carbonio",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Coal",
+        "name": "Carbone",
+        "amount": 2
+      }
+    ]
+  },
+  "RepairKit": {
+    "dev_name": "RepairKit",
+    "description": "Uno strumento per riparare le strutture. Va usato sulle strutture danneggiate.",
+    "name": "Kit di riparazione",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperIngot": {
+    "dev_name": "CopperIngot",
+    "description": "Una risorsa per costruire armi e protezioni in metallo. Può essere ricavato raffinando il Minerale metallico nella fornace.",
+    "name": "Lingotto di metallo",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Minerale metallico",
+        "amount": 2
+      }
+    ]
+  },
+  "IronIngot": {
+    "dev_name": "IronIngot",
+    "description": "Una risorsa con cui creare armi e protezioni in metallo di alta qualità. Si realizza inserendo nella fornace Minerale metallico e Carbone.",
+    "name": "Lingotto di metallo raffinato",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Minerale metallico",
+        "amount": 2
+      },
+      {
+        "dev_name": "Coal",
+        "name": "Carbone",
+        "amount": 2
+      }
+    ]
+  },
+  "StealIngot": {
+    "dev_name": "StealIngot",
+    "description": "Una risorsa per costruire armi e protezioni in metallo Pal. Puoi incrementarne la durezza creando una lega di metallo e Paldium.",
+    "name": "Lingotto di metallo Pal",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "Minerale metallico",
+        "amount": 4
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 2
+      }
+    ]
+  },
+  "Herbs": {
+    "dev_name": "Herbs",
+    "description": "Medicine mediocri utili per riprendersi da malanni e storte. Mangiarle non fa recuperare PV.",
+    "name": "Medicine mediocri",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 2
+      }
+    ]
+  },
+  "Medicines": {
+    "dev_name": "Medicines",
+    "description": "Medicine efficaci contro Ulcera gastrica e Frattura. Non fanno recuperare PV.",
+    "name": "Medicine",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 1
+      }
+    ]
+  },
+  "LuxuryMedicines": {
+    "dev_name": "LuxuryMedicines",
+    "description": "Medicine di qualità efficaci contro Debolezza e Depressione. Non fanno recuperare PV.",
+    "name": "Medicine di qualità",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 2
+      }
+    ]
+  },
+  "MindControlDrug": {
+    "dev_name": "MindControlDrug",
+    "description": "Farmaco del controllo mentale molto utile per tenere sotto controllo gli elementi irrequieti. Non fa recuperare PV.",
+    "name": "Farmaco del controllo mentale",
+    "creates_amount": 1,
+    "work_required": 1000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 10
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 3
+      }
+    ]
+  },
+  "Opium": {
+    "dev_name": "Opium",
+    "description": "Una sostanza che fa sentire meglio. Accelera la velocità delle attività per un po' di tempo,\r\nma consuma punti SAN.",
+    "name": "Succo di fiore sospetto",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Fiore meraviglioso",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 1
+      }
+    ]
+  },
+  "Narcotic": {
+    "dev_name": "Narcotic",
+    "description": "Una sostanza che fa sentire molto bene. Accelera di parecchio la velocità delle attività per un po' di tempo,\r\nma consuma altrettanto velocemente punti SAN.",
+    "name": "Succo di fiore strano",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Fiore meraviglioso",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 2
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 2
+      }
+    ]
+  },
+  "StatusPointResetSan": {
+    "dev_name": "StatusPointResetSan",
+    "description": "Bevendolo, il giocatore può resettare i suoi punti statistica.\r\nNon ha effetto sui Pal.",
+    "name": "Farmaco dell'oblio",
+    "creates_amount": 1,
+    "work_required": 3000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "Fiore meraviglioso",
+        "amount": 99
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "Ossa",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 50
+      }
+    ]
+  },
+  "Fiber": {
+    "dev_name": "Fiber",
+    "description": "Una fibra ricavata dagli alberi. Si usa per creare oggetti come gli archi.",
+    "name": "Fibra",
+    "creates_amount": 2,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 1
+      }
+    ]
+  },
+  "Pal_crystal_S": {
+    "dev_name": "Pal_crystal_S",
+    "description": "Il potere dell'Albero del mondo in forma cristallizzata. Permette di realizzare oggetti e strutture dal potere occulto.",
+    "name": "Frammento di Paldium",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 5
+      }
+    ]
+  },
+  "BerrySeeds": {
+    "dev_name": "BerrySeeds",
+    "description": "Semi per coltivare Bacche rosse. Sono necessari per avviare le coltivazioni.\r\nSi ottengono raccogliendo le Bacche rosse.",
+    "name": "Semi di bacca",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      }
+    ]
+  },
+  "TomatoSeeds": {
+    "dev_name": "TomatoSeeds",
+    "description": "Semi per coltivare Pomodoro. Sono necessari per avviare le coltivazioni.\r\nSi ottengono dai mercanti.",
+    "name": "Semi di pomodoro",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "Pomodoro",
+        "amount": 2
+      }
+    ]
+  },
+  "LettuceSeeds": {
+    "dev_name": "LettuceSeeds",
+    "description": "Semi per coltivare Lattuga. Sono necessari per avviare le coltivazioni.\r\nSi ottengono dai mercanti.",
+    "name": "Semi di lattuga",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "Lattuga",
+        "amount": 2
+      }
+    ]
+  },
+  "WheatSeeds": {
+    "dev_name": "WheatSeeds",
+    "description": "Semi per coltivare Grano. Sono necessari per avviare le coltivazioni.\r\nSi ottengono dai mercanti.",
+    "name": "Semi di grano",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "Grano",
+        "amount": 2
+      }
+    ]
+  },
+  "Flour": {
+    "dev_name": "Flour",
+    "description": "Farina di grano ricavata dal Grano. Permette di preparare il Pane.",
+    "name": "Farina di grano",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "Grano",
+        "amount": 3
+      }
+    ]
+  },
+  "Baked_Berries": {
+    "dev_name": "Baked_Berries",
+    "description": "Cuocerle ne incrementa i valori nutritivi. Fanno gonfiare la pancia per ragioni ignote.",
+    "name": "Bacche cotte",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMushroom": {
+    "dev_name": "BakedMushroom",
+    "description": "Un fungo cotto, dai migliori valori nutritivi. Fa gonfiare la pancia per ragioni ignote.",
+    "name": "Fungo cotto",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Fungo",
+        "amount": 1
+      }
+    ]
+  },
+  "Pan": {
+    "dev_name": "Pan",
+    "description": "Del Pane fatto cuocendo la Farina di grano. Un cibo buono e pratico.",
+    "name": "Pane",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      }
+    ]
+  },
+  "FriedEggs": {
+    "dev_name": "FriedEggs",
+    "description": "Cuoci un Uovo per renderlo ancora più buono. Fa gonfiare la pancia per ragioni ignote.",
+    "name": "Uovo al tegamino",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 1
+      }
+    ]
+  },
+  "HotMilk": {
+    "dev_name": "HotMilk",
+    "description": "Riscaldarlo l'ha reso ancora più buono. Fa gonfiare la pancia per ragioni ignote.",
+    "name": "Latte caldo",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 1
+      }
+    ]
+  },
+  "JamBun": {
+    "dev_name": "JamBun",
+    "description": "Ricetta per mettere la marmellata nel Pane. La dolcezza delle bacche esalta piacevolmente il sapore del pane.",
+    "name": "Pane e marmellata",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      }
+    ]
+  },
+  "Pancake": {
+    "dev_name": "Pancake",
+    "description": "Ricetta che combina Farina di grano e Latte. Mangiarla fa calare più lentamente i punti SAN per un po' di tempo.",
+    "name": "Pancake",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 1
+      }
+    ]
+  },
+  "Salad": {
+    "dev_name": "Salad",
+    "description": "Insalata che combina Lattuga e Pomodoro. Mangiarla aumenta leggermente la velocità delle attività per un po' di tempo.",
+    "name": "Insalata",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "Lattuga",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Pomodoro",
+        "amount": 2
+      }
+    ]
+  },
+  "Omelet": {
+    "dev_name": "Omelet",
+    "description": "Ricetta che combina Uovo e ketchup. Attacco: +10% per un po' di tempo",
+    "name": "Omelette",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "Pomodoro",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 2
+      }
+    ]
+  },
+  "MarinatedMushrooms": {
+    "dev_name": "MarinatedMushrooms",
+    "description": "Ricetta per marinare i Fungo. Difesa: +10% per un po' di tempo",
+    "name": "Funghi marinati",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Fungo",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      }
+    ]
+  },
+  "MushroomSoup": {
+    "dev_name": "MushroomSoup",
+    "description": "Zuppa cremosa di Fungo. Mangiarla sazia per un po' di tempo.",
+    "name": "Zuppa di funghi",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "Fungo",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 2
+      }
+    ]
+  },
+  "Pizza": {
+    "dev_name": "Pizza",
+    "description": "Ricetta che combina Pane, Bacche rosse, Pomodoro e formaggio. Mangiarla sazia temporaneamente\r\ne aumenta leggermente la velocità delle attività per un po' di tempo.",
+    "name": "Pizza",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Pomodoro",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 2
+      }
+    ]
+  },
+  "Carbonara": {
+    "dev_name": "Carbonara",
+    "description": "Pasta con Uovo e Latte. Difesa: +20% per un po' di tempo",
+    "name": "Carbonara",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 2
+      }
+    ]
+  },
+  "Cake": {
+    "dev_name": "Cake",
+    "description": "Un cibo per occasioni speciali. Lasciandola nel forziere di un ranch,\r\ndarà energia ai Pal presenti, che ti ricompenseranno con un uovo.",
+    "name": "Torta",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 5
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 8
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 7
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 8
+      },
+      {
+        "dev_name": "Honey",
+        "name": "Miele",
+        "amount": 2
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog": {
+    "dev_name": "SkillUnlock_Hedgehog",
+    "description": "it_Text",
+    "name": "Guanti di Jolthog",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Organo elettrico",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog_Ice": {
+    "dev_name": "SkillUnlock_Hedgehog_Ice",
+    "description": "it_Text",
+    "name": "Guanti di Jolthog Cryst",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 6
+      }
+    ]
+  },
+  "SkillUnlock_Kitsunebi": {
+    "dev_name": "SkillUnlock_Kitsunebi",
+    "description": "it_Text",
+    "name": "Bardatura di Foxparks",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Alpaca": {
+    "dev_name": "SkillUnlock_Alpaca",
+    "description": "it_Text",
+    "name": "Sella di Melpaca",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Lana",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_MopKing": {
+    "dev_name": "SkillUnlock_MopKing",
+    "description": "it_Text",
+    "name": "Sella di Sweepa",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 8
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Boar": {
+    "dev_name": "SkillUnlock_Boar",
+    "description": "it_Text",
+    "name": "Sella di Rushoar",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_FlyingManta": {
+    "dev_name": "SkillUnlock_FlyingManta",
+    "description": "it_Text",
+    "name": "Guantoni di Celaray",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Carbunclo": {
+    "dev_name": "SkillUnlock_Carbunclo",
+    "description": "it_Text",
+    "name": "Mitra di Lifmunk",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Garm": {
+    "dev_name": "SkillUnlock_Garm",
+    "description": "it_Text",
+    "name": "Bardatura con sella di Direhowl",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Monkey": {
+    "dev_name": "SkillUnlock_Monkey",
+    "description": "it_Text",
+    "name": "Fucile d'assalto di Tanzee",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent": {
+    "dev_name": "SkillUnlock_Serpent",
+    "description": "it_Text",
+    "name": "Sella di Surfent",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent_Ground": {
+    "dev_name": "SkillUnlock_Serpent_Ground",
+    "description": "it_Text",
+    "name": "Sella di Aquadon Terra",
+    "creates_amount": 1,
+    "work_required": 9600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 6
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_Deer": {
+    "dev_name": "SkillUnlock_Deer",
+    "description": "it_Text",
+    "name": "Sella di Eikthyrdeer",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_Deer_Ground": {
+    "dev_name": "SkillUnlock_Deer_Ground",
+    "description": "it_Text",
+    "name": "Sella di Eikthyrdeer Terra",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 6
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 12
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 18
+      }
+    ]
+  },
+  "SkillUnlock_NaughtyCat": {
+    "dev_name": "SkillUnlock_NaughtyCat",
+    "description": "it_Text",
+    "name": "Sella di Grintale",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Kirin": {
+    "dev_name": "SkillUnlock_Kirin",
+    "description": "it_Text",
+    "name": "Sella di Univolt",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Organo elettrico",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_NegativeOctopus": {
+    "dev_name": "SkillUnlock_NegativeOctopus",
+    "description": "it_Text",
+    "name": "Guantoni di Killamari",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ghiandole velenifere",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_ColorfulBird": {
+    "dev_name": "SkillUnlock_ColorfulBird",
+    "description": "it_Text",
+    "name": "Guanti di Tocotoco",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_HawkBird": {
+    "dev_name": "SkillUnlock_HawkBird",
+    "description": "it_Text",
+    "name": "Sella di Nitewing",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlameBuffalo": {
+    "dev_name": "SkillUnlock_FlameBuffalo",
+    "description": "it_Text",
+    "name": "Sella di Arsox",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_FlowerRabbit": {
+    "dev_name": "SkillUnlock_FlowerRabbit",
+    "description": "it_Text",
+    "name": "Collare di Flopie",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_DrillGame": {
+    "dev_name": "SkillUnlock_DrillGame",
+    "description": "it_Text",
+    "name": "Fascia di Digtoise",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Penguin": {
+    "dev_name": "SkillUnlock_Penguin",
+    "description": "it_Text",
+    "name": "Lanciarazzi di Pengullet",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "Pietra",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur": {
+    "dev_name": "SkillUnlock_FlowerDinosaur",
+    "description": "it_Text",
+    "name": "Sella di Dinossom",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur_Electric": {
+    "dev_name": "SkillUnlock_FlowerDinosaur_Electric",
+    "description": "it_Text",
+    "name": "Sella di Dinossom Lux",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_DreamDemon": {
+    "dev_name": "SkillUnlock_DreamDemon",
+    "description": "it_Text",
+    "name": "Collare di Daedream",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus": {
+    "dev_name": "SkillUnlock_SakuraSaurus",
+    "description": "it_Text",
+    "name": "Sella di Broncherry",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus_Water": {
+    "dev_name": "SkillUnlock_SakuraSaurus_Water",
+    "description": "it_Text",
+    "name": "Sella di Water Broncherry",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon": {
+    "dev_name": "SkillUnlock_BirdDragon",
+    "description": "it_Text",
+    "name": "Sella di Vanwyrm",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon_Ice": {
+    "dev_name": "SkillUnlock_BirdDragon_Ice",
+    "description": "it_Text",
+    "name": "Sella di Vanwyrm Cryst",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_WeaselDragon": {
+    "dev_name": "SkillUnlock_WeaselDragon",
+    "description": "it_Text",
+    "name": "Sella di Chillet",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes": {
+    "dev_name": "SkillUnlock_WindChimes",
+    "description": "it_Text",
+    "name": "Guantoni di Hangyu",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 5
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes_Ice": {
+    "dev_name": "SkillUnlock_WindChimes_Ice",
+    "description": "it_Text",
+    "name": "Guantoni di Hangyu Cryst",
+    "creates_amount": 1,
+    "work_required": 12000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 6
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca": {
+    "dev_name": "SkillUnlock_KingAlpaca",
+    "description": "it_Text",
+    "name": "Sella di Kingpaca",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Lana",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca_Ice": {
+    "dev_name": "SkillUnlock_KingAlpaca_Ice",
+    "description": "it_Text",
+    "name": "Sella di Ice Kingpaca",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 18
+      },
+      {
+        "dev_name": "Wool",
+        "name": "Lana",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon": {
+    "dev_name": "SkillUnlock_FairyDragon",
+    "description": "it_Text",
+    "name": "Sella di Elphidran",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon_Water": {
+    "dev_name": "SkillUnlock_FairyDragon_Water",
+    "description": "it_Text",
+    "name": "Sella di Water Elphidran",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_RaijinDaughter": {
+    "dev_name": "SkillUnlock_RaijinDaughter",
+    "description": "it_Text",
+    "name": "Collare di Dazzi",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Eagle": {
+    "dev_name": "SkillUnlock_Eagle",
+    "description": "it_Text",
+    "name": "Guantoni di Galeclaw",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GhostBeast": {
+    "dev_name": "SkillUnlock_GhostBeast",
+    "description": "it_Text",
+    "name": "Sella di Maraith",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 25
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda": {
+    "dev_name": "SkillUnlock_GrassPanda",
+    "description": "it_Text",
+    "name": "Lanciagranate di Mossanda",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda_Electric": {
+    "dev_name": "SkillUnlock_GrassPanda_Electric",
+    "description": "it_Text",
+    "name": "Lanciagranate di Mossanda Lux",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster": {
+    "dev_name": "SkillUnlock_VolcanicMonster",
+    "description": "it_Text",
+    "name": "Sella di Reptyro",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster_Ice": {
+    "dev_name": "SkillUnlock_VolcanicMonster_Ice",
+    "description": "it_Text",
+    "name": "Sella di Ice Reptyro",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin": {
+    "dev_name": "SkillUnlock_FireKirin",
+    "description": "it_Text",
+    "name": "Sella di Pyrin",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin_Dark": {
+    "dev_name": "SkillUnlock_FireKirin_Dark",
+    "description": "it_Text",
+    "name": "Sella di Dark Pyrin",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 36
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth": {
+    "dev_name": "SkillUnlock_GrassMammoth",
+    "description": "it_Text",
+    "name": "Sella di Mammorest",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 70
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 60
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth_Ice": {
+    "dev_name": "SkillUnlock_GrassMammoth_Ice",
+    "description": "it_Text",
+    "name": "Sella di Mammorest Cryst",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 60
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 84
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 12
+      },
+      {
+        "dev_name": "Wood",
+        "name": "Legno",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 72
+      }
+    ]
+  },
+  "SkillUnlock_BlueDragon": {
+    "dev_name": "SkillUnlock_BlueDragon",
+    "description": "it_Text",
+    "name": "Sella di Azurobe",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi": {
+    "dev_name": "SkillUnlock_Umihebi",
+    "description": "it_Text",
+    "name": "Sella di Jormuntide",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi_Fire": {
+    "dev_name": "SkillUnlock_Umihebi_Fire",
+    "description": "it_Text",
+    "name": "Sella di Jormuntide Ignis",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 60
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_AmaterasuWolf": {
+    "dev_name": "SkillUnlock_AmaterasuWolf",
+    "description": "it_Text",
+    "name": "Sella di Kitsun",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_ThunderDog": {
+    "dev_name": "SkillUnlock_ThunderDog",
+    "description": "it_Text",
+    "name": "Sella di Rayhound",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Organo elettrico",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Manticore": {
+    "dev_name": "SkillUnlock_Manticore",
+    "description": "it_Text",
+    "name": "Sella di Blazehowl",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 50
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_Manticore_Dark": {
+    "dev_name": "SkillUnlock_Manticore_Dark",
+    "description": "it_Text",
+    "name": "Sella di Dark Kingferno",
+    "creates_amount": 1,
+    "work_required": 36000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 36
+      }
+    ]
+  },
+  "SkillUnlock_IceDeer": {
+    "dev_name": "SkillUnlock_IceDeer",
+    "description": "it_Text",
+    "name": "Sella di Reindrix",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 25
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "Horn",
+        "name": "Corno",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_ThunderBird": {
+    "dev_name": "SkillUnlock_ThunderBird",
+    "description": "it_Text",
+    "name": "Sella di Beakon",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Organo elettrico",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_RedArmorBird": {
+    "dev_name": "SkillUnlock_RedArmorBird",
+    "description": "it_Text",
+    "name": "Sella di Ragnahawk",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Horus": {
+    "dev_name": "SkillUnlock_Horus",
+    "description": "it_Text",
+    "name": "Sella di Faleris",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_SkyDragon": {
+    "dev_name": "SkillUnlock_SkyDragon",
+    "description": "it_Text",
+    "name": "Sella di Quivern",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_HadesBird": {
+    "dev_name": "SkillUnlock_HadesBird",
+    "description": "it_Text",
+    "name": "Sella di Helzephyr",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "Organo elettrico",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_FengyunDeeper": {
+    "dev_name": "SkillUnlock_FengyunDeeper",
+    "description": "it_Text",
+    "name": "Sella di Fenglope",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "Stoffa",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku": {
+    "dev_name": "SkillUnlock_Suzaku",
+    "description": "it_Text",
+    "name": "Sella di Suzaku",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "Organo per l'ignizione",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku_Water": {
+    "dev_name": "SkillUnlock_Suzaku_Water",
+    "description": "it_Text",
+    "name": "Sella di Water Suzaku",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 24
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "Fluidi di Pal",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_KingBahamut": {
+    "dev_name": "SkillUnlock_KingBahamut",
+    "description": "it_Text",
+    "name": "Sella di Blazamut",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti": {
+    "dev_name": "SkillUnlock_Yeti",
+    "description": "it_Text",
+    "name": "Sella di Wumpo",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti_Grass": {
+    "dev_name": "SkillUnlock_Yeti_Grass",
+    "description": "it_Text",
+    "name": "Sella di Wumpo Botan",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 36
+      },
+      {
+        "dev_name": "Poppy",
+        "name": "Fiore meraviglioso",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "Fibra",
+        "amount": 60
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_ElecPanda": {
+    "dev_name": "SkillUnlock_ElecPanda",
+    "description": "it_Text",
+    "name": "Minigun di Grizzbolt",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_BlackGriffon": {
+    "dev_name": "SkillUnlock_BlackGriffon",
+    "description": "it_Text",
+    "name": "Sella di Shadowbeak",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 40
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ghiandole velenifere",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 45
+      }
+    ]
+  },
+  "SkillUnlock_BlackMetalDragon": {
+    "dev_name": "SkillUnlock_BlackMetalDragon",
+    "description": "it_Text",
+    "name": "Sella di Astegon",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 55
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon": {
+    "dev_name": "SkillUnlock_LazyDragon",
+    "description": "it_Text",
+    "name": "Lanciarazzi di Relaxaurus",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 35
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon_Electric": {
+    "dev_name": "SkillUnlock_LazyDragon_Electric",
+    "description": "it_Text",
+    "name": "Lanciarazzi di Relaxaurus Lux",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "Polimero",
+        "amount": 42
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 102
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse": {
+    "dev_name": "SkillUnlock_IceHorse",
+    "description": "it_Text",
+    "name": "Sella di Frostallion",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 200
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "Organo congelante",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse_Dark": {
+    "dev_name": "SkillUnlock_IceHorse_Dark",
+    "description": "it_Text",
+    "name": "Sella di Frostallion Noct",
+    "creates_amount": 1,
+    "work_required": 180000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 120
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 240
+      },
+      {
+        "dev_name": "Venom",
+        "name": "Ghiandole velenifere",
+        "amount": 60
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 90
+      }
+    ]
+  },
+  "SkillUnlock_SaintCentaur": {
+    "dev_name": "SkillUnlock_SaintCentaur",
+    "description": "it_Text",
+    "name": "Sella di Paladius",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_BlackCentaur": {
+    "dev_name": "SkillUnlock_BlackCentaur",
+    "description": "it_Text",
+    "name": "Sella di Necromus",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "Lingotto di metallo",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_JetDragon": {
+    "dev_name": "SkillUnlock_JetDragon",
+    "description": "it_Text",
+    "name": "Lanciarazzi di Jetragon",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "Cuoio",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "Lingotto di metallo raffinato",
+        "amount": 200
+      },
+      {
+        "dev_name": "MachineParts2",
+        "name": "Circuito elettrico",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "Frammento di Paldium",
+        "amount": 140
+      }
+    ]
+  },
+  "BakedMeat_ChickenPal": {
+    "dev_name": "BakedMeat_ChickenPal",
+    "description": "Spiedini di pollo cotti con cura. Hanno un sapore delicato ma soddisfacente.",
+    "name": "Spiedini di Chikipi",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Carne di Chikipi",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SheepBall": {
+    "dev_name": "BakedMeat_SheepBall",
+    "description": "Carne insaporita con spezie durante la cottura. Ha un sapore caratteristico e intenso, che coinvolge più sensi.",
+    "name": "Kebab di Lamball",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Carne di Lamball",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Kelpie": {
+    "dev_name": "BakedMeat_Kelpie",
+    "description": "Pesce freschissimo, abbrustolito sul fuoco. Ha un gusto rotondo.",
+    "name": "Grigliata di Kelpsea",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "Carne di Kelpsea",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Eagle": {
+    "dev_name": "BakedMeat_Eagle",
+    "description": "Carne di un uccello che vola in alto nei cieli. Anche da cotta, conserva la sua indomita energia.",
+    "name": "Grigliata di Galeclaw",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "Carne di Galeclaw",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Boar": {
+    "dev_name": "BakedMeat_Boar",
+    "description": "Selvaggina cotta splendidamente. L'esterno è croccante, ma l'interno si scioglie in bocca.\r\nPerfetta per un banchetto luculliano.",
+    "name": "Arrosto di Rushoar",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Carne di Rushoar",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_LazyCatfish": {
+    "dev_name": "BakedMeat_LazyCatfish",
+    "description": "Cotta con una salsa segreta. Un pesce capace di curare il corpo e lo spirito.\r\nIl massimo per l'Addestra-Pal che ha esaurito le forze.",
+    "name": "Carne di Dumud in salsa",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "Carne di Dumud",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Deer": {
+    "dev_name": "BakedMeat_Deer",
+    "description": "Delicato arrosto di carne simile a quella del cervo, una delizia dalla fragranza selvatica.\r\nIl suo sublime sapore ti arricchirà la vita.",
+    "name": "Arrosto di Eikthyrdeer",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Carne di Eikthyrdeer",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_IceDeer": {
+    "dev_name": "BakedMeat_IceDeer",
+    "description": "Non appena togli questa glaciale carne dal fuoco, la temperatura va a picco, preservandone la freschezza.\r\nLa perfetta razione d'emergenza.",
+    "name": "Arrosto di Reindrix",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "Carne di Reindrix",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_BerryGoat": {
+    "dev_name": "BakedMeat_BerryGoat",
+    "description": "La carne fragrante di bacche ed erbe ha già in sé tutti gli ingredienti per un arrosto perfetto.\r\nIdeale come pasto caldo e corroborante durante i viaggi.",
+    "name": "Arrosto con erbe di Caprity",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_BerryGoat",
+        "name": "Carne di Caprity",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_CowPal": {
+    "dev_name": "BakedMeat_CowPal",
+    "description": "Una bistecca cotta come si deve. Il suo sapore deciso ti riempirà di forze.",
+    "name": "Bistecca di Mozzarina",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Carne di Mozzarina",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SakuraSaurus": {
+    "dev_name": "BakedMeat_SakuraSaurus",
+    "description": "Carne alla brace che trasmette il vigore del re delle terre selvagge. I succhi della carne colano dalle ossa.\r\nCroccante fuori ma morbidissima dentro.",
+    "name": "Costata di Broncherry",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SakuraSaurus",
+        "name": "Carne di Broncherry",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_GrassMammoth": {
+    "dev_name": "BakedMeat_GrassMammoth",
+    "description": "Ha un sapore ricco e colmo di dignità. Fin dal primo morso, ti sembra di stare tra foreste e ghiacciai.",
+    "name": "Bistecca di Mammorest",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_GrassMammoth",
+        "name": "Carne di Mammorest",
+        "amount": 1
+      }
+    ]
+  },
+  "ChickenSaute": {
+    "dev_name": "ChickenSaute",
+    "description": "Carne simile al pollo, rosolata nel burro. Il limone aggiunge un sapore fresco.\r\nMangiarla aumenta leggermente la velocità delle attività per un po' di tempo.",
+    "name": "Sauté di Chikipi",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Carne di Chikipi",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      }
+    ]
+  },
+  "GrilledSheepHerbs": {
+    "dev_name": "GrilledSheepHerbs",
+    "description": "Per esaltare al massimo le caratteristiche di questa carne ovina, si aggiungono abbondanti bacche fresche.\r\nDifesa: +10% per un po' di tempo",
+    "name": "Arrosto con erbe di Lamball",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Carne di Lamball",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      }
+    ]
+  },
+  "GenghisKhan": {
+    "dev_name": "GenghisKhan",
+    "description": "Una ricetta che prevede la marinatura della carne prima di cuocerla a fuoco lento. Mangiarla aumenta leggermente la velocità delle attività\r\ne fa calare leggermente più lentamente i punti SAN per un po' di tempo.",
+    "name": "Lamball alla Gengis Khan",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "Carne di Lamball",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lattuga",
+        "amount": 2
+      }
+    ]
+  },
+  "Eaglestew": {
+    "dev_name": "Eaglestew",
+    "description": "Una pietanza che, grazie all'attenta cottura, conserva tutto il sapore caratteristico della selvaggina.\r\nMangiarla fa calare leggermente più lentamente i punti SAN per un po' di tempo.",
+    "name": "Stufato di Galeclaw",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "Carne di Galeclaw",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      }
+    ]
+  },
+  "BaconEggs": {
+    "dev_name": "BaconEggs",
+    "description": "Il sapore affumicato del bacon e la dolcezza delle uova si fondono in una perfetta armonia.\r\nAttacco: +10% per un po' di tempo",
+    "name": "Bacon di Rushoar e uova",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Carne di Rushoar",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 2
+      }
+    ]
+  },
+  "StewedIceDeer": {
+    "dev_name": "StewedIceDeer",
+    "description": "Uno stufato di carne dei paesi freddi, bollito con vari ortaggi. La carne è tenera e l'insieme ha un sapore delicato.\r\nMangiarlo sazia per un po' di tempo.",
+    "name": "Stufato di Reindrix",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "Carne di Reindrix",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Pomodoro",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedChicken": {
+    "dev_name": "FriedChicken",
+    "description": "Succosa carne simile al pollo. Mangiarla aumenta la velocità delle attività\r\ne fa calare più lentamente i punti SAN per un po' di tempo.",
+    "name": "Chikipi fritto",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "Carne di Chikipi",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 1
+      }
+    ]
+  },
+  "HotDog_2": {
+    "dev_name": "HotDog_2",
+    "description": "Un panino imbottito con una succulenta salsiccia. La cottura della carne è perfetta, così come le spezie.\r\nDifesa: +20% per un po' di tempo",
+    "name": "Hot dog di Rushoar",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "Carne di Rushoar",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lattuga",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerLocoMoco": {
+    "dev_name": "DeerLocoMoco",
+    "description": "Un grosso hamburger sormontato da un cremoso uovo al tegamino. Questo sublime abbinamento è una gioia per la bocca.\r\nAttacco: +20% per un po' di tempo",
+    "name": "Loco moco di Eikthyrdeer",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Carne di Eikthyrdeer",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "Bacche rosse",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerStew": {
+    "dev_name": "DeerStew",
+    "description": "Uno stufato di carne simile al cervo, amorevolmente cotta fin quasi a squagliarsi. La combinazione di carne e verdure lo rende un pasto completo.\r\nDifesa: +20% per un po' di tempo",
+    "name": "Stufato di Eikthyrdeer",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "Carne di Eikthyrdeer",
+        "amount": 2
+      },
+      {
+        "dev_name": "Mushroom",
+        "name": "Fungo",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 2
+      }
+    ]
+  },
+  "Hamburger_2": {
+    "dev_name": "Hamburger_2",
+    "description": "Una combinazione di pane fragrante e carne saporita. Mangiarlo aumenta la velocità dell'attività\r\ne fa calare leggermente più lentamente i punti SAN per un po' di tempo.",
+    "name": "Hamburger di Mozzarina",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Carne di Mozzarina",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lattuga",
+        "amount": 2
+      }
+    ]
+  },
+  "Cheeseburger_2": {
+    "dev_name": "Cheeseburger_2",
+    "description": "L'aggiunta del formaggio innalza questo piatto a livelli superiori. Mangiarla sazia temporaneamente.\r\nAttacco: +20% per un po' di tempo.",
+    "name": "Cheeseburger di Mozzarina",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "Carne di Mozzarina",
+        "amount": 2
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Pomodoro",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "Latte",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedKelpie": {
+    "dev_name": "FriedKelpie",
+    "description": "Pesce succulento rivestito di un'impanatura croccante. Mangiarla fa calare più lentamente i punti SAN per un po' di tempo.\r\nDifesa: +10% per un po' di tempo.",
+    "name": "Frittura di Kelpsea",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "Carne di Kelpsea",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "Farina di grano",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "Uovo",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "Olio di Pal di alta qualità",
+        "amount": 1
+      }
+    ]
+  },
+  "Chowder": {
+    "dev_name": "Chowder",
+    "description": "Una zuppa cremosa dal sapore speciale. Mangiarla aumenta la velocità della attività\r\ne sazia per un po' di tempo.",
+    "name": "Zuppa di Dumud",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "Carne di Dumud",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "Lattuga",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "Pomodoro",
+        "amount": 2
+      }
+    ]
+  }
+}

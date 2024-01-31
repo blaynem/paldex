@@ -1,0 +1,6899 @@
+{
+  "PalSphere": {
+    "dev_name": "PalSphere",
+    "description": "던져서 팰을 포획하는 도구. 양산형이라 레벨이 낮은 팰에게만 유효하다.",
+    "name": "팰 스피어",
+    "creates_amount": 1,
+    "work_required": 300,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Mega": {
+    "dev_name": "PalSphere_Mega",
+    "description": "던져서 팰을 포획하는 도구. 성능이 향상돼 더 많은 팰을 잡을 수 있다.",
+    "name": "메가 스피어",
+    "creates_amount": 1,
+    "work_required": 1500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 1
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 5
+      }
+    ]
+  },
+  "PalSphere_Giga": {
+    "dev_name": "PalSphere_Giga",
+    "description": "던져서 팰을 포획하는 도구. 어느 정도 강력한 팰도 잡을 수 있다.",
+    "name": "기가 스피어",
+    "creates_amount": 1,
+    "work_required": 4500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 2
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 2
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 7
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 7
+      }
+    ]
+  },
+  "PalSphere_Tera": {
+    "dev_name": "PalSphere_Tera",
+    "description": "던져서 팰을 포획하는 도구. 꽤 강력한 팰도 잡을 수 있다.",
+    "name": "테라 스피어",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 3
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cement",
+        "name": "시멘트",
+        "amount": 2
+      }
+    ]
+  },
+  "PalSphere_Master": {
+    "dev_name": "PalSphere_Master",
+    "description": "던져서 팰을 포획하는 도구. 상당한 성능 덕에 도망칠 수 있는 팰이 별로 없다.",
+    "name": "울트라 스피어",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 5
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 2
+      },
+      {
+        "dev_name": "Cement",
+        "name": "시멘트",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Legend": {
+    "dev_name": "PalSphere_Legend",
+    "description": "던져서 팰을 포획하는 도구. 포획 성능이 비약적으로 상승해 도망칠 수 있는\r\n팰은 극소수다.",
+    "name": "전설 스피어",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      },
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cement",
+        "name": "시멘트",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat": {
+    "dev_name": "Bat",
+    "description": "작은 팰이라면 때려눕힐 수 있을지도 모른다.",
+    "name": "나무 곤봉",
+    "creates_amount": 1,
+    "work_required": 750,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat2": {
+    "dev_name": "Bat2",
+    "description": "근접 전투도 가능한 야구 방망이. 팰은 공보다 훨씬 크다는 사실을 기억하자.",
+    "name": "야구 방망이",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      }
+    ]
+  },
+  "Torch": {
+    "dev_name": "Torch",
+    "description": "거점에 설치하면 주변을 환하게 비춘다.",
+    "name": "설치형 횃불",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 2
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 2
+      }
+    ]
+  },
+  "MeatCutterKnife": {
+    "dev_name": "MeatCutterKnife",
+    "description": "소환 중인 팰을 해체할 수 있는 칼. 장착 중에는 |쓰다듬기|가 |해체|로 변경된다.\r\n해체한 팰은 두 번 다시 돌아오지 않는다.",
+    "name": "푸주칼",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_00": {
+    "dev_name": "Pickaxe_Tier_00",
+    "description": "채굴용 곡괭이. 돌로 만들어 효율이 떨어진다.",
+    "name": "돌 곡괭이",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_01": {
+    "dev_name": "Pickaxe_Tier_01",
+    "description": "채굴용 곡괭이. 금속으로 만들어 내구도와 채집 효율이 향상됐다.",
+    "name": "금속 곡괭이",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_02": {
+    "dev_name": "Pickaxe_Tier_02",
+    "description": "채굴용 곡괭이. 내구도가 더 상승하고 날도 예리해졌다.",
+    "name": "제련 금속 곡괭이",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 10
+      }
+    ]
+  },
+  "Axe_Tier_00": {
+    "dev_name": "Axe_Tier_00",
+    "description": "나무를 베는 용도의 도끼. 돌로 만들어서 절삭력이 조금 아쉽다.",
+    "name": "돌 도끼",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_01": {
+    "dev_name": "Axe_Tier_01",
+    "description": "나무를 베는 용도의 도끼. 금속으로 만들어서 절삭력이 향상됐다.",
+    "name": "금속 도끼",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_02": {
+    "dev_name": "Axe_Tier_02",
+    "description": "나무를 베는 용도의 도끼. 고품질 금속으로 만들어서 절삭력이 더욱 향상됐다.",
+    "name": "제련 금속 도끼",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear": {
+    "dev_name": "Spear",
+    "description": "근접 전투에서 유용한 창. 사정거리가 길어 거리를 조금 벌린 채 싸울 수 있다.",
+    "name": "돌 창",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 18
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 6
+      }
+    ]
+  },
+  "Spear_2": {
+    "dev_name": "Spear_2",
+    "description": "근접 전투에서 유용한 창. 금속으로 만들어 공격력이 더 높다.\r\n제작하려면 |상급 작업대|이(가) 필요하다.",
+    "name": "금속 창",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 27
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_3": {
+    "dev_name": "Spear_3",
+    "description": "근접 전투에서 유용한 창. 고급 금속으로 만들어 공격력이 더 높다.\r\n제작하려면 |작업라인 공장|이(가) 필요하다.",
+    "name": "제련 금속 창",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 36
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 18
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_ForestBoss": {
+    "dev_name": "Spear_ForestBoss",
+    "description": "릴리가 애용하던 창. 팰을 업신여기는 자에게 심판을 내린다.",
+    "name": "릴리의 창",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 20
+      }
+    ]
+  },
+  "ElecBaton": {
+    "dev_name": "ElecBaton",
+    "description": "때려서 감전 상태에 빠뜨리는 근접 무기. 감전된 팰은 포획하기 수월해진다.\r\n제작하려면 '상급 작업대'이(가) 필요하다.",
+    "name": "기절 배턴",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "발전 기관",
+        "amount": 20
+      }
+    ]
+  },
+  "Sword": {
+    "dev_name": "Sword",
+    "description": "근접 전투용 '검'. 적에게 가까이 다가가는 만큼 위험하기 그지없다.\r\n제작하려면 '무기 제작대'이(가) 필요하다.",
+    "name": "검",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 20
+      }
+    ]
+  },
+  "WeakerBow": {
+    "dev_name": "WeakerBow",
+    "description": "원거리 공격이 가능한 활. 이것저것 긁어모아 만든 탓에 위력은 떨어진다.",
+    "name": "오래된 활",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 15
+      }
+    ]
+  },
+  "WeakerBow_2": {
+    "dev_name": "WeakerBow_2",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_2",
+      "name": "오래된 활 설계도 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 60
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 1
+      }
+    ]
+  },
+  "WeakerBow_3": {
+    "dev_name": "WeakerBow_3",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 16000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_3",
+      "name": "오래된 활 설계도 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 90
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 2
+      }
+    ]
+  },
+  "WeakerBow_4": {
+    "dev_name": "WeakerBow_4",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_4",
+      "name": "오래된 활 설계도 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 135
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 22
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 4
+      }
+    ]
+  },
+  "WeakerBow_5": {
+    "dev_name": "WeakerBow_5",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 64000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_5",
+      "name": "오래된 활 설계도 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 202
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 33
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 10
+      }
+    ]
+  },
+  "Bow_Fire": {
+    "dev_name": "Bow_Fire",
+    "description": "화염 속성'의 활. 불화살로 팰을 불태우므로 잡기 수월해진다.\r\n'불화살'이 필요하다.",
+    "name": "불의 활",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Poison": {
+    "dev_name": "Bow_Poison",
+    "description": "공격 대상을 중독시키는 무서운 활. 중독 상태의 팰은 잡기 수월해진다.\r\n'독화살'이 필요하다.",
+    "name": "독 활",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "Venom",
+        "name": "독샘",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Triple": {
+    "dev_name": "Bow_Triple",
+    "description": "3대의 화살을 동시에 발사하는 개량형 활. 신비한 힘 덕분에 1번 쏠 때 1대의 화살만 소비된다.",
+    "name": "삼연궁",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 12
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      }
+    ]
+  },
+  "BowGun": {
+    "dev_name": "BowGun",
+    "description": "힘들이지 않고 '화살'을 쏠 수 있다. 장전에 시간이 걸리지만 강력한 한 발을 쏜다.\r\n제작하려면 '상급 작업대'이(가) 필요하다.",
+    "name": "쇠뇌",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "못",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_2": {
+    "dev_name": "BowGun_2",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_2",
+      "name": "쇠뇌 설계도 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 100
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 80
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "못",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 2
+      }
+    ]
+  },
+  "BowGun_3": {
+    "dev_name": "BowGun_3",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_3",
+      "name": "쇠뇌 설계도 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 150
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 120
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "못",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 4
+      }
+    ]
+  },
+  "BowGun_4": {
+    "dev_name": "BowGun_4",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_4",
+      "name": "쇠뇌 설계도 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 225
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 180
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 45
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "못",
+        "amount": 22
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 6
+      }
+    ]
+  },
+  "BowGun_5": {
+    "dev_name": "BowGun_5",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_5",
+      "name": "쇠뇌 설계도 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 337
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 270
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 67
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "못",
+        "amount": 33
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 12
+      }
+    ]
+  },
+  "BowGun_Fire": {
+    "dev_name": "BowGun_Fire",
+    "description": "화염 속성'의 강력한 원거리 무기. 쏘려면 '불화살'이 필요하다.\r\n제작하려면 '상급 작업대'이(가) 필요하다.",
+    "name": "불화살 쇠뇌",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "못",
+        "amount": 5
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_Poison": {
+    "dev_name": "BowGun_Poison",
+    "description": "공격 대상을 중독시키는 강력한 원거리 무기. 쏘려면 '독화살'이 필요하다.\r\n제작하려면 '상급 작업대'이(가) 필요하다.",
+    "name": "독화살 쇠뇌",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "못",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "독샘",
+        "amount": 5
+      }
+    ]
+  },
+  "Musket": {
+    "dev_name": "Musket",
+    "description": "오래된 티가 나는 간소한 총. 장전 속도가 꽤 느리다. 쏘려면 '<itemName id=|Musket|/>등에 사용하는 탄.'이(가) 필요하다.\r\n제작하려면 '무기 제작대'이(가) 필요하다.",
+    "name": "머스킷",
+    "creates_amount": 1,
+    "work_required": 35000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 25
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 30
+      }
+    ]
+  },
+  "MakeshiftHandgun": {
+    "dev_name": "MakeshiftHandgun",
+    "description": "잡다한 재료로 직접 만든 단발식 권총. 쏘려면 '<itemName id=|Musket|/>등에 사용하는 탄.'이(가) 필요하다.\r\n'무기 제작대'에서 제작할 수 있다.",
+    "name": "즉석 핸드건",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 35
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      }
+    ]
+  },
+  "HandGun_Default": {
+    "dev_name": "HandGun_Default",
+    "description": "장전 수와 연사성이 강화된 권총. 순간 화력이 즉석 핸드건보다도 강하다.",
+    "name": "핸드건",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 15
+      }
+    ]
+  },
+  "HandGun_Default_2": {
+    "dev_name": "HandGun_Default_2",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_2",
+      "name": "핸드건 설계도 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 3
+      }
+    ]
+  },
+  "HandGun_Default_3": {
+    "dev_name": "HandGun_Default_3",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_3",
+      "name": "핸드건 설계도 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 5
+      }
+    ]
+  },
+  "HandGun_Default_4": {
+    "dev_name": "HandGun_Default_4",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_4",
+      "name": "핸드건 설계도 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 7
+      }
+    ]
+  },
+  "HandGun_Default_5": {
+    "dev_name": "HandGun_Default_5",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_5",
+      "name": "핸드건 설계도 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 14
+      }
+    ]
+  },
+  "SingleShotRifle": {
+    "dev_name": "SingleShotRifle",
+    "description": "단발식 소총. 장전 수는 적지만 한 발 한 발이 강력하다.",
+    "name": "단발식 소총",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 5
+      }
+    ]
+  },
+  "DoubleBarrelShotgun": {
+    "dev_name": "DoubleBarrelShotgun",
+    "description": "근접전에 강력한 산탄총. 장전 수는 적지만 고화력이다.",
+    "name": "쌍발 산탄총",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 7
+      }
+    ]
+  },
+  "AssaultRifle_Default1": {
+    "dev_name": "AssaultRifle_Default1",
+    "description": "원거리 전투에 알맞은 돌격 소총. 연사력이 뛰어나 강력한 상대와 싸우기에 안성맞춤이다.",
+    "name": "돌격 소총",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 40
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 10
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 30
+      }
+    ]
+  },
+  "AssaultRifle_Default2": {
+    "dev_name": "AssaultRifle_Default2",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default2",
+      "name": "돌격 소총 설계도 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 80
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 5
+      }
+    ]
+  },
+  "AssaultRifle_Default3": {
+    "dev_name": "AssaultRifle_Default3",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default3",
+      "name": "돌격 소총 설계도 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 90
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 10
+      }
+    ]
+  },
+  "AssaultRifle_Default4": {
+    "dev_name": "AssaultRifle_Default4",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default4",
+      "name": "돌격 소총 설계도 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 180
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 45
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 135
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 20
+      }
+    ]
+  },
+  "AssaultRifle_Default5": {
+    "dev_name": "AssaultRifle_Default5",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 3200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default5",
+      "name": "돌격 소총 설계도 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 270
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 67
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 202
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 30
+      }
+    ]
+  },
+  "PumpActionShotgun": {
+    "dev_name": "PumpActionShotgun",
+    "description": "장전 수가 증가해 강력해진 산탄총. 근거리 DPS가 수준급이다.",
+    "name": "펌프식 산탄총",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 40
+      }
+    ]
+  },
+  "PumpActionShotgun_2": {
+    "dev_name": "PumpActionShotgun_2",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_2",
+      "name": "펌프식 산탄총 설계도 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 60
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 40
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 5
+      }
+    ]
+  },
+  "PumpActionShotgun_3": {
+    "dev_name": "PumpActionShotgun_3",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 960000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_3",
+      "name": "펌프식 산탄총 설계도 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 90
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 120
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 10
+      }
+    ]
+  },
+  "PumpActionShotgun_4": {
+    "dev_name": "PumpActionShotgun_4",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 1920000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_4",
+      "name": "펌프식 산탄총 설계도 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 135
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 180
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 20
+      }
+    ]
+  },
+  "PumpActionShotgun_5": {
+    "dev_name": "PumpActionShotgun_5",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 3840000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_5",
+      "name": "펌프식 산탄총 설계도 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 202
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 270
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default": {
+    "dev_name": "Launcher_Default",
+    "description": "로켓 발사기. 원거리에서 강력한 폭격을 할 수 있다.",
+    "name": "로켓 발사기",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 75
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 50
+      }
+    ]
+  },
+  "Launcher_Default_2": {
+    "dev_name": "Launcher_Default_2",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 1200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_2",
+      "name": "로켓 발사기 설계도 1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 150
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 10
+      }
+    ]
+  },
+  "Launcher_Default_3": {
+    "dev_name": "Launcher_Default_3",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 2400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_3",
+      "name": "로켓 발사기 설계도 2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 225
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 20
+      }
+    ]
+  },
+  "Launcher_Default_4": {
+    "dev_name": "Launcher_Default_4",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 4800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_4",
+      "name": "로켓 발사기 설계도 3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 337
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default_5": {
+    "dev_name": "Launcher_Default_5",
+    "description": "ko_Text",
+    "name": "ko_Text",
+    "creates_amount": 1,
+    "work_required": 9600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_5",
+      "name": "로켓 발사기 설계도 4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 505
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 202
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 40
+      }
+    ]
+  },
+  "HomingSphereLauncher": {
+    "dev_name": "HomingSphereLauncher",
+    "description": "스피어 발사용 발사기. 발사한 스피어는 팰을 추적한다.",
+    "name": "귀환형 스피어 발사기",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 200
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 20
+      }
+    ]
+  },
+  "SphereLauncher": {
+    "dev_name": "SphereLauncher",
+    "description": "대량의 스피어를 동시에 발사하는 신형 발사기. 팰 무리를 남획할 수 있다.",
+    "name": "확산형 스피어 발사기",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 10
+      }
+    ]
+  },
+  "SphereLauncher_Once": {
+    "dev_name": "SphereLauncher_Once",
+    "description": "스피어 발사용 발사기. 더 멀리 있는 팰까지 포획할 수 있다.",
+    "name": "단발형 스피어 발사기",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 5
+      }
+    ]
+  },
+  "DecalGun_1": {
+    "dev_name": "DecalGun_1",
+    "description": "착탄 지점에 까부냥을(를) 그리는 신비한 총. 벽이나 바닥에 그리면서 놀아 보자.",
+    "name": "데칼 총 1",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_2": {
+    "dev_name": "DecalGun_2",
+    "description": "착탄 지점에 도로롱을(를) 그리는 신비한 총. 벽이나 바닥에 그리면서 놀아 보자.",
+    "name": "데칼 총 2",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_3": {
+    "dev_name": "DecalGun_3",
+    "description": "착탄 지점에 멜파카을(를) 그리는 신비한 총. 벽이나 바닥에 그리면서 놀아 보자.",
+    "name": "데칼 총 3",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_4": {
+    "dev_name": "DecalGun_4",
+    "description": "착탄 지점에 아누비스을(를) 그리는 신비한 총. 벽이나 바닥에 그리면서 놀아 보자.",
+    "name": "데칼 총 4",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_5": {
+    "dev_name": "DecalGun_5",
+    "description": "착탄 지점에 헤로롱을(를) 그리는 신비한 총. 벽이나 바닥에 그리면서 놀아 보자.",
+    "name": "데칼 총 5",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 3
+      }
+    ]
+  },
+  "GrapplingGun_1": {
+    "dev_name": "GrapplingGun_1",
+    "description": "ko_Text",
+    "name": "갈고리 총",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 1
+      }
+    ]
+  },
+  "GrapplingGun_2": {
+    "dev_name": "GrapplingGun_2",
+    "description": "ko_Text",
+    "name": "메가 갈고리 총",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 4
+      }
+    ]
+  },
+  "GrapplingGun_3": {
+    "dev_name": "GrapplingGun_3",
+    "description": "ko_Text",
+    "name": "기가 갈고리 총",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 8
+      }
+    ]
+  },
+  "GrapplingGun_4": {
+    "dev_name": "GrapplingGun_4",
+    "description": "ko_Text",
+    "name": "테라 갈고리 총",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 15
+      }
+    ]
+  },
+  "FragGrenade": {
+    "dev_name": "FragGrenade",
+    "description": "ko_Text",
+    "name": "파편 수류탄",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "화약",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Fire": {
+    "dev_name": "FragGrenade_Fire",
+    "description": "중거리 전투에서 유용한 소이 수류탄. 투척 후 착탄 시 주변에 불길을 일으킨다.",
+    "name": "소이 수류탄",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Elec": {
+    "dev_name": "FragGrenade_Elec",
+    "description": "중거리 전투에서 유용한 전격 수류탄. 투척 후 착탄 시 주변이 감전된다.",
+    "name": "전격 수류탄",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "발전 기관",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Ice": {
+    "dev_name": "FragGrenade_Ice",
+    "description": "중거리 전투에서 유용한 냉각 수류탄. 투척 후 착탄 시 주변이 얼어붙는다.",
+    "name": "냉각 수류탄",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 1
+      }
+    ]
+  },
+  "ClothArmor": {
+    "dev_name": "ClothArmor",
+    "description": "천(으)로 만든 옷. 밤의 한기를 막아준다.",
+    "name": "천 옷",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorHeat": {
+    "dev_name": "ClothArmorHeat",
+    "description": "더운 지역에서 생산한 천 옷. 더위를 어느 정도 견딜 수 있게 해준다.",
+    "name": "열대 지방 민속 의상",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorCold": {
+    "dev_name": "ClothArmorCold",
+    "description": "한랭 지역에서 생산한천 옷. 몸이 얼 정도의 추위를 막아준다.",
+    "name": "한랭 지방 민속 의상",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 2
+      }
+    ]
+  },
+  "FurArmor": {
+    "dev_name": "FurArmor",
+    "description": "가죽으로 만든 갑옷. 보온성도 방어력도 향상됐다.",
+    "name": "가죽 갑옷",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      }
+    ]
+  },
+  "FurArmorHeat": {
+    "dev_name": "FurArmorHeat",
+    "description": "더운 지역에서 생산한 가죽 갑옷. 더위를 어느 정도 견딜 수 있게 해준다.",
+    "name": "내열 모피 갑옷",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 4
+      }
+    ]
+  },
+  "FurArmorCold": {
+    "dev_name": "FurArmorCold",
+    "description": "한랭 지역에서 생산한가죽 갑옷. 몸이 얼 정도의 추위를 막아준다.",
+    "name": "내한 모피 갑옷",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 15
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 4
+      }
+    ]
+  },
+  "CopperArmor": {
+    "dev_name": "CopperArmor",
+    "description": "금속으로 완성한 갑옷. 적당한 무게에 적당한 방어력을 자랑한다.",
+    "name": "금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperArmorHeat": {
+    "dev_name": "CopperArmorHeat",
+    "description": "개량한 금속 갑옷. 뛰어난 내열성을 자랑한다.",
+    "name": "내열 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 8
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 8
+      }
+    ]
+  },
+  "CopperArmorCold": {
+    "dev_name": "CopperArmorCold",
+    "description": "개량한 금속 갑옷. 한랭 지역에서 활동할 때 좋다.",
+    "name": "내한 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 8
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 8
+      }
+    ]
+  },
+  "IronArmor": {
+    "dev_name": "IronArmor",
+    "description": "고품질 금속으로 완성한 갑옷. 상당한 방어력을 자랑하는 만큼 무겁다.",
+    "name": "제련 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 15
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 2
+      }
+    ]
+  },
+  "IronArmorHeat": {
+    "dev_name": "IronArmorHeat",
+    "description": "개량한 제련 금속 갑옷. 뛰어난 내열성을 자랑한다.",
+    "name": "내열 제련 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 12
+      }
+    ]
+  },
+  "IronArmorCold": {
+    "dev_name": "IronArmorCold",
+    "description": "개량한 제련 금속 갑옷. 한랭 지역에서 활동할 때 좋다.",
+    "name": "내한 제련 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 12
+      }
+    ]
+  },
+  "StealArmor": {
+    "dev_name": "StealArmor",
+    "description": "팰 금속 주괴(으)로 만든 갑옷. 터무니없는 방어력을 자랑하지만 매우 무겁다.\r\n장엄함이 느껴지는 그야말로 영웅의 장비.",
+    "name": "팰 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 4
+      }
+    ]
+  },
+  "StealArmorHeat": {
+    "dev_name": "StealArmorHeat",
+    "description": "개량한 팰 금속 갑옷. 뛰어난 내열성을 자랑한다.",
+    "name": "내열 팰 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 6
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 16
+      }
+    ]
+  },
+  "StealArmorCold": {
+    "dev_name": "StealArmorCold",
+    "description": "개량한 팰 금속 갑옷. 한랭 지역에서 활동할 때 좋다.",
+    "name": "내한 팰 금속 갑옷",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 16
+      }
+    ]
+  },
+  "FurHelmet": {
+    "dev_name": "FurHelmet",
+    "description": "아름다운 날개 귀걸이. 어쩐지 머리 쪽 치명상을 막아줄 것만 같다.",
+    "name": "깃털 머리 장식",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperHelmet": {
+    "dev_name": "CopperHelmet",
+    "description": "금속으로 만든 투구. 사고 능력을 지켜주는 신뢰와 안심의 방어구다.",
+    "name": "금속 투구",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "IronHelmet": {
+    "dev_name": "IronHelmet",
+    "description": "고급 금속으로 만든 투구. 반짝반짝 윤을 낸 금속 덕분에 자신의 가치가 상승한다.",
+    "name": "제련 금속 투구",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      }
+    ]
+  },
+  "StealHelmet": {
+    "dev_name": "StealHelmet",
+    "description": "팰 금속 주괴(으)로 만든 투구. 누구나 부러워할 최상의 품질, 적수를 선택하는 전사의 증명.",
+    "name": "팰 금속 투구",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "Arrow": {
+    "dev_name": "Arrow",
+    "description": "오래된 활'에 장전한다. 제작하려면 '원시적인 작업대'이(가) 필요하다.",
+    "name": "화살",
+    "creates_amount": 3,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 1
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Fire": {
+    "dev_name": "Arrow_Fire",
+    "description": "불의 활'에 장전한다. 제작하려면 '원시적인 작업대'이(가) 필요하다.",
+    "name": "불화살",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Poison": {
+    "dev_name": "Arrow_Poison",
+    "description": "독 활'에 장전한다. 제작하려면 '원시적인 작업대'이(가) 필요하다.",
+    "name": "독화살",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 3
+      },
+      {
+        "dev_name": "Venom",
+        "name": "독샘",
+        "amount": 1
+      }
+    ]
+  },
+  "RoughBullet": {
+    "dev_name": "RoughBullet",
+    "description": "|머스킷| 혹은 |즉석 핸드건| 등에 사용하는 탄. 제작하려면 |무기 제작대|이(가) 필요하다.",
+    "name": "<itemName id=|Musket|/>등에 사용하는 탄.",
+    "creates_amount": 10,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "화약",
+        "amount": 1
+      }
+    ]
+  },
+  "HandgunBullet": {
+    "dev_name": "HandgunBullet",
+    "description": "|핸드건| 등에 사용하는 탄. 제작하려면 |무기 제작대|이(가) 필요하다.",
+    "name": "핸드건 탄약",
+    "creates_amount": 5,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "화약",
+        "amount": 1
+      }
+    ]
+  },
+  "RifleBullet": {
+    "dev_name": "RifleBullet",
+    "description": "소총 탄약'을(를) '무기 제작대'에서 제작할 수 있게 된다.",
+    "name": "소총 탄약",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "화약",
+        "amount": 2
+      }
+    ]
+  },
+  "ShotgunBullet": {
+    "dev_name": "ShotgunBullet",
+    "description": "산탄총 탄약'을(를) '무기 제작대'에서 제작할 수 있게 된다.",
+    "name": "산탄총 탄약",
+    "creates_amount": 5,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "화약",
+        "amount": 3
+      }
+    ]
+  },
+  "AssaultRifleBullet": {
+    "dev_name": "AssaultRifleBullet",
+    "description": "|돌격 소총| 등에 사용하는 탄. 제작하려면 |무기라인 공장|이(가) 필요하다.",
+    "name": "<itemName id=|AssaultRifle|/>등에 사용하는 탄.",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "화약",
+        "amount": 2
+      }
+    ]
+  },
+  "ExplosiveBullet": {
+    "dev_name": "ExplosiveBullet",
+    "description": "로켓 발사기 등에 사용하는 탄.",
+    "name": "로켓탄",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "팰 금속 주괴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "화약",
+        "amount": 5
+      }
+    ]
+  },
+  "InkBullet": {
+    "dev_name": "InkBullet",
+    "description": "데칼 총에 사용하는 탄. 잉크로 팰 그림을 그릴 수 있다.",
+    "name": "데칼 잉크",
+    "creates_amount": 10,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 1
+      }
+    ]
+  },
+  "Shield_01": {
+    "dev_name": "Shield_01",
+    "description": "팰지움 기술로 만든 신비한 방패. 한동안 공격받지 않으면 자동으로 수리된다.",
+    "name": "일반 방패",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      }
+    ]
+  },
+  "Shield_02": {
+    "dev_name": "Shield_02",
+    "description": "팰지움 기술로 만든 신비한 방패. 시제품을 개선해 방어력이 증가했다.\r\n'상급 작업대'에서 만들 수 있게 된다.",
+    "name": "메가 방패",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      }
+    ]
+  },
+  "Shield_03": {
+    "dev_name": "Shield_03",
+    "description": "팰지움 기술로 만든 신비한 방패. 개선을 거듭해 방어력이 더욱 증가했다.\r\n'작업라인 공장'에서 만들 수 있게 된다.",
+    "name": "기가 방패",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 50
+      }
+    ]
+  },
+  "Shield_04": {
+    "dev_name": "Shield_04",
+    "description": "팰지움 기술로 탄생한 신비한 방패. 실험을 거듭한 결과 품질 면에서 최고봉에 도달했다.\r\n'작업라인 공장 II'에서 만들 수 있게 된다.",
+    "name": "테라 방패",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 100
+      }
+    ]
+  },
+  "Glider_Old": {
+    "dev_name": "Glider_Old",
+    "description": "펼쳐서 활공할 때 쓰는 글라이더. 간소한 만듦새 덕에 속도가 느리다.",
+    "name": "일반 낙하산",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 2
+      }
+    ]
+  },
+  "Glider_Good": {
+    "dev_name": "Glider_Good",
+    "description": "펼쳐서 활공할 때 쓰는 글라이더. 양산형인 덕에 제법 속도가 난다.",
+    "name": "메가 글라이더",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 20
+      }
+    ]
+  },
+  "Glider_Super": {
+    "dev_name": "Glider_Super",
+    "description": "펼쳐서 활공할 때 쓰는 글라이더. 성능을 끌어올려 꽤 빠른 속도로 날 수 있다.",
+    "name": "기가 글라이더",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 100
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "상급 천",
+        "amount": 10
+      }
+    ]
+  },
+  "Lantern": {
+    "dev_name": "Lantern",
+    "description": "ko_Text",
+    "name": "허리 휴대형 랜턴",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "고대 문명의 부품",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier1": {
+    "dev_name": "AutoMealPouch_Tier1",
+    "description": "ko_Text",
+    "name": "소형 먹이 주머니",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 3
+      }
+    ]
+  },
+  "AutoMealPouch_Tier2": {
+    "dev_name": "AutoMealPouch_Tier2",
+    "description": "ko_Text",
+    "name": "중형 먹이 주머니",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier3": {
+    "dev_name": "AutoMealPouch_Tier3",
+    "description": "ko_Text",
+    "name": "대형 먹이 주머니",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 50
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      }
+    ]
+  },
+  "AutoMealPouch_Tier4": {
+    "dev_name": "AutoMealPouch_Tier4",
+    "description": "ko_Text",
+    "name": "거대 먹이 주머니",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 90
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 35
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier5": {
+    "dev_name": "AutoMealPouch_Tier5",
+    "description": "ko_Text",
+    "name": "초거대 먹이 주머니",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 200
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "카본 섬유",
+        "amount": 20
+      }
+    ]
+  },
+  "Cloth": {
+    "dev_name": "Cloth",
+    "description": "양털을(를) 짜서 만든 천. 방어구를 만들 때 필요하다.",
+    "name": "천",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "양털",
+        "amount": 2
+      }
+    ]
+  },
+  "Cloth2": {
+    "dev_name": "Cloth2",
+    "description": "많은 양의 '양털'을 짜서 만든 '상급 천'. 고급 방어구를 만들 때 필요하다.\r\n'상급 작업대'에서 만들 수 있게 된다.",
+    "name": "상급 천",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "양털",
+        "amount": 10
+      }
+    ]
+  },
+  "Gunpowder2": {
+    "dev_name": "Gunpowder2",
+    "description": "탄환을 발사할 때 쓰는 '화약'. 탄환을 만들 때 필요하다.\r\n'상급 작업대'에서 만들 수 있다.",
+    "name": "화약",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Charcoal",
+        "name": "숯",
+        "amount": 2
+      },
+      {
+        "dev_name": "Sulfur",
+        "name": "유황",
+        "amount": 1
+      }
+    ]
+  },
+  "Charcoal": {
+    "dev_name": "Charcoal",
+    "description": "목재를 태우면 만들 수 있는 숯 유황과 합쳐서 화약도 만들 수 있다.",
+    "name": "숯",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 2
+      }
+    ]
+  },
+  "MachineParts": {
+    "dev_name": "MachineParts",
+    "description": "ko_Text",
+    "name": "못",
+    "creates_amount": 2,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 1
+      }
+    ]
+  },
+  "MachineParts2": {
+    "dev_name": "MachineParts2",
+    "description": "정밀 기기 제작에 필요한 '전자기판'. '작업라인 공장'에서 만들 수 있다.",
+    "name": "전자기판",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Quartz",
+        "name": "순수한 석영",
+        "amount": 4
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 2
+      }
+    ]
+  },
+  "Polymer": {
+    "dev_name": "Polymer",
+    "description": "ko_Text",
+    "name": "폴리머",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 2
+      }
+    ]
+  },
+  "Cement": {
+    "dev_name": "Cement",
+    "description": "ko_Text",
+    "name": "시멘트",
+    "creates_amount": 10,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 1
+      }
+    ]
+  },
+  "CarbonFiber": {
+    "dev_name": "CarbonFiber",
+    "description": "ko_Text",
+    "name": "카본 섬유",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Coal",
+        "name": "석탄",
+        "amount": 2
+      }
+    ]
+  },
+  "RepairKit": {
+    "dev_name": "RepairKit",
+    "description": "건축물을 수리할 때 쓰는 도구. 파괴된 건축물에 사용한다.",
+    "name": "수리 키트",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperIngot": {
+    "dev_name": "CopperIngot",
+    "description": "금속제 무기나 방어구를 만들 때 필요한 소재. 금속 광석을 화로에 제련해서 만든다.",
+    "name": "금속 주괴",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "금속 광석",
+        "amount": 2
+      }
+    ]
+  },
+  "IronIngot": {
+    "dev_name": "IronIngot",
+    "description": "고급 금속제 무기나 방어구를 만들 때 필요한 소재. 금속 광석와(과) 석탄을(를) 화로에 넣어서 만든다.",
+    "name": "제련 주괴",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "금속 광석",
+        "amount": 2
+      },
+      {
+        "dev_name": "Coal",
+        "name": "석탄",
+        "amount": 2
+      }
+    ]
+  },
+  "StealIngot": {
+    "dev_name": "StealIngot",
+    "description": "팰 금속제 무기나 방어구를 만들 때 필요한 소재. 금속과 팰지움을 합금화하여 강도가 훨씬 높아졌다.",
+    "name": "팰 금속 주괴",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "금속 광석",
+        "amount": 4
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 2
+      }
+    ]
+  },
+  "Herbs": {
+    "dev_name": "Herbs",
+    "description": "감기나 염좌에 잘 듣는 하급 의약품. 먹어도 HP는 회복되지 않는다.",
+    "name": "하급 의약품",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 2
+      }
+    ]
+  },
+  "Medicines": {
+    "dev_name": "Medicines",
+    "description": "위궤양(이)나 골절에 잘 듣는 신비한 의약품. HP는 회복되지 않는다.",
+    "name": "의약품",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 1
+      }
+    ]
+  },
+  "LuxuryMedicines": {
+    "dev_name": "LuxuryMedicines",
+    "description": "쇠약(이)나 우울증에 잘 듣는 고급 의약품. HP는 회복되지 않는다.",
+    "name": "고급 의약품",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 2
+      }
+    ]
+  },
+  "MindControlDrug": {
+    "dev_name": "MindControlDrug",
+    "description": "불온 분자에게 쓰면 탁월한 성능을 보이는 세뇌약. HP는 회복되지 않는다.",
+    "name": "세뇌약",
+    "creates_amount": 1,
+    "work_required": 1000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 10
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 3
+      }
+    ]
+  },
+  "Opium": {
+    "dev_name": "Opium",
+    "description": "마시면 기분이 좋아지는 주스. 마시면 일정 시간 동안 작업 속도가 꽤 올라가지만\r\nSAN 수치가 내려간다.",
+    "name": "수상한 주스",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "예쁜 꽃",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 1
+      }
+    ]
+  },
+  "Narcotic": {
+    "dev_name": "Narcotic",
+    "description": "마시면 기분이 매우 좋아지는 주스. 마시면 일정 시간 동안 작업 속도가 크게 올라가지만\r\nSAN 수치가 크게 내려간다.",
+    "name": "이상한 주스",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "예쁜 꽃",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 2
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 2
+      }
+    ]
+  },
+  "StatusPointResetSan": {
+    "dev_name": "StatusPointResetSan",
+    "description": "플레이어가 먹으면 스테이터스 포인트가 초기화되는 약.\r\n팰에게는 효과가 없다.",
+    "name": "기억 삭제 약",
+    "creates_amount": 1,
+    "work_required": 3000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "예쁜 꽃",
+        "amount": 99
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "뼈",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 50
+      }
+    ]
+  },
+  "Fiber": {
+    "dev_name": "Fiber",
+    "description": "나무에서 얻는 섬유. 활 등을 제작하는 소재가 된다.",
+    "name": "섬유",
+    "creates_amount": 2,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 1
+      }
+    ]
+  },
+  "Pal_crystal_S": {
+    "dev_name": "Pal_crystal_S",
+    "description": "세계수의 에너지가 결정화한 물건. 굉장히 특별한 아이템이나 건축물을 만들 수 있다.",
+    "name": "팰지움 파편",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 5
+      }
+    ]
+  },
+  "BerrySeeds": {
+    "dev_name": "BerrySeeds",
+    "description": "빨간 열매을(를) 재배할 수 있는 씨. 농원을 만들 때 필요하다.\r\n빨간 열매을(를) 채취할 때 얻을 수 있다.",
+    "name": "열매 씨",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      }
+    ]
+  },
+  "TomatoSeeds": {
+    "dev_name": "TomatoSeeds",
+    "description": "토마토을(를) 재배할 수 있는 씨. 농원을 만들 때 필요하다.\r\n상인에게서 구입할 수 있다.",
+    "name": "토마토 씨",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "토마토",
+        "amount": 2
+      }
+    ]
+  },
+  "LettuceSeeds": {
+    "dev_name": "LettuceSeeds",
+    "description": "양상추을(를) 재배할 수 있는 씨. 농원을 만들 때 필요하다.\r\n상인에게서 구입할 수 있다.",
+    "name": "양상추 씨",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "양상추",
+        "amount": 2
+      }
+    ]
+  },
+  "WheatSeeds": {
+    "dev_name": "WheatSeeds",
+    "description": "밀을(를) 재배할 수 있는 씨. 농원을 만들 때 필요하다.\r\n상인에게서 구입할 수 있다.",
+    "name": "밀 씨",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "밀",
+        "amount": 2
+      }
+    ]
+  },
+  "Flour": {
+    "dev_name": "Flour",
+    "description": "밀을(를) 빻아서 만든 밀가루. 빵의 재료가 된다.",
+    "name": "밀가루",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "밀",
+        "amount": 3
+      }
+    ]
+  },
+  "Baked_Berries": {
+    "dev_name": "Baked_Berries",
+    "description": "구우면 영양가가 높아진다. 신기할 정도로 포만감이 좋다.",
+    "name": "구운 열매",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMushroom": {
+    "dev_name": "BakedMushroom",
+    "description": "구우면 영양가가 높아지는 버섯. 신기할 정도로 포만감이 좋다.",
+    "name": "구운 버섯",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "버섯",
+        "amount": 1
+      }
+    ]
+  },
+  "Pan": {
+    "dev_name": "Pan",
+    "description": "밀가루을(를) 구워서 만든 빵. 주식으로 먹어도 될 만큼 맛있다.",
+    "name": "빵",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      }
+    ]
+  },
+  "FriedEggs": {
+    "dev_name": "FriedEggs",
+    "description": "알을(를) 익혀서 더 맛있어졌다. 신기할 정도로 포만감이 든다.",
+    "name": "계란 프라이",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 1
+      }
+    ]
+  },
+  "HotMilk": {
+    "dev_name": "HotMilk",
+    "description": "데워서 더 맛있어졌다. 신기할 정도로 포만감이 든다.",
+    "name": "뜨거운 우유",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 1
+      }
+    ]
+  },
+  "JamBun": {
+    "dev_name": "JamBun",
+    "description": "빵에 잼을 바른 요리. 열매의 달콤한 맛이 빵과 잘 어울린다.",
+    "name": "잼 빵",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      }
+    ]
+  },
+  "Pancake": {
+    "dev_name": "Pancake",
+    "description": "밀가루와(과) 우유을(를) 섞어서 구운 요리. 먹으면 일정 시간 동안 SAN 수치 하락 속도가 조금 감소한다.",
+    "name": "팬케이크",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 1
+      }
+    ]
+  },
+  "Salad": {
+    "dev_name": "Salad",
+    "description": "양상추와(과) 토마토을(를) 섞어서 만든 샐러드. 먹으면 일정 시간 동안 작업 속도가 조금 상승한다.",
+    "name": "샐러드",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "양상추",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "토마토",
+        "amount": 2
+      }
+    ]
+  },
+  "Omelet": {
+    "dev_name": "Omelet",
+    "description": "알을(를) 구워 케첩을 뿌린 요리. 먹으면 일정 시간 동안 공격 +10%",
+    "name": "오믈렛",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "토마토",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 2
+      }
+    ]
+  },
+  "MarinatedMushrooms": {
+    "dev_name": "MarinatedMushrooms",
+    "description": "버섯을(를) 양념에 버무린 요리. 먹으면 일정 시간 동안 방어 +10%",
+    "name": "양념에 절인 버섯",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "버섯",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      }
+    ]
+  },
+  "MushroomSoup": {
+    "dev_name": "MushroomSoup",
+    "description": "버섯 크림 스프. 먹으면 일정 시간 동안 배가 조금 든든해진다.",
+    "name": "버섯 수프",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "버섯",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 2
+      }
+    ]
+  },
+  "Pizza": {
+    "dev_name": "Pizza",
+    "description": "빵에 빨간 열매, 토마토, 치즈를 얹은 요리. 먹으면 일정 시간 동안 작업 속도가 조금 상승하며\r\n배가 조금 든든해진다.",
+    "name": "피자",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "토마토",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 2
+      }
+    ]
+  },
+  "Carbonara": {
+    "dev_name": "Carbonara",
+    "description": "파스타에 알와(과) 우유을(를) 버무린 요리. 먹으면 일정 시간 동안 방어 +20%",
+    "name": "카르보나라",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 2
+      }
+    ]
+  },
+  "Cake": {
+    "dev_name": "Cake",
+    "description": "축하할 일이 있을 때 먹는 요리. 교배 목장에 있는 상자에 넣어두면\r\n이 요리를 먹고 활력이 솟은 팰이 알을 낳는다.",
+    "name": "케이크",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 5
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 8
+      },
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 7
+      },
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 8
+      },
+      {
+        "dev_name": "Honey",
+        "name": "벌꿀",
+        "amount": 2
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog": {
+    "dev_name": "SkillUnlock_Hedgehog",
+    "description": "ko_Text",
+    "name": "찌릿도치의 장갑",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "발전 기관",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog_Ice": {
+    "dev_name": "SkillUnlock_Hedgehog_Ice",
+    "description": "ko_Text",
+    "name": "코치도치의 장갑",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 6
+      }
+    ]
+  },
+  "SkillUnlock_Kitsunebi": {
+    "dev_name": "SkillUnlock_Kitsunebi",
+    "description": "ko_Text",
+    "name": "파이호의 마구",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Alpaca": {
+    "dev_name": "SkillUnlock_Alpaca",
+    "description": "ko_Text",
+    "name": "멜파카의 안장",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wool",
+        "name": "양털",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_MopKing": {
+    "dev_name": "SkillUnlock_MopKing",
+    "description": "ko_Text",
+    "name": "모프킹의 안장",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 8
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Boar": {
+    "dev_name": "SkillUnlock_Boar",
+    "description": "ko_Text",
+    "name": "돌진돼지의 안장",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_FlyingManta": {
+    "dev_name": "SkillUnlock_FlyingManta",
+    "description": "ko_Text",
+    "name": "루미카이트의 장갑",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Carbunclo": {
+    "dev_name": "SkillUnlock_Carbunclo",
+    "description": "ko_Text",
+    "name": "쿠룰리스의 기관단총",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Garm": {
+    "dev_name": "SkillUnlock_Garm",
+    "description": "ko_Text",
+    "name": "다크울프의 안장 부착 마구",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Monkey": {
+    "dev_name": "SkillUnlock_Monkey",
+    "description": "ko_Text",
+    "name": "몽지의 돌격 소총",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent": {
+    "dev_name": "SkillUnlock_Serpent",
+    "description": "ko_Text",
+    "name": "씨무기의 안장",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent_Ground": {
+    "dev_name": "SkillUnlock_Serpent_Ground",
+    "description": "ko_Text",
+    "name": "스너펜트의 안장",
+    "creates_amount": 1,
+    "work_required": 9600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 6
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_Deer": {
+    "dev_name": "SkillUnlock_Deer",
+    "description": "ko_Text",
+    "name": "신령사슴의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_Deer_Ground": {
+    "dev_name": "SkillUnlock_Deer_Ground",
+    "description": "ko_Text",
+    "name": "산령사슴의 안장",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 6
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 12
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 18
+      }
+    ]
+  },
+  "SkillUnlock_NaughtyCat": {
+    "dev_name": "SkillUnlock_NaughtyCat",
+    "description": "ko_Text",
+    "name": "소름냥이의 안장",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Kirin": {
+    "dev_name": "SkillUnlock_Kirin",
+    "description": "ko_Text",
+    "name": "썬더콘의 안장",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "발전 기관",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_NegativeOctopus": {
+    "dev_name": "SkillUnlock_NegativeOctopus",
+    "description": "ko_Text",
+    "name": "고스문의 장갑",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "독샘",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_ColorfulBird": {
+    "dev_name": "SkillUnlock_ColorfulBird",
+    "description": "ko_Text",
+    "name": "알록새의 장갑",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_HawkBird": {
+    "dev_name": "SkillUnlock_HawkBird",
+    "description": "ko_Text",
+    "name": "나이트윙의 안장",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlameBuffalo": {
+    "dev_name": "SkillUnlock_FlameBuffalo",
+    "description": "ko_Text",
+    "name": "불페르노의 안장",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_FlowerRabbit": {
+    "dev_name": "SkillUnlock_FlowerRabbit",
+    "description": "ko_Text",
+    "name": "토푸리의 목걸이",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_DrillGame": {
+    "dev_name": "SkillUnlock_DrillGame",
+    "description": "ko_Text",
+    "name": "드릴북이의 머리띠",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Penguin": {
+    "dev_name": "SkillUnlock_Penguin",
+    "description": "ko_Text",
+    "name": "펭키의 로켓 발사기",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "돌",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur": {
+    "dev_name": "SkillUnlock_FlowerDinosaur",
+    "description": "ko_Text",
+    "name": "플로라디노의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur_Electric": {
+    "dev_name": "SkillUnlock_FlowerDinosaur_Electric",
+    "description": "ko_Text",
+    "name": "찌르르디노의 안장",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_DreamDemon": {
+    "dev_name": "SkillUnlock_DreamDemon",
+    "description": "ko_Text",
+    "name": "몽마둥이의 목걸이",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus": {
+    "dev_name": "SkillUnlock_SakuraSaurus",
+    "description": "ko_Text",
+    "name": "라브라돈의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus_Water": {
+    "dev_name": "SkillUnlock_SakuraSaurus_Water",
+    "description": "ko_Text",
+    "name": "스프라돈의 안장",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon": {
+    "dev_name": "SkillUnlock_BirdDragon",
+    "description": "ko_Text",
+    "name": "버드래곤의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon_Ice": {
+    "dev_name": "SkillUnlock_BirdDragon_Ice",
+    "description": "ko_Text",
+    "name": "시로카바네의 안장",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_WeaselDragon": {
+    "dev_name": "SkillUnlock_WeaselDragon",
+    "description": "ko_Text",
+    "name": "베비뇽의 안장",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes": {
+    "dev_name": "SkillUnlock_WindChimes",
+    "description": "ko_Text",
+    "name": "건다리의 장갑",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 5
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes_Ice": {
+    "dev_name": "SkillUnlock_WindChimes_Ice",
+    "description": "ko_Text",
+    "name": "유령건다리의 장갑",
+    "creates_amount": 1,
+    "work_required": 12000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 6
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca": {
+    "dev_name": "SkillUnlock_KingAlpaca",
+    "description": "ko_Text",
+    "name": "킹파카의 안장",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wool",
+        "name": "양털",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca_Ice": {
+    "dev_name": "SkillUnlock_KingAlpaca_Ice",
+    "description": "ko_Text",
+    "name": "블루파카의 안장",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 18
+      },
+      {
+        "dev_name": "Wool",
+        "name": "양털",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon": {
+    "dev_name": "SkillUnlock_FairyDragon",
+    "description": "ko_Text",
+    "name": "실피아의 안장",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon_Water": {
+    "dev_name": "SkillUnlock_FairyDragon_Water",
+    "description": "ko_Text",
+    "name": "실티아의 안장",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_RaijinDaughter": {
+    "dev_name": "SkillUnlock_RaijinDaughter",
+    "description": "ko_Text",
+    "name": "썬더 키드의 목걸이",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Eagle": {
+    "dev_name": "SkillUnlock_Eagle",
+    "description": "ko_Text",
+    "name": "질풍수리의 장갑",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GhostBeast": {
+    "dev_name": "SkillUnlock_GhostBeast",
+    "description": "ko_Text",
+    "name": "고스호스의 안장",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 25
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda": {
+    "dev_name": "SkillUnlock_GrassPanda",
+    "description": "ko_Text",
+    "name": "초판다의 수류탄 발사기",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda_Electric": {
+    "dev_name": "SkillUnlock_GrassPanda_Electric",
+    "description": "ko_Text",
+    "name": "썬더판다의 수류탄 발사기",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster": {
+    "dev_name": "SkillUnlock_VolcanicMonster",
+    "description": "ko_Text",
+    "name": "볼카노의 안장",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster_Ice": {
+    "dev_name": "SkillUnlock_VolcanicMonster_Ice",
+    "description": "ko_Text",
+    "name": "프로스카노의 안장",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin": {
+    "dev_name": "SkillUnlock_FireKirin",
+    "description": "ko_Text",
+    "name": "파이린의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin_Dark": {
+    "dev_name": "SkillUnlock_FireKirin_Dark",
+    "description": "ko_Text",
+    "name": "사라블랙의 안장",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 36
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth": {
+    "dev_name": "SkillUnlock_GrassMammoth",
+    "description": "ko_Text",
+    "name": "그린모스의 안장",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 70
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 60
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth_Ice": {
+    "dev_name": "SkillUnlock_GrassMammoth_Ice",
+    "description": "ko_Text",
+    "name": "블리자모스의 안장",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 60
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 84
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 12
+      },
+      {
+        "dev_name": "Wood",
+        "name": "목재",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 72
+      }
+    ]
+  },
+  "SkillUnlock_BlueDragon": {
+    "dev_name": "SkillUnlock_BlueDragon",
+    "description": "ko_Text",
+    "name": "아주리비의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi": {
+    "dev_name": "SkillUnlock_Umihebi",
+    "description": "ko_Text",
+    "name": "레비드라의 안장",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi_Fire": {
+    "dev_name": "SkillUnlock_Umihebi_Fire",
+    "description": "ko_Text",
+    "name": "아그니드라의 안장",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 60
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_AmaterasuWolf": {
+    "dev_name": "SkillUnlock_AmaterasuWolf",
+    "description": "ko_Text",
+    "name": "불이리의 안장",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_ThunderDog": {
+    "dev_name": "SkillUnlock_ThunderDog",
+    "description": "ko_Text",
+    "name": "썬도그의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "발전 기관",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Manticore": {
+    "dev_name": "SkillUnlock_Manticore",
+    "description": "ko_Text",
+    "name": "만티파이어의 안장",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 50
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_Manticore_Dark": {
+    "dev_name": "SkillUnlock_Manticore_Dark",
+    "description": "ko_Text",
+    "name": "시니에노의 안장",
+    "creates_amount": 1,
+    "work_required": 36000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 36
+      }
+    ]
+  },
+  "SkillUnlock_IceDeer": {
+    "dev_name": "SkillUnlock_IceDeer",
+    "description": "ko_Text",
+    "name": "얼음 사슴의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 25
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Horn",
+        "name": "뿔",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_ThunderBird": {
+    "dev_name": "SkillUnlock_ThunderBird",
+    "description": "ko_Text",
+    "name": "라이버드의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "발전 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_RedArmorBird": {
+    "dev_name": "SkillUnlock_RedArmorBird",
+    "description": "ko_Text",
+    "name": "적토조의 안장",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Horus": {
+    "dev_name": "SkillUnlock_Horus",
+    "description": "ko_Text",
+    "name": "호루스의 안장",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_SkyDragon": {
+    "dev_name": "SkillUnlock_SkyDragon",
+    "description": "ko_Text",
+    "name": "페스키의 안장",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_HadesBird": {
+    "dev_name": "SkillUnlock_HadesBird",
+    "description": "ko_Text",
+    "name": "헬가루다의 안장",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "발전 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_FengyunDeeper": {
+    "dev_name": "SkillUnlock_FengyunDeeper",
+    "description": "ko_Text",
+    "name": "윈드디어의 안장",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "천",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku": {
+    "dev_name": "SkillUnlock_Suzaku",
+    "description": "ko_Text",
+    "name": "주작의 안장",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "발화 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku_Water": {
+    "dev_name": "SkillUnlock_Suzaku_Water",
+    "description": "ko_Text",
+    "name": "시바의 안장",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 24
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "팰의 체액",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_KingBahamut": {
+    "dev_name": "SkillUnlock_KingBahamut",
+    "description": "ko_Text",
+    "name": "볼카이저의 안장",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti": {
+    "dev_name": "SkillUnlock_Yeti",
+    "description": "ko_Text",
+    "name": "움포의 안장",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti_Grass": {
+    "dev_name": "SkillUnlock_Yeti_Grass",
+    "description": "ko_Text",
+    "name": "트로피티의 안장",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 36
+      },
+      {
+        "dev_name": "Poppy",
+        "name": "예쁜 꽃",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "섬유",
+        "amount": 60
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_ElecPanda": {
+    "dev_name": "SkillUnlock_ElecPanda",
+    "description": "ko_Text",
+    "name": "일렉판다의 미니건",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_BlackGriffon": {
+    "dev_name": "SkillUnlock_BlackGriffon",
+    "description": "ko_Text",
+    "name": "제노그리프의 안장",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 40
+      },
+      {
+        "dev_name": "Venom",
+        "name": "독샘",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 45
+      }
+    ]
+  },
+  "SkillUnlock_BlackMetalDragon": {
+    "dev_name": "SkillUnlock_BlackMetalDragon",
+    "description": "ko_Text",
+    "name": "라바드래곤의 안장",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 55
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon": {
+    "dev_name": "SkillUnlock_LazyDragon",
+    "description": "ko_Text",
+    "name": "헤로롱의 미사일 발사기",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 35
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon_Electric": {
+    "dev_name": "SkillUnlock_LazyDragon_Electric",
+    "description": "ko_Text",
+    "name": "핑피롱의 미사일 발사기",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "폴리머",
+        "amount": 42
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 102
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse": {
+    "dev_name": "SkillUnlock_IceHorse",
+    "description": "ko_Text",
+    "name": "빙천마의 안장",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 200
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "빙결 기관",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse_Dark": {
+    "dev_name": "SkillUnlock_IceHorse_Dark",
+    "description": "ko_Text",
+    "name": "그레이섀도우의 안장",
+    "creates_amount": 1,
+    "work_required": 180000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 120
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 240
+      },
+      {
+        "dev_name": "Venom",
+        "name": "독샘",
+        "amount": 60
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 90
+      }
+    ]
+  },
+  "SkillUnlock_SaintCentaur": {
+    "dev_name": "SkillUnlock_SaintCentaur",
+    "description": "ko_Text",
+    "name": "팔라디우스의 안장",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_BlackCentaur": {
+    "dev_name": "SkillUnlock_BlackCentaur",
+    "description": "ko_Text",
+    "name": "켄타나이트의 안장",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "금속 주괴",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_JetDragon": {
+    "dev_name": "SkillUnlock_JetDragon",
+    "description": "ko_Text",
+    "name": "제트래곤의 미사일 발사기",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "가죽",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "제련 주괴",
+        "amount": 200
+      },
+      {
+        "dev_name": "MachineParts2",
+        "name": "전자기판",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "팰지움 파편",
+        "amount": 140
+      }
+    ]
+  },
+  "BakedMeat_ChickenPal": {
+    "dev_name": "BakedMeat_ChickenPal",
+    "description": "숯불로 천천히 익힌 닭고기 꼬치구이. 부담 없는 식감과 담백한 맛이 특징이다.",
+    "name": "꼬꼬닭",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "꼬꼬닭",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SheepBall": {
+    "dev_name": "BakedMeat_SheepBall",
+    "description": "향신료에 재운 양고기를 구워 만든 요리. 짙은 개성과 깊이 있는 맛을 체감할 수 있다.",
+    "name": "도로롱",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "도로롱",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Kelpie": {
+    "dev_name": "BakedMeat_Kelpie",
+    "description": "신선한 어육은 숯불로 구워 내면, 식감이 더욱 야들야들해진다.",
+    "name": "켈시",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "켈시",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Eagle": {
+    "dev_name": "BakedMeat_Eagle",
+    "description": "높은 창공을 가로지르는 활력이 가득 담겨, 늠름함마저 넘쳐흐르는 꼬치구이.",
+    "name": "질풍수리",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "질풍수리",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Boar": {
+    "dev_name": "BakedMeat_Boar",
+    "description": "이글거리는 불로 구워낸 돼지고기. 겉은 바삭바삭, 속은 촉촉한 식감이 난다.\r\n호화로운 파티용 메뉴로 안성맞춤이다.",
+    "name": "돌진돼지",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "돌진돼지",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_LazyCatfish": {
+    "dev_name": "BakedMeat_LazyCatfish",
+    "description": "비법 소스로 알맞게 구워, 몸도 마음도 치유될 정도로 맛있는 생선구이.\r\n지친 팰 조련사에게 제격이다.",
+    "name": "도도롱",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "도도롱",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Deer": {
+    "dev_name": "BakedMeat_Deer",
+    "description": "섬세한 사슴 고기를 세심하게 구워, 깊은 숲의 향기가 감도는 요리.\r\n고급스러운 맛으로 일상을 한껏 풍족하게 만들어 준다.",
+    "name": "신령사슴",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "신령사슴",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_IceDeer": {
+    "dev_name": "BakedMeat_IceDeer",
+    "description": "얼음 사슴의 고기는 불에서 꺼내면, 급격히 온도가 내려가 신선도가 유지되는 특징이 있다.\r\n고급 비상식량으로도 활용할 수 있는 요리.",
+    "name": "얼음 사슴 로스트",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "얼음 사슴의 사슴 고기",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_BerryGoat": {
+    "dev_name": "BakedMeat_BerryGoat",
+    "description": "허브와 열매의 향을 간직한 고기를 순한 맛으로 구워낸 요리.\r\n야외에서 식사할 때 온기와 만족감을 동시에 선사한다.",
+    "name": "베리고트",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_BerryGoat",
+        "name": "베리고트",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_CowPal": {
+    "dev_name": "BakedMeat_CowPal",
+    "description": "제대로 구워낸 중후한 스테이크. 힘이 불끈불끈 솟는 맛 덕분에 활력이 끓어오른다.",
+    "name": "밀카우",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "밀카우",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SakuraSaurus": {
+    "dev_name": "BakedMeat_SakuraSaurus",
+    "description": "야생의 왕자의 풍미를 느낄 수 있는 중후한 불고기. 응축된 육즙이 뼈에서부터 흘러나와\r\n씹는 맛이 있으면서도 속은 놀랄 정도로 부드럽다.",
+    "name": "라브라돈",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SakuraSaurus",
+        "name": "라브라돈",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_GrassMammoth": {
+    "dev_name": "BakedMeat_GrassMammoth",
+    "description": "진하며 위엄마저 느껴지는 맛. 한 입 베어 물 때마다 깊은 숲속을 흐르던 빙하의 기억이 되살아난다.",
+    "name": "그린모스",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_GrassMammoth",
+        "name": "그린모스",
+        "amount": 1
+      }
+    ]
+  },
+  "ChickenSaute": {
+    "dev_name": "ChickenSaute",
+    "description": "두툼한 닭가슴살에 버터를 발라 볶은 요리. 상큼한 레몬 풍미가 느껴진다.\r\n먹으면 일정 시간 동안 작업 속도가 조금 상승한다.",
+    "name": "꼬꼬닭",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "꼬꼬닭",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      }
+    ]
+  },
+  "GrilledSheepHerbs": {
+    "dev_name": "GrilledSheepHerbs",
+    "description": "신선한 열매를 아낌없이 사용하여, 양고기 특유의 맛을 끌어내는 향이 퍼져 나온다.\r\n먹으면 일정 시간 동안 방어 +10%",
+    "name": "도로롱",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "도로롱",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      }
+    ]
+  },
+  "GenghisKhan": {
+    "dev_name": "GenghisKhan",
+    "description": "양념에 재운 양고기를 숯불에 정성껏 구워낸 요리. 먹으면 일정 시간 동안 작업 속도가 조금 상승하며\r\nSAN 수치 하락 속도가 조금 감소한다.",
+    "name": "도로롱",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "도로롱",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "양상추",
+        "amount": 2
+      }
+    ]
+  },
+  "Eaglestew": {
+    "dev_name": "Eaglestew",
+    "description": "오랫동안 끓여 진한 감칠맛과 야성미 넘치는 풍미를 이끌어낸 요리.\r\n먹으면 일정 시간 동안 SAN 수치 하락 속도가 조금 감소한다.",
+    "name": "질풍수리",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "질풍수리",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      }
+    ]
+  },
+  "BaconEggs": {
+    "dev_name": "BaconEggs",
+    "description": "훈제 베이컨의 풍미와 달걀의 부드러운 식감이 절묘한 조화를 이룬다.\r\n먹으면 일정 시간 동안 공격 +10%",
+    "name": "돌진돼지 베이컨 에그",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "돌진돼지",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 2
+      }
+    ]
+  },
+  "StewedIceDeer": {
+    "dev_name": "StewedIceDeer",
+    "description": "냉랭한 지역에서 자란 사슴 고기를 야채와 함께 끓인 스튜. 부드러운 고기와 섬세한 단맛이 한데 어우러졌다.\r\n먹으면 일정 시간 동안 배가 조금 든든해진다.",
+    "name": "얼음 사슴 차슈",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "얼음 사슴의 사슴 고기",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "토마토",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedChicken": {
+    "dev_name": "FriedChicken",
+    "description": "육즙이 꽉 찬 닭고기 요리. 먹으면 일정 시간 동안 작업 속도가 상승하며\r\nSAN 수치 하락 속도가 감소한다.",
+    "name": "꼬꼬닭",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "꼬꼬닭",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 1
+      }
+    ]
+  },
+  "HotDog_2": {
+    "dev_name": "HotDog_2",
+    "description": "빵 안에 두툼한 소시지를 끼운 요리. 바삭바삭한 표면과 매콤한 맛이 절묘하게 어우러졌다.\r\n먹으면 일정 시간 동안 방어 +20%",
+    "name": "핫도그",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "돌진돼지",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "양상추",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerLocoMoco": {
+    "dev_name": "DeerLocoMoco",
+    "description": "두툼한 햄버거에 녹진한 달걀 프라이. 입안에서 펼쳐지는 둘의 공연이 웅장한 행복감을 자아낸다.\r\n먹으면 일정 시간 동안 공격 +20%",
+    "name": "신령사슴",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "신령사슴",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "빨간 열매",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerStew": {
+    "dev_name": "DeerStew",
+    "description": "사르르 녹아내리는 사슴 고기와 정성을 담아 끓인 스튜. 야채와 고기의 감칠맛이 융합하여 부드러운 맛을 이끌어낸다.\r\n먹으면 일정 시간 동안 방어 +20%",
+    "name": "신령사슴",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "신령사슴",
+        "amount": 2
+      },
+      {
+        "dev_name": "Mushroom",
+        "name": "버섯",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 2
+      }
+    ]
+  },
+  "Hamburger_2": {
+    "dev_name": "Hamburger_2",
+    "description": "소고기의 감칠맛과 빵의 단맛이 절묘하게 융합한 요리. 먹으면 일정 시간 동안 작업 속도가 상승하며\r\nSAN 수치 하락 속도가 조금 감소한다.",
+    "name": "햄버거",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "밀카우",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "양상추",
+        "amount": 2
+      }
+    ]
+  },
+  "Cheeseburger_2": {
+    "dev_name": "Cheeseburger_2",
+    "description": "치즈를 끼워 최고의 영역에 도달한 요리. 먹으면 일정 시간 동안 공격 +20%\r\n배가 조금 든든해진다.",
+    "name": "치즈 버거",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "밀카우",
+        "amount": 2
+      },
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "토마토",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "우유",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedKelpie": {
+    "dev_name": "FriedKelpie",
+    "description": "탱글탱글한 어육의 식감과 바삭바삭한 튀김옷이 만났다. 먹으면 일정 시간 동안 방어 +10%\r\nSAN 수치 하락 속도가 조금 감소한다.",
+    "name": "켈시",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "켈시",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "밀가루",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "알",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "고급 팰 기름",
+        "amount": 1
+      }
+    ]
+  },
+  "Chowder": {
+    "dev_name": "Chowder",
+    "description": "걸쭉한 수프에 파묻힌 독특한 맛. 먹으면 일정 시간 동안 작업 속도가 상승하며\r\n배가 조금 든든해진다.",
+    "name": "도도롱",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "도도롱",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "양상추",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "토마토",
+        "amount": 2
+      }
+    ]
+  }
+}

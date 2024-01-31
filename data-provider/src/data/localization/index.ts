@@ -1,7 +1,6 @@
 import { getUICommonStrings } from './en-ui-common';
 import {
   getPalLongDescriptionTextMap,
-  getPalShortDescriptionTextMap,
   getPalSkillDescriptionTextMap,
 } from './en-pal';
 import { LocalizedSkillStrings, getEnSkillsStrings } from './en-skills';
@@ -72,11 +71,10 @@ export const create_localization_data = async (
   const techStrings = await getTechStrings(locale);
 
   const palLongDescriptionMap = await getPalLongDescriptionTextMap(locale);
-  const palShortDescriptionMap = await getPalShortDescriptionTextMap(locale);
   const palSkillDescriptionMap = await getPalSkillDescriptionTextMap(locale);
   return {
     keys: mergeMapAndCatchDuplicates(
-      'create_localization_data',
+      `${locale} create_localization_data`,
       enUICommonStrings,
       { source: 'namePrefixStrings', map: namePrefixStrings },
       {
@@ -95,7 +93,6 @@ export const create_localization_data = async (
       { source: 'enUniqueNpcStrings', map: enUniqueNpcStrings },
       { source: 'techStrings', map: techStrings },
       { source: 'palLongDescriptionMap', map: palLongDescriptionMap },
-      { source: 'palShortDescriptionMap', map: palShortDescriptionMap },
       { source: 'palSkillDescriptionMap', map: palSkillDescriptionMap }
     ),
     skills: await getEnSkillsStrings(locale),

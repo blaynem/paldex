@@ -1,0 +1,6899 @@
+{
+  "PalSphere": {
+    "dev_name": "PalSphere",
+    "description": "丟出這種道具便能捕捉帕魯。 此為量產款式，只對低等級的帕魯有效。",
+    "name": "帕魯球",
+    "creates_amount": 1,
+    "work_required": 300,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Mega": {
+    "dev_name": "PalSphere_Mega",
+    "description": "丟出這種道具便能捕捉帕魯。 此款式性能有所提升，可捕捉的帕魯範圍更廣。",
+    "name": "高級帕魯球",
+    "creates_amount": 1,
+    "work_required": 1500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 1
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 1
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 5
+      }
+    ]
+  },
+  "PalSphere_Giga": {
+    "dev_name": "PalSphere_Giga",
+    "description": "丟出這種道具便能捕捉帕魯。 此款式可捕捉有一定強度的帕魯。",
+    "name": "優級帕魯球",
+    "creates_amount": 1,
+    "work_required": 4500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 2
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 2
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 7
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 7
+      }
+    ]
+  },
+  "PalSphere_Tera": {
+    "dev_name": "PalSphere_Tera",
+    "description": "丟出這種道具便能捕捉帕魯。 此款式可捕捉相當強大的帕魯。",
+    "name": "特級帕魯球",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 3
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cement",
+        "name": "水泥",
+        "amount": 2
+      }
+    ]
+  },
+  "PalSphere_Master": {
+    "dev_name": "PalSphere_Master",
+    "description": "丟出這種道具便能捕捉帕魯。 此款式的性能相當好，沒多少帕魯能逃得掉。",
+    "name": "大師帕魯球",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 5
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 2
+      },
+      {
+        "dev_name": "Cement",
+        "name": "水泥",
+        "amount": 3
+      }
+    ]
+  },
+  "PalSphere_Legend": {
+    "dev_name": "PalSphere_Legend",
+    "description": "丟出這種道具便能捕捉帕魯。 此款式的捕捉性能極高，\r\n幾乎沒有帕魯能逃得掉。",
+    "name": "傳奇帕魯球",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      },
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cement",
+        "name": "水泥",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat": {
+    "dev_name": "Bat",
+    "description": "如果是體型小的帕魯，說不定能夠將牠打倒。",
+    "name": "木棍",
+    "creates_amount": 1,
+    "work_required": 750,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 5
+      }
+    ]
+  },
+  "Bat2": {
+    "dev_name": "Bat2",
+    "description": "這根棒球棒也能用於近距離戰鬥。 但拿帕魯當球可能有點太大了。",
+    "name": "棒球棒",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      }
+    ]
+  },
+  "Torch": {
+    "dev_name": "Torch",
+    "description": "設置在據點即可照亮四周。",
+    "name": "固定式火炬",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 2
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 2
+      }
+    ]
+  },
+  "MeatCutterKnife": {
+    "dev_name": "MeatCutterKnife",
+    "description": "可用於肢解召喚出的帕魯的菜刀。 裝備此道具時「撫摸」選項會轉變為「肢解」。\r\n帕魯一經解體後將無法再度復生。",
+    "name": "切肉刀",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_00": {
+    "dev_name": "Pickaxe_Tier_00",
+    "description": "用於挖掘、開採的十字鎬。 以石頭製成，因此效率有待改進。",
+    "name": "石製十字鎬",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_01": {
+    "dev_name": "Pickaxe_Tier_01",
+    "description": "用於挖掘、開採的十字鎬。 升級為金屬製，耐久度與採集效率均有所提升。",
+    "name": "金屬十字鎬",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      }
+    ]
+  },
+  "Pickaxe_Tier_02": {
+    "dev_name": "Pickaxe_Tier_02",
+    "description": "用於挖掘、開採的十字鎬。 耐久度與銳利度均有更進一步的提升。",
+    "name": "精鍊金屬十字鎬",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 10
+      }
+    ]
+  },
+  "Axe_Tier_00": {
+    "dev_name": "Axe_Tier_00",
+    "description": "用於劈砍木材的斧頭。 以石頭打造而成，感覺不是很鋒利。",
+    "name": "石斧",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_01": {
+    "dev_name": "Axe_Tier_01",
+    "description": "用於劈砍木材的斧頭。 以金屬打造而成，鋒利度有所改善。",
+    "name": "金屬斧",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      }
+    ]
+  },
+  "Axe_Tier_02": {
+    "dev_name": "Axe_Tier_02",
+    "description": "用於劈砍木材的斧頭。 用優質的金屬製成，鋒利度進一步得到了提升。",
+    "name": "精鍊金屬斧",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear": {
+    "dev_name": "Spear",
+    "description": "利於近距離戰鬥的矛。 射程長，可稍微拉開敵我距離。",
+    "name": "石矛",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 18
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 6
+      }
+    ]
+  },
+  "Spear_2": {
+    "dev_name": "Spear_2",
+    "description": "利於近距離戰鬥的矛。 以金屬製成，攻擊力有所提升。\r\n必須有「優質工作臺」才能製造。",
+    "name": "金屬矛",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 27
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_3": {
+    "dev_name": "Spear_3",
+    "description": "利於近距離戰鬥的矛。 以優質金屬製成，攻擊力有所提升。\r\n必須有「作業流水線工廠」才能製造。",
+    "name": "精鍊金屬矛",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 36
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 18
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 10
+      }
+    ]
+  },
+  "Spear_ForestBoss": {
+    "dev_name": "Spear_ForestBoss",
+    "description": "莉莉愛用的長矛。 她會用它來制裁蔑視帕魯的人。",
+    "name": "莉莉之矛",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 20
+      }
+    ]
+  },
+  "ElecBaton": {
+    "dev_name": "ElecBaton",
+    "description": "敲下去就會觸電的近戰武器。 帕魯在觸電狀態下比較容易捕獲。\r\n必須有｢優質工作臺｣才能製造。",
+    "name": "電擊棒",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "發電器官",
+        "amount": 20
+      }
+    ]
+  },
+  "Sword": {
+    "dev_name": "Sword",
+    "description": "近距離戰鬥使用的｢劍｣。 需要靠近敵人攻擊，可以說是相當危險。\r\n必須有｢武器工作臺｣才能製造。/",
+    "name": "劍",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 20
+      }
+    ]
+  },
+  "WeakerBow": {
+    "dev_name": "WeakerBow",
+    "description": "可進行遠程攻擊的弓。 因為是東拼西湊而成的，威力較弱。",
+    "name": "老舊的弓",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 30
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 15
+      }
+    ]
+  },
+  "WeakerBow_2": {
+    "dev_name": "WeakerBow_2",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_2",
+      "name": "老舊的弓設計圖1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 60
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 1
+      }
+    ]
+  },
+  "WeakerBow_3": {
+    "dev_name": "WeakerBow_3",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 16000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_3",
+      "name": "老舊的弓設計圖2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 90
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 2
+      }
+    ]
+  },
+  "WeakerBow_4": {
+    "dev_name": "WeakerBow_4",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_4",
+      "name": "老舊的弓設計圖3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 135
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 22
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 4
+      }
+    ]
+  },
+  "WeakerBow_5": {
+    "dev_name": "WeakerBow_5",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 64000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_WeakerBow_5",
+      "name": "老舊的弓設計圖4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 202
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 33
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 10
+      }
+    ]
+  },
+  "Bow_Fire": {
+    "dev_name": "Bow_Fire",
+    "description": "｢火屬性｣之弓。 利用火箭矢讓帕魯著火，變得更容易捕捉。\r\n必須使用｢火箭矢｣。",
+    "name": "火之弓",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Poison": {
+    "dev_name": "Bow_Poison",
+    "description": "可讓攻擊對象中毒的可怕毒弓。 帕魯中毒以後，會變得更容易捕捉。\r\n必須使用｢毒箭矢｣。",
+    "name": "毒之弓",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 40
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 8
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "Venom",
+        "name": "毒腺",
+        "amount": 2
+      }
+    ]
+  },
+  "Bow_Triple": {
+    "dev_name": "Bow_Triple",
+    "description": "經過改良，可同時射出3根箭矢的弓。 而且具有不可思議的力量，每次射擊都只會消耗1根箭矢。",
+    "name": "三連弓",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 12
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      }
+    ]
+  },
+  "BowGun": {
+    "dev_name": "BowGun",
+    "description": "無須用力即可射出箭矢。 裝箭需要花些時間，但攻擊威力強大。\r\n必須有｢優質工作臺｣才能製造。",
+    "name": "十字弓",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "釘子",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_2": {
+    "dev_name": "BowGun_2",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_2",
+      "name": "十字弓設計圖1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 100
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 80
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "釘子",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 2
+      }
+    ]
+  },
+  "BowGun_3": {
+    "dev_name": "BowGun_3",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_3",
+      "name": "十字弓設計圖2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 150
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 120
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "釘子",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 4
+      }
+    ]
+  },
+  "BowGun_4": {
+    "dev_name": "BowGun_4",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_4",
+      "name": "十字弓設計圖3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 225
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 180
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 45
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "釘子",
+        "amount": 22
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 6
+      }
+    ]
+  },
+  "BowGun_5": {
+    "dev_name": "BowGun_5",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_BowGun_5",
+      "name": "十字弓設計圖4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 337
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 270
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 67
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "釘子",
+        "amount": 33
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 12
+      }
+    ]
+  },
+  "BowGun_Fire": {
+    "dev_name": "BowGun_Fire",
+    "description": "｢火屬性｣的強力遠距離武器。 需要使用｢火箭矢｣來射擊。\r\n必須有｢武器工作臺｣才能製造。",
+    "name": "火箭矢專用十字弓",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "釘子",
+        "amount": 5
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 5
+      }
+    ]
+  },
+  "BowGun_Poison": {
+    "dev_name": "BowGun_Poison",
+    "description": "會讓攻擊對象中毒的的強力遠距離武器。 需要使用｢毒箭矢｣來射擊。\r\n必須有｢優質工作臺｣才能製造。",
+    "name": "毒箭矢專用十字弓",
+    "creates_amount": 1,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "MachineParts",
+        "name": "釘子",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "毒腺",
+        "amount": 5
+      }
+    ]
+  },
+  "Musket": {
+    "dev_name": "Musket",
+    "description": "古舊又簡樸的槍，裝填子彈速度很慢。 需要使用｢用於<itemName id=|Musket|/>等的簡易子彈。｣來射擊。\r\n必須有｢武器工作臺｣才能製造。",
+    "name": "鳥槍",
+    "creates_amount": 1,
+    "work_required": 35000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 25
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 5
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 30
+      }
+    ]
+  },
+  "MakeshiftHandgun": {
+    "dev_name": "MakeshiftHandgun",
+    "description": "手工製造的破舊單發型手槍。 需要使用｢用於<itemName id=|Musket|/>等的簡易子彈。｣來射擊。\r\n在｢武器工作臺｣上製作。",
+    "name": "劣質手槍",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 35
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      }
+    ]
+  },
+  "HandGun_Default": {
+    "dev_name": "HandGun_Default",
+    "description": "子彈容納量及連射性能經過強化的手槍。 每秒火力比劣質手槍更強。",
+    "name": "手槍",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 15
+      }
+    ]
+  },
+  "HandGun_Default_2": {
+    "dev_name": "HandGun_Default_2",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_2",
+      "name": "手槍設計圖1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 3
+      }
+    ]
+  },
+  "HandGun_Default_3": {
+    "dev_name": "HandGun_Default_3",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_3",
+      "name": "手槍設計圖2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 45
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 5
+      }
+    ]
+  },
+  "HandGun_Default_4": {
+    "dev_name": "HandGun_Default_4",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_4",
+      "name": "手槍設計圖3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 67
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 7
+      }
+    ]
+  },
+  "HandGun_Default_5": {
+    "dev_name": "HandGun_Default_5",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_HandGun_Default_5",
+      "name": "手槍設計圖4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 14
+      }
+    ]
+  },
+  "SingleShotRifle": {
+    "dev_name": "SingleShotRifle",
+    "description": "單發型的步槍。 子彈容納量雖少，但每一發均威力驚人。",
+    "name": "單發步槍",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 5
+      }
+    ]
+  },
+  "DoubleBarrelShotgun": {
+    "dev_name": "DoubleBarrelShotgun",
+    "description": "適合用於近距離戰的散彈槍。 子彈容納量較少，但火力極大。",
+    "name": "雙管散彈槍",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 7
+      }
+    ]
+  },
+  "AssaultRifle_Default1": {
+    "dev_name": "AssaultRifle_Default1",
+    "description": "適於遠距離戰鬥的突擊步槍。 擁有優異的連射能力，是應戰強大對手時的理想選擇。",
+    "name": "突擊步槍",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 40
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 10
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 30
+      }
+    ]
+  },
+  "AssaultRifle_Default2": {
+    "dev_name": "AssaultRifle_Default2",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default2",
+      "name": "突擊步槍設計圖1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 80
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 5
+      }
+    ]
+  },
+  "AssaultRifle_Default3": {
+    "dev_name": "AssaultRifle_Default3",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default3",
+      "name": "突擊步槍設計圖2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 90
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 10
+      }
+    ]
+  },
+  "AssaultRifle_Default4": {
+    "dev_name": "AssaultRifle_Default4",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 1600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default4",
+      "name": "突擊步槍設計圖3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 180
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 45
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 135
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 20
+      }
+    ]
+  },
+  "AssaultRifle_Default5": {
+    "dev_name": "AssaultRifle_Default5",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 3200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_AssaultRifle_Default5",
+      "name": "突擊步槍設計圖4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 270
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 67
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 202
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 30
+      }
+    ]
+  },
+  "PumpActionShotgun": {
+    "dev_name": "PumpActionShotgun",
+    "description": "子彈容納量增加，威力更強的散彈槍。 近距離射擊時的DPS極佳。",
+    "name": "泵動式散彈槍",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 20
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 40
+      }
+    ]
+  },
+  "PumpActionShotgun_2": {
+    "dev_name": "PumpActionShotgun_2",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 480000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_2",
+      "name": "泵動式散彈槍設計圖1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 60
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 40
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 5
+      }
+    ]
+  },
+  "PumpActionShotgun_3": {
+    "dev_name": "PumpActionShotgun_3",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 960000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_3",
+      "name": "泵動式散彈槍設計圖2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 90
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 120
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 10
+      }
+    ]
+  },
+  "PumpActionShotgun_4": {
+    "dev_name": "PumpActionShotgun_4",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 1920000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_4",
+      "name": "泵動式散彈槍設計圖3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 135
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 180
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 20
+      }
+    ]
+  },
+  "PumpActionShotgun_5": {
+    "dev_name": "PumpActionShotgun_5",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 3840000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_PumpActionShotgun_5",
+      "name": "泵動式散彈槍設計圖4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 202
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 270
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default": {
+    "dev_name": "Launcher_Default",
+    "description": "火箭彈發射器。 可自遠距離強力轟炸目標。",
+    "name": "火箭彈發射器",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 75
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 50
+      }
+    ]
+  },
+  "Launcher_Default_2": {
+    "dev_name": "Launcher_Default_2",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 1200000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_2",
+      "name": "火箭彈發射器設計圖1"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 150
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 60
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 100
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 10
+      }
+    ]
+  },
+  "Launcher_Default_3": {
+    "dev_name": "Launcher_Default_3",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 2400000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_3",
+      "name": "火箭彈發射器設計圖2"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 225
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 90
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 150
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 20
+      }
+    ]
+  },
+  "Launcher_Default_4": {
+    "dev_name": "Launcher_Default_4",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 4800000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_4",
+      "name": "火箭彈發射器設計圖3"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 337
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 135
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 225
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 30
+      }
+    ]
+  },
+  "Launcher_Default_5": {
+    "dev_name": "Launcher_Default_5",
+    "description": "zh-hant text",
+    "name": "zh-hant text",
+    "creates_amount": 1,
+    "work_required": 9600000,
+    "unlocked_by_item": {
+      "dev_name": "Blueprint_Launcher_Default_5",
+      "name": "火箭彈發射器設計圖4"
+    },
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 505
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 202
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 337
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 40
+      }
+    ]
+  },
+  "HomingSphereLauncher": {
+    "dev_name": "HomingSphereLauncher",
+    "description": "用於發射帕魯球的發射器。 用它射出的帕魯球能夠鎖定帕魯。",
+    "name": "自動追蹤帕魯球發射器",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 200
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 20
+      }
+    ]
+  },
+  "SphereLauncher": {
+    "dev_name": "SphereLauncher",
+    "description": "可同時發射大量帕魯球的新型發射器。 可用來捕捉成群的帕魯。",
+    "name": "擴散型帕魯球發射器",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 10
+      }
+    ]
+  },
+  "SphereLauncher_Once": {
+    "dev_name": "SphereLauncher_Once",
+    "description": "用於發射帕魯球的發射器。 用它就能捕捉到位在更遠處的帕魯。",
+    "name": "單發型帕魯球發射器",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 5
+      }
+    ]
+  },
+  "DecalGun_1": {
+    "dev_name": "DecalGun_1",
+    "description": "能在命中處留下搗蛋貓圖案的奇妙槍枝。 享受在牆壁及地板上作畫的樂趣吧。",
+    "name": "噴漆槍1",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_2": {
+    "dev_name": "DecalGun_2",
+    "description": "能在命中處留下棉悠悠圖案的奇妙槍枝。 享受在牆壁及地板上作畫的樂趣吧。",
+    "name": "噴漆槍2",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_3": {
+    "dev_name": "DecalGun_3",
+    "description": "能在命中處留下美露帕圖案的奇妙槍枝。 享受在牆壁及地板上作畫的樂趣吧。",
+    "name": "噴漆槍3",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_4": {
+    "dev_name": "DecalGun_4",
+    "description": "能在命中處留下阿努比斯圖案的奇妙槍枝。 享受在牆壁及地板上作畫的樂趣吧。",
+    "name": "噴漆槍4",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 3
+      }
+    ]
+  },
+  "DecalGun_5": {
+    "dev_name": "DecalGun_5",
+    "description": "能在命中處留下佩克龍圖案的奇妙槍枝。 享受在牆壁及地板上作畫的樂趣吧。",
+    "name": "噴漆槍5",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 3
+      }
+    ]
+  },
+  "GrapplingGun_1": {
+    "dev_name": "GrapplingGun_1",
+    "description": "zh-hant text",
+    "name": "爪鉤槍",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 1
+      }
+    ]
+  },
+  "GrapplingGun_2": {
+    "dev_name": "GrapplingGun_2",
+    "description": "zh-hant text",
+    "name": "高級爪鉤槍",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 4
+      }
+    ]
+  },
+  "GrapplingGun_3": {
+    "dev_name": "GrapplingGun_3",
+    "description": "zh-hant text",
+    "name": "優級爪鉤槍",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 80
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 8
+      }
+    ]
+  },
+  "GrapplingGun_4": {
+    "dev_name": "GrapplingGun_4",
+    "description": "zh-hant text",
+    "name": "特級爪鉤槍",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 40
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 15
+      }
+    ]
+  },
+  "FragGrenade": {
+    "dev_name": "FragGrenade",
+    "description": "zh-hant text",
+    "name": "破片手榴彈",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "火藥",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Fire": {
+    "dev_name": "FragGrenade_Fire",
+    "description": "利於中等距離戰鬥的燒夷手榴彈。 擊中目標後會讓附近化作火海。",
+    "name": "燒夷手榴彈",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Elec": {
+    "dev_name": "FragGrenade_Elec",
+    "description": "利於中等距離戰鬥的電擊手榴彈。 擊中目標後會對附近放出電擊。",
+    "name": "電擊手榴彈",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "發電器官",
+        "amount": 1
+      }
+    ]
+  },
+  "FragGrenade_Ice": {
+    "dev_name": "FragGrenade_Ice",
+    "description": "利於中等距離戰鬥的冰凍手榴彈。 擊中目標後會將附近萬物凍結。",
+    "name": "冰凍手榴彈",
+    "creates_amount": 1,
+    "work_required": 13000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 1
+      }
+    ]
+  },
+  "ClothArmor": {
+    "dev_name": "ClothArmor",
+    "description": "以布製成的服裝。 可以抵禦夜間的寒意。",
+    "name": "布衣",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorHeat": {
+    "dev_name": "ClothArmorHeat",
+    "description": "在炎熱地區生產的布衣。 具備一定的消暑功能。",
+    "name": "熱帶地區民族服裝",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 2
+      }
+    ]
+  },
+  "ClothArmorCold": {
+    "dev_name": "ClothArmorCold",
+    "description": "在寒冷地區生產的布衣。 能夠抵禦使身體凍僵的寒意。",
+    "name": "寒冷地區民族服裝",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 2
+      }
+    ]
+  },
+  "FurArmor": {
+    "dev_name": "FurArmor",
+    "description": "以皮革製成的盔甲。 保暖力及防禦力均有所提升。",
+    "name": "毛皮盔甲",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      }
+    ]
+  },
+  "FurArmorHeat": {
+    "dev_name": "FurArmorHeat",
+    "description": "在炎熱地區生產的毛皮盔甲。 具備一定的消暑功能。",
+    "name": "耐熱毛皮盔甲",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 4
+      }
+    ]
+  },
+  "FurArmorCold": {
+    "dev_name": "FurArmorCold",
+    "description": "在寒冷地區生產的毛皮盔甲。 能夠抵禦使身體凍僵的寒意。",
+    "name": "耐寒毛皮盔甲",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 15
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 4
+      }
+    ]
+  },
+  "CopperArmor": {
+    "dev_name": "CopperArmor",
+    "description": "以金屬打造的盔甲。 有一定的防禦力，也有一定的重量。",
+    "name": "金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperArmorHeat": {
+    "dev_name": "CopperArmorHeat",
+    "description": "經過改良的金屬盔甲。 具備傲人的耐熱功能。",
+    "name": "耐熱金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 8
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 8
+      }
+    ]
+  },
+  "CopperArmorCold": {
+    "dev_name": "CopperArmorCold",
+    "description": "經過改良的金屬盔甲。 在寒冷地區活動時很有幫助。",
+    "name": "耐寒金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 13
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 8
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 8
+      }
+    ]
+  },
+  "IronArmor": {
+    "dev_name": "IronArmor",
+    "description": "以優質金屬打造的盔甲。 防禦力極優，但也相當沉重。",
+    "name": "精鍊金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 15
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 2
+      }
+    ]
+  },
+  "IronArmorHeat": {
+    "dev_name": "IronArmorHeat",
+    "description": "經過改良的精鍊金屬盔甲。 具備傲人的耐熱功能。",
+    "name": "耐熱精鍊金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 12
+      }
+    ]
+  },
+  "IronArmorCold": {
+    "dev_name": "IronArmorCold",
+    "description": "經過改良的精鍊金屬盔甲。 在寒冷地區活動時很有幫助。",
+    "name": "耐寒精鍊金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 70000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 40
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 3
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 12
+      }
+    ]
+  },
+  "StealArmor": {
+    "dev_name": "StealArmor",
+    "description": "以帕魯金屬錠打造的盔甲。 防禦力極為卓越，但也極為沉重。\r\n散發著勇敢堅毅的光輝，英雄氣概十足。",
+    "name": "帕魯金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 4
+      }
+    ]
+  },
+  "StealArmorHeat": {
+    "dev_name": "StealArmorHeat",
+    "description": "經過改良的帕魯金屬盔甲。 具備傲人的耐熱功能。",
+    "name": "耐熱帕魯金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 6
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 16
+      }
+    ]
+  },
+  "StealArmorCold": {
+    "dev_name": "StealArmorCold",
+    "description": "經過改良的帕魯金屬盔甲。 在寒冷地區活動時很有幫助。",
+    "name": "耐寒帕魯金屬盔甲",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 16
+      }
+    ]
+  },
+  "FurHelmet": {
+    "dev_name": "FurHelmet",
+    "description": "華美的羽毛耳飾。 不知為何，總覺得它能保護頭部不受致命傷害。",
+    "name": "羽毛髮飾",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperHelmet": {
+    "dev_name": "CopperHelmet",
+    "description": "以金屬製成的頭盔。 安全可靠，能守護你的大腦。",
+    "name": "金屬頭盔",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "IronHelmet": {
+    "dev_name": "IronHelmet",
+    "description": "以優質金屬製成的頭盔。 精心打磨的金屬光澤讓它的身價更上一層樓。",
+    "name": "精鍊金屬頭盔",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      }
+    ]
+  },
+  "StealHelmet": {
+    "dev_name": "StealHelmet",
+    "description": "以帕魯金屬錠製成的頭盔。 品質極為精良，人人稱羨，可謂是頂級戰士的象徵。",
+    "name": "帕魯金屬頭盔",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "Arrow": {
+    "dev_name": "Arrow",
+    "description": "裝備於｢老舊的弓｣。 必須在｢初階工作臺｣才能製作。",
+    "name": "箭矢",
+    "creates_amount": 3,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 1
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Fire": {
+    "dev_name": "Arrow_Fire",
+    "description": "裝備於｢火之弓｣。 必須在｢初階工作臺｣才能製作。",
+    "name": "火箭矢",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 1
+      }
+    ]
+  },
+  "Arrow_Poison": {
+    "dev_name": "Arrow_Poison",
+    "description": "裝備於｢毒之弓｣。 必須在｢初階工作臺｣才能製作。",
+    "name": "毒箭矢",
+    "creates_amount": 5,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 3
+      },
+      {
+        "dev_name": "Venom",
+        "name": "毒腺",
+        "amount": 1
+      }
+    ]
+  },
+  "RoughBullet": {
+    "dev_name": "RoughBullet",
+    "description": "用於「鳥槍」與「劣質手槍」等的子彈。 需有「武器工作臺」才能製作。",
+    "name": "用於<itemName id=|Musket|/>等的簡易子彈。",
+    "creates_amount": 10,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "火藥",
+        "amount": 1
+      }
+    ]
+  },
+  "HandgunBullet": {
+    "dev_name": "HandgunBullet",
+    "description": "用於「手槍」等槍枝的子彈。 必須有「武器工作臺」才能製造。",
+    "name": "手槍子彈",
+    "creates_amount": 5,
+    "work_required": 25000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "火藥",
+        "amount": 1
+      }
+    ]
+  },
+  "RifleBullet": {
+    "dev_name": "RifleBullet",
+    "description": "可以在｢武器工作臺｣ 製造出「步槍子彈」。",
+    "name": "步槍子彈",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "火藥",
+        "amount": 2
+      }
+    ]
+  },
+  "ShotgunBullet": {
+    "dev_name": "ShotgunBullet",
+    "description": "可以在｢武器工作臺｣製造出「散彈槍子彈」 。",
+    "name": "散彈槍子彈",
+    "creates_amount": 5,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "火藥",
+        "amount": 3
+      }
+    ]
+  },
+  "AssaultRifleBullet": {
+    "dev_name": "AssaultRifleBullet",
+    "description": "用於「突擊步槍」等的子彈。 需有「武器流水線工廠」才能製作。",
+    "name": "用於<itemName id=|AssaultRifle|/>等的子彈。",
+    "creates_amount": 5,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "火藥",
+        "amount": 2
+      }
+    ]
+  },
+  "ExplosiveBullet": {
+    "dev_name": "ExplosiveBullet",
+    "description": "用於火箭彈發射器等的子彈。",
+    "name": "火箭彈",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "StealIngot",
+        "name": "帕魯金屬錠",
+        "amount": 1
+      },
+      {
+        "dev_name": "Gunpowder2",
+        "name": "火藥",
+        "amount": 5
+      }
+    ]
+  },
+  "InkBullet": {
+    "dev_name": "InkBullet",
+    "description": "噴漆槍用的子彈。 可用顏料畫出帕魯的圖案。",
+    "name": "噴漆顏料彈",
+    "creates_amount": 10,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 1
+      }
+    ]
+  },
+  "Shield_01": {
+    "dev_name": "Shield_01",
+    "description": "以帕魯礦技術製成的奇妙護盾。 只要一段時間沒受到攻擊，就能自我修復。",
+    "name": "普通護盾",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      }
+    ]
+  },
+  "Shield_02": {
+    "dev_name": "Shield_02",
+    "description": "以帕魯礦技術製成的奇妙護盾。 改良原型設計，提高了防禦力。\r\n可以用｢優質工作臺｣來製作。",
+    "name": "高級護盾",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      }
+    ]
+  },
+  "Shield_03": {
+    "dev_name": "Shield_03",
+    "description": "以帕魯礦技術製成的奇妙護盾。 經過改良後，進一步提高了性能。\r\n可以用｢作業流水線工廠｣來製作。",
+    "name": "優級護盾",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 50
+      }
+    ]
+  },
+  "Shield_04": {
+    "dev_name": "Shield_04",
+    "description": "以帕魯礦技術打造成的奇妙護盾。 此款式歷經無數試驗，使品質臻於至善。\r\n可以用｢作業流水線工廠 II｣來製作。",
+    "name": "特級護盾",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 100
+      }
+    ]
+  },
+  "Glider_Old": {
+    "dev_name": "Glider_Old",
+    "description": "展開滑翔傘，即可在空中滑翔。 構造簡單，無法高速飛行。",
+    "name": "普通滑翔傘",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 2
+      }
+    ]
+  },
+  "Glider_Good": {
+    "dev_name": "Glider_Good",
+    "description": "展開滑翔傘，即可在空中滑翔。 此為量產款式，有一定的飛行速度。",
+    "name": "高級滑翔傘",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 20
+      }
+    ]
+  },
+  "Glider_Super": {
+    "dev_name": "Glider_Super",
+    "description": "展開滑翔傘，即可在空中滑翔。 此款式性能有所提升，能以相當快的速度飛行。",
+    "name": "優級滑翔傘",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 100
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth2",
+        "name": "優質布",
+        "amount": 10
+      }
+    ]
+  },
+  "Lantern": {
+    "dev_name": "Lantern",
+    "description": "zh-hant text",
+    "name": "掛腰燈籠",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalCrystal_Ex",
+        "name": "古代文明部件",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier1": {
+    "dev_name": "AutoMealPouch_Tier1",
+    "description": "zh-hant text",
+    "name": "小型飼料袋",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 3
+      }
+    ]
+  },
+  "AutoMealPouch_Tier2": {
+    "dev_name": "AutoMealPouch_Tier2",
+    "description": "zh-hant text",
+    "name": "中等飼料袋",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier3": {
+    "dev_name": "AutoMealPouch_Tier3",
+    "description": "zh-hant text",
+    "name": "大型飼料袋",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 50
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      }
+    ]
+  },
+  "AutoMealPouch_Tier4": {
+    "dev_name": "AutoMealPouch_Tier4",
+    "description": "zh-hant text",
+    "name": "巨大飼料袋",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 90
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 35
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 10
+      }
+    ]
+  },
+  "AutoMealPouch_Tier5": {
+    "dev_name": "AutoMealPouch_Tier5",
+    "description": "zh-hant text",
+    "name": "特大飼料袋",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 200
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 50
+      },
+      {
+        "dev_name": "CarbonFiber",
+        "name": "碳纖維",
+        "amount": 20
+      }
+    ]
+  },
+  "Cloth": {
+    "dev_name": "Cloth",
+    "description": "編織｢羊毛｣製成的｢布｣。 是製作防具時會用到的素材。",
+    "name": "布",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "羊毛",
+        "amount": 2
+      }
+    ]
+  },
+  "Cloth2": {
+    "dev_name": "Cloth2",
+    "description": "編織大量｢羊毛｣製成的｢優質布｣。 是製作優質防具時會用到的素材。\r\n可以用｢優質工作臺｣來製作。",
+    "name": "優質布",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wool",
+        "name": "羊毛",
+        "amount": 10
+      }
+    ]
+  },
+  "Gunpowder2": {
+    "dev_name": "Gunpowder2",
+    "description": "用於發射砲彈的｢火藥｣。 製作子彈時會用到。\r\n可於｢優質工作臺｣製作。",
+    "name": "火藥",
+    "creates_amount": 1,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Charcoal",
+        "name": "木炭",
+        "amount": 2
+      },
+      {
+        "dev_name": "Sulfur",
+        "name": "硫磺",
+        "amount": 1
+      }
+    ]
+  },
+  "Charcoal": {
+    "dev_name": "Charcoal",
+    "description": "燃燒木材製成的木炭。 搭配硫磺便能做出火藥。",
+    "name": "木炭",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 2
+      }
+    ]
+  },
+  "MachineParts": {
+    "dev_name": "MachineParts",
+    "description": "zh-hant text",
+    "name": "釘子",
+    "creates_amount": 2,
+    "work_required": 3000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 1
+      }
+    ]
+  },
+  "MachineParts2": {
+    "dev_name": "MachineParts2",
+    "description": "製作精密機械時會用到的｢電路板｣。 可於｢作業流水線工廠｣製作。",
+    "name": "電路板",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Quartz",
+        "name": "純水晶",
+        "amount": 4
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 2
+      }
+    ]
+  },
+  "Polymer": {
+    "dev_name": "Polymer",
+    "description": "zh-hant text",
+    "name": "聚合物",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 2
+      }
+    ]
+  },
+  "Cement": {
+    "dev_name": "Cement",
+    "description": "zh-hant text",
+    "name": "水泥",
+    "creates_amount": 10,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 1
+      }
+    ]
+  },
+  "CarbonFiber": {
+    "dev_name": "CarbonFiber",
+    "description": "zh-hant text",
+    "name": "碳纖維",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Coal",
+        "name": "石炭",
+        "amount": 2
+      }
+    ]
+  },
+  "RepairKit": {
+    "dev_name": "RepairKit",
+    "description": "用於修理建築物的工具。 用於修復破損建築物。",
+    "name": "修理工具組",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 5
+      }
+    ]
+  },
+  "CopperIngot": {
+    "dev_name": "CopperIngot",
+    "description": "用於製作金屬製武器或防具的素材。 以熔爐冶煉金屬礦石即可做出。",
+    "name": "金屬錠",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "金屬礦石",
+        "amount": 2
+      }
+    ]
+  },
+  "IronIngot": {
+    "dev_name": "IronIngot",
+    "description": "用於製作優質金屬武器或防具的素材。 將金屬礦石與石炭放入熔爐即可做出此素材。",
+    "name": "精鍊金屬錠",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "金屬礦石",
+        "amount": 2
+      },
+      {
+        "dev_name": "Coal",
+        "name": "石炭",
+        "amount": 2
+      }
+    ]
+  },
+  "StealIngot": {
+    "dev_name": "StealIngot",
+    "description": "用於製作帕魯金屬製武器或防具的素材。 此素材為金屬與帕魯礦之合金，強度更高。",
+    "name": "帕魯金屬錠",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperOre",
+        "name": "金屬礦石",
+        "amount": 4
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 2
+      }
+    ]
+  },
+  "Herbs": {
+    "dev_name": "Herbs",
+    "description": "對感冒和扭傷有效的劣質藥品。 把它吃下肚是無法回復生命值的。",
+    "name": "劣質藥品",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 2
+      }
+    ]
+  },
+  "Medicines": {
+    "dev_name": "Medicines",
+    "description": "對胃潰瘍和骨折有效的奇妙藥品。 無法用來回復生命值。",
+    "name": "藥品",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 1
+      }
+    ]
+  },
+  "LuxuryMedicines": {
+    "dev_name": "LuxuryMedicines",
+    "description": "對衰弱和憂鬱有效的高級藥品。 無法用來回復生命值。",
+    "name": "高級藥品",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 2
+      }
+    ]
+  },
+  "MindControlDrug": {
+    "dev_name": "MindControlDrug",
+    "description": "對於控制危險分子有極高功效的洗腦藥。 無法用來回復生命值。",
+    "name": "洗腦藥",
+    "creates_amount": 1,
+    "work_required": 1000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 10
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 3
+      }
+    ]
+  },
+  "Opium": {
+    "dev_name": "Opium",
+    "description": "飲用這種果汁能讓心情舒爽。 飲用後的一段時間內工作速度會明顯提升，\r\n但SAN值也會降低。",
+    "name": "可疑果汁",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "美麗花朵",
+        "amount": 3
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 3
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 1
+      }
+    ]
+  },
+  "Narcotic": {
+    "dev_name": "Narcotic",
+    "description": "飲用這種果汁能讓心情非常舒爽。 飲用後的一段時間內工作速度會大幅提升，\r\n但SAN值也會大幅降低。",
+    "name": "怪異果汁",
+    "creates_amount": 1,
+    "work_required": 300000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "美麗花朵",
+        "amount": 5
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 5
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 2
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 2
+      }
+    ]
+  },
+  "StatusPointResetSan": {
+    "dev_name": "StatusPointResetSan",
+    "description": "玩家服用此藥物 即可重設屬性點。\r\n帕魯服用不會產生任何作用。",
+    "name": "消除記憶藥",
+    "creates_amount": 1,
+    "work_required": 3000000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Poppy",
+        "name": "美麗花朵",
+        "amount": 99
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 50
+      },
+      {
+        "dev_name": "Bone",
+        "name": "骨頭",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 50
+      }
+    ]
+  },
+  "Fiber": {
+    "dev_name": "Fiber",
+    "description": "採自木材的纖維。 可用來製作弓弦等物品。",
+    "name": "纖維",
+    "creates_amount": 2,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 1
+      }
+    ]
+  },
+  "Pal_crystal_S": {
+    "dev_name": "Pal_crystal_S",
+    "description": "世界樹的能量結晶。 可用來製作或建造不同尋常的道具或建築。",
+    "name": "帕魯礦碎片",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 5
+      }
+    ]
+  },
+  "BerrySeeds": {
+    "dev_name": "BerrySeeds",
+    "description": "可種出紅色莓果的種子。 建造農園時會用到這些種子。\r\n可於採集紅色莓果時取得。",
+    "name": "莓果種子",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      }
+    ]
+  },
+  "TomatoSeeds": {
+    "dev_name": "TomatoSeeds",
+    "description": "可種出蕃茄的種子。 建造農園時會用到這些種子。\r\n可向商人購買。",
+    "name": "蕃茄種子",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "蕃茄",
+        "amount": 2
+      }
+    ]
+  },
+  "LettuceSeeds": {
+    "dev_name": "LettuceSeeds",
+    "description": "可種出萵苣的種子。 建造農園時會用到這些種子。\r\n可向商人購買。",
+    "name": "萵苣種子",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "萵苣",
+        "amount": 2
+      }
+    ]
+  },
+  "WheatSeeds": {
+    "dev_name": "WheatSeeds",
+    "description": "可種出小麥的種子。 建造農園時會用到這些種子。\r\n可向商人購買。",
+    "name": "小麥種子",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "小麥",
+        "amount": 2
+      }
+    ]
+  },
+  "Flour": {
+    "dev_name": "Flour",
+    "description": "由小麥研磨而成的麵粉。 可用於製作麵包。",
+    "name": "麵粉",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Wheat",
+        "name": "小麥",
+        "amount": 3
+      }
+    ]
+  },
+  "Baked_Berries": {
+    "dev_name": "Baked_Berries",
+    "description": "經過烘烤後，營養價值更高了。 不可思議的是還很有飽足感。",
+    "name": "烤莓果",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMushroom": {
+    "dev_name": "BakedMushroom",
+    "description": "經過烘烤，營養價值變得更高的蘑菇。 不可思議的是還很有飽足感。",
+    "name": "烤蘑菇",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "蘑菇",
+        "amount": 1
+      }
+    ]
+  },
+  "Pan": {
+    "dev_name": "Pan",
+    "description": "麵粉經烘烤後製成的麵包。 以主食而言相當美味。",
+    "name": "麵包",
+    "creates_amount": 1,
+    "work_required": 2000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      }
+    ]
+  },
+  "FriedEggs": {
+    "dev_name": "FriedEggs",
+    "description": "蛋煎熟後變得更加美味。 很奇妙地，吃起來更有飽足感。",
+    "name": "荷包蛋",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 1
+      }
+    ]
+  },
+  "HotMilk": {
+    "dev_name": "HotMilk",
+    "description": "加熱後變得更加美味。 很奇妙地，喝起來更有飽足感。",
+    "name": "熱牛奶",
+    "creates_amount": 1,
+    "work_required": 1000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 1
+      }
+    ]
+  },
+  "JamBun": {
+    "dev_name": "JamBun",
+    "description": "在麵包上塗上果醬製成的料理。 莓果的甜味和麵包很搭。",
+    "name": "果醬麵包",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      }
+    ]
+  },
+  "Pancake": {
+    "dev_name": "Pancake",
+    "description": "將麵粉與牛奶拌勻後煎製成的料理。 食用後的一段時間內，SAN值比較不會下降。",
+    "name": "鬆餅",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 1
+      }
+    ]
+  },
+  "Salad": {
+    "dev_name": "Salad",
+    "description": "將萵苣與蕃茄拌在一起製成的沙拉。 食用後的一段時間內，工作速度會稍有提升。",
+    "name": "沙拉",
+    "creates_amount": 1,
+    "work_required": 4000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Lettuce",
+        "name": "萵苣",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "蕃茄",
+        "amount": 2
+      }
+    ]
+  },
+  "Omelet": {
+    "dev_name": "Omelet",
+    "description": "將蛋煎熟後淋上番茄醬製成的料理。 食用後的一段時間內攻擊+10%。",
+    "name": "歐姆蛋",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Tomato",
+        "name": "蕃茄",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 2
+      }
+    ]
+  },
+  "MarinatedMushrooms": {
+    "dev_name": "MarinatedMushrooms",
+    "description": "以醃漬液涼拌蘑菇製成的料理。 食用後的一段時間內防禦+10%。",
+    "name": "醃蘑菇",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "蘑菇",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      }
+    ]
+  },
+  "MushroomSoup": {
+    "dev_name": "MushroomSoup",
+    "description": "加入蘑菇的奶油濃湯。 食用後的一段時間內，比較不會感到飢餓。",
+    "name": "蘑菇湯",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Mushroom",
+        "name": "蘑菇",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 2
+      }
+    ]
+  },
+  "Pizza": {
+    "dev_name": "Pizza",
+    "description": "在麵包上放上紅色莓果、蕃茄、起司製成的料理。 食用後的一段時間內，工作速度會稍有提升，\r\n且比較不會感到飢餓。",
+    "name": "披薩",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "蕃茄",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 2
+      }
+    ]
+  },
+  "Carbonara": {
+    "dev_name": "Carbonara",
+    "description": "在義大利麵中加入蛋與牛奶後拌勻製成的料理。 食用後的一段時間內防禦+20%。",
+    "name": "義式培根蛋黃麵",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 2
+      }
+    ]
+  },
+  "Cake": {
+    "dev_name": "Cake",
+    "description": "在值得慶祝的日子享用的料理。 將它放到配種牧場的箱子裡，\r\n吃了它的帕魯會變得精力充沛，並產下帕魯蛋。",
+    "name": "蛋糕",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 5
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 8
+      },
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 7
+      },
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 8
+      },
+      {
+        "dev_name": "Honey",
+        "name": "蜂蜜",
+        "amount": 2
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog": {
+    "dev_name": "SkillUnlock_Hedgehog",
+    "description": "zh-hant text",
+    "name": "電棘鼠專用手套",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "發電器官",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Hedgehog_Ice": {
+    "dev_name": "SkillUnlock_Hedgehog_Ice",
+    "description": "zh-hant text",
+    "name": "冰刺鼠專用手套",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 6
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 6
+      }
+    ]
+  },
+  "SkillUnlock_Kitsunebi": {
+    "dev_name": "SkillUnlock_Kitsunebi",
+    "description": "zh-hant text",
+    "name": "火絨狐專用背帶",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 3
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Alpaca": {
+    "dev_name": "SkillUnlock_Alpaca",
+    "description": "zh-hant text",
+    "name": "美露帕專用鞍具",
+    "creates_amount": 1,
+    "work_required": 6000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 3
+      },
+      {
+        "dev_name": "Wool",
+        "name": "羊毛",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_MopKing": {
+    "dev_name": "SkillUnlock_MopKing",
+    "description": "zh-hant text",
+    "name": "毛老爹專用鞍具",
+    "creates_amount": 1,
+    "work_required": 5000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 3
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 8
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Boar": {
+    "dev_name": "SkillUnlock_Boar",
+    "description": "zh-hant text",
+    "name": "草莽豬專用鞍具",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 3
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_FlyingManta": {
+    "dev_name": "SkillUnlock_FlyingManta",
+    "description": "zh-hant text",
+    "name": "魯米兒專用手套",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 5
+      }
+    ]
+  },
+  "SkillUnlock_Carbunclo": {
+    "dev_name": "SkillUnlock_Carbunclo",
+    "description": "zh-hant text",
+    "name": "翠葉鼠專用衝鋒槍",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Garm": {
+    "dev_name": "SkillUnlock_Garm",
+    "description": "zh-hant text",
+    "name": "獵狼專用附鞍具背帶",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Monkey": {
+    "dev_name": "SkillUnlock_Monkey",
+    "description": "zh-hant text",
+    "name": "新葉猿專用突擊步槍",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent": {
+    "dev_name": "SkillUnlock_Serpent",
+    "description": "zh-hant text",
+    "name": "滑水蛇專用鞍具",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 5
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Serpent_Ground": {
+    "dev_name": "SkillUnlock_Serpent_Ground",
+    "description": "zh-hant text",
+    "name": "流沙蛇專用鞍具",
+    "creates_amount": 1,
+    "work_required": 9600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 6
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 6
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_Deer": {
+    "dev_name": "SkillUnlock_Deer",
+    "description": "zh-hant text",
+    "name": "紫霞鹿專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_Deer_Ground": {
+    "dev_name": "SkillUnlock_Deer_Ground",
+    "description": "zh-hant text",
+    "name": "祇岳鹿專用鞍具",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 6
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 12
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 18
+      }
+    ]
+  },
+  "SkillUnlock_NaughtyCat": {
+    "dev_name": "SkillUnlock_NaughtyCat",
+    "description": "zh-hant text",
+    "name": "笑魘猫專用鞍具",
+    "creates_amount": 1,
+    "work_required": 8000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_Kirin": {
+    "dev_name": "SkillUnlock_Kirin",
+    "description": "zh-hant text",
+    "name": "雷角馬專用鞍具",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "發電器官",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_NegativeOctopus": {
+    "dev_name": "SkillUnlock_NegativeOctopus",
+    "description": "zh-hant text",
+    "name": "勾魂魷專用手套",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 5
+      },
+      {
+        "dev_name": "Venom",
+        "name": "毒腺",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_ColorfulBird": {
+    "dev_name": "SkillUnlock_ColorfulBird",
+    "description": "zh-hant text",
+    "name": "炸蛋鳥專用手套",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 15
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_HawkBird": {
+    "dev_name": "SkillUnlock_HawkBird",
+    "description": "zh-hant text",
+    "name": "疾風隼專用鞍具",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlameBuffalo": {
+    "dev_name": "SkillUnlock_FlameBuffalo",
+    "description": "zh-hant text",
+    "name": "熾焰牛專用鞍具",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_FlowerRabbit": {
+    "dev_name": "SkillUnlock_FlowerRabbit",
+    "description": "zh-hant text",
+    "name": "波娜兔專用項圈",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 15
+      }
+    ]
+  },
+  "SkillUnlock_DrillGame": {
+    "dev_name": "SkillUnlock_DrillGame",
+    "description": "zh-hant text",
+    "name": "碎岩龜專用頭帶",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Penguin": {
+    "dev_name": "SkillUnlock_Penguin",
+    "description": "zh-hant text",
+    "name": "企丸丸專用火箭彈發射器",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Stone",
+        "name": "石頭",
+        "amount": 20
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur": {
+    "dev_name": "SkillUnlock_FlowerDinosaur",
+    "description": "zh-hant text",
+    "name": "花冠龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FlowerDinosaur_Electric": {
+    "dev_name": "SkillUnlock_FlowerDinosaur_Electric",
+    "description": "zh-hant text",
+    "name": "雷冠龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_DreamDemon": {
+    "dev_name": "SkillUnlock_DreamDemon",
+    "description": "zh-hant text",
+    "name": "寐魔專用項圈",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 5
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus": {
+    "dev_name": "SkillUnlock_SakuraSaurus",
+    "description": "zh-hant text",
+    "name": "連理龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_SakuraSaurus_Water": {
+    "dev_name": "SkillUnlock_SakuraSaurus_Water",
+    "description": "zh-hant text",
+    "name": "海誓龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon": {
+    "dev_name": "SkillUnlock_BirdDragon",
+    "description": "zh-hant text",
+    "name": "烽歌龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_BirdDragon_Ice": {
+    "dev_name": "SkillUnlock_BirdDragon_Ice",
+    "description": "zh-hant text",
+    "name": "霜歌龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 18
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_WeaselDragon": {
+    "dev_name": "SkillUnlock_WeaselDragon",
+    "description": "zh-hant text",
+    "name": "疾旋鼬專用鞍具",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 10
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 5
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes": {
+    "dev_name": "SkillUnlock_WindChimes",
+    "description": "zh-hant text",
+    "name": "吊縛靈專用手套",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 5
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 10
+      }
+    ]
+  },
+  "SkillUnlock_WindChimes_Ice": {
+    "dev_name": "SkillUnlock_WindChimes_Ice",
+    "description": "zh-hant text",
+    "name": "冰縛靈專用手套",
+    "creates_amount": 1,
+    "work_required": 12000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 6
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 3
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 12
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 3
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 12
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca": {
+    "dev_name": "SkillUnlock_KingAlpaca",
+    "description": "zh-hant text",
+    "name": "君王美露帕專用鞍具",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "Wool",
+        "name": "羊毛",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_KingAlpaca_Ice": {
+    "dev_name": "SkillUnlock_KingAlpaca_Ice",
+    "description": "zh-hant text",
+    "name": "冰帝美露帕專用鞍具",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 18
+      },
+      {
+        "dev_name": "Wool",
+        "name": "羊毛",
+        "amount": 36
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon": {
+    "dev_name": "SkillUnlock_FairyDragon",
+    "description": "zh-hant text",
+    "name": "精靈龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_FairyDragon_Water": {
+    "dev_name": "SkillUnlock_FairyDragon_Water",
+    "description": "zh-hant text",
+    "name": "水靈龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_RaijinDaughter": {
+    "dev_name": "SkillUnlock_RaijinDaughter",
+    "description": "zh-hant text",
+    "name": "雷鳴童子專用項圈",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_Eagle": {
+    "dev_name": "SkillUnlock_Eagle",
+    "description": "zh-hant text",
+    "name": "天擒鳥專用手套",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 20
+      },
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GhostBeast": {
+    "dev_name": "SkillUnlock_GhostBeast",
+    "description": "zh-hant text",
+    "name": "噬魂獸專用鞍具",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 15
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 25
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda": {
+    "dev_name": "SkillUnlock_GrassPanda",
+    "description": "zh-hant text",
+    "name": "葉胖達專用榴彈發射器",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_GrassPanda_Electric": {
+    "dev_name": "SkillUnlock_GrassPanda_Electric",
+    "description": "zh-hant text",
+    "name": "雷胖達專用手榴彈發射器",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 60
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster": {
+    "dev_name": "SkillUnlock_VolcanicMonster",
+    "description": "zh-hant text",
+    "name": "熔岩獸專用鞍具",
+    "creates_amount": 1,
+    "work_required": 15000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_VolcanicMonster_Ice": {
+    "dev_name": "SkillUnlock_VolcanicMonster_Ice",
+    "description": "zh-hant text",
+    "name": "寒霜獸專用鞍具",
+    "creates_amount": 1,
+    "work_required": 18000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 24
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 24
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin": {
+    "dev_name": "SkillUnlock_FireKirin",
+    "description": "zh-hant text",
+    "name": "火麒麟專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_FireKirin_Dark": {
+    "dev_name": "SkillUnlock_FireKirin_Dark",
+    "description": "zh-hant text",
+    "name": "邪麒麟專用鞍具",
+    "creates_amount": 1,
+    "work_required": 24000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 36
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 24
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 18
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth": {
+    "dev_name": "SkillUnlock_GrassMammoth",
+    "description": "zh-hant text",
+    "name": "森猛獁專用鞍具",
+    "creates_amount": 1,
+    "work_required": 100000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 50
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 70
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 10
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 60
+      }
+    ]
+  },
+  "SkillUnlock_GrassMammoth_Ice": {
+    "dev_name": "SkillUnlock_GrassMammoth_Ice",
+    "description": "zh-hant text",
+    "name": "雪猛瑪專用鞍具",
+    "creates_amount": 1,
+    "work_required": 120000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 60
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 84
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 12
+      },
+      {
+        "dev_name": "Wood",
+        "name": "木材",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 72
+      }
+    ]
+  },
+  "SkillUnlock_BlueDragon": {
+    "dev_name": "SkillUnlock_BlueDragon",
+    "description": "zh-hant text",
+    "name": "碧海龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 25
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi": {
+    "dev_name": "SkillUnlock_Umihebi",
+    "description": "zh-hant text",
+    "name": "覆海龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Umihebi_Fire": {
+    "dev_name": "SkillUnlock_Umihebi_Fire",
+    "description": "zh-hant text",
+    "name": "騰炎龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 60
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_AmaterasuWolf": {
+    "dev_name": "SkillUnlock_AmaterasuWolf",
+    "description": "zh-hant text",
+    "name": "蒼焰狼專用鞍具",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 20
+      }
+    ]
+  },
+  "SkillUnlock_ThunderDog": {
+    "dev_name": "SkillUnlock_ThunderDog",
+    "description": "zh-hant text",
+    "name": "霹靂犬專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 40
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "發電器官",
+        "amount": 15
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Manticore": {
+    "dev_name": "SkillUnlock_Manticore",
+    "description": "zh-hant text",
+    "name": "獄焰王專用鞍具",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 50
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_Manticore_Dark": {
+    "dev_name": "SkillUnlock_Manticore_Dark",
+    "description": "zh-hant text",
+    "name": "獄閻王專用鞍具",
+    "creates_amount": 1,
+    "work_required": 36000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 36
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 36
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 60
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 36
+      }
+    ]
+  },
+  "SkillUnlock_IceDeer": {
+    "dev_name": "SkillUnlock_IceDeer",
+    "description": "zh-hant text",
+    "name": "嚴冬鹿專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 25
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Horn",
+        "name": "角",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_ThunderBird": {
+    "dev_name": "SkillUnlock_ThunderBird",
+    "description": "zh-hant text",
+    "name": "迅雷鳥專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "發電器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_RedArmorBird": {
+    "dev_name": "SkillUnlock_RedArmorBird",
+    "description": "zh-hant text",
+    "name": "燧火鳥專用鞍具",
+    "creates_amount": 1,
+    "work_required": 20000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 25
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 15
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 25
+      }
+    ]
+  },
+  "SkillUnlock_Horus": {
+    "dev_name": "SkillUnlock_Horus",
+    "description": "zh-hant text",
+    "name": "荷魯斯專用鞍具",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_SkyDragon": {
+    "dev_name": "SkillUnlock_SkyDragon",
+    "description": "zh-hant text",
+    "name": "天羽龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_HadesBird": {
+    "dev_name": "SkillUnlock_HadesBird",
+    "description": "zh-hant text",
+    "name": "雷冥鳥專用鞍具",
+    "creates_amount": 1,
+    "work_required": 30000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 10
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "ElectricOrgan",
+        "name": "發電器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 30
+      }
+    ]
+  },
+  "SkillUnlock_FengyunDeeper": {
+    "dev_name": "SkillUnlock_FengyunDeeper",
+    "description": "zh-hant text",
+    "name": "雲海鹿專用鞍具",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Cloth",
+        "name": "布",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku": {
+    "dev_name": "SkillUnlock_Suzaku",
+    "description": "zh-hant text",
+    "name": "朱雀專用鞍具",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 20
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 25
+      },
+      {
+        "dev_name": "FireOrgan",
+        "name": "噴火器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Suzaku_Water": {
+    "dev_name": "SkillUnlock_Suzaku_Water",
+    "description": "zh-hant text",
+    "name": "清雀專用鞍具",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 24
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "PalFluid",
+        "name": "帕魯體液",
+        "amount": 24
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_KingBahamut": {
+    "dev_name": "SkillUnlock_KingBahamut",
+    "description": "zh-hant text",
+    "name": "焰煌專用鞍具",
+    "creates_amount": 1,
+    "work_required": 50000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 30
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 20
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti": {
+    "dev_name": "SkillUnlock_Yeti",
+    "description": "zh-hant text",
+    "name": "白絨雪怪專用鞍具",
+    "creates_amount": 1,
+    "work_required": 40000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 20
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 40
+      }
+    ]
+  },
+  "SkillUnlock_Yeti_Grass": {
+    "dev_name": "SkillUnlock_Yeti_Grass",
+    "description": "zh-hant text",
+    "name": "綠苔絨怪專用鞍具",
+    "creates_amount": 1,
+    "work_required": 48000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 36
+      },
+      {
+        "dev_name": "Poppy",
+        "name": "美麗花朵",
+        "amount": 24
+      },
+      {
+        "dev_name": "Fiber",
+        "name": "纖維",
+        "amount": 60
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 12
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 48
+      }
+    ]
+  },
+  "SkillUnlock_ElecPanda": {
+    "dev_name": "SkillUnlock_ElecPanda",
+    "description": "zh-hant text",
+    "name": "暴電熊專用機關槍",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 20
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 10
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_BlackGriffon": {
+    "dev_name": "SkillUnlock_BlackGriffon",
+    "description": "zh-hant text",
+    "name": "異構格里芬專用鞍具",
+    "creates_amount": 1,
+    "work_required": 60000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 50
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 40
+      },
+      {
+        "dev_name": "Venom",
+        "name": "毒腺",
+        "amount": 25
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 45
+      }
+    ]
+  },
+  "SkillUnlock_BlackMetalDragon": {
+    "dev_name": "SkillUnlock_BlackMetalDragon",
+    "description": "zh-hant text",
+    "name": "魔淵龍專用鞍具",
+    "creates_amount": 1,
+    "work_required": 80000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 30
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 55
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon": {
+    "dev_name": "SkillUnlock_LazyDragon",
+    "description": "zh-hant text",
+    "name": "佩克龍專用飛彈發射器",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 100
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 35
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 100
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_LazyDragon_Electric": {
+    "dev_name": "SkillUnlock_LazyDragon_Electric",
+    "description": "zh-hant text",
+    "name": "派克龍專用飛彈發射器",
+    "creates_amount": 1,
+    "work_required": 240000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 120
+      },
+      {
+        "dev_name": "Polymer",
+        "name": "聚合物",
+        "amount": 42
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 120
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 102
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse": {
+    "dev_name": "SkillUnlock_IceHorse",
+    "description": "zh-hant text",
+    "name": "喚冬獸專用鞍具",
+    "creates_amount": 1,
+    "work_required": 150000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 200
+      },
+      {
+        "dev_name": "IceOrgan",
+        "name": "結冰器官",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 75
+      }
+    ]
+  },
+  "SkillUnlock_IceHorse_Dark": {
+    "dev_name": "SkillUnlock_IceHorse_Dark",
+    "description": "zh-hant text",
+    "name": "喚夜獸專用鞍具",
+    "creates_amount": 1,
+    "work_required": 180000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 120
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 240
+      },
+      {
+        "dev_name": "Venom",
+        "name": "毒腺",
+        "amount": 60
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 90
+      }
+    ]
+  },
+  "SkillUnlock_SaintCentaur": {
+    "dev_name": "SkillUnlock_SaintCentaur",
+    "description": "zh-hant text",
+    "name": "聖光騎士專用鞍具",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_BlackCentaur": {
+    "dev_name": "SkillUnlock_BlackCentaur",
+    "description": "zh-hant text",
+    "name": "混沌騎士專用鞍具",
+    "creates_amount": 1,
+    "work_required": 200000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 200
+      },
+      {
+        "dev_name": "CopperIngot",
+        "name": "金屬錠",
+        "amount": 300
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 85
+      }
+    ]
+  },
+  "SkillUnlock_JetDragon": {
+    "dev_name": "SkillUnlock_JetDragon",
+    "description": "zh-hant text",
+    "name": "空渦龍專用飛彈發射器",
+    "creates_amount": 1,
+    "work_required": 500000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Leather",
+        "name": "皮革",
+        "amount": 100
+      },
+      {
+        "dev_name": "IronIngot",
+        "name": "精鍊金屬錠",
+        "amount": 200
+      },
+      {
+        "dev_name": "MachineParts2",
+        "name": "電路板",
+        "amount": 50
+      },
+      {
+        "dev_name": "Pal_crystal_S",
+        "name": "帕魯礦碎片",
+        "amount": 140
+      }
+    ]
+  },
+  "BakedMeat_ChickenPal": {
+    "dev_name": "BakedMeat_ChickenPal",
+    "description": "以炭火慢烤的雞肉串燒。 口感輕盈且味道清爽。",
+    "name": "烤皮皮雞",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "皮皮雞肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SheepBall": {
+    "dev_name": "BakedMeat_SheepBall",
+    "description": "用香料將羊肉醃製入味後燒烤而成。 可感受到強烈的特色與極具深度的風味。",
+    "name": "棉悠悠羊肉串烤",
+    "creates_amount": 1,
+    "work_required": 500,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "棉悠悠羊肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Kelpie": {
+    "dev_name": "BakedMeat_Kelpie",
+    "description": "以炭火燒烤新鮮魚肉， 能帶出鬆軟肥嫩的口感。",
+    "name": "炭烤水靈兒",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "水靈兒魚肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Eagle": {
+    "dev_name": "BakedMeat_Eagle",
+    "description": "飽含振翅高飛的活力， 強勁力量滿溢而出的燒鳥。",
+    "name": "炙燒天擒鳥",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "天擒鳥肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Boar": {
+    "dev_name": "BakedMeat_Boar",
+    "description": "豪邁的直火燒烤野豬肉。 外皮酥脆，內裡多汁。\r\n是道非常適合宴會的豪華料理。",
+    "name": "烤草莽豬",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "草莽豬肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_LazyCatfish": {
+    "dev_name": "BakedMeat_LazyCatfish",
+    "description": "塗上秘製醬汁的烤魚， 美味可口，甚至能療癒身心。\r\n非常適合疲憊的帕魯訓練家食用。",
+    "name": "蒲燒趴趴鯰",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "趴趴鯰肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_Deer": {
+    "dev_name": "BakedMeat_Deer",
+    "description": "經過精心炙烤的鹿肉保有細膩風味， 並散發出濃郁的森林香氣。\r\n這般優雅的滋味能讓生活更加豐富多彩。",
+    "name": "炙烤紫霞鹿肉",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "紫霞鹿肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_IceDeer": {
+    "dev_name": "BakedMeat_IceDeer",
+    "description": "冰鹿肉具有從火中取出後， 溫度會急速下降並保持新鮮的特性。\r\n很適合作為應急口糧。",
+    "name": "炙烤嚴冬鹿肉",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "嚴冬鹿肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_BerryGoat": {
+    "dev_name": "BakedMeat_BerryGoat",
+    "description": "炙烤過後的肉因其本身的香草及莓果香氣， 吃起來更加醇厚。\r\n能為野外用餐增添溫暖與滿足感。",
+    "name": "香草烤灌木羊",
+    "creates_amount": 1,
+    "work_required": 1600,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_BerryGoat",
+        "name": "灌木羊香草肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_CowPal": {
+    "dev_name": "BakedMeat_CowPal",
+    "description": "仔細煎製而成的大塊牛排。 強烈且濃郁的風味能為食用者帶來活力。",
+    "name": "波霸牛排",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "波霸牛肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_SakuraSaurus": {
+    "dev_name": "BakedMeat_SakuraSaurus",
+    "description": "可以品嘗到野生王者風味的大塊烤肉。 肉汁精華從骨頭中溢出，\r\n大口咬下時雖嚼勁十足，但內部卻出奇地鮮嫩。",
+    "name": "炙烤帶骨連理龍肉",
+    "creates_amount": 1,
+    "work_required": 3200,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SakuraSaurus",
+        "name": "連理龍肉",
+        "amount": 1
+      }
+    ]
+  },
+  "BakedMeat_GrassMammoth": {
+    "dev_name": "BakedMeat_GrassMammoth",
+    "description": "極具威嚴感的濃郁風味。 每一口都能勾起深林與冰河的回憶。",
+    "name": "森猛獁獸排",
+    "creates_amount": 1,
+    "work_required": 10000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_GrassMammoth",
+        "name": "森猛獁獸肉",
+        "amount": 1
+      }
+    ]
+  },
+  "ChickenSaute": {
+    "dev_name": "ChickenSaute",
+    "description": "以奶油煎炒厚實的雞胸肉而成。 清新的檸檬滋味相當突出。\r\n食用後的一段時間內，工作速度會稍有提升。",
+    "name": "香煎皮皮雞",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "皮皮雞肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      }
+    ]
+  },
+  "GrilledSheepHerbs": {
+    "dev_name": "GrilledSheepHerbs",
+    "description": "使用大量新鮮莓果增添香氣， 藉此帶出羊肉的獨特風味。\r\n食用後的一段時間內防禦+10%。",
+    "name": "香草烤棉悠悠",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "棉悠悠羊肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      }
+    ]
+  },
+  "GenghisKhan": {
+    "dev_name": "GenghisKhan",
+    "description": "將醃漬過的羊肉以炭火仔細燒烤而成的料理。 食用後的一段時間內，工作速度會稍有提升，\r\n且SAN值比較不會下降。",
+    "name": "棉悠悠成吉思汗烤肉",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_SheepBall",
+        "name": "棉悠悠羊肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "萵苣",
+        "amount": 2
+      }
+    ]
+  },
+  "Eaglestew": {
+    "dev_name": "Eaglestew",
+    "description": "這道料理以慢火燉煮而成， 帶出了濃郁鮮味及野性十足的滋味。\r\n食用後的一段時間內，SAN值比較不會下降。",
+    "name": "燉煮天擒鳥肉",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Eagle",
+        "name": "天擒鳥肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      }
+    ]
+  },
+  "BaconEggs": {
+    "dev_name": "BaconEggs",
+    "description": "培根的煙燻風味及雞蛋的柔和口感， 譜出了完美的和諧曲。\r\n食用後的一段時間內攻擊+10%。",
+    "name": "草莽豬培根蛋",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "草莽豬肉",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 2
+      }
+    ]
+  },
+  "StewedIceDeer": {
+    "dev_name": "StewedIceDeer",
+    "description": "將來自涼爽地帶的鹿肉與蔬菜一同燉煮而成的燉菜。 肉質鮮嫩，與細膩的甜味完美交融。\r\n食用後的一段時間內，比較不會感到飢餓。",
+    "name": "嚴冬鹿肉燉菜",
+    "creates_amount": 1,
+    "work_required": 7000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_IceDeer",
+        "name": "嚴冬鹿肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "蕃茄",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedChicken": {
+    "dev_name": "FriedChicken",
+    "description": "極為美味多汁的雞肉料理。 食用後的一段時間內，工作速度會有所提升，\r\n且SAN值不易下降。",
+    "name": "日式炸皮皮雞",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_ChickenPal",
+        "name": "皮皮雞肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 1
+      }
+    ]
+  },
+  "HotDog_2": {
+    "dev_name": "HotDog_2",
+    "description": "在麵包中夾入厚實的香腸製成的料理。 烤得酥脆的外皮與辛香風味絕妙無比。\r\n食用後的一段時間內防禦+20%。",
+    "name": "草莽豬熱狗",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Boar",
+        "name": "草莽豬肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "萵苣",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerLocoMoco": {
+    "dev_name": "DeerLocoMoco",
+    "description": "厚實的漢堡排搭配軟嫩的半熟荷包蛋， 兩者的完美結合將在口中創造出滿滿幸福。\r\n食用後的一段時間內攻擊+20%。",
+    "name": "夏威夷紫霞鹿漢堡排飯",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "紫霞鹿肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Berries",
+        "name": "紅色莓果",
+        "amount": 2
+      },
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 2
+      }
+    ]
+  },
+  "DeerStew": {
+    "dev_name": "DeerStew",
+    "description": "飽含愛情的燉煮鹿肉，肉質酥軟，入口即化。 蔬菜與肉的鮮味互相交織，帶出圓潤醇厚的口感。\r\n食用後的一段時間內防禦+20%。",
+    "name": "紫霞鹿肉燉菜",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Deer",
+        "name": "紫霞鹿肉",
+        "amount": 2
+      },
+      {
+        "dev_name": "Mushroom",
+        "name": "蘑菇",
+        "amount": 1
+      },
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 2
+      }
+    ]
+  },
+  "Hamburger_2": {
+    "dev_name": "Hamburger_2",
+    "description": "將牛肉鮮味與麵包甜味融為一體的極品。 食用後的一段時間內，工作速度會有所提升，\r\n且SAN值比較不會下降。",
+    "name": "波霸牛漢堡",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "波霸牛肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "萵苣",
+        "amount": 2
+      }
+    ]
+  },
+  "Cheeseburger_2": {
+    "dev_name": "Cheeseburger_2",
+    "description": "這道料理中的起司讓它達到了至高無上的境界。 食用後的一段時間內攻擊+20%，\r\n且不易感到飢餓。",
+    "name": "波霸牛起司漢堡",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_CowPal",
+        "name": "波霸牛肉",
+        "amount": 2
+      },
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "蕃茄",
+        "amount": 2
+      },
+      {
+        "dev_name": "Milk",
+        "name": "牛奶",
+        "amount": 2
+      }
+    ]
+  },
+  "FriedKelpie": {
+    "dev_name": "FriedKelpie",
+    "description": "口感豐滿緊緻的魚肉與酥脆麵衣搭配得恰到好處。 食用後的一段時間內防禦+10%，且SAN值不易下降。",
+    "name": "炸水靈兒",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_Kelpie",
+        "name": "水靈兒魚肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Flour",
+        "name": "麵粉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Egg",
+        "name": "蛋",
+        "amount": 1
+      },
+      {
+        "dev_name": "PalOil",
+        "name": "優質帕魯油",
+        "amount": 1
+      }
+    ]
+  },
+  "Chowder": {
+    "dev_name": "Chowder",
+    "description": "香濃滑順且風味獨特的湯品。 食用後的一段時間內，工作速度會有所提升，\r\n且比較不會感到飢餓。",
+    "name": "趴趴鯰巧達濃湯",
+    "creates_amount": 1,
+    "work_required": 32000,
+    "unlocked_by_item": null,
+    "required_materials": [
+      {
+        "dev_name": "Meat_LazyCatfish",
+        "name": "趴趴鯰肉",
+        "amount": 1
+      },
+      {
+        "dev_name": "Lettuce",
+        "name": "萵苣",
+        "amount": 2
+      },
+      {
+        "dev_name": "Tomato",
+        "name": "蕃茄",
+        "amount": 2
+      }
+    ]
+  }
+}

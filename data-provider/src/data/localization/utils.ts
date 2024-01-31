@@ -44,7 +44,7 @@ export const localeToInterface = {
   PalFirstActivatedInfoText: 'DT_PalFirstActivatedInfoText',
   PalLongDescriptionText: 'DT_PalLongDescriptionText',
   PalNameText: 'DT_PalNameText',
-  PalShortDescriptionText: 'DT_PalShortDescriptionText',
+  // PalShortDescriptionText: 'DT_PalShortDescriptionText', // While this exists, it is only for `en`, and it seems to just be "This pal is under investigation."
   SkillDescText: 'DT_SkillDescText',
   SkillNameText: 'DT_SkillNameText',
   TechnologyDescText: 'DT_TechnologyDescText',

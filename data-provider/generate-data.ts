@@ -4,7 +4,10 @@ import path from 'path';
 import { create_data } from './src/data/data-provider';
 import { TransformedData, transform_data } from './src/transformers';
 import { GeneratedTypes } from './src/types';
-import { SupportedLocales } from './src/data/localization/types';
+import {
+  SupportedLocales,
+  supportedLocales,
+} from './src/data/localization/types';
 
 // Function to generate data
 export const generate_data = async (
@@ -85,10 +88,7 @@ const main = async (locale: SupportedLocales) => {
 // loop through supported locales and fire off the main function for each
 
 // for (const locale of supportedLocales) {
-const testLocale: SupportedLocales[] = ['en'];
-for (const locale of testLocale) {
+// const testLocale: SupportedLocales[] = ['en'];
+for (const locale of supportedLocales) {
   main(locale).catch(console.error);
 }
-
-// Only writes to "en" right now.
-// main('en').catch(console.error);
