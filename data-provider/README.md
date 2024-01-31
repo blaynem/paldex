@@ -2,7 +2,7 @@
 
 This is a small tool that generates all the data needed for a PalWorld client.
 
-Note: While we aim to maintain this data and assure its accuracy, we cannot guarantee that it is 100% accurate. If you find any issues, please open an issue or PR.
+Note: While we aim to maintain this data and assure its accuracy, we cannot guarantee that it is 100% accurate. If you find any issues, please open an issue or PR. Especially if you can help with localization!
 
 ## Folder Structure
 

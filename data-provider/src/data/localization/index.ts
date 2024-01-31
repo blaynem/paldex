@@ -1,23 +1,20 @@
-import { getUICommonStrings } from './en-ui-common';
+import { getUICommonStrings } from './ui-common';
 import {
   getPalLongDescriptionTextMap,
   getPalSkillDescriptionTextMap,
-} from './en-pal';
-import { LocalizedSkillStrings, getEnSkillsStrings } from './en-skills';
-import { getNamePrefixStrings } from './en-name-prefix';
-import { getPalNameTextStringsMap } from './en-pal-names';
+} from './pal';
+import { LocalizedSkillStrings, getEnSkillsStrings } from './skills';
+import { getNamePrefixStrings } from './name-prefix';
+import { getPalNameTextStringsMap } from './pal-names';
 import { mergeMapAndCatchDuplicates } from './utils';
 import {
   getBuildObjectDescriptionTextMapStrings,
   getBuildObjectCategoryTextMapStrings,
-} from './en-build-object';
-import {
-  getItemNameTextStrings,
-  getItemDescriptionTextStrings,
-} from './en-items';
-import { getMapObjectNameTextStrings } from './en-map-object';
-import { getHumanNameStrings, getUniqueNpcStrings } from './en-human-npc';
-import { getTechStrings } from './en-tech';
+} from './build-object';
+import { getItemNameTextStrings, getItemDescriptionTextStrings } from './items';
+import { getMapObjectNameTextStrings } from './map-object';
+import { getHumanNameStrings, getUniqueNpcStrings } from './human-npc';
+import { getTechStrings } from './tech';
 import { SupportedLocales } from './types';
 
 export interface LocalizationData {
