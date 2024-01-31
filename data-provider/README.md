@@ -22,15 +22,22 @@ Note: While we aim to maintain this data and assure its accuracy, we cannot guar
 
 ## How do I fix the errors in {locale}/errors.json?
 
-Typically most of the errors are due to the data being malformed. This can be due to a few reasons:
+Typically most of the errors are due to the [palworld asset](/data-provider/palworld-assets/) data being malformed in some way.
+
+This can be due to a few reasons:
 
 - Keys are incorrect. Some examples would be:
   - `Drillgame` should be `DrillGame` or `BOSS_Anubis` should be `BossAnubis`
   - `GrapplingGun` should be `GrapplingGun_1`
+  - `MachinGun` should be `MachineGun` (Missing "e")
+
+There is really no easy way to find the correct key except for diving into the data and trying to figure out what it might be.
+
+We _should_ fix the data by correctly altering keys, s. We should _likely not_ be altering any of the translations ourselves, as we want to keep the data as close to the source as possible.
 
 ## What happens when Palworld updates?
 
-When a new update comes out, you will need to install the update, and unpack the data. See below for instructions on how to do that.
+When a new update comes out, you will need to install the update, unpack the data, and merge it into the [palworld asset](/data-provider/palworld-assets/) folder. Semi-instructuions are [here](#how-to-get-latest-data-from-palworld-pack-files).
 
 ## Where did map_locations come from?!
 
