@@ -2,7 +2,9 @@
 
 Welcome to Paldex. A Palworld companion.
 
-The most comprehensive source of Palworld data, directly from the source. Including translations for all Palworld supported languages (WIP).
+The most comprehensive source of Palworld data, directly from the source. Including translations for all Palworld supported languages.
+
+If you're interested in the translated data, you can look inside of the [baked-data](/data-provider/baked-data) folder. If you'd like to help us clean up the data, especially if you speak a language that isn't English, please open an issue or PR! We'd love to have your help.
 
 **Warning**: This is a ~500mb download. So careful when cloning. Read below to find what you might be looking for.
 

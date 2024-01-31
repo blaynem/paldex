@@ -4,6 +4,11 @@ This is a small tool that generates all the data needed for a PalWorld client.
 
 Note: While we aim to maintain this data and assure its accuracy, we cannot guarantee that it is 100% accurate. If you find any issues, please open an issue or PR. Especially if you can help with localization!
 
+## Todo:
+
+- Assure that any transformers correctly handle the translated data. Thre should be no english value checks in the transformers.
+- Find the keys that are mismatched across all non `en` locales and correctly edit the data.
+
 ## Folder Structure
 
 - `data-provider` - The main folder for the data provider.
@@ -14,6 +19,14 @@ Note: While we aim to maintain this data and assure its accuracy, we cannot guar
   - `src/localization` - Similar to data, though for getting the specific localized strings.
   - `src/transformers` - Combines the built data and localization into usable data for clients.
   - `generate-data.ts` - The script that generates the data.
+
+## How do I fix the errors in {locale}/errors.json?
+
+Typically most of the errors are due to the data being malformed. This can be due to a few reasons:
+
+- Keys are incorrect. Some examples would be:
+  - `Drillgame` should be `DrillGame` or `BOSS_Anubis` should be `BossAnubis`
+  - `GrapplingGun` should be `GrapplingGun_1`
 
 ## What happens when Palworld updates?
 
